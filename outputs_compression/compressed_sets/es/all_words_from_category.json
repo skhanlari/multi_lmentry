@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "input": "¿Son todas las palabras \"tornado\", \"avalancha\", \"terremoto\", \"uña\" y \"tsunami\" tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "22",
+    "input": "¿Son todas las palabras \"silla\", \"cartero\", \"fotógrafo\", \"científico\" y \"alcalde\" tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "37",
+    "input": "¿Son todas las palabras \"metal\", \"gas\", \"vapor\", \"sal\" y \"agua\" tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "41",
+    "input": "¿Son todas las palabras \"copistería\", \"autoescuela\", \"tienda\", \"supermercado\" y \"programador\" tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "46",
+    "input": "¿Son todas las palabras \"bus\", \"policía\", \"dependiente\", \"biólogo\" y \"administrativo\" tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "65",
+    "input": "¿Son todas las palabras \"casa\", \"puerta\", \"mesa\", \"panel\" y \"vez\" tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "88",
+    "input": "¿Son todas las palabras \"cuerpo\", \"muñeca\", \"culo\", \"espalda\" y \"cuello\" tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "105",
+    "input": "¿Son todas las palabras \"tren\", \"automóvil\", \"vía\", \"patines\" y \"cordones\" tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "161",
+    "input": "¿Son todas las palabras \"terror\", \"musical\", \"suspense\", \"drama\" y \"comedia\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "183",
+    "input": "¿Son todas las palabras \"lombriz\", \"saltamontes\", \"pez\", \"atún\" y \"rojo\" tipos de animal? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "¿Son todas las palabras \"kilo\", \"centímetro\", \"capacidad\", \"total\" y \"peso\" tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "244",
+    "input": "¿Son todas las palabras \"mochila\", \"futuro\", \"miedo\", \"necesidad\" y \"efecto\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "252",
+    "input": "¿Son todas las palabras \"congresista\", \"peluquero\", \"jirafa\", \"juez\" y \"fontanera\" tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "266",
+    "input": "¿Son todas las palabras \"decreto\", \"dictadura\", \"encuentro\", \"consejo\" y \"gobierno\" tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "¿Son todas las palabras \"barco\", \"automóvil\", \"bus\", \"avión\" y \"vehículo\" tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "320",
+    "input": "¿Son todas las palabras \"pantalla\", \"pomo\", \"bolsa\", \"cuerda\" y \"aguja\" tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "350",
+    "input": "¿Son todas las palabras \"codo\", \"boca\", \"muñeca\", \"cuello\" y \"rodilla\" tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "¿Son todas las palabras \"cebolla\", \"rábano\", \"acelgas\", \"zanahoria\" y \"transacción\" tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "367",
+    "input": "¿Son todas las palabras \"cantidad\", \"medida\", \"litro\", \"plomo\" y \"mililitro\" tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "385",
+    "input": "¿Son todas las palabras \"tamaño\", \"jueves\", \"domingo\", \"martes\" y \"lunes\" tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "401",
+    "input": "¿Son todas las palabras \"terremoto\", \"incendio\", \"autobús\", \"inundación\" y \"avalancha\" tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "431",
+    "input": "¿Son todas las palabras \"manga\", \"cremallera\", \"bragas\", \"solapa\" y \"bufanda\" tipos de ropa? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "447",
+    "input": "¿Son todas las palabras \"miércoles\", \"martes\", \"lunes\", \"experiencia\" y \"jueves\" tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "¿Son todas las palabras \"policía\", \"peluquero\", \"producto\", \"astronauta\" y \"camarero\" tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "533",
+    "input": "¿Son todas las palabras \"gorrión\", \"saltamontes\", \"elefante\", \"león\" y \"bufanda\" tipos de animal? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "535",
+    "input": "¿Son todas las palabras \"alto\", \"ancho\", \"altura\", \"tamaño\" y \"reducción\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "538",
+    "input": "¿Son todas las palabras \"verdad\", \"ejemplo\", \"tienda\", \"etapa\" y \"característica\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "541",
+    "input": "¿Son todas las palabras \"violín\", \"vía\", \"clarinete\", \"guitarra\" y \"piano\" tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "562",
+    "input": "¿Son todas las palabras \"aburrimiento\", \"objeto\", \"fracaso\", \"programa\" y \"miedo\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "579",
+    "input": "¿Son todas las palabras \"político\", \"incendio\", \"dentista\", \"juez\" y \"abogada\" tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "594",
+    "input": "¿Son todas las palabras \"abrigo\", \"conjunción\", \"verbo\", \"adjetivo\" y \"sustantivo\" tipos de categoría gramatical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "596",
+    "input": "¿Son todas las palabras \"hermana\", \"abuelo\", \"bisabuela\", \"tío\" y \"matrimonio\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "610",
+    "input": "¿Son todas las palabras \"autobús\", \"taxi\", \"transporte\", \"patines\" y \"automóvil\" tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "650",
+    "input": "¿Son todas las palabras \"violín\", \"guitarra\", \"flauta\", \"piano\" y \"batería\" tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "691",
+    "input": "¿Son todas las palabras \"crecimiento\", \"dirección\", \"mono\", \"mayoría\" y \"lugar\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "709",
+    "input": "¿Son todas las palabras \"bádminton\", \"béisbol\", \"esgrima\", \"baloncesto\" y \"desierto\" tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "724",
+    "input": "¿Son todas las palabras \"pareja\", \"bisabuelo\", \"tío\", \"padre\" y \"abuelo\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "763",
+    "input": "¿Son todas las palabras \"escalera\", \"panel\", \"ascensor\", \"hierro\" y \"dormitorio\" tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "795",
+    "input": "¿Son todas las palabras \"río\", \"océano\", \"bosque\", \"monte\" y \"dentista\" tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "827",
+    "input": "¿Son todas las palabras \"producto\", \"deterioro\", \"progreso\", \"existencia\" y \"dolor\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "832",
+    "input": "¿Son todas las palabras \"hierro\", \"tierra\", \"gris\", \"agua\" y \"lodo\" tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "¿Son todas las palabras \"asociación\", \"hielo\", \"metal\", \"barro\" y \"aire\" tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "890",
+    "input": "¿Son todas las palabras \"conjunción\", \"pronombre\", \"barba\", \"determinante\" y \"adjetivo\" tipos de categoría gramatical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "¿Son todas las palabras \"madre\", \"bisabuelo\", \"amor\", \"bisnieto\" y \"tío\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "958",
+    "input": "¿Son todas las palabras \"alto\", \"fondo\", \"velocidad\", \"aumento\" y \"longitud\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "967",
+    "input": "¿Son todas las palabras \"incendio\", \"sequía\", \"inundación\", \"tsunami\" y \"acuerdo\" tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "979",
+    "input": "¿Son todas las palabras \"deterioro\", \"defensa\", \"miedo\", \"intento\" y \"solución\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "993",
+    "input": "¿Son todas las palabras \"esposo\", \"abuela\", \"matrimonio\", \"tía\" y \"primo\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1022",
+    "input": "¿Hacen referencia todas estas palabras \"silla\", \"cartero\", \"fotógrafo\", \"científico\" y \"alcalde\" a tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1048",
+    "input": "¿Hacen referencia todas estas palabras \"conejo\", \"lagarto\", \"cuervo\", \"águila\" y \"pez\" a tipos de animal? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1053",
+    "input": "¿Hacen referencia todas estas palabras \"floristería\", \"carnicería\", \"hospital\", \"estanco\" y \"herboristería\" a tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1055",
+    "input": "¿Hacen referencia todas estas palabras \"acto\", \"susto\", \"pensamiento\", \"cadera\" y \"cosa\" a tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1063",
+    "input": "¿Hacen referencia todas estas palabras \"susto\", \"martes\", \"miércoles\", \"jueves\" y \"domingo\" a tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1072",
+    "input": "¿Hacen referencia todas estas palabras \"compañía\", \"producción\", \"cremallera\", \"billete\" y \"tarifa\" a tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1108",
+    "input": "¿Hacen referencia todas estas palabras \"municipio\", \"tornado\", \"dictadura\", \"gobierno\" y \"libertad\" a tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1135",
+    "input": "¿Hacen referencia todas estas palabras \"producto\", \"servicio\", \"transacción\", \"mercado\" y \"código\" a tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1148",
+    "input": "¿Hacen referencia todas estas palabras \"bosque\", \"lago\", \"montaña\", \"campo\" y \"monte\" a tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1153",
+    "input": "¿Hacen referencia todas estas palabras \"hilo\", \"bolsa\", \"cámara\", \"arma\" y \"pomo\" a tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1205",
+    "input": "¿Hacen referencia todas estas palabras \"trompeta\", \"ventana\", \"piano\", \"clarinete\" y \"batería\" a tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1210",
+    "input": "¿Hacen referencia todas estas palabras \"casa\", \"escritorio\", \"dormitorio\", \"destrucción\" y \"panel\" a tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1232",
+    "input": "¿Hacen referencia todas estas palabras \"baloncesto\", \"partido\", \"provincia\", \"departamento\" y \"dictadura\" a tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1237",
+    "input": "¿Hacen referencia todas estas palabras \"adjetivo\", \"sustantivo\", \"preposición\", \"determinante\" y \"verbo\" a tipos de categoría gramatical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1259",
+    "input": "¿Hacen referencia todas estas palabras \"taxi\", \"pantalla\", \"bus\", \"patinete\" y \"patines\" a tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1268",
+    "input": "¿Hacen referencia todas estas palabras \"carpintera\", \"sábado\", \"martes\", \"miércoles\" y \"domingo\" a tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1319",
+    "input": "¿Hacen referencia todas estas palabras \"azul\", \"negro\", \"celeste\", \"verde\" y \"calcetines\" a tipos de color? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1343",
+    "input": "¿Hacen referencia todas estas palabras \"sujetador\", \"cremallera\", \"pantalón\", \"milímetro\" y \"zapatilla\" a tipos de ropa? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1384",
+    "input": "¿Hacen referencia todas estas palabras \"mercado\", \"adjetivo\", \"valor\", \"transacción\" y \"consumo\" a tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1408",
+    "input": "¿Hacen referencia todas estas palabras \"terremoto\", \"tornado\", \"avalancha\", \"incendio\" y \"huracán\" a tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1428",
+    "input": "¿Hacen referencia todas estas palabras \"balonmano\", \"bolos\", \"críquet\", \"baloncesto\" y \"billar\" a tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1437",
+    "input": "¿Hacen referencia todas estas palabras \"suspense\", \"comedia\", \"fantasía\", \"terror\" y \"drama\" a tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1444",
+    "input": "¿Hacen referencia todas estas palabras \"panadería\", \"hospital\", \"copistería\", \"kilómetro\" y \"carnicería\" a tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1450",
+    "input": "¿Hacen referencia todas estas palabras \"servicio\", \"producto\", \"dinero\", \"producción\" y \"tarifa\" a tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1462",
+    "input": "¿Hacen referencia todas estas palabras \"cebolla\", \"lechuga\", \"coliflor\", \"ruta\" y \"berenjena\" a tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1470",
+    "input": "¿Hacen referencia todas estas palabras \"hotel\", \"farmacia\", \"biblioteca\", \"frutería\" y \"oficina\" a tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1473",
+    "input": "¿Hacen referencia todas estas palabras \"plata\", \"aire\", \"oro\", \"presente\" y \"barro\" a tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1491",
+    "input": "¿Hacen referencia todas estas palabras \"escuela\", \"ayuntamiento\", \"farmacia\", \"panadería\" y \"hotel\" a tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1501",
+    "input": "¿Hacen referencia todas estas palabras \"vapor\", \"ingeniera\", \"diputada\", \"profesor\" y \"parlamentario\" a tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1503",
+    "input": "¿Hacen referencia todas estas palabras \"martes\", \"domingo\", \"viernes\", \"jueves\" y \"lunes\" a tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1506",
+    "input": "¿Hacen referencia todas estas palabras \"esgrima\", \"patinaje\", \"piragüismo\", \"voleibol\" y \"baloncesto\" a tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1519",
+    "input": "¿Hacen referencia todas estas palabras \"juez\", \"camarero\", \"pintora\", \"electricista\" y \"actriz\" a tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1536",
+    "input": "¿Hacen referencia todas estas palabras \"cordón\", \"llave\", \"encuentro\", \"bolsa\" y \"cordel\" a tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1587",
+    "input": "¿Hacen referencia todas estas palabras \"ley\", \"congreso\", \"asociación\", \"reunión\" y \"norma\" a tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1660",
+    "input": "¿Hacen referencia todas estas palabras \"agua\", \"plomo\", \"sal\", \"fuego\" y \"tren\" a tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1677",
+    "input": "¿Hacen referencia todas estas palabras \"cantidad\", \"mililitro\", \"peso\", \"medida\" y \"centímetro\" a tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1728",
+    "input": "¿Hacen referencia todas estas palabras \"río\", \"lago\", \"montaña\", \"monte\" y \"progreso\" a tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1751",
+    "input": "¿Hacen referencia todas estas palabras \"libertad\", \"reducción\", \"país\", \"municipio\" y \"partido\" a tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1777",
+    "input": "¿Hacen referencia todas estas palabras \"tamaño\", \"altura\", \"velocidad\", \"ancho\" y \"primo\" a tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1783",
+    "input": "¿Hacen referencia todas estas palabras \"piano\", \"flauta\", \"violín\", \"saxofón\" y \"batería\" a tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1793",
+    "input": "¿Hacen referencia todas estas palabras \"ferrocarril\", \"diputada\", \"bus\", \"patinete\" y \"ruta\" a tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1796",
+    "input": "¿Hacen referencia todas estas palabras \"clarinete\", \"saxofón\", \"calidad\", \"batería\" y \"violín\" a tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1819",
+    "input": "¿Hacen referencia todas estas palabras \"clarinete\", \"violín\", \"trompeta\", \"posibilidad\" y \"piano\" a tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1832",
+    "input": "¿Hacen referencia todas estas palabras \"hierro\", \"tierra\", \"gris\", \"agua\" y \"lodo\" a tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1875",
+    "input": "¿Hacen referencia todas estas palabras \"arma\", \"clavo\", \"cámara\", \"cuerda\" y \"pantalla\" a tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1902",
+    "input": "¿Hacen referencia todas estas palabras \"inundación\", \"vía\", \"avalancha\", \"terremoto\" y \"incendio\" a tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1932",
+    "input": "¿Hacen referencia todas estas palabras \"gimnasia\", \"hockey\", \"vela\", \"bádminton\" y \"esquí\" a tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1942",
+    "input": "¿Hacen referencia todas estas palabras \"violín\", \"trompeta\", \"batería\", \"tierra\" y \"guitarra\" a tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1967",
+    "input": "¿Hacen referencia todas estas palabras \"incendio\", \"sequía\", \"inundación\", \"tsunami\" y \"acuerdo\" a tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1971",
+    "input": "¿Hacen referencia todas estas palabras \"avalancha\", \"huracán\", \"pájaro\", \"tsunami\" y \"incendio\" a tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "1973",
+    "input": "¿Hacen referencia todas estas palabras \"comedia\", \"fantasía\", \"suspense\", \"deterioro\" y \"drama\" a tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2005",
+    "input": "¿Contiene la lista [\"banco\", \"empresario\", \"policía\", \"médica\", \"barrendera\"] exclusivamente tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2043",
+    "input": "¿Contiene la lista [\"hermano\", \"inundación\", \"avalancha\", \"incendio\", \"tsunami\"] exclusivamente tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2047",
+    "input": "¿Contiene la lista [\"comercio\", \"precio\", \"demanda\", \"billete\", \"producto\"] exclusivamente tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2048",
+    "input": "¿Contiene la lista [\"conejo\", \"lagarto\", \"cuervo\", \"águila\", \"pez\"] exclusivamente tipos de animal? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2057",
+    "input": "¿Contiene la lista [\"lunes\", \"jueves\", \"sábado\", \"martes\", \"domingo\"] exclusivamente tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2084",
+    "input": "¿Contiene la lista [\"centímetro\", \"gramo\", \"total\", \"milímetro\", \"preposición\"] exclusivamente tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2097",
+    "input": "¿Contiene la lista [\"minoría\", \"longitud\", \"dinero\", \"ancho\", \"posición\"] exclusivamente tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2098",
+    "input": "¿Contiene la lista [\"estructura\", \"equipo\", \"consejo\", \"sobrina\", \"provincia\"] exclusivamente tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2133",
+    "input": "¿Contiene la lista [\"sábado\", \"miércoles\", \"lunes\", \"jueves\", \"domingo\"] exclusivamente tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2135",
+    "input": "¿Contiene la lista [\"producto\", \"servicio\", \"transacción\", \"mercado\", \"código\"] exclusivamente tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2148",
+    "input": "¿Contiene la lista [\"bosque\", \"lago\", \"montaña\", \"campo\", \"monte\"] exclusivamente tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2157",
+    "input": "¿Contiene la lista [\"piano\", \"perjuicio\", \"violín\", \"flauta\", \"guitarra\"] exclusivamente tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2164",
+    "input": "¿Contiene la lista [\"mecánica\", \"abogada\", \"cartero\", \"actor\", \"sector\"] exclusivamente tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2170",
+    "input": "¿Contiene la lista [\"naranja\", \"azul\", \"amarillo\", \"color\", \"rojo\"] exclusivamente tipos de color? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2238",
+    "input": "¿Contiene la lista [\"madre\", \"nieto\", \"tío\", \"hermana\", \"hockey\"] exclusivamente tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2242",
+    "input": "¿Contiene la lista [\"lugar\", \"mayoría\", \"velocidad\", \"altura\", \"aumento\"] exclusivamente tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2274",
+    "input": "¿Contiene la lista [\"cama\", \"dormitorio\", \"ascensor\", \"puerta\", \"habitación\"] exclusivamente tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2293",
+    "input": "¿Contiene la lista [\"escalada\", \"bádminton\", \"baloncesto\", \"esgrima\", \"senderismo\"] exclusivamente tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2301",
+    "input": "¿Contiene la lista [\"piano\", \"flauta\", \"trompeta\", \"saxofón\", \"guitarra\"] exclusivamente tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2306",
+    "input": "¿Contiene la lista [\"espinacas\", \"habas\", \"berenjena\", \"puerro\", \"col\"] exclusivamente tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2323",
+    "input": "¿Contiene la lista [\"ascensor\", \"escalera\", \"puerta\", \"alcachofa\", \"casa\"] exclusivamente tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2369",
+    "input": "¿Contiene la lista [\"comercio\", \"compañía\", \"billete\", \"demanda\", \"dinero\"] exclusivamente tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2396",
+    "input": "¿Contiene la lista [\"electricista\", \"cocinera\", \"cartero\", \"gasolinera\", \"camarero\"] exclusivamente tipos de profesión? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2409",
+    "input": "¿Contiene la lista [\"repollo\", \"rábano\", \"habas\", \"col\", \"ajo\"] exclusivamente tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2446",
+    "input": "¿Contiene la lista [\"peluquero\", \"violín\", \"piano\", \"clarinete\", \"trompeta\"] exclusivamente tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2480",
+    "input": "¿Contiene la lista [\"longitud\", \"fondo\", \"movimiento\", \"skate\", \"crecimiento\"] exclusivamente tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2481",
+    "input": "¿Contiene la lista [\"total\", \"peso\", \"escalera\", \"gramo\", \"cantidad\"] exclusivamente tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2500",
+    "input": "¿Contiene la lista [\"nieto\", \"cerebro\", \"piel\", \"rodilla\", \"oreja\"] exclusivamente tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2502",
+    "input": "¿Contiene la lista [\"ventana\", \"panel\", \"edificio\", \"construcción\", \"hogar\"] exclusivamente tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2505",
+    "input": "¿Contiene la lista [\"guitarra\", \"piano\", \"violín\", \"cargo\", \"batería\"] exclusivamente tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2507",
+    "input": "¿Contiene la lista [\"agua\", \"barba\", \"oro\", \"lodo\", \"sal\"] exclusivamente tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2593",
+    "input": "¿Contiene la lista [\"gorra\", \"vaqueros\", \"abrigo\", \"bota\", \"camisa\"] exclusivamente tipos de ropa? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2597",
+    "input": "¿Contiene la lista [\"reducción\", \"alto\", \"defensa\", \"posición\", \"velocidad\"] exclusivamente tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2605",
+    "input": "¿Contiene la lista [\"domingo\", \"miércoles\", \"lunes\", \"martes\", \"jueves\"] exclusivamente tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2612",
+    "input": "¿Contiene la lista [\"río\", \"costa\", \"playa\", \"desierto\", \"jungla\"] exclusivamente tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2640",
+    "input": "¿Contiene la lista [\"parada\", \"tráfico\", \"barco\", \"vía\", \"patinete\"] exclusivamente tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2641",
+    "input": "¿Contiene la lista [\"litro\", \"total\", \"kilo\", \"hilo\", \"medida\"] exclusivamente tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2642",
+    "input": "¿Contiene la lista [\"terror\", \"corbata\", \"fantasía\", \"musical\", \"comedia\"] exclusivamente tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2650",
+    "input": "¿Contiene la lista [\"violín\", \"guitarra\", \"flauta\", \"piano\", \"batería\"] exclusivamente tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2678",
+    "input": "¿Contiene la lista [\"rojo\", \"azul\", \"marrón\", \"celeste\", \"verde\"] exclusivamente tipos de color? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2729",
+    "input": "¿Contiene la lista [\"herboristería\", \"precio\", \"transacción\", \"servicio\", \"tarifa\"] exclusivamente tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2732",
+    "input": "¿Contiene la lista [\"mililitro\", \"kilómetro\", \"total\", \"litro\", \"peso\"] exclusivamente tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2757",
+    "input": "¿Contiene la lista [\"desierto\", \"monte\", \"selva\", \"campo\", \"naturaleza\"] exclusivamente tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2820",
+    "input": "¿Contiene la lista [\"pierna\", \"hombro\", \"bicho\", \"nariz\", \"cerebro\"] exclusivamente tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2827",
+    "input": "¿Contiene la lista [\"producto\", \"deterioro\", \"progreso\", \"existencia\", \"dolor\"] exclusivamente tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2843",
+    "input": "¿Contiene la lista [\"asociación\", \"hielo\", \"metal\", \"barro\", \"aire\"] exclusivamente tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2850",
+    "input": "¿Contiene la lista [\"decreto\", \"departamento\", \"gris\", \"población\", \"reunión\"] exclusivamente tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2865",
+    "input": "¿Contiene la lista [\"campaña\", \"culo\", \"dictadura\", \"derecho\", \"autoridad\"] exclusivamente tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2889",
+    "input": "¿Contiene la lista [\"frutería\", \"abdomen\", \"pie\", \"hígado\", \"cintura\"] exclusivamente tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2916",
+    "input": "¿Contiene la lista [\"llave\", \"cuerda\", \"cordel\", \"asociación\", \"clavo\"] exclusivamente tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "2930",
+    "input": "¿Contiene la lista [\"arma\", \"aparato\", \"hilo\", \"pantalla\", \"cámara\"] exclusivamente tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  }
+]

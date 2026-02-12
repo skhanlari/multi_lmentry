@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "1",
+    "input": "Are any of the words \"peach\", \"couch\", \"coat\", \"truck\", and \"shirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "8",
+    "input": "Are any of the words \"pig\", \"apple\", \"mouse\", \"chicken\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "10",
+    "input": "Are any of the words \"peach\", \"mango\", \"bed\", \"sofa\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "12",
+    "input": "Are any of the words \"desk\", \"sofa\", \"strawberry\", \"chair\", and \"bookcase\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "19",
+    "input": "Are any of the words \"motorcycle\", \"strawberry\", \"bookcase\", \"bed\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "21",
+    "input": "Are any of the words \"bookcase\", \"table\", \"jacket\", \"mouse\", and \"pig\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "22",
+    "input": "Are any of the words \"desk\", \"apple\", \"cow\", \"melon\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "26",
+    "input": "Are any of the words \"mouse\", \"truck\", \"shorts\", \"sweater\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "35",
+    "input": "Are any of the words \"socks\", \"motorcycle\", \"banana\", \"jeans\", and \"truck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "37",
+    "input": "Are any of the words \"table\", \"jacket\", \"car\", \"mouse\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "41",
+    "input": "Are any of the words \"couch\", \"tram\", \"van\", \"table\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "46",
+    "input": "Are any of the words \"pear\", \"fish\", \"melon\", \"chicken\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "49",
+    "input": "Are any of the words \"melon\", \"dog\", \"pig\", \"sofa\", and \"table\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "56",
+    "input": "Are any of the words \"lemon\", \"train\", \"van\", \"cat\", and \"pineapple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "65",
+    "input": "Are any of the words \"mouse\", \"dog\", \"truck\", \"car\", and \"jeans\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "66",
+    "input": "Are any of the words \"pig\", \"bus\", \"tram\", \"jeans\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "70",
+    "input": "Are any of the words \"cow\", \"rabbit\", \"melon\", \"fish\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "72",
+    "input": "Are any of the words \"sofa\", \"mouse\", \"sweater\", \"table\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "73",
+    "input": "Are any of the words \"dog\", \"car\", \"watermelon\", \"cat\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "82",
+    "input": "Are any of the words \"sweater\", \"armchair\", \"duck\", \"shirt\", and \"chair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "83",
+    "input": "Are any of the words \"pear\", \"jacket\", \"rabbit\", \"couch\", and \"dog\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "88",
+    "input": "Are any of the words \"chair\", \"sofa\", \"bed\", \"pig\", and \"tram\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "92",
+    "input": "Are any of the words \"tractor\", \"mouse\", \"chair\", \"shirt\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "99",
+    "input": "Are any of the words \"socks\", \"tractor\", \"melon\", \"strawberry\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "105",
+    "input": "Are any of the words \"duck\", \"pineapple\", \"coat\", \"cat\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "120",
+    "input": "Are any of the words \"truck\", \"coat\", \"skirt\", \"sofa\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "124",
+    "input": "Are any of the words \"shorts\", \"car\", \"watermelon\", \"pineapple\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "136",
+    "input": "Are any of the words \"socks\", \"dog\", \"lemon\", \"shirt\", and \"shorts\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "137",
+    "input": "Are any of the words \"jacket\", \"tram\", \"pants\", \"mouse\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "146",
+    "input": "Are any of the words \"cat\", \"cow\", \"skirt\", \"apple\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "149",
+    "input": "Are any of the words \"strawberry\", \"bookcase\", \"couch\", \"melon\", and \"sweater\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "150",
+    "input": "Are any of the words \"goat\", \"chicken\", \"mouse\", \"fish\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "161",
+    "input": "Are any of the words \"train\", \"watermelon\", \"socks\", \"mango\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "180",
+    "input": "Are any of the words \"shirt\", \"bed\", \"lemon\", \"peach\", and \"cat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "183",
+    "input": "Are any of the words \"truck\", \"car\", \"bookcase\", \"couch\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "184",
+    "input": "Are any of the words \"cat\", \"van\", \"table\", \"coat\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "189",
+    "input": "Are any of the words \"mango\", \"train\", \"fish\", \"pig\", and \"tram\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "197",
+    "input": "Are any of the words \"jeans\", \"armchair\", \"lemon\", \"shorts\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "Are any of the words \"cow\", \"sofa\", \"pig\", \"chicken\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "207",
+    "input": "Are any of the words \"car\", \"rabbit\", \"bed\", \"fish\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "210",
+    "input": "Are any of the words \"coat\", \"shirt\", \"dress\", \"couch\", and \"goat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "215",
+    "input": "Are any of the words \"chair\", \"jeans\", \"tram\", \"armchair\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "218",
+    "input": "Are any of the words \"bus\", \"pants\", \"desk\", \"pineapple\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "225",
+    "input": "Are any of the words \"peach\", \"pineapple\", \"truck\", \"motorcycle\", and \"bookcase\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "227",
+    "input": "Are any of the words \"chair\", \"tractor\", \"car\", \"shorts\", and \"dress\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "229",
+    "input": "Are any of the words \"cat\", \"dress\", \"table\", \"sofa\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "232",
+    "input": "Are any of the words \"van\", \"chair\", \"pants\", \"shorts\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "237",
+    "input": "Are any of the words \"desk\", \"shirt\", \"banana\", \"couch\", and \"socks\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "244",
+    "input": "Are any of the words \"dress\", \"mango\", \"strawberry\", \"melon\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "252",
+    "input": "Are any of the words \"armchair\", \"motorcycle\", \"sweater\", \"couch\", and \"skirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "253",
+    "input": "Are any of the words \"socks\", \"chicken\", \"melon\", \"fish\", and \"pig\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "266",
+    "input": "Are any of the words \"cow\", \"jacket\", \"apple\", \"dress\", and \"strawberry\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "273",
+    "input": "Are any of the words \"train\", \"tractor\", \"mouse\", \"dog\", and \"truck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "275",
+    "input": "Are any of the words \"motorcycle\", \"watermelon\", \"goat\", \"dress\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "276",
+    "input": "Are any of the words \"tram\", \"tractor\", \"chicken\", \"pear\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "Are any of the words \"van\", \"armchair\", \"couch\", \"sofa\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "306",
+    "input": "Are any of the words \"apple\", \"cat\", \"strawberry\", \"fish\", and \"duck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "315",
+    "input": "Are any of the words \"train\", \"fish\", \"armchair\", \"skirt\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "320",
+    "input": "Are any of the words \"bus\", \"couch\", \"pineapple\", \"cow\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "334",
+    "input": "Are any of the words \"chicken\", \"dog\", \"jeans\", \"peach\", and \"melon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "335",
+    "input": "Are any of the words \"watermelon\", \"duck\", \"bus\", \"dress\", and \"pants\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "338",
+    "input": "Are any of the words \"jacket\", \"coat\", \"jeans\", \"pants\", and \"goat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "339",
+    "input": "Are any of the words \"pants\", \"pear\", \"dress\", \"shorts\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "343",
+    "input": "Are any of the words \"car\", \"strawberry\", \"jacket\", \"sweater\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "347",
+    "input": "Are any of the words \"armchair\", \"chicken\", \"skirt\", \"apple\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "350",
+    "input": "Are any of the words \"desk\", \"sofa\", \"truck\", \"cat\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "364",
+    "input": "Are any of the words \"cat\", \"socks\", \"peach\", \"sofa\", and \"mouse\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "365",
+    "input": "Are any of the words \"train\", \"tram\", \"pear\", \"cow\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "Are any of the words \"bed\", \"bookcase\", \"desk\", \"shirt\", and \"couch\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "367",
+    "input": "Are any of the words \"train\", \"bed\", \"chair\", \"coat\", and \"duck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "368",
+    "input": "Are any of the words \"rabbit\", \"cow\", \"bed\", \"sofa\", and \"armchair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "377",
+    "input": "Are any of the words \"motorcycle\", \"coat\", \"bus\", \"dress\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "385",
+    "input": "Are any of the words \"table\", \"bookcase\", \"car\", \"mouse\", and \"pineapple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "388",
+    "input": "Are any of the words \"bookcase\", \"van\", \"cow\", \"pig\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "395",
+    "input": "Are any of the words \"tractor\", \"van\", \"chicken\", \"mouse\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "399",
+    "input": "Are any of the words \"dress\", \"bed\", \"peach\", \"sweater\", and \"armchair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "400",
+    "input": "Are any of the words \"rabbit\", \"tractor\", \"duck\", \"chicken\", and \"sweater\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "401",
+    "input": "Are any of the words \"fish\", \"dog\", \"tractor\", \"lemon\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "406",
+    "input": "Are any of the words \"mango\", \"dress\", \"shirt\", \"desk\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "415",
+    "input": "Are any of the words \"dog\", \"socks\", \"goat\", \"melon\", and \"skirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "417",
+    "input": "Are any of the words \"mango\", \"chicken\", \"mouse\", \"bed\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "424",
+    "input": "Are any of the words \"peach\", \"melon\", \"chair\", \"duck\", and \"pear\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "428",
+    "input": "Are any of the words \"train\", \"bus\", \"goat\", \"bookcase\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "430",
+    "input": "Are any of the words \"dog\", \"sofa\", \"lemon\", \"skirt\", and \"bookcase\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "431",
+    "input": "Are any of the words \"watermelon\", \"tram\", \"pineapple\", \"chair\", and \"pear\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "432",
+    "input": "Are any of the words \"car\", \"van\", \"train\", \"mouse\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "434",
+    "input": "Are any of the words \"shorts\", \"motorcycle\", \"pants\", \"apple\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "438",
+    "input": "Are any of the words \"pear\", \"truck\", \"peach\", \"pineapple\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "440",
+    "input": "Are any of the words \"coat\", \"motorcycle\", \"armchair\", \"melon\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "447",
+    "input": "Are any of the words \"chair\", \"tractor\", \"socks\", \"van\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "453",
+    "input": "Are any of the words \"shorts\", \"socks\", \"tram\", \"mango\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "467",
+    "input": "Are any of the words \"van\", \"table\", \"pants\", \"watermelon\", and \"sofa\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "Are any of the words \"watermelon\", \"chair\", \"pear\", \"pig\", and \"desk\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "485",
+    "input": "Are any of the words \"table\", \"skirt\", \"pants\", \"dress\", and \"tram\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "497",
+    "input": "Are any of the words \"cat\", \"fish\", \"shirt\", \"jacket\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "504",
+    "input": "Are any of the words \"rabbit\", \"armchair\", \"car\", \"dress\", and \"cat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "505",
+    "input": "Are any of the words \"chair\", \"jeans\", \"tractor\", \"skirt\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "509",
+    "input": "Are any of the words \"skirt\", \"jeans\", \"bookcase\", \"van\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "529",
+    "input": "Are any of the words \"skirt\", \"shorts\", \"peach\", \"bed\", and \"pear\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "533",
+    "input": "Are any of the words \"sweater\", \"rabbit\", \"pineapple\", \"dress\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "534",
+    "input": "Are any of the words \"goat\", \"bus\", \"chicken\", \"cat\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "535",
+    "input": "Are any of the words \"socks\", \"cow\", \"skirt\", \"banana\", and \"van\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "538",
+    "input": "Are any of the words \"watermelon\", \"dress\", \"desk\", \"lemon\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "540",
+    "input": "Are any of the words \"pineapple\", \"truck\", \"skirt\", \"armchair\", and \"car\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "541",
+    "input": "Are any of the words \"shirt\", \"fish\", \"car\", \"jeans\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "545",
+    "input": "Are any of the words \"van\", \"train\", \"mango\", \"coat\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "549",
+    "input": "Are any of the words \"sofa\", \"truck\", \"shirt\", \"couch\", and \"bus\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "552",
+    "input": "Are any of the words \"melon\", \"sofa\", \"mango\", \"dog\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "553",
+    "input": "Are any of the words \"van\", \"dog\", \"duck\", \"cow\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "554",
+    "input": "Are any of the words \"strawberry\", \"apple\", \"dog\", \"car\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "555",
+    "input": "Are any of the words \"duck\", \"armchair\", \"pear\", \"bed\", and \"banana\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "557",
+    "input": "Are any of the words \"truck\", \"lemon\", \"car\", \"pants\", and \"strawberry\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "561",
+    "input": "Are any of the words \"banana\", \"bus\", \"bookcase\", \"couch\", and \"table\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "562",
+    "input": "Are any of the words \"mouse\", \"melon\", \"socks\", \"coat\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "569",
+    "input": "Are any of the words \"bookcase\", \"mouse\", \"lemon\", \"pig\", and \"bed\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "570",
+    "input": "Are any of the words \"motorcycle\", \"tractor\", \"strawberry\", \"desk\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "574",
+    "input": "Are any of the words \"strawberry\", \"duck\", \"truck\", \"van\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "579",
+    "input": "Are any of the words \"jacket\", \"watermelon\", \"skirt\", \"pants\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "585",
+    "input": "Are any of the words \"banana\", \"chicken\", \"mouse\", \"socks\", and \"pig\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "594",
+    "input": "Are any of the words \"tram\", \"cat\", \"bookcase\", \"shirt\", and \"armchair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "596",
+    "input": "Are any of the words \"motorcycle\", \"mouse\", \"dress\", \"pants\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "599",
+    "input": "Are any of the words \"pig\", \"lemon\", \"jacket\", \"peach\", and \"bed\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "600",
+    "input": "Are any of the words \"socks\", \"strawberry\", \"goat\", \"cow\", and \"tram\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "603",
+    "input": "Are any of the words \"car\", \"melon\", \"train\", \"tractor\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "609",
+    "input": "Are any of the words \"peach\", \"mango\", \"watermelon\", \"chicken\", and \"socks\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "610",
+    "input": "Are any of the words \"couch\", \"strawberry\", \"lemon\", \"pig\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "615",
+    "input": "Are any of the words \"tram\", \"duck\", \"tractor\", \"armchair\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "616",
+    "input": "Are any of the words \"armchair\", \"cow\", \"bed\", \"pants\", and \"cat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "629",
+    "input": "Are any of the words \"pear\", \"couch\", \"melon\", \"pants\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "646",
+    "input": "Are any of the words \"shirt\", \"shorts\", \"duck\", \"truck\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "650",
+    "input": "Are any of the words \"rabbit\", \"couch\", \"mouse\", \"chair\", and \"sweater\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "663",
+    "input": "Are any of the words \"train\", \"lemon\", \"sofa\", \"coat\", and \"shirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "668",
+    "input": "Are any of the words \"pants\", \"peach\", \"jacket\", \"mouse\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "669",
+    "input": "Are any of the words \"apple\", \"bus\", \"coat\", \"strawberry\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "678",
+    "input": "Are any of the words \"duck\", \"sweater\", \"couch\", \"socks\", and \"shirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "679",
+    "input": "Are any of the words \"coat\", \"bookcase\", \"dog\", \"van\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "685",
+    "input": "Are any of the words \"jeans\", \"van\", \"shirt\", \"rabbit\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "691",
+    "input": "Are any of the words \"chicken\", \"pig\", \"apple\", \"melon\", and \"dog\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "692",
+    "input": "Are any of the words \"van\", \"sweater\", \"socks\", \"shirt\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "698",
+    "input": "Are any of the words \"couch\", \"coat\", \"truck\", \"pants\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "709",
+    "input": "Are any of the words \"truck\", \"jacket\", \"bed\", \"pants\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "710",
+    "input": "Are any of the words \"cow\", \"shorts\", \"goat\", \"fish\", and \"desk\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "714",
+    "input": "Are any of the words \"desk\", \"bookcase\", \"car\", \"socks\", and \"skirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "715",
+    "input": "Are any of the words \"pig\", \"tractor\", \"motorcycle\", \"dog\", and \"sweater\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "724",
+    "input": "Are any of the words \"shirt\", \"train\", \"armchair\", \"tram\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "728",
+    "input": "Are any of the words \"desk\", \"dress\", \"apple\", \"truck\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "730",
+    "input": "Are any of the words \"desk\", \"chair\", \"jacket\", \"cat\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "733",
+    "input": "Are any of the words \"duck\", \"sweater\", \"van\", \"pear\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "751",
+    "input": "Are any of the words \"melon\", \"coat\", \"pineapple\", \"duck\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "763",
+    "input": "Are any of the words \"bus\", \"pants\", \"pear\", \"goat\", and \"dog\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "770",
+    "input": "Are any of the words \"mango\", \"coat\", \"bus\", \"train\", and \"mouse\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "774",
+    "input": "Are any of the words \"pig\", \"train\", \"chair\", \"melon\", and \"bookcase\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "775",
+    "input": "Are any of the words \"cow\", \"van\", \"jacket\", \"dog\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "776",
+    "input": "Are any of the words \"pineapple\", \"table\", \"mango\", \"armchair\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "777",
+    "input": "Are any of the words \"goat\", \"shorts\", \"coat\", \"bus\", and \"duck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "795",
+    "input": "Are any of the words \"sofa\", \"coat\", \"armchair\", \"table\", and \"peach\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "802",
+    "input": "Are any of the words \"socks\", \"motorcycle\", \"tractor\", \"apple\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "804",
+    "input": "Are any of the words \"shorts\", \"jacket\", \"mouse\", \"car\", and \"bus\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "806",
+    "input": "Are any of the words \"melon\", \"goat\", \"peach\", \"dog\", and \"pineapple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "807",
+    "input": "Are any of the words \"pineapple\", \"dress\", \"motorcycle\", \"strawberry\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "819",
+    "input": "Are any of the words \"strawberry\", \"jeans\", \"mango\", \"cat\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "822",
+    "input": "Are any of the words \"jacket\", \"lemon\", \"cat\", \"sweater\", and \"tractor\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "825",
+    "input": "Are any of the words \"tram\", \"mouse\", \"goat\", \"socks\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "826",
+    "input": "Are any of the words \"train\", \"jeans\", \"pig\", \"banana\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "827",
+    "input": "Are any of the words \"tractor\", \"dress\", \"bed\", \"shorts\", and \"van\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "828",
+    "input": "Are any of the words \"coat\", \"lemon\", \"armchair\", \"mango\", and \"skirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "831",
+    "input": "Are any of the words \"cow\", \"dog\", \"table\", \"pear\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "832",
+    "input": "Are any of the words \"bookcase\", \"fish\", \"truck\", \"tram\", and \"tractor\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "833",
+    "input": "Are any of the words \"car\", \"goat\", \"bus\", \"tram\", and \"jeans\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "839",
+    "input": "Are any of the words \"bus\", \"truck\", \"tram\", \"banana\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "841",
+    "input": "Are any of the words \"rabbit\", \"lemon\", \"mango\", \"tractor\", and \"pear\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "Are any of the words \"couch\", \"chair\", \"bus\", \"goat\", and \"armchair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "845",
+    "input": "Are any of the words \"socks\", \"strawberry\", \"fish\", \"table\", and \"pear\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "846",
+    "input": "Are any of the words \"pig\", \"pear\", \"bus\", \"desk\", and \"couch\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "853",
+    "input": "Are any of the words \"socks\", \"banana\", \"rabbit\", \"pig\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "855",
+    "input": "Are any of the words \"cat\", \"shorts\", \"watermelon\", \"banana\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "873",
+    "input": "Are any of the words \"watermelon\", \"armchair\", \"shorts\", \"skirt\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "884",
+    "input": "Are any of the words \"shirt\", \"duck\", \"jacket\", \"dress\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "888",
+    "input": "Are any of the words \"van\", \"banana\", \"bus\", \"motorcycle\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "890",
+    "input": "Are any of the words \"jeans\", \"fish\", \"tractor\", \"pig\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "898",
+    "input": "Are any of the words \"shirt\", \"table\", \"tram\", \"armchair\", and \"truck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "913",
+    "input": "Are any of the words \"car\", \"couch\", \"chair\", \"pear\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "916",
+    "input": "Are any of the words \"train\", \"chair\", \"goat\", \"tractor\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "917",
+    "input": "Are any of the words \"couch\", \"goat\", \"socks\", \"banana\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "928",
+    "input": "Are any of the words \"goat\", \"mouse\", \"tractor\", \"table\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "931",
+    "input": "Are any of the words \"cat\", \"banana\", \"shirt\", \"dress\", and \"chair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "Are any of the words \"pig\", \"motorcycle\", \"van\", \"cow\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "941",
+    "input": "Are any of the words \"desk\", \"coat\", \"pineapple\", \"mango\", and \"mouse\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "944",
+    "input": "Are any of the words \"strawberry\", \"rabbit\", \"desk\", \"apple\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "947",
+    "input": "Are any of the words \"train\", \"goat\", \"tractor\", \"apple\", and \"duck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "958",
+    "input": "Are any of the words \"mouse\", \"truck\", \"sofa\", \"socks\", and \"sweater\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "967",
+    "input": "Are any of the words \"van\", \"chicken\", \"pants\", \"tram\", and \"lemon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "977",
+    "input": "Are any of the words \"goat\", \"strawberry\", \"mouse\", \"lemon\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "979",
+    "input": "Are any of the words \"lemon\", \"mango\", \"train\", \"socks\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "984",
+    "input": "Are any of the words \"pig\", \"dog\", \"duck\", \"couch\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "986",
+    "input": "Are any of the words \"bus\", \"car\", \"van\", \"tram\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "993",
+    "input": "Are any of the words \"mouse\", \"shirt\", \"cow\", \"train\", and \"socks\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "994",
+    "input": "Are any of the words \"pants\", \"sweater\", \"tram\", \"dog\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "998",
+    "input": "Are any of the words \"armchair\", \"shorts\", \"sofa\", \"tram\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1008",
+    "input": "Do any of the words \"pig\", \"apple\", \"mouse\", \"chicken\", and \"goat\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1010",
+    "input": "Do any of the words \"peach\", \"mango\", \"bed\", \"sofa\", and \"table\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1014",
+    "input": "Do any of the words \"sofa\", \"cow\", \"couch\", \"fish\", and \"chair\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1022",
+    "input": "Do any of the words \"desk\", \"apple\", \"cow\", \"melon\", and \"lemon\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1047",
+    "input": "Do any of the words \"pear\", \"mouse\", \"peach\", \"banana\", and \"sofa\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1048",
+    "input": "Do any of the words \"chair\", \"jacket\", \"sweater\", \"sofa\", and \"bed\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1053",
+    "input": "Do any of the words \"pineapple\", \"cat\", \"dog\", \"shorts\", and \"pear\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1054",
+    "input": "Do any of the words \"motorcycle\", \"fish\", \"train\", \"cat\", and \"dress\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1055",
+    "input": "Do any of the words \"truck\", \"lemon\", \"tractor\", \"rabbit\", and \"mouse\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1061",
+    "input": "Do any of the words \"coat\", \"truck\", \"pants\", \"mango\", and \"tram\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1063",
+    "input": "Do any of the words \"tram\", \"dog\", \"pig\", \"train\", and \"shorts\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1065",
+    "input": "Do any of the words \"mouse\", \"dog\", \"truck\", \"car\", and \"jeans\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1067",
+    "input": "Do any of the words \"pear\", \"skirt\", \"strawberry\", \"tram\", and \"motorcycle\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1072",
+    "input": "Do any of the words \"sofa\", \"mouse\", \"sweater\", \"table\", and \"cow\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1076",
+    "input": "Do any of the words \"cow\", \"duck\", \"dog\", \"rabbit\", and \"tram\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1083",
+    "input": "Do any of the words \"pear\", \"jacket\", \"rabbit\", \"couch\", and \"dog\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1095",
+    "input": "Do any of the words \"melon\", \"jeans\", \"couch\", \"train\", and \"shorts\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1102",
+    "input": "Do any of the words \"jacket\", \"bus\", \"melon\", \"pear\", and \"goat\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1108",
+    "input": "Do any of the words \"truck\", \"skirt\", \"strawberry\", \"peach\", and \"sweater\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1111",
+    "input": "Do any of the words \"pants\", \"fish\", \"rabbit\", \"duck\", and \"jacket\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1112",
+    "input": "Do any of the words \"duck\", \"lemon\", \"sweater\", \"cow\", and \"watermelon\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1114",
+    "input": "Do any of the words \"bed\", \"mango\", \"pants\", \"pineapple\", and \"melon\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1123",
+    "input": "Do any of the words \"shirt\", \"couch\", \"bed\", \"desk\", and \"sweater\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1126",
+    "input": "Do any of the words \"bookcase\", \"goat\", \"motorcycle\", \"train\", and \"table\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1128",
+    "input": "Do any of the words \"shorts\", \"bed\", \"train\", \"jeans\", and \"socks\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1135",
+    "input": "Do any of the words \"train\", \"rabbit\", \"pants\", \"dog\", and \"peach\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1138",
+    "input": "Do any of the words \"dress\", \"motorcycle\", \"melon\", \"mouse\", and \"strawberry\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1147",
+    "input": "Do any of the words \"banana\", \"rabbit\", \"bus\", \"chicken\", and \"mouse\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1148",
+    "input": "Do any of the words \"cow\", \"shirt\", \"chicken\", \"pineapple\", and \"cat\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1153",
+    "input": "Do any of the words \"cow\", \"peach\", \"watermelon\", \"bed\", and \"car\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1154",
+    "input": "Do any of the words \"sweater\", \"shirt\", \"apple\", \"goat\", and \"fish\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1156",
+    "input": "Do any of the words \"pig\", \"bookcase\", \"sofa\", \"skirt\", and \"couch\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1166",
+    "input": "Do any of the words \"strawberry\", \"mouse\", \"table\", \"duck\", and \"bed\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1167",
+    "input": "Do any of the words \"watermelon\", \"rabbit\", \"lemon\", \"pig\", and \"dog\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1170",
+    "input": "Do any of the words \"apple\", \"pear\", \"watermelon\", \"mango\", and \"coat\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1173",
+    "input": "Do any of the words \"pants\", \"armchair\", \"bookcase\", \"socks\", and \"chair\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1179",
+    "input": "Do any of the words \"tractor\", \"goat\", \"banana\", \"pineapple\", and \"pants\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1182",
+    "input": "Do any of the words \"van\", \"sweater\", \"dress\", \"lemon\", and \"pineapple\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1192",
+    "input": "Do any of the words \"pants\", \"mouse\", \"shorts\", \"chair\", and \"van\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1205",
+    "input": "Do any of the words \"peach\", \"motorcycle\", \"tram\", \"chicken\", and \"strawberry\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1208",
+    "input": "Do any of the words \"bookcase\", \"chicken\", \"dog\", \"tractor\", and \"watermelon\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1210",
+    "input": "Do any of the words \"coat\", \"shirt\", \"dress\", \"couch\", and \"goat\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1220",
+    "input": "Do any of the words \"melon\", \"pineapple\", \"desk\", \"cat\", and \"peach\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1226",
+    "input": "Do any of the words \"bed\", \"pineapple\", \"chair\", \"cat\", and \"watermelon\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1232",
+    "input": "Do any of the words \"van\", \"chair\", \"pants\", \"shorts\", and \"melon\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1237",
+    "input": "Do any of the words \"desk\", \"shirt\", \"banana\", \"couch\", and \"socks\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1247",
+    "input": "Do any of the words \"coat\", \"cow\", \"apple\", \"mouse\", and \"car\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1253",
+    "input": "Do any of the words \"socks\", \"chicken\", \"melon\", \"fish\", and \"pig\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1258",
+    "input": "Do any of the words \"train\", \"motorcycle\", \"tram\", \"goat\", and \"strawberry\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1259",
+    "input": "Do any of the words \"bed\", \"coat\", \"mouse\", \"chicken\", and \"pants\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1262",
+    "input": "Do any of the words \"pig\", \"chicken\", \"lemon\", \"melon\", and \"rabbit\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1268",
+    "input": "Do any of the words \"bookcase\", \"dog\", \"pear\", \"peach\", and \"pineapple\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1271",
+    "input": "Do any of the words \"rabbit\", \"duck\", \"table\", \"shirt\", and \"apple\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1276",
+    "input": "Do any of the words \"tram\", \"tractor\", \"chicken\", \"pear\", and \"mango\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1281",
+    "input": "Do any of the words \"peach\", \"bookcase\", \"pig\", \"strawberry\", and \"duck\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1282",
+    "input": "Do any of the words \"couch\", \"armchair\", \"desk\", \"table\", and \"melon\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1290",
+    "input": "Do any of the words \"shirt\", \"car\", \"bus\", \"socks\", and \"truck\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1303",
+    "input": "Do any of the words \"chair\", \"chicken\", \"truck\", \"car\", and \"cow\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1313",
+    "input": "Do any of the words \"pineapple\", \"van\", \"mango\", \"lemon\", and \"bed\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1314",
+    "input": "Do any of the words \"shirt\", \"cat\", \"coat\", \"skirt\", and \"table\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1319",
+    "input": "Do any of the words \"skirt\", \"sofa\", \"apple\", \"banana\", and \"dress\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1333",
+    "input": "Do any of the words \"bookcase\", \"sofa\", \"car\", \"pineapple\", and \"mango\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1335",
+    "input": "Do any of the words \"watermelon\", \"duck\", \"bus\", \"dress\", and \"pants\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1343",
+    "input": "Do any of the words \"car\", \"strawberry\", \"jacket\", \"sweater\", and \"melon\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1359",
+    "input": "Do any of the words \"motorcycle\", \"pineapple\", \"jeans\", \"tram\", and \"dress\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1370",
+    "input": "Do any of the words \"watermelon\", \"melon\", \"bus\", \"couch\", and \"pineapple\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1371",
+    "input": "Do any of the words \"socks\", \"watermelon\", \"bookcase\", \"table\", and \"peach\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1375",
+    "input": "Do any of the words \"shirt\", \"dress\", \"fish\", \"train\", and \"jeans\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1380",
+    "input": "Do any of the words \"banana\", \"cat\", \"shirt\", \"train\", and \"truck\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1384",
+    "input": "Do any of the words \"coat\", \"cat\", \"table\", \"dog\", and \"tractor\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1387",
+    "input": "Do any of the words \"desk\", \"melon\", \"duck\", \"lemon\", and \"dress\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1408",
+    "input": "Do any of the words \"sofa\", \"dress\", \"desk\", \"pig\", and \"shirt\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1410",
+    "input": "Do any of the words \"socks\", \"table\", \"bookcase\", \"sweater\", and \"jeans\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1412",
+    "input": "Do any of the words \"pineapple\", \"tractor\", \"truck\", \"car\", and \"cat\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1415",
+    "input": "Do any of the words \"dog\", \"socks\", \"goat\", \"melon\", and \"skirt\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1418",
+    "input": "Do any of the words \"bed\", \"sweater\", \"pineapple\", \"goat\", and \"jacket\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1428",
+    "input": "Do any of the words \"train\", \"bus\", \"goat\", \"bookcase\", and \"lemon\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1431",
+    "input": "Do any of the words \"watermelon\", \"tram\", \"pineapple\", \"chair\", and \"pear\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1437",
+    "input": "Do any of the words \"watermelon\", \"desk\", \"car\", \"apple\", and \"couch\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1444",
+    "input": "Do any of the words \"fish\", \"car\", \"truck\", \"jacket\", and \"cat\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1450",
+    "input": "Do any of the words \"pants\", \"lemon\", \"banana\", \"strawberry\", and \"shirt\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1453",
+    "input": "Do any of the words \"shorts\", \"socks\", \"tram\", \"mango\", and \"peach\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1458",
+    "input": "Do any of the words \"bus\", \"bed\", \"tram\", \"armchair\", and \"melon\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1460",
+    "input": "Do any of the words \"jeans\", \"duck\", \"chair\", \"armchair\", and \"shorts\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1462",
+    "input": "Do any of the words \"desk\", \"chicken\", \"car\", \"motorcycle\", and \"coat\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1463",
+    "input": "Do any of the words \"mouse\", \"banana\", \"pig\", \"dress\", and \"watermelon\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1469",
+    "input": "Do any of the words \"tractor\", \"watermelon\", \"rabbit\", \"motorcycle\", and \"cat\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1470",
+    "input": "Do any of the words \"motorcycle\", \"pineapple\", \"chicken\", \"bookcase\", and \"mango\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1473",
+    "input": "Do any of the words \"van\", \"dress\", \"shorts\", \"lemon\", and \"truck\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1474",
+    "input": "Do any of the words \"tram\", \"shorts\", \"van\", \"rabbit\", and \"tractor\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1475",
+    "input": "Do any of the words \"socks\", \"bus\", \"shorts\", \"couch\", and \"tram\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1478",
+    "input": "Do any of the words \"jeans\", \"watermelon\", \"pig\", \"shirt\", and \"lemon\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1481",
+    "input": "Do any of the words \"goat\", \"bus\", \"pineapple\", \"sofa\", and \"truck\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1491",
+    "input": "Do any of the words \"desk\", \"goat\", \"truck\", \"table\", and \"cat\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1496",
+    "input": "Do any of the words \"pear\", \"skirt\", \"mouse\", \"cow\", and \"desk\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1501",
+    "input": "Do any of the words \"duck\", \"bus\", \"truck\", \"peach\", and \"melon\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1502",
+    "input": "Do any of the words \"chair\", \"train\", \"car\", \"desk\", and \"van\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1503",
+    "input": "Do any of the words \"jeans\", \"shirt\", \"couch\", \"desk\", and \"bed\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1505",
+    "input": "Do any of the words \"chair\", \"jeans\", \"tractor\", \"skirt\", and \"pants\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1506",
+    "input": "Do any of the words \"cow\", \"bed\", \"duck\", \"bus\", and \"mouse\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1519",
+    "input": "Do any of the words \"fish\", \"mouse\", \"bookcase\", \"bed\", and \"banana\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1525",
+    "input": "Do any of the words \"apple\", \"bed\", \"skirt\", \"shorts\", and \"desk\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1536",
+    "input": "Do any of the words \"bookcase\", \"pear\", \"banana\", \"fish\", and \"car\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1537",
+    "input": "Do any of the words \"car\", \"jeans\", \"skirt\", \"tram\", and \"train\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1540",
+    "input": "Do any of the words \"pineapple\", \"truck\", \"skirt\", \"armchair\", and \"car\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1542",
+    "input": "Do any of the words \"van\", \"train\", \"truck\", \"pants\", and \"chicken\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1549",
+    "input": "Do any of the words \"sofa\", \"truck\", \"shirt\", \"couch\", and \"bus\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1561",
+    "input": "Do any of the words \"banana\", \"bus\", \"bookcase\", \"couch\", and \"table\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1562",
+    "input": "Do any of the words \"mouse\", \"melon\", \"socks\", \"coat\", and \"jeans\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1565",
+    "input": "Do any of the words \"bed\", \"shorts\", \"tractor\", \"pants\", and \"truck\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1571",
+    "input": "Do any of the words \"bus\", \"jeans\", \"goat\", \"pear\", and \"chicken\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1574",
+    "input": "Do any of the words \"strawberry\", \"duck\", \"truck\", \"van\", and \"melon\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1585",
+    "input": "Do any of the words \"banana\", \"chicken\", \"mouse\", \"socks\", and \"pig\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1587",
+    "input": "Do any of the words \"truck\", \"car\", \"shirt\", \"jacket\", and \"goat\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1595",
+    "input": "Do any of the words \"cat\", \"peach\", \"chicken\", \"strawberry\", and \"dress\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1602",
+    "input": "Do any of the words \"watermelon\", \"fish\", \"strawberry\", \"car\", and \"sofa\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1603",
+    "input": "Do any of the words \"car\", \"melon\", \"train\", \"tractor\", and \"pig\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1604",
+    "input": "Do any of the words \"table\", \"van\", \"desk\", \"coat\", and \"pineapple\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1608",
+    "input": "Do any of the words \"cow\", \"bus\", \"mango\", \"table\", and \"strawberry\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1610",
+    "input": "Do any of the words \"couch\", \"strawberry\", \"lemon\", \"pig\", and \"fish\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1613",
+    "input": "Do any of the words \"bed\", \"bookcase\", \"tram\", \"tractor\", and \"pear\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1619",
+    "input": "Do any of the words \"fish\", \"van\", \"socks\", \"mouse\", and \"cow\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1629",
+    "input": "Do any of the words \"pear\", \"couch\", \"melon\", \"pants\", and \"chair\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1645",
+    "input": "Do any of the words \"banana\", \"cow\", \"pear\", \"mouse\", and \"fish\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1651",
+    "input": "Do any of the words \"cow\", \"mango\", \"banana\", \"fish\", and \"sofa\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1659",
+    "input": "Do any of the words \"socks\", \"desk\", \"shirt\", \"sofa\", and \"bus\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1660",
+    "input": "Do any of the words \"chicken\", \"bus\", \"truck\", \"table\", and \"tractor\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1671",
+    "input": "Do any of the words \"bookcase\", \"van\", \"fish\", \"watermelon\", and \"pig\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1677",
+    "input": "Do any of the words \"armchair\", \"mango\", \"peach\", \"dress\", and \"banana\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1678",
+    "input": "Do any of the words \"duck\", \"sweater\", \"couch\", \"socks\", and \"shirt\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1696",
+    "input": "Do any of the words \"tram\", \"table\", \"melon\", \"fish\", and \"car\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1697",
+    "input": "Do any of the words \"couch\", \"socks\", \"strawberry\", \"peach\", and \"chicken\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1707",
+    "input": "Do any of the words \"coat\", \"melon\", \"peach\", \"chicken\", and \"dog\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1709",
+    "input": "Do any of the words \"truck\", \"jacket\", \"bed\", \"pants\", and \"pig\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1712",
+    "input": "Do any of the words \"chicken\", \"melon\", \"mango\", \"bed\", and \"jeans\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1715",
+    "input": "Do any of the words \"pig\", \"tractor\", \"motorcycle\", \"dog\", and \"sweater\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1728",
+    "input": "Do any of the words \"desk\", \"dress\", \"apple\", \"truck\", and \"peach\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1738",
+    "input": "Do any of the words \"tractor\", \"chicken\", \"rabbit\", \"dog\", and \"shorts\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1739",
+    "input": "Do any of the words \"sofa\", \"socks\", \"bus\", \"dog\", and \"coat\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1740",
+    "input": "Do any of the words \"fish\", \"duck\", \"mouse\", \"mango\", and \"pig\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1741",
+    "input": "Do any of the words \"pineapple\", \"shirt\", \"lemon\", \"socks\", and \"pear\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1744",
+    "input": "Do any of the words \"table\", \"van\", \"cat\", \"fish\", and \"banana\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1751",
+    "input": "Do any of the words \"melon\", \"coat\", \"pineapple\", \"duck\", and \"peach\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1765",
+    "input": "Do any of the words \"bed\", \"duck\", \"chair\", \"mouse\", and \"desk\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1777",
+    "input": "Do any of the words \"goat\", \"shorts\", \"coat\", \"bus\", and \"duck\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1783",
+    "input": "Do any of the words \"pants\", \"sofa\", \"apple\", \"watermelon\", and \"jacket\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1793",
+    "input": "Do any of the words \"shorts\", \"socks\", \"mouse\", \"couch\", and \"tractor\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1796",
+    "input": "Do any of the words \"couch\", \"jeans\", \"jacket\", \"chair\", and \"cat\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1797",
+    "input": "Do any of the words \"tractor\", \"bus\", \"pineapple\", \"pants\", and \"jacket\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1806",
+    "input": "Do any of the words \"melon\", \"goat\", \"peach\", \"dog\", and \"pineapple\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1815",
+    "input": "Do any of the words \"mango\", \"shirt\", \"pineapple\", \"strawberry\", and \"couch\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1817",
+    "input": "Do any of the words \"goat\", \"mouse\", \"bus\", \"truck\", and \"couch\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1819",
+    "input": "Do any of the words \"strawberry\", \"jeans\", \"mango\", \"cat\", and \"peach\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1825",
+    "input": "Do any of the words \"tram\", \"mouse\", \"goat\", \"socks\", and \"coat\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1829",
+    "input": "Do any of the words \"sweater\", \"motorcycle\", \"train\", \"car\", and \"tractor\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1830",
+    "input": "Do any of the words \"armchair\", \"pig\", \"pineapple\", \"strawberry\", and \"bed\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1832",
+    "input": "Do any of the words \"bookcase\", \"fish\", \"truck\", \"tram\", and \"tractor\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1839",
+    "input": "Do any of the words \"bus\", \"truck\", \"tram\", \"banana\", and \"strawberry\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1845",
+    "input": "Do any of the words \"socks\", \"strawberry\", \"fish\", \"table\", and \"pear\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1853",
+    "input": "Do any of the words \"socks\", \"banana\", \"rabbit\", \"pig\", and \"chicken\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1856",
+    "input": "Do any of the words \"pants\", \"fish\", \"dog\", \"socks\", and \"strawberry\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1861",
+    "input": "Do any of the words \"couch\", \"melon\", \"dress\", \"pants\", and \"chair\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1869",
+    "input": "Do any of the words \"shirt\", \"jeans\", \"fish\", \"van\", and \"banana\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1874",
+    "input": "Do any of the words \"pineapple\", \"socks\", \"car\", \"pig\", and \"skirt\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1875",
+    "input": "Do any of the words \"peach\", \"coat\", \"apple\", \"mouse\", and \"melon\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1877",
+    "input": "Do any of the words \"tractor\", \"bus\", \"duck\", \"cat\", and \"goat\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1885",
+    "input": "Do any of the words \"cow\", \"apple\", \"rabbit\", \"pig\", and \"motorcycle\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1897",
+    "input": "Do any of the words \"shirt\", \"lemon\", \"cow\", \"banana\", and \"pineapple\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1898",
+    "input": "Do any of the words \"shirt\", \"table\", \"tram\", \"armchair\", and \"truck\" represent animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1900",
+    "input": "Do any of the words \"armchair\", \"couch\", \"sweater\", \"truck\", and \"bookcase\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1902",
+    "input": "Do any of the words \"coat\", \"duck\", \"goat\", \"dog\", and \"strawberry\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1916",
+    "input": "Do any of the words \"train\", \"chair\", \"goat\", \"tractor\", and \"rabbit\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1919",
+    "input": "Do any of the words \"mango\", \"sweater\", \"shirt\", \"dog\", and \"rabbit\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1924",
+    "input": "Do any of the words \"truck\", \"shorts\", \"dog\", \"strawberry\", and \"jacket\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1932",
+    "input": "Do any of the words \"armchair\", \"mango\", \"chicken\", \"bookcase\", and \"banana\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1935",
+    "input": "Do any of the words \"desk\", \"pig\", \"armchair\", \"table\", and \"jacket\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1942",
+    "input": "Do any of the words \"sweater\", \"peach\", \"skirt\", \"bed\", and \"dress\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1944",
+    "input": "Do any of the words \"strawberry\", \"rabbit\", \"desk\", \"apple\", and \"goat\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1948",
+    "input": "Do any of the words \"chair\", \"motorcycle\", \"cat\", \"sweater\", and \"mouse\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1949",
+    "input": "Do any of the words \"watermelon\", \"train\", \"truck\", \"mouse\", and \"coat\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1955",
+    "input": "Do any of the words \"pig\", \"jeans\", \"shirt\", \"bed\", and \"coat\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1963",
+    "input": "Do any of the words \"tram\", \"bus\", \"rabbit\", \"cat\", and \"car\" represent items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1967",
+    "input": "Do any of the words \"van\", \"chicken\", \"pants\", \"tram\", and \"lemon\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1971",
+    "input": "Do any of the words \"duck\", \"car\", \"rabbit\", \"sofa\", and \"tractor\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1973",
+    "input": "Do any of the words \"dog\", \"jacket\", \"van\", \"sweater\", and \"train\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1975",
+    "input": "Do any of the words \"bookcase\", \"skirt\", \"jeans\", \"shirt\", and \"truck\" represent fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1993",
+    "input": "Do any of the words \"mouse\", \"shirt\", \"cow\", \"train\", and \"socks\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1997",
+    "input": "Do any of the words \"socks\", \"melon\", \"pig\", \"shorts\", and \"goat\" represent vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1999",
+    "input": "Do any of the words \"banana\", \"melon\", \"skirt\", \"lemon\", and \"watermelon\" represent furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2005",
+    "input": "Does the list [\"lemon\", \"car\", \"banana\", \"truck\", \"bookcase\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2006",
+    "input": "Does the list [\"rabbit\", \"pineapple\", \"car\", \"coat\", \"peach\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2007",
+    "input": "Does the list [\"rabbit\", \"pineapple\", \"tram\", \"apple\", \"goat\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2009",
+    "input": "Does the list [\"armchair\", \"pig\", \"chicken\", \"desk\", \"strawberry\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2012",
+    "input": "Does the list [\"desk\", \"sofa\", \"strawberry\", \"chair\", \"bookcase\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2026",
+    "input": "Does the list [\"mouse\", \"truck\", \"shorts\", \"sweater\", \"train\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2027",
+    "input": "Does the list [\"lemon\", \"goat\", \"table\", \"chicken\", \"mouse\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2032",
+    "input": "Does the list [\"jeans\", \"melon\", \"cow\", \"chicken\", \"train\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2038",
+    "input": "Does the list [\"goat\", \"peach\", \"mouse\", \"strawberry\", \"tram\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2041",
+    "input": "Does the list [\"couch\", \"tram\", \"van\", \"table\", \"shirt\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2043",
+    "input": "Does the list [\"peach\", \"table\", \"jeans\", \"cat\", \"dress\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2047",
+    "input": "Does the list [\"pear\", \"mouse\", \"peach\", \"banana\", \"sofa\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2048",
+    "input": "Does the list [\"chair\", \"jacket\", \"sweater\", \"sofa\", \"bed\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2054",
+    "input": "Does the list [\"motorcycle\", \"fish\", \"train\", \"cat\", \"dress\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2057",
+    "input": "Does the list [\"pig\", \"dog\", \"shirt\", \"bed\", \"jacket\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2063",
+    "input": "Does the list [\"tram\", \"dog\", \"pig\", \"train\", \"shorts\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2064",
+    "input": "Does the list [\"train\", \"mango\", \"motorcycle\", \"melon\", \"socks\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2066",
+    "input": "Does the list [\"pig\", \"bus\", \"tram\", \"jeans\", \"mouse\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2076",
+    "input": "Does the list [\"cow\", \"duck\", \"dog\", \"rabbit\", \"tram\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2079",
+    "input": "Does the list [\"goat\", \"shirt\", \"sweater\", \"shorts\", \"couch\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2082",
+    "input": "Does the list [\"sweater\", \"armchair\", \"duck\", \"shirt\", \"chair\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2084",
+    "input": "Does the list [\"watermelon\", \"goat\", \"truck\", \"duck\", \"pear\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2085",
+    "input": "Does the list [\"watermelon\", \"apple\", \"pear\", \"bus\", \"chair\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2091",
+    "input": "Does the list [\"goat\", \"car\", \"banana\", \"chicken\", \"desk\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2097",
+    "input": "Does the list [\"truck\", \"pants\", \"tractor\", \"car\", \"chair\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2098",
+    "input": "Does the list [\"shorts\", \"lemon\", \"bookcase\", \"table\", \"coat\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2118",
+    "input": "Does the list [\"apple\", \"rabbit\", \"melon\", \"shirt\", \"pants\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2123",
+    "input": "Does the list [\"shirt\", \"couch\", \"bed\", \"desk\", \"sweater\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2125",
+    "input": "Does the list [\"pig\", \"skirt\", \"socks\", \"truck\", \"car\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2131",
+    "input": "Does the list [\"mouse\", \"melon\", \"pear\", \"rabbit\", \"tram\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2133",
+    "input": "Does the list [\"pear\", \"skirt\", \"pants\", \"dress\", \"truck\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2135",
+    "input": "Does the list [\"train\", \"rabbit\", \"pants\", \"dog\", \"peach\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2137",
+    "input": "Does the list [\"jacket\", \"tram\", \"pants\", \"mouse\", \"train\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2144",
+    "input": "Does the list [\"jacket\", \"pear\", \"cow\", \"rabbit\", \"table\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2146",
+    "input": "Does the list [\"cat\", \"cow\", \"skirt\", \"apple\", \"chicken\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2148",
+    "input": "Does the list [\"cow\", \"shirt\", \"chicken\", \"pineapple\", \"cat\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2155",
+    "input": "Does the list [\"strawberry\", \"chicken\", \"car\", \"shorts\", \"skirt\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2156",
+    "input": "Does the list [\"pig\", \"bookcase\", \"sofa\", \"skirt\", \"couch\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2157",
+    "input": "Does the list [\"dress\", \"sweater\", \"shirt\", \"mouse\", \"pineapple\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2160",
+    "input": "Does the list [\"mango\", \"melon\", \"mouse\", \"pig\", \"desk\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2164",
+    "input": "Does the list [\"chicken\", \"pig\", \"strawberry\", \"pineapple\", \"mango\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2169",
+    "input": "Does the list [\"mouse\", \"skirt\", \"goat\", \"dog\", \"coat\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2170",
+    "input": "Does the list [\"apple\", \"pear\", \"watermelon\", \"mango\", \"coat\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2189",
+    "input": "Does the list [\"mango\", \"train\", \"fish\", \"pig\", \"tram\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2191",
+    "input": "Does the list [\"dress\", \"sofa\", \"watermelon\", \"chair\", \"jeans\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2192",
+    "input": "Does the list [\"pants\", \"mouse\", \"shorts\", \"chair\", \"van\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2193",
+    "input": "Does the list [\"sofa\", \"jeans\", \"couch\", \"mouse\", \"pig\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2194",
+    "input": "Does the list [\"skirt\", \"train\", \"sweater\", \"socks\", \"motorcycle\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2207",
+    "input": "Does the list [\"car\", \"rabbit\", \"bed\", \"fish\", \"truck\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2222",
+    "input": "Does the list [\"pig\", \"jeans\", \"socks\", \"mango\", \"melon\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2227",
+    "input": "Does the list [\"chair\", \"tractor\", \"car\", \"shorts\", \"dress\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2230",
+    "input": "Does the list [\"shorts\", \"bookcase\", \"apple\", \"pants\", \"jacket\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2238",
+    "input": "Does the list [\"sofa\", \"sweater\", \"jeans\", \"lemon\", \"tractor\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2242",
+    "input": "Does the list [\"sweater\", \"coat\", \"chair\", \"apple\", \"pig\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2243",
+    "input": "Does the list [\"tram\", \"tractor\", \"pear\", \"coat\", \"motorcycle\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2250",
+    "input": "Does the list [\"watermelon\", \"cat\", \"strawberry\", \"bookcase\", \"pineapple\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2268",
+    "input": "Does the list [\"bookcase\", \"dog\", \"pear\", \"peach\", \"pineapple\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2274",
+    "input": "Does the list [\"jeans\", \"car\", \"truck\", \"tractor\", \"shirt\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2276",
+    "input": "Does the list [\"tram\", \"tractor\", \"chicken\", \"pear\", \"mango\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2291",
+    "input": "Does the list [\"rabbit\", \"dog\", \"coat\", \"lemon\", \"strawberry\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2293",
+    "input": "Does the list [\"couch\", \"pear\", \"motorcycle\", \"sofa\", \"cow\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2296",
+    "input": "Does the list [\"pineapple\", \"chair\", \"truck\", \"tractor\", \"melon\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2301",
+    "input": "Does the list [\"shirt\", \"coat\", \"armchair\", \"couch\", \"motorcycle\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2306",
+    "input": "Does the list [\"apple\", \"cat\", \"strawberry\", \"fish\", \"duck\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2314",
+    "input": "Does the list [\"shirt\", \"cat\", \"coat\", \"skirt\", \"table\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2318",
+    "input": "Does the list [\"pig\", \"jacket\", \"watermelon\", \"banana\", \"sofa\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2320",
+    "input": "Does the list [\"bus\", \"couch\", \"pineapple\", \"cow\", \"motorcycle\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2322",
+    "input": "Does the list [\"tractor\", \"watermelon\", \"chair\", \"apple\", \"duck\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2323",
+    "input": "Does the list [\"watermelon\", \"table\", \"apple\", \"bus\", \"cow\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2331",
+    "input": "Does the list [\"chicken\", \"lemon\", \"cat\", \"apple\", \"bed\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2335",
+    "input": "Does the list [\"watermelon\", \"duck\", \"bus\", \"dress\", \"pants\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2342",
+    "input": "Does the list [\"table\", \"fish\", \"pineapple\", \"banana\", \"chair\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2347",
+    "input": "Does the list [\"armchair\", \"chicken\", \"skirt\", \"apple\", \"watermelon\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2350",
+    "input": "Does the list [\"desk\", \"sofa\", \"truck\", \"cat\", \"rabbit\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2352",
+    "input": "Does the list [\"bus\", \"chicken\", \"apple\", \"rabbit\", \"pants\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2353",
+    "input": "Does the list [\"chicken\", \"tram\", \"pants\", \"goat\", \"jacket\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2354",
+    "input": "Does the list [\"pineapple\", \"tram\", \"bus\", \"cow\", \"shorts\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2355",
+    "input": "Does the list [\"dog\", \"car\", \"dress\", \"pants\", \"tram\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2364",
+    "input": "Does the list [\"cat\", \"socks\", \"peach\", \"sofa\", \"mouse\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2366",
+    "input": "Does the list [\"bed\", \"bookcase\", \"desk\", \"shirt\", \"couch\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2369",
+    "input": "Does the list [\"dog\", \"pants\", \"desk\", \"chair\", \"bookcase\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2371",
+    "input": "Does the list [\"socks\", \"watermelon\", \"bookcase\", \"table\", \"peach\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2377",
+    "input": "Does the list [\"motorcycle\", \"coat\", \"bus\", \"dress\", \"watermelon\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2378",
+    "input": "Does the list [\"tractor\", \"coat\", \"pants\", \"skirt\", \"tram\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2383",
+    "input": "Does the list [\"jeans\", \"goat\", \"dress\", \"chair\", \"train\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2394",
+    "input": "Does the list [\"mouse\", \"armchair\", \"goat\", \"coat\", \"van\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2396",
+    "input": "Does the list [\"banana\", \"rabbit\", \"melon\", \"chicken\", \"motorcycle\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2403",
+    "input": "Does the list [\"couch\", \"watermelon\", \"dress\", \"bus\", \"lemon\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2409",
+    "input": "Does the list [\"tram\", \"banana\", \"shirt\", \"shorts\", \"van\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2431",
+    "input": "Does the list [\"watermelon\", \"tram\", \"pineapple\", \"chair\", \"pear\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2434",
+    "input": "Does the list [\"shorts\", \"motorcycle\", \"pants\", \"apple\", \"cow\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2440",
+    "input": "Does the list [\"coat\", \"motorcycle\", \"armchair\", \"melon\", \"chair\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2445",
+    "input": "Does the list [\"shorts\", \"lemon\", \"banana\", \"jacket\", \"socks\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2446",
+    "input": "Does the list [\"dog\", \"jacket\", \"shirt\", \"pineapple\", \"apple\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2448",
+    "input": "Does the list [\"mouse\", \"melon\", \"truck\", \"watermelon\", \"chicken\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2453",
+    "input": "Does the list [\"shorts\", \"socks\", \"tram\", \"mango\", \"peach\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2472",
+    "input": "Does the list [\"pig\", \"fish\", \"chair\", \"truck\", \"pants\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2474",
+    "input": "Does the list [\"tram\", \"shorts\", \"van\", \"rabbit\", \"tractor\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2480",
+    "input": "Does the list [\"cat\", \"lemon\", \"banana\", \"pants\", \"chair\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2481",
+    "input": "Does the list [\"goat\", \"bus\", \"pineapple\", \"sofa\", \"truck\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2482",
+    "input": "Does the list [\"watermelon\", \"motorcycle\", \"van\", \"melon\", \"mouse\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2483",
+    "input": "Does the list [\"duck\", \"armchair\", \"mango\", \"melon\", \"goat\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2500",
+    "input": "Does the list [\"train\", \"van\", \"rabbit\", \"sofa\", \"cow\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2502",
+    "input": "Does the list [\"chair\", \"train\", \"car\", \"desk\", \"van\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2505",
+    "input": "Does the list [\"chair\", \"jeans\", \"tractor\", \"skirt\", \"pants\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2507",
+    "input": "Does the list [\"dog\", \"pear\", \"pig\", \"mouse\", \"rabbit\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2512",
+    "input": "Does the list [\"car\", \"couch\", \"dog\", \"apple\", \"desk\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2513",
+    "input": "Does the list [\"sofa\", \"banana\", \"coat\", \"train\", \"jacket\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2525",
+    "input": "Does the list [\"apple\", \"bed\", \"skirt\", \"shorts\", \"desk\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2526",
+    "input": "Does the list [\"dog\", \"desk\", \"cat\", \"bus\", \"car\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2527",
+    "input": "Does the list [\"shorts\", \"couch\", \"dress\", \"table\", \"cow\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2528",
+    "input": "Does the list [\"desk\", \"dress\", \"sweater\", \"banana\", \"apple\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2530",
+    "input": "Does the list [\"pig\", \"sweater\", \"van\", \"socks\", \"sofa\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2539",
+    "input": "Does the list [\"strawberry\", \"mango\", \"jeans\", \"pig\", \"bed\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2549",
+    "input": "Does the list [\"sofa\", \"truck\", \"shirt\", \"couch\", \"bus\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2565",
+    "input": "Does the list [\"bed\", \"shorts\", \"tractor\", \"pants\", \"truck\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2566",
+    "input": "Does the list [\"sweater\", \"jeans\", \"pants\", \"melon\", \"duck\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2567",
+    "input": "Does the list [\"dress\", \"mouse\", \"van\", \"shirt\", \"shorts\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2570",
+    "input": "Does the list [\"motorcycle\", \"tractor\", \"strawberry\", \"desk\", \"rabbit\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2572",
+    "input": "Does the list [\"pear\", \"motorcycle\", \"train\", \"chicken\", \"cat\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2573",
+    "input": "Does the list [\"truck\", \"peach\", \"banana\", \"sofa\", \"pig\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2578",
+    "input": "Does the list [\"tram\", \"rabbit\", \"train\", \"shorts\", \"chicken\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2580",
+    "input": "Does the list [\"car\", \"bookcase\", \"desk\", \"cow\", \"duck\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2589",
+    "input": "Does the list [\"pig\", \"sofa\", \"watermelon\", \"tractor\", \"tram\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2593",
+    "input": "Does the list [\"motorcycle\", \"train\", \"sweater\", \"bus\", \"dog\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2595",
+    "input": "Does the list [\"cat\", \"peach\", \"chicken\", \"strawberry\", \"dress\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2597",
+    "input": "Does the list [\"duck\", \"apple\", \"tractor\", \"bus\", \"dog\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2599",
+    "input": "Does the list [\"pig\", \"lemon\", \"jacket\", \"peach\", \"bed\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2605",
+    "input": "Does the list [\"truck\", \"lemon\", \"couch\", \"tram\", \"duck\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2609",
+    "input": "Does the list [\"peach\", \"mango\", \"watermelon\", \"chicken\", \"socks\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2612",
+    "input": "Does the list [\"watermelon\", \"melon\", \"mango\", \"coat\", \"shorts\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2617",
+    "input": "Does the list [\"coat\", \"strawberry\", \"skirt\", \"duck\", \"rabbit\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2619",
+    "input": "Does the list [\"fish\", \"van\", \"socks\", \"mouse\", \"cow\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2625",
+    "input": "Does the list [\"pineapple\", \"cat\", \"dog\", \"van\", \"melon\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2628",
+    "input": "Does the list [\"truck\", \"train\", \"mouse\", \"motorcycle\", \"socks\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2630",
+    "input": "Does the list [\"tractor\", \"train\", \"truck\", \"table\", \"couch\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2638",
+    "input": "Does the list [\"melon\", \"van\", \"sweater\", \"strawberry\", \"cow\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2639",
+    "input": "Does the list [\"couch\", \"motorcycle\", \"fish\", \"socks\", \"chicken\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2640",
+    "input": "Does the list [\"pig\", \"peach\", \"shirt\", \"car\", \"chicken\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2641",
+    "input": "Does the list [\"duck\", \"sweater\", \"rabbit\", \"armchair\", \"cow\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2642",
+    "input": "Does the list [\"truck\", \"fish\", \"bus\", \"jacket\", \"bookcase\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2645",
+    "input": "Does the list [\"banana\", \"cow\", \"pear\", \"mouse\", \"fish\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2646",
+    "input": "Does the list [\"shirt\", \"shorts\", \"duck\", \"truck\", \"coat\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2650",
+    "input": "Does the list [\"rabbit\", \"couch\", \"mouse\", \"chair\", \"sweater\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2657",
+    "input": "Does the list [\"banana\", \"pineapple\", \"pear\", \"bookcase\", \"truck\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2667",
+    "input": "Does the list [\"armchair\", \"melon\", \"table\", \"pants\", \"shirt\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2669",
+    "input": "Does the list [\"apple\", \"bus\", \"coat\", \"strawberry\", \"watermelon\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2670",
+    "input": "Does the list [\"mouse\", \"bed\", \"tram\", \"melon\", \"mango\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2671",
+    "input": "Does the list [\"bookcase\", \"van\", \"fish\", \"watermelon\", \"pig\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2674",
+    "input": "Does the list [\"banana\", \"tram\", \"jeans\", \"pineapple\", \"car\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2676",
+    "input": "Does the list [\"tram\", \"strawberry\", \"lemon\", \"bookcase\", \"train\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2678",
+    "input": "Does the list [\"duck\", \"sweater\", \"couch\", \"socks\", \"shirt\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2680",
+    "input": "Does the list [\"sofa\", \"socks\", \"table\", \"jacket\", \"lemon\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2681",
+    "input": "Does the list [\"duck\", \"strawberry\", \"motorcycle\", \"tractor\", \"socks\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2682",
+    "input": "Does the list [\"coat\", \"tractor\", \"rabbit\", \"truck\", \"pants\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2689",
+    "input": "Does the list [\"van\", \"train\", \"bus\", \"apple\", \"armchair\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2690",
+    "input": "Does the list [\"skirt\", \"pig\", \"fish\", \"motorcycle\", \"strawberry\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2692",
+    "input": "Does the list [\"van\", \"sweater\", \"socks\", \"shirt\", \"cow\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2694",
+    "input": "Does the list [\"sofa\", \"watermelon\", \"motorcycle\", \"shirt\", \"pear\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2704",
+    "input": "Does the list [\"skirt\", \"pig\", \"cow\", \"apple\", \"pineapple\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2710",
+    "input": "Does the list [\"cow\", \"shorts\", \"goat\", \"fish\", \"desk\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2713",
+    "input": "Does the list [\"bus\", \"coat\", \"train\", \"apple\", \"peach\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2714",
+    "input": "Does the list [\"desk\", \"bookcase\", \"car\", \"socks\", \"skirt\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2717",
+    "input": "Does the list [\"jacket\", \"lemon\", \"pineapple\", \"goat\", \"coat\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2719",
+    "input": "Does the list [\"duck\", \"peach\", \"rabbit\", \"apple\", \"motorcycle\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2729",
+    "input": "Does the list [\"socks\", \"jeans\", \"skirt\", \"fish\", \"motorcycle\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2732",
+    "input": "Does the list [\"peach\", \"mango\", \"tram\", \"pants\", \"pig\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2740",
+    "input": "Does the list [\"fish\", \"duck\", \"mouse\", \"mango\", \"pig\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2744",
+    "input": "Does the list [\"table\", \"van\", \"cat\", \"fish\", \"banana\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2757",
+    "input": "Does the list [\"jacket\", \"cat\", \"peach\", \"desk\", \"banana\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2762",
+    "input": "Does the list [\"bus\", \"bed\", \"melon\", \"peach\", \"apple\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2769",
+    "input": "Does the list [\"pants\", \"jacket\", \"chair\", \"bed\", \"peach\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2776",
+    "input": "Does the list [\"pineapple\", \"table\", \"mango\", \"armchair\", \"motorcycle\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2779",
+    "input": "Does the list [\"lemon\", \"sofa\", \"cow\", \"banana\", \"chair\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2781",
+    "input": "Does the list [\"armchair\", \"pig\", \"chicken\", \"pear\", \"bed\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2783",
+    "input": "Does the list [\"pants\", \"sofa\", \"apple\", \"watermelon\", \"jacket\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2784",
+    "input": "Does the list [\"bookcase\", \"dog\", \"lemon\", \"motorcycle\", \"fish\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2791",
+    "input": "Does the list [\"lemon\", \"cat\", \"bookcase\", \"fish\", \"banana\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2796",
+    "input": "Does the list [\"couch\", \"jeans\", \"jacket\", \"chair\", \"cat\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2797",
+    "input": "Does the list [\"tractor\", \"bus\", \"pineapple\", \"pants\", \"jacket\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2803",
+    "input": "Does the list [\"pants\", \"jacket\", \"socks\", \"mango\", \"jeans\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2820",
+    "input": "Does the list [\"cat\", \"desk\", \"bed\", \"skirt\", \"duck\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2824",
+    "input": "Does the list [\"chair\", \"tram\", \"rabbit\", \"cow\", \"car\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2827",
+    "input": "Does the list [\"tractor\", \"dress\", \"bed\", \"shorts\", \"van\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2837",
+    "input": "Does the list [\"lemon\", \"duck\", \"pig\", \"coat\", \"bookcase\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2843",
+    "input": "Does the list [\"couch\", \"chair\", \"bus\", \"goat\", \"armchair\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2850",
+    "input": "Does the list [\"strawberry\", \"fish\", \"pineapple\", \"cow\", \"lemon\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2858",
+    "input": "Does the list [\"tram\", \"mouse\", \"peach\", \"jeans\", \"lemon\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2865",
+    "input": "Does the list [\"fish\", \"motorcycle\", \"watermelon\", \"mango\", \"table\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2866",
+    "input": "Does the list [\"rabbit\", \"goat\", \"desk\", \"mango\", \"banana\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2872",
+    "input": "Does the list [\"mango\", \"strawberry\", \"tractor\", \"bed\", \"mouse\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2879",
+    "input": "Does the list [\"shorts\", \"rabbit\", \"truck\", \"socks\", \"skirt\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2880",
+    "input": "Does the list [\"table\", \"dress\", \"pig\", \"peach\", \"cow\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2882",
+    "input": "Does the list [\"pants\", \"apple\", \"duck\", \"watermelon\", \"jeans\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2889",
+    "input": "Does the list [\"lemon\", \"bed\", \"peach\", \"motorcycle\", \"tractor\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2894",
+    "input": "Does the list [\"tram\", \"skirt\", \"car\", \"socks\", \"bed\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2900",
+    "input": "Does the list [\"armchair\", \"couch\", \"sweater\", \"truck\", \"bookcase\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2912",
+    "input": "Does the list [\"bookcase\", \"car\", \"shorts\", \"tractor\", \"watermelon\"] contain any animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2916",
+    "input": "Does the list [\"train\", \"chair\", \"goat\", \"tractor\", \"rabbit\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2926",
+    "input": "Does the list [\"bookcase\", \"sofa\", \"pear\", \"dog\", \"melon\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2928",
+    "input": "Does the list [\"goat\", \"mouse\", \"tractor\", \"table\", \"rabbit\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2930",
+    "input": "Does the list [\"dress\", \"shorts\", \"desk\", \"mouse\", \"strawberry\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2938",
+    "input": "Does the list [\"skirt\", \"socks\", \"shorts\", \"jeans\", \"watermelon\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2951",
+    "input": "Does the list [\"truck\", \"goat\", \"melon\", \"pants\", \"train\"] contain any furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2955",
+    "input": "Does the list [\"pig\", \"jeans\", \"shirt\", \"bed\", \"coat\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2960",
+    "input": "Does the list [\"truck\", \"chair\", \"cat\", \"motorcycle\", \"bookcase\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2975",
+    "input": "Does the list [\"bookcase\", \"skirt\", \"jeans\", \"shirt\", \"truck\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2982",
+    "input": "Does the list [\"peach\", \"watermelon\", \"cow\", \"armchair\", \"dog\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2991",
+    "input": "Does the list [\"cat\", \"car\", \"table\", \"sofa\", \"dress\"] contain any fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2996",
+    "input": "Does the list [\"duck\", \"strawberry\", \"desk\", \"mouse\", \"couch\"] contain any items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2997",
+    "input": "Does the list [\"socks\", \"melon\", \"pig\", \"shorts\", \"goat\"] contain any vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2998",
+    "input": "Does the list [\"armchair\", \"shorts\", \"sofa\", \"tram\", \"motorcycle\"] contain any animals? Answer either \"yes\" or \"no\"."
+  }
+]

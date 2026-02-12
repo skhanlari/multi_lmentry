@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "input": "Alcune delle parole \"trasporto\", \"bar\", \"guerra\", \"costa\" e \"associazione\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "22",
+    "input": "Alcune delle parole \"presente\", \"autista\", \"bugia\", \"futuro\" e \"incremento\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "37",
+    "input": "Alcune delle parole \"trasporto\", \"problema\", \"mano\", \"significato\" e \"zio\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "41",
+    "input": "Alcune delle parole \"rana\", \"piacere\", \"erboristeria\", \"formalità\" e \"stanza\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "46",
+    "input": "Alcune delle parole \"fatturazione\", \"clavicembalo\", \"appartamento\", \"infermiere\" e \"collo\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "65",
+    "input": "Alcune delle parole \"bronzo\", \"ministro\", \"peperone\", \"volta\" e \"bottone\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "88",
+    "input": "Alcune delle parole \"cuoco\", \"coscia\", \"ginocchio\", \"cucchiaino\" e \"fatica\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "105",
+    "input": "Alcune delle parole \"palmo\", \"sardina\", \"partito\", \"soluzione\" e \"adulto\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "161",
+    "input": "Alcune delle parole \"legge\", \"fuoco\", \"cacciavite\", \"bicicletta\" e \"problema\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "183",
+    "input": "Alcune delle parole \"cappello\", \"politica\", \"martedì\", \"ferrovia\" e \"guanti\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "Alcune delle parole \"tavolo\", \"maestro\", \"taxi\", \"batteria\" e \"supermercato\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "244",
+    "input": "Alcune delle parole \"cuoco\", \"escursionismo\", \"adulto\", \"cerniera\" e \"fiducia\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "252",
+    "input": "Alcune delle parole \"sindaco\", \"pallacanestro\", \"aeroporto\", \"ravanello\" e \"minoranza\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "266",
+    "input": "Alcune delle parole \"elefante\", \"terremoto\", \"flauto\", \"paura\" e \"appartamento\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "Alcune delle parole \"rosso\", \"esempio\", \"falegname\", \"bottone\" e \"piede\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "320",
+    "input": "Alcune delle parole \"campo\", \"regole\", \"oreficeria\", \"olfatto\" e \"lunedì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "350",
+    "input": "Alcune delle parole \"vista\", \"preposizione\", \"potenza\", \"terra\" e \"donna\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "Alcune delle parole \"soluzione\", \"autobus\", \"collina\", \"pensiero\" e \"ufficio\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "367",
+    "input": "Alcune delle parole \"barbabietola\", \"serie\", \"bambino\", \"cappello\" e \"dottoressa\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "385",
+    "input": "Alcune delle parole \"umano\", \"maiale\", \"libreria\", \"giovedì\" e \"slip\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "401",
+    "input": "Alcune delle parole \"rotaia\", \"musical\", \"vite\", \"panetteria\" e \"traffico\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "431",
+    "input": "Alcune delle parole \"prodotto\", \"falco\", \"sensazione\", \"autorità\" e \"politico\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "447",
+    "input": "Alcune delle parole \"cerniera\", \"vapore\", \"forza\", \"scuola\" e \"regole\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "Alcune delle parole \"nero\", \"uccello\", \"bottone\", \"riunione\" e \"governatrice\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "533",
+    "input": "Alcune delle parole \"carrozza\", \"sensazione\", \"atto\", \"dottoressa\" e \"totale\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "535",
+    "input": "Alcune delle parole \"nonna\", \"empatia\", \"quartiere\", \"occhiali\" e \"suocero\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "538",
+    "input": "Alcune delle parole \"sequenza\", \"cugina\", \"tsunami\", \"calze\" e \"labbro\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "541",
+    "input": "Alcune delle parole \"destinazione\", \"pronome\", \"dente\", \"ferro\" e \"rosso\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "562",
+    "input": "Alcune delle parole \"peperone\", \"obiettivo\", \"biliardo\", \"aquila\" e \"edificio\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "579",
+    "input": "Alcune delle parole \"maglione\", \"palmo\", \"collo\", \"serpente\" e \"piacere\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "594",
+    "input": "Alcune delle parole \"pattinaggio\", \"tennis\", \"bar\", \"pizzeria\" e \"giardiniere\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "596",
+    "input": "Alcune delle parole \"copisteria\", \"imprenditore\", \"martello\", \"chiave\" e \"errore\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "610",
+    "input": "Alcune delle parole \"chiave\", \"possibilità\", \"giraffa\", \"magenta\" e \"camicia\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "650",
+    "input": "Alcune delle parole \"porta\", \"aumento\", \"surf\", \"ghiaccio\" e \"calzolaio\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "691",
+    "input": "Alcune delle parole \"noia\", \"tavolo\", \"magenta\", \"traffico\" e \"tassista\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "709",
+    "input": "Alcune delle parole \"pentathlon\", \"hockey\", \"maglietta\", \"adulta\" e \"patate\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "724",
+    "input": "Alcune delle parole \"aragosta\", \"oro\", \"millilitro\", \"fiume\" e \"natura\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "763",
+    "input": "Alcune delle parole \"significato\", \"sedere\", \"telecamera\", \"cameriere\" e \"provincia\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "795",
+    "input": "Alcune delle parole \"arancione\", \"giubbotto\", \"maglioncino\", \"ragno\" e \"velocità\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "827",
+    "input": "Alcune delle parole \"coltello\", \"sensazione\", \"tema\", \"larghezza\" e \"mare\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "832",
+    "input": "Alcune delle parole \"cervello\", \"reggiseno\", \"miglioramento\", \"democrazia\" e \"capelli\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "Alcune delle parole \"decreto\", \"paese\", \"senso\", \"settore\" e \"banca\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "890",
+    "input": "Alcune delle parole \"panetteria\", \"coscienza\", \"governo\", \"carota\" e \"baffi\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "Alcune delle parole \"governo\", \"oggetto\", \"tram\", \"chiave\" e \"oceano\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "958",
+    "input": "Alcune delle parole \"bagno\", \"essere\", \"pompiere\", \"bieta\" e \"ingegnere\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "967",
+    "input": "Alcune delle parole \"carota\", \"babbuino\", \"padre\", \"cappotto\" e \"lunedì\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "979",
+    "input": "Alcune delle parole \"attrice\", \"ghiaccio\", \"sciarpa\", \"costa\" e \"provincia\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "993",
+    "input": "Alcune delle parole \"arrampicata\", \"coniuge\", \"miglioramento\", \"libreria\" e \"casa\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1022",
+    "input": "Qualcuna delle parole \"presente\", \"autista\", \"bugia\", \"futuro\" e \"incremento\" rappresenta trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1048",
+    "input": "Qualcuna delle parole \"donna\", \"falegname\", \"cucchiaino\", \"erboristeria\" e \"amico\" rappresenta sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1053",
+    "input": "Qualcuna delle parole \"ascensore\", \"possibilità\", \"pianura\", \"giovedì\" e \"bambina\" rappresenta professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1055",
+    "input": "Qualcuna delle parole \"aquila\", \"caso\", \"motocicletta\", \"maglioncino\" e \"metallo\" rappresenta spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1063",
+    "input": "Qualcuna delle parole \"mercato\", \"specie\", \"zia\", \"ginnastica\" e \"metallo\" rappresenta aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1072",
+    "input": "Qualcuna delle parole \"creazione\", \"difesa\", \"programmatore\", \"tromba\" e \"cavalletta\" rappresenta termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1108",
+    "input": "Qualcuna delle parole \"cervello\", \"esperienza\", \"gomito\", \"cittadina\" e \"pesce\" rappresenta animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1135",
+    "input": "Qualcuna delle parole \"edificio\", \"deputato\", \"giardiniere\", \"bancario\" e \"cugina\" rappresenta posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1148",
+    "input": "Qualcuna delle parole \"mais\", \"salumeria\", \"bianco\", \"sorella\" e \"drammatico\" rappresenta vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1153",
+    "input": "Qualcuna delle parole \"senatrice\", \"amico\", \"mutande\", \"viola\" e \"babbuino\" rappresenta animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1205",
+    "input": "Qualcuna delle parole \"coltello\", \"barbiere\", \"gas\", \"situazione\" e \"riduzione\" rappresenta genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1210",
+    "input": "Qualcuna delle parole \"tennis\", \"provincia\", \"genitore\", \"montagna\" e \"bieta\" rappresenta ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1232",
+    "input": "Qualcuna delle parole \"parola\", \"maremoto\", \"litro\", \"caratteristica\" e \"tromba\" rappresenta catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1237",
+    "input": "Qualcuna delle parole \"pallamano\", \"nuoto\", \"lembo\", \"coppia\" e \"esperienza\" rappresenta professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1259",
+    "input": "Qualcuna delle parole \"barbiere\", \"transazione\", \"bottone\", \"luogo\" e \"formalità\" rappresenta utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1268",
+    "input": "Qualcuna delle parole \"soluzione\", \"bocca\", \"carpentiere\", \"fallimento\" e \"individuo\" rappresenta misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1319",
+    "input": "Qualcuna delle parole \"democrazia\", \"cameriere\", \"quantità\", \"strada\" e \"difficoltà\" rappresenta termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1343",
+    "input": "Qualcuna delle parole \"labbro\", \"violetto\", \"tennis\", \"judo\" e \"carpentiere\" rappresenta termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1384",
+    "input": "Qualcuna delle parole \"nazione\", \"stinco\", \"cipolla\", \"diritti\" e \"thriller\" rappresenta colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1408",
+    "input": "Qualcuna delle parole \"dottore\", \"gorilla\", \"triathlon\", \"conoscenza\" e \"muscolo\" rappresenta posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1428",
+    "input": "Qualcuna delle parole \"effetto\", \"incontro\", \"velocità\", \"pace\" e \"larghezza\" rappresenta catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1437",
+    "input": "Qualcuna delle parole \"fatica\", \"indice\", \"autista\", \"biliardo\" e \"taxi\" rappresenta trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1444",
+    "input": "Qualcuna delle parole \"felicità\", \"commissione\", \"pace\", \"tavolo\" e \"capacità\" rappresenta misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1450",
+    "input": "Qualcuna delle parole \"elettricista\", \"riduzione\", \"pianoforte\", \"cugino\" e \"nonno\" rappresenta animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1462",
+    "input": "Qualcuna delle parole \"erboristeria\", \"ginocchio\", \"nonna\", \"cavo\" e \"organizzazione\" rappresenta verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1470",
+    "input": "Qualcuna delle parole \"naso\", \"amica\", \"partito\", \"parola\" e \"salotto\" rappresenta arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1473",
+    "input": "Qualcuna delle parole \"terra\", \"chilo\", \"carrozza\", \"nonna\" e \"potenza\" rappresenta vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1491",
+    "input": "Qualcuna delle parole \"cetriolo\", \"segretario\", \"valore\", \"foresta\" e \"conflitto\" rappresenta termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1501",
+    "input": "Qualcuna delle parole \"casa\", \"bianco\", \"pittore\", \"forza\" e \"corda\" rappresenta arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1503",
+    "input": "Qualcuna delle parole \"movimento\", \"barba\", \"tatto\", \"volta\" e \"gatto\" rappresenta termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1506",
+    "input": "Qualcuna delle parole \"rotaia\", \"biologo\", \"salumeria\", \"lingua\" e \"verità\" rappresenta termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1519",
+    "input": "Qualcuna delle parole \"adolescente\", \"fune\", \"uomo\", \"difficoltà\" e \"presenza\" rappresenta genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1536",
+    "input": "Qualcuna delle parole \"pescheria\", \"architetto\", \"slavina\", \"fango\" e \"tuta\" rappresenta catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1587",
+    "input": "Qualcuna delle parole \"coppia\", \"diritti\", \"hockey\", \"cuore\" e \"mosca\" rappresenta animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1660",
+    "input": "Qualcuna delle parole \"mignolo\", \"lunghezza\", \"hotel\", \"trasporto\" e \"tipo\" rappresenta trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1677",
+    "input": "Qualcuna delle parole \"attenzione\", \"biliardo\", \"politico\", \"monopattino\" e \"farmacia\" rappresenta utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1728",
+    "input": "Qualcuna delle parole \"muscolo\", \"leopardo\", \"tennis\", \"programma\" e \"viola\" rappresenta sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1751",
+    "input": "Qualcuna delle parole \"regione\", \"specie\", \"mercoledì\", \"metallo\" e \"ginocchio\" rappresenta materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1777",
+    "input": "Qualcuna delle parole \"scacchi\", \"maglietta\", \"monte\", \"coniuge\" e \"rugby\" rappresenta parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1783",
+    "input": "Qualcuna delle parole \"deserto\", \"clavicembalo\", \"indice\", \"zip\" e \"associazione\" rappresenta misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1793",
+    "input": "Qualcuna delle parole \"dimensione\", \"pecora\", \"calzolaio\", \"azienda\" e \"madre\" rappresenta catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1796",
+    "input": "Qualcuna delle parole \"osso\", \"signore\", \"giacca\", \"ingegnere\" e \"coscienza\" rappresenta termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1819",
+    "input": "Qualcuna delle parole \"pianoforte\", \"lombrico\", \"vapore\", \"panetteria\" e \"coccodrillo\" rappresenta ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1832",
+    "input": "Qualcuna delle parole \"cervello\", \"reggiseno\", \"miglioramento\", \"democrazia\" e \"capelli\" rappresenta spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1875",
+    "input": "Qualcuna delle parole \"cappotto\", \"spavento\", \"canottaggio\", \"dittatura\" e \"carabiniere\" rappresenta catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1902",
+    "input": "Qualcuna delle parole \"nome\", \"blu\", \"occasione\", \"vite\" e \"autobus\" rappresenta classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1932",
+    "input": "Qualcuna delle parole \"stinco\", \"drammatico\", \"successo\", \"caviglia\" e \"terremoto\" rappresenta termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1942",
+    "input": "Qualcuna delle parole \"esistenza\", \"consiglio\", \"cacciavite\", \"arpa\" e \"giungla\" rappresenta trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1967",
+    "input": "Qualcuna delle parole \"carota\", \"babbuino\", \"padre\", \"cappotto\" e \"lunedì\" rappresenta parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1971",
+    "input": "Qualcuna delle parole \"scoiattolo\", \"drammatico\", \"olfatto\", \"viale\" e \"passero\" rappresenta giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1973",
+    "input": "Qualcuna delle parole \"pianura\", \"monopattino\", \"incremento\", \"scarpe\" e \"presente\" rappresenta vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "2005",
+    "input": "L'elenco [\"pianura\", \"imprenditore\", \"direzione\", \"capelli\", \"sequenza\"] contiene termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2043",
+    "input": "L'elenco [\"sposa\", \"cavolfiore\", \"carattere\", \"pastificio\", \"elettricista\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2047",
+    "input": "L'elenco [\"cetriolo\", \"grammo\", \"formalità\", \"coppia\", \"vestito\"] contiene parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2048",
+    "input": "L'elenco [\"donna\", \"falegname\", \"cucchiaino\", \"erboristeria\", \"amico\"] contiene sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2057",
+    "input": "L'elenco [\"infante\", \"corso\", \"zip\", \"pescheria\", \"padel\"] contiene classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2084",
+    "input": "L'elenco [\"aglio\", \"cucchiaio\", \"postino\", \"fune\", \"monte\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2097",
+    "input": "L'elenco [\"barbiere\", \"imprenditore\", \"tassista\", \"millilitro\", \"infante\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2098",
+    "input": "L'elenco [\"guardiano\", \"valore\", \"provincia\", \"pizzeria\", \"bronzo\"] contiene materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2133",
+    "input": "L'elenco [\"falegname\", \"monopattino\", \"tassista\", \"specie\", \"ospedale\"] contiene misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2135",
+    "input": "L'elenco [\"edificio\", \"deputato\", \"giardiniere\", \"bancario\", \"cugina\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2148",
+    "input": "L'elenco [\"mais\", \"salumeria\", \"bianco\", \"sorella\", \"drammatico\"] contiene vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2157",
+    "input": "L'elenco [\"zia\", \"qualità\", \"oreficeria\", \"gorilla\", \"cosa\"] contiene verdure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2164",
+    "input": "L'elenco [\"tassista\", \"difficoltà\", \"mercoledì\", \"figlia\", \"bus\"] contiene giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2170",
+    "input": "L'elenco [\"quartiere\", \"fuoco\", \"memoria\", \"pecora\", \"rosa\"] contiene termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2238",
+    "input": "L'elenco [\"stivali\", \"aggettivo\", \"infante\", \"vite\", \"guerra\"] contiene classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2242",
+    "input": "L'elenco [\"mucca\", \"cucina\", \"cittadina\", \"frana\", \"conflitto\"] contiene classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2274",
+    "input": "L'elenco [\"traffico\", \"fune\", \"scarafaggio\", \"bocca\", \"rotaia\"] contiene giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2293",
+    "input": "L'elenco [\"miglioramento\", \"canottaggio\", \"blu\", \"gas\", \"noia\"] contiene vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2301",
+    "input": "L'elenco [\"panettiere\", \"industria\", \"decremento\", \"thriller\", \"canale\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2306",
+    "input": "L'elenco [\"chilo\", \"panettiere\", \"giardiniere\", \"paese\", \"asparago\"] contiene classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2323",
+    "input": "L'elenco [\"campo\", \"violetto\", \"carota\", \"barbabietola\", \"cavolo\"] contiene spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2369",
+    "input": "L'elenco [\"millilitro\", \"acqua\", \"guardiano\", \"cameriere\", \"gomito\"] contiene sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2396",
+    "input": "L'elenco [\"beneficio\", \"chiocciola\", \"azzurro\", \"ragione\", \"azienda\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2409",
+    "input": "L'elenco [\"finestra\", \"maglietta\", \"poliziotto\", \"interruzione\", \"fiume\"] contiene vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2446",
+    "input": "L'elenco [\"olfatto\", \"chilometro\", \"ragione\", \"sorpresa\", \"aeroporto\"] contiene professioni? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2480",
+    "input": "L'elenco [\"fantascienza\", \"judo\", \"bagno\", \"gente\", \"rotaia\"] contiene colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2481",
+    "input": "L'elenco [\"decremento\", \"sostantivo\", \"zia\", \"problema\", \"calze\"] contiene professioni? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2500",
+    "input": "L'elenco [\"ravanello\", \"baseball\", \"gomito\", \"operaio\", \"elefante\"] contiene verdure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2502",
+    "input": "L'elenco [\"schiena\", \"carciofo\", \"pecora\", \"pastificio\", \"attore\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2505",
+    "input": "L'elenco [\"riunione\", \"bambina\", \"pollice\", \"signore\", \"farmacia\"] contiene termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2507",
+    "input": "L'elenco [\"dentista\", \"tornado\", \"fiume\", \"karate\", \"programma\"] contiene sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2593",
+    "input": "L'elenco [\"figlia\", \"stazione\", \"fermata\", \"pisello\", \"bosco\"] contiene termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2597",
+    "input": "L'elenco [\"inondazione\", \"zip\", \"società\", \"suocera\", \"giungla\"] contiene vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2605",
+    "input": "L'elenco [\"mutande\", \"chiave\", \"guanti\", \"ufficio\", \"adulto\"] contiene parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2612",
+    "input": "L'elenco [\"sensazione\", \"appartamento\", \"zaino\", \"società\", \"struttura\"] contiene giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2640",
+    "input": "L'elenco [\"nipote\", \"attrice\", \"posizione\", \"narice\", \"polipo\"] contiene spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2641",
+    "input": "L'elenco [\"totale\", \"farfalla\", \"esempio\", \"autostrada\", \"verbo\"] contiene termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2642",
+    "input": "L'elenco [\"posizione\", \"grado\", \"pianoforte\", \"escursionismo\", \"tassista\"] contiene strumenti musicali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2650",
+    "input": "L'elenco [\"porta\", \"aumento\", \"surf\", \"ghiaccio\", \"calzolaio\"] contiene materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2678",
+    "input": "L'elenco [\"pastificio\", \"broccoli\", \"compagnia\", \"manopola\", \"attacco\"] contiene termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2729",
+    "input": "L'elenco [\"tromba\", \"struttura\", \"bugia\", \"attacco\", \"grigio\"] contiene arredamento o parti di casa? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2732",
+    "input": "L'elenco [\"pisello\", \"zip\", \"fattura\", \"barbiere\", \"consiglio\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2757",
+    "input": "L'elenco [\"paese\", \"tennis\", \"bimba\", \"zanzara\", \"percezione\"] contiene misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2820",
+    "input": "L'elenco [\"collina\", \"problema\", \"legge\", \"aquila\", \"lingua\"] contiene animali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2827",
+    "input": "L'elenco [\"coltello\", \"sensazione\", \"tema\", \"larghezza\", \"mare\"] contiene ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2843",
+    "input": "L'elenco [\"decreto\", \"paese\", \"senso\", \"settore\", \"banca\"] contiene vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2850",
+    "input": "L'elenco [\"zanzara\", \"gonna\", \"mais\", \"laguna\", \"atto\"] contiene vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2865",
+    "input": "L'elenco [\"possibilità\", \"relazione\", \"autostrada\", \"figlio\", \"telecamera\"] contiene trasporto? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2889",
+    "input": "L'elenco [\"musical\", \"bianco\", \"pallanuoto\", \"nuora\", \"bisnonna\"] contiene posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2916",
+    "input": "L'elenco [\"nave\", \"fattura\", \"giovedì\", \"osso\", \"manopola\"] contiene utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2930",
+    "input": "L'elenco [\"rosso\", \"provincia\", \"paura\", \"strada\", \"esistenza\"] contiene trasporto? Rispondi o 'sì' o 'no'."
+  }
+]

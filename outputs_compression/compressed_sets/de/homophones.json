@@ -1,0 +1,3762 @@
+[
+  {
+    "id": "1",
+    "input": "Welches Wort klingt wie das Wort \"Meer\": \"mehr\" oder \"Vater\"?"
+  },
+  {
+    "id": "8",
+    "input": "Welches Wort klingt wie das Wort \"Meer\": \"See\" oder \"mehr\"?"
+  },
+  {
+    "id": "16",
+    "input": "Welches Wort klingt wie das Wort \"Kati\": \"Schaf\" oder \"Kathi\"?"
+  },
+  {
+    "id": "21",
+    "input": "Welches Wort klingt wie das Wort \"Cayman\": \"Kaiman\" oder \"Zwiebel\"?"
+  },
+  {
+    "id": "23",
+    "input": "Welches Wort klingt wie das Wort \"Cayman\": \"Kaiman\" oder \"Zentimeter\"?"
+  },
+  {
+    "id": "31",
+    "input": "Welches Wort klingt wie das Wort \"gekillter\": \"gekielter\" oder \"Zentimeter\"?"
+  },
+  {
+    "id": "40",
+    "input": "Welches Wort klingt wie das Wort \"Rettungsbote\": \"Eisen\" oder \"Rettungsboote\"?"
+  },
+  {
+    "id": "41",
+    "input": "Welches Wort klingt wie das Wort \"gebrauchsgrafische\": \"gebrauchsgraphische\" oder \"letzter\"?"
+  },
+  {
+    "id": "43",
+    "input": "Welches Wort klingt wie das Wort \"gebrauchsgrafische\": \"gebrauchsgraphische\" oder \"Organisation\"?"
+  },
+  {
+    "id": "44",
+    "input": "Welches Wort klingt wie das Wort \"gebrauchsgrafische\": \"Organisation\" oder \"gebrauchsgraphische\"?"
+  },
+  {
+    "id": "45",
+    "input": "Welches Wort klingt wie das Wort \"gebrauchsgrafische\": \"gebrauchsgraphische\" oder \"Cafeteria\"?"
+  },
+  {
+    "id": "50",
+    "input": "Welches Wort klingt wie das Wort \"vorw\\xc3\\xa4rtsspringst\": \"tragen\" oder \"vorw\\xc3\\xa4rtsbringst\"?"
+  },
+  {
+    "id": "52",
+    "input": "Welches Wort klingt wie das Wort \"vorw\\xc3\\xa4rtsspringst\": \"immer\" oder \"vorw\\xc3\\xa4rtsbringst\"?"
+  },
+  {
+    "id": "53",
+    "input": "Welches Wort klingt wie das Wort \"vorw\\xc3\\xa4rtsspringst\": \"vorw\\xc3\\xa4rtsbringst\" oder \"begleiten\"?"
+  },
+  {
+    "id": "62",
+    "input": "Welches Wort klingt wie das Wort \"Ministerien\": \"erschweren\" oder \"Ministerin\"?"
+  },
+  {
+    "id": "66",
+    "input": "Welches Wort klingt wie das Wort \"Paragraphendickicht\": \"gelangweilt\" oder \"Paragrafendickicht\"?"
+  },
+  {
+    "id": "72",
+    "input": "Welches Wort klingt wie das Wort \"Paragraphendickicht\": \"Adjektiv\" oder \"Paragrafendickicht\"?"
+  },
+  {
+    "id": "73",
+    "input": "Welches Wort klingt wie das Wort \"Naa\": \"na\" oder \"bis\"?"
+  },
+  {
+    "id": "74",
+    "input": "Welches Wort klingt wie das Wort \"Naa\": \"bis\" oder \"na\"?"
+  },
+  {
+    "id": "79",
+    "input": "Welches Wort klingt wie das Wort \"Naa\": \"na\" oder \"Samstag\"?"
+  },
+  {
+    "id": "83",
+    "input": "Welches Wort klingt wie das Wort \"Kraftwerkstandorte\": \"Kraftwerksstandorte\" oder \"Käfer\"?"
+  },
+  {
+    "id": "87",
+    "input": "Welches Wort klingt wie das Wort \"Kraftwerkstandorte\": \"Kraftwerksstandorte\" oder \"besonders\"?"
+  },
+  {
+    "id": "93",
+    "input": "Welches Wort klingt wie das Wort \"Modellflugclu\": \"Modellflugklu\" oder \"sozial\"?"
+  },
+  {
+    "id": "98",
+    "input": "Welches Wort klingt wie das Wort \"Kadmiums\": \"Baby\" oder \"Cadmiums\"?"
+  },
+  {
+    "id": "99",
+    "input": "Welches Wort klingt wie das Wort \"Kadmiums\": \"Cadmiums\" oder \"Hund\"?"
+  },
+  {
+    "id": "101",
+    "input": "Welches Wort klingt wie das Wort \"Kadmiums\": \"Cadmiums\" oder \"Socken\"?"
+  },
+  {
+    "id": "102",
+    "input": "Welches Wort klingt wie das Wort \"Kadmiums\": \"Socken\" oder \"Cadmiums\"?"
+  },
+  {
+    "id": "105",
+    "input": "Welches Wort klingt wie das Wort \"Stra\\xc3\\x9fenname\": \"Stra\\xc3\\x9fennahme\" oder \"Ebene\"?"
+  },
+  {
+    "id": "109",
+    "input": "Welches Wort klingt wie das Wort \"Stra\\xc3\\x9fenname\": \"Stra\\xc3\\x9fennahme\" oder \"Schreibtisch\"?"
+  },
+  {
+    "id": "111",
+    "input": "Welches Wort klingt wie das Wort \"Stra\\xc3\\x9fenname\": \"Stra\\xc3\\x9fennahme\" oder \"Maler\"?"
+  },
+  {
+    "id": "120",
+    "input": "Welches Wort klingt wie das Wort \"Wissenschaftsbibliographien\": \"Straßenfeger\" oder \"Wissenschaftsbibliografien\"?"
+  },
+  {
+    "id": "127",
+    "input": "Welches Wort klingt wie das Wort \"Drink\": \"trink\" oder \"führend\"?"
+  },
+  {
+    "id": "144",
+    "input": "Welches Wort klingt wie das Wort \"Sportmikrophons\": \"erschrecken\" oder \"Sportmikrofons\"?"
+  },
+  {
+    "id": "145",
+    "input": "Welches Wort klingt wie das Wort \"Tagesspruch\": \"Tagesbruch\" oder \"Verlauf\"?"
+  },
+  {
+    "id": "147",
+    "input": "Welches Wort klingt wie das Wort \"Tagesspruch\": \"Tagesbruch\" oder \"Bahn\"?"
+  },
+  {
+    "id": "163",
+    "input": "Welches Wort klingt wie das Wort \"aufgehakt\": \"aufgehackt\" oder \"Problem\"?"
+  },
+  {
+    "id": "168",
+    "input": "Welches Wort klingt wie das Wort \"aufgehakt\": \"nahe\" oder \"aufgehackt\"?"
+  },
+  {
+    "id": "181",
+    "input": "Welches Wort klingt wie das Wort \"trackt\": \"Trakt\" oder \"Höhe\"?"
+  },
+  {
+    "id": "185",
+    "input": "Welches Wort klingt wie das Wort \"fortzuziehendes\": \"vorzuziehendes\" oder \"Lösung\"?"
+  },
+  {
+    "id": "193",
+    "input": "Welches Wort klingt wie das Wort \"Vorzeigeclubs\": \"Vorzeigeklubs\" oder \"normal\"?"
+  },
+  {
+    "id": "197",
+    "input": "Welches Wort klingt wie das Wort \"Vorzeigeclubs\": \"Vorzeigeklubs\" oder \"Schlagzeug\"?"
+  },
+  {
+    "id": "199",
+    "input": "Welches Wort klingt wie das Wort \"Vorzeigeclubs\": \"Vorzeigeklubs\" oder \"Präsident\"?"
+  },
+  {
+    "id": "203",
+    "input": "Welches Wort klingt wie das Wort \"Tennisclu\": \"Tennisklu\" oder \"Präsidentin\"?"
+  },
+  {
+    "id": "207",
+    "input": "Welches Wort klingt wie das Wort \"Tennisclu\": \"Tennisklu\" oder \"Typ\"?"
+  },
+  {
+    "id": "213",
+    "input": "Welches Wort klingt wie das Wort \"Lieblingsklubs\": \"Lieblingsclubs\" oder \"Brust\"?"
+  },
+  {
+    "id": "222",
+    "input": "Welches Wort klingt wie das Wort \"Querschnittsstudien\": \"Gemeinde\" oder \"Querschnittstudien\"?"
+  },
+  {
+    "id": "226",
+    "input": "Welches Wort klingt wie das Wort \"vorzulassen\": \"weil\" oder \"fortzulassen\"?"
+  },
+  {
+    "id": "233",
+    "input": "Welches Wort klingt wie das Wort \"kodiertest\": \"codiertest\" oder \"Stellvertreter\"?"
+  },
+  {
+    "id": "239",
+    "input": "Welches Wort klingt wie das Wort \"kodiertest\": \"codiertest\" oder \"einsam\"?"
+  },
+  {
+    "id": "244",
+    "input": "Welches Wort klingt wie das Wort \"Burkard\": \"Kassierer\" oder \"Burkart\"?"
+  },
+  {
+    "id": "248",
+    "input": "Welches Wort klingt wie das Wort \"Burkard\": \"Folge\" oder \"Burkart\"?"
+  },
+  {
+    "id": "252",
+    "input": "Welches Wort klingt wie das Wort \"Demographien\": \"September\" oder \"Demographin\"?"
+  },
+  {
+    "id": "257",
+    "input": "Welches Wort klingt wie das Wort \"mehr\": \"Meer\" oder \"Ton\"?"
+  },
+  {
+    "id": "264",
+    "input": "Welches Wort klingt wie das Wort \"mehr\": \"aktuell\" oder \"Meer\"?"
+  },
+  {
+    "id": "265",
+    "input": "Welches Wort klingt wie das Wort \"Bundesbrechers\": \"Bundessprechers\" oder \"glauben\"?"
+  },
+  {
+    "id": "267",
+    "input": "Welches Wort klingt wie das Wort \"Bundesbrechers\": \"Bundessprechers\" oder \"Ingenieurin\"?"
+  },
+  {
+    "id": "269",
+    "input": "Welches Wort klingt wie das Wort \"Bundesbrechers\": \"Bundessprechers\" oder \"Abteilung\"?"
+  },
+  {
+    "id": "274",
+    "input": "Welches Wort klingt wie das Wort \"Geografieinstitut\": \"Auto\" oder \"Geographieinstitut\"?"
+  },
+  {
+    "id": "284",
+    "input": "Welches Wort klingt wie das Wort \"Seiten\": \"kaufen\" oder \"Saiten\"?"
+  },
+  {
+    "id": "289",
+    "input": "Welches Wort klingt wie das Wort \"Agrar\\xc3\\xb6konomien\": \"Agrar\\xc3\\xb6konomin\" oder \"Friseur\"?"
+  },
+  {
+    "id": "295",
+    "input": "Welches Wort klingt wie das Wort \"Agrar\\xc3\\xb6konomien\": \"Agrar\\xc3\\xb6konomin\" oder \"billig\"?"
+  },
+  {
+    "id": "297",
+    "input": "Welches Wort klingt wie das Wort \"Graphikdatenverarbeitung\": \"Grafikdatenverarbeitung\" oder \"genießen\"?"
+  },
+  {
+    "id": "298",
+    "input": "Welches Wort klingt wie das Wort \"Graphikdatenverarbeitung\": \"genießen\" oder \"Grafikdatenverarbeitung\"?"
+  },
+  {
+    "id": "301",
+    "input": "Welches Wort klingt wie das Wort \"Graphikdatenverarbeitung\": \"Grafikdatenverarbeitung\" oder \"Ärmel\"?"
+  },
+  {
+    "id": "321",
+    "input": "Welches Wort klingt wie das Wort \"glichst\": \"klickst\" oder \"Wissenschaftlerin\"?"
+  },
+  {
+    "id": "322",
+    "input": "Welches Wort klingt wie das Wort \"glichst\": \"Wissenschaftlerin\" oder \"klickst\"?"
+  },
+  {
+    "id": "332",
+    "input": "Welches Wort klingt wie das Wort \"Ministerratsitzung\": \"Bahnhof\" oder \"Ministerratssitzung\"?"
+  },
+  {
+    "id": "338",
+    "input": "Welches Wort klingt wie das Wort \"Catarina\": \"August\" oder \"Katarina\"?"
+  },
+  {
+    "id": "352",
+    "input": "Welches Wort klingt wie das Wort \"scharrten\": \"Ehemann\" oder \"scharten\"?"
+  },
+  {
+    "id": "353",
+    "input": "Welches Wort klingt wie das Wort \"Spitzenfu\\xc3\\x9fballklubs\": \"Spitzenfu\\xc3\\x9fballclubs\" oder \"Montag\"?"
+  },
+  {
+    "id": "357",
+    "input": "Welches Wort klingt wie das Wort \"Spitzenfu\\xc3\\x9fballklubs\": \"Spitzenfu\\xc3\\x9fballclubs\" oder \"Hund\"?"
+  },
+  {
+    "id": "363",
+    "input": "Welches Wort klingt wie das Wort \"Walbeobachtern\": \"Wahlbeobachtern\" oder \"Tasche\"?"
+  },
+  {
+    "id": "365",
+    "input": "Welches Wort klingt wie das Wort \"Walbeobachtern\": \"Wahlbeobachtern\" oder \"einzigartig\"?"
+  },
+  {
+    "id": "366",
+    "input": "Welches Wort klingt wie das Wort \"Walbeobachtern\": \"einzigartig\" oder \"Wahlbeobachtern\"?"
+  },
+  {
+    "id": "372",
+    "input": "Welches Wort klingt wie das Wort \"gebloggt\": \"Neffe\" oder \"geblockt\"?"
+  },
+  {
+    "id": "380",
+    "input": "Welches Wort klingt wie das Wort \"Thalheims\": \"Schwester\" oder \"Talheims\"?"
+  },
+  {
+    "id": "385",
+    "input": "Welches Wort klingt wie das Wort \"grafologischen\": \"graphologischen\" oder \"Ereignis\"?"
+  },
+  {
+    "id": "389",
+    "input": "Welches Wort klingt wie das Wort \"grafologischen\": \"graphologischen\" oder \"beißen\"?"
+  },
+  {
+    "id": "392",
+    "input": "Welches Wort klingt wie das Wort \"grafologischen\": \"Slip\" oder \"graphologischen\"?"
+  },
+  {
+    "id": "395",
+    "input": "Welches Wort klingt wie das Wort \"Medienklubs\": \"Medienclubs\" oder \"Segeln\"?"
+  },
+  {
+    "id": "403",
+    "input": "Welches Wort klingt wie das Wort \"biographiebezogenem\": \"biografiebezogenem\" oder \"Zimmer\"?"
+  },
+  {
+    "id": "408",
+    "input": "Welches Wort klingt wie das Wort \"biographiebezogenem\": \"Motorrad\" oder \"biografiebezogenem\"?"
+  },
+  {
+    "id": "413",
+    "input": "Welches Wort klingt wie das Wort \"prallst\": \"prahlst\" oder \"erfreut\"?"
+  },
+  {
+    "id": "416",
+    "input": "Welches Wort klingt wie das Wort \"prallst\": \"Qualität\" oder \"prahlst\"?"
+  },
+  {
+    "id": "418",
+    "input": "Welches Wort klingt wie das Wort \"sichtest\": \"riechen\" oder \"siechtest\"?"
+  },
+  {
+    "id": "420",
+    "input": "Welches Wort klingt wie das Wort \"sichtest\": \"Silber\" oder \"siechtest\"?"
+  },
+  {
+    "id": "423",
+    "input": "Welches Wort klingt wie das Wort \"sichtest\": \"siechtest\" oder \"nie\"?"
+  },
+  {
+    "id": "426",
+    "input": "Welches Wort klingt wie das Wort \"wegkarrten\": \"beabsichtigen\" oder \"Wegkarten\"?"
+  },
+  {
+    "id": "431",
+    "input": "Welches Wort klingt wie das Wort \"wegkarrten\": \"Wegkarten\" oder \"Ortschaft\"?"
+  },
+  {
+    "id": "432",
+    "input": "Welches Wort klingt wie das Wort \"wegkarrten\": \"Ortschaft\" oder \"Wegkarten\"?"
+  },
+  {
+    "id": "436",
+    "input": "Welches Wort klingt wie das Wort \"Theresas\": \"Summe\" oder \"Teresas\"?"
+  },
+  {
+    "id": "439",
+    "input": "Welches Wort klingt wie das Wort \"Theresas\": \"Teresas\" oder \"außerdem\"?"
+  },
+  {
+    "id": "446",
+    "input": "Welches Wort klingt wie das Wort \"Nachtfantasie\": \"Eidechse\" oder \"Nachtphantasie\"?"
+  },
+  {
+    "id": "450",
+    "input": "Welches Wort klingt wie das Wort \"Klubtiteln\": \"gestern\" oder \"Clubtiteln\"?"
+  },
+  {
+    "id": "457",
+    "input": "Welches Wort klingt wie das Wort \"abgehackten\": \"abgehakten\" oder \"wegnehmen\"?"
+  },
+  {
+    "id": "458",
+    "input": "Welches Wort klingt wie das Wort \"abgehackten\": \"wegnehmen\" oder \"abgehakten\"?"
+  },
+  {
+    "id": "470",
+    "input": "Welches Wort klingt wie das Wort \"physiogeographisch\": \"Angst\" oder \"physiogeografisch\"?"
+  },
+  {
+    "id": "473",
+    "input": "Welches Wort klingt wie das Wort \"Parteiklubs\": \"Parteiclubs\" oder \"Freund\"?"
+  },
+  {
+    "id": "479",
+    "input": "Welches Wort klingt wie das Wort \"Parteiklubs\": \"Parteiclubs\" oder \"Kongress\"?"
+  },
+  {
+    "id": "488",
+    "input": "Welches Wort klingt wie das Wort \"Nationalratsclu\": \"Person\" oder \"Nationalratsklu\"?"
+  },
+  {
+    "id": "534",
+    "input": "Welches Wort klingt wie das Wort \"Dentalradiografie\": \"Handgelenk\" oder \"Dentalradiographie\"?"
+  },
+  {
+    "id": "544",
+    "input": "Welches Wort klingt wie das Wort \"Klubliedes\": \"Individuum\" oder \"Clubliedes\"?"
+  },
+  {
+    "id": "546",
+    "input": "Welches Wort klingt wie das Wort \"reinklotze\": \"Bett\" oder \"reinglotze\"?"
+  },
+  {
+    "id": "552",
+    "input": "Welches Wort klingt wie das Wort \"reinklotze\": \"als\" oder \"reinglotze\"?"
+  },
+  {
+    "id": "554",
+    "input": "Welches Wort klingt wie das Wort \"Bev\\xc3\\xb6lkerungsgeografie\": \"salzig\" oder \"Bev\\xc3\\xb6lkerungsgeographie\"?"
+  },
+  {
+    "id": "559",
+    "input": "Welches Wort klingt wie das Wort \"Bev\\xc3\\xb6lkerungsgeografie\": \"Bev\\xc3\\xb6lkerungsgeographie\" oder \"Besprechung\"?"
+  },
+  {
+    "id": "572",
+    "input": "Welches Wort klingt wie das Wort \"Provinzclu\": \"Brille\" oder \"Provinzklu\"?"
+  },
+  {
+    "id": "579",
+    "input": "Welches Wort klingt wie das Wort \"Saxophonen\": \"Saxofonen\" oder \"allgemein\"?"
+  },
+  {
+    "id": "590",
+    "input": "Welches Wort klingt wie das Wort \"K\\xc3\\xbcnstlerbiografie\": \"Sicherheit\" oder \"K\\xc3\\xbcnstlerbiographie\"?"
+  },
+  {
+    "id": "594",
+    "input": "Welches Wort klingt wie das Wort \"sitzen\": \"Bäcker\" oder \"siezen\"?"
+  },
+  {
+    "id": "596",
+    "input": "Welches Wort klingt wie das Wort \"sitzen\": \"Ortschaft\" oder \"siezen\"?"
+  },
+  {
+    "id": "602",
+    "input": "Welches Wort klingt wie das Wort \"Theaterjugendclu\": \"Richter\" oder \"Theaterjugendklu\"?"
+  },
+  {
+    "id": "603",
+    "input": "Welches Wort klingt wie das Wort \"Theaterjugendclu\": \"Theaterjugendklu\" oder \"hinten\"?"
+  },
+  {
+    "id": "607",
+    "input": "Welches Wort klingt wie das Wort \"Theaterjugendclu\": \"Theaterjugendklu\" oder \"nachdem\"?"
+  },
+  {
+    "id": "620",
+    "input": "Welches Wort klingt wie das Wort \"postume\": \"Knopf\" oder \"posthume\"?"
+  },
+  {
+    "id": "625",
+    "input": "Welches Wort klingt wie das Wort \"Phantasieuniform\": \"Fantasieuniform\" oder \"bedauern\"?"
+  },
+  {
+    "id": "630",
+    "input": "Welches Wort klingt wie das Wort \"Phantasieuniform\": \"fremd\" oder \"Fantasieuniform\"?"
+  },
+  {
+    "id": "637",
+    "input": "Welches Wort klingt wie das Wort \"Literaturbibliografie\": \"Literaturbibliographie\" oder \"Bild\"?"
+  },
+  {
+    "id": "640",
+    "input": "Welches Wort klingt wie das Wort \"Literaturbibliografie\": \"Gesicht\" oder \"Literaturbibliographie\"?"
+  },
+  {
+    "id": "643",
+    "input": "Welches Wort klingt wie das Wort \"Glupschaugenbowle\": \"Glubschaugenbowle\" oder \"Bild\"?"
+  },
+  {
+    "id": "650",
+    "input": "Welches Wort klingt wie das Wort \"zudrehten\": \"Nase\" oder \"zutreten\"?"
+  },
+  {
+    "id": "652",
+    "input": "Welches Wort klingt wie das Wort \"zudrehten\": \"Neffe\" oder \"zutreten\"?"
+  },
+  {
+    "id": "658",
+    "input": "Welches Wort klingt wie das Wort \"graphitfarbener\": \"Verbot\" oder \"grafitfarbener\"?"
+  },
+  {
+    "id": "667",
+    "input": "Welches Wort klingt wie das Wort \"Kalbsteak\": \"Kalbssteak\" oder \"schreiben\"?"
+  },
+  {
+    "id": "673",
+    "input": "Welches Wort klingt wie das Wort \"Gesamtfahrtzeiten\": \"Gesamtfahrzeiten\" oder \"Mittel\"?"
+  },
+  {
+    "id": "684",
+    "input": "Welches Wort klingt wie das Wort \"Staatssendern\": \"falten\" oder \"Stadtsendern\"?"
+  },
+  {
+    "id": "685",
+    "input": "Welches Wort klingt wie das Wort \"Staatssendern\": \"Stadtsendern\" oder \"Art\"?"
+  },
+  {
+    "id": "693",
+    "input": "Welches Wort klingt wie das Wort \"Generalssta\": \"Generalsta\" oder \"Verbesserung\"?"
+  },
+  {
+    "id": "694",
+    "input": "Welches Wort klingt wie das Wort \"Generalssta\": \"Verbesserung\" oder \"Generalsta\"?"
+  },
+  {
+    "id": "696",
+    "input": "Welches Wort klingt wie das Wort \"Generalssta\": \"unter\" oder \"Generalsta\"?"
+  },
+  {
+    "id": "700",
+    "input": "Welches Wort klingt wie das Wort \"graphischem\": \"Luft\" oder \"grafischem\"?"
+  },
+  {
+    "id": "701",
+    "input": "Welches Wort klingt wie das Wort \"graphischem\": \"grafischem\" oder \"exakt\"?"
+  },
+  {
+    "id": "705",
+    "input": "Welches Wort klingt wie das Wort \"eingerahmt\": \"eingerammt\" oder \"Krieg\"?"
+  },
+  {
+    "id": "716",
+    "input": "Welches Wort klingt wie das Wort \"siedlungsgeografisches\": \"Schal\" oder \"siedlungsgeographisches\"?"
+  },
+  {
+    "id": "717",
+    "input": "Welches Wort klingt wie das Wort \"siedlungsgeografisches\": \"siedlungsgeographisches\" oder \"Geschäft\"?"
+  },
+  {
+    "id": "723",
+    "input": "Welches Wort klingt wie das Wort \"Nachtclubbesitzers\": \"Nachtklubbesitzers\" oder \"denken\"?"
+  },
+  {
+    "id": "724",
+    "input": "Welches Wort klingt wie das Wort \"Nachtclubbesitzers\": \"denken\" oder \"Nachtklubbesitzers\"?"
+  },
+  {
+    "id": "727",
+    "input": "Welches Wort klingt wie das Wort \"Nachtclubbesitzers\": \"Nachtklubbesitzers\" oder \"dann\"?"
+  },
+  {
+    "id": "730",
+    "input": "Welches Wort klingt wie das Wort \"Jonny\": \"Name\" oder \"Johnny\"?"
+  },
+  {
+    "id": "731",
+    "input": "Welches Wort klingt wie das Wort \"Jonny\": \"Johnny\" oder \"Bildschirm\"?"
+  },
+  {
+    "id": "733",
+    "input": "Welches Wort klingt wie das Wort \"Jonny\": \"Johnny\" oder \"Vereinbarung\"?"
+  },
+  {
+    "id": "742",
+    "input": "Welches Wort klingt wie das Wort \"Marlis\": \"Cousine\" oder \"Marlies\"?"
+  },
+  {
+    "id": "743",
+    "input": "Welches Wort klingt wie das Wort \"Marlis\": \"Marlies\" oder \"bedienen\"?"
+  },
+  {
+    "id": "751",
+    "input": "Welches Wort klingt wie das Wort \"Grad\": \"Grat\" oder \"Cello\"?"
+  },
+  {
+    "id": "754",
+    "input": "Welches Wort klingt wie das Wort \"Fotoleitung\": \"natürlich\" oder \"Photoleitung\"?"
+  },
+  {
+    "id": "755",
+    "input": "Welches Wort klingt wie das Wort \"Fotoleitung\": \"Photoleitung\" oder \"Urenkel\"?"
+  },
+  {
+    "id": "761",
+    "input": "Welches Wort klingt wie das Wort \"phantasielosester\": \"fantasielosester\" oder \"bewerten\"?"
+  },
+  {
+    "id": "770",
+    "input": "Welches Wort klingt wie das Wort \"triefst\": \"Meer\" oder \"triffst\"?"
+  },
+  {
+    "id": "774",
+    "input": "Welches Wort klingt wie das Wort \"triefst\": \"Nadel\" oder \"triffst\"?"
+  },
+  {
+    "id": "775",
+    "input": "Welches Wort klingt wie das Wort \"triefst\": \"triffst\" oder \"oft\"?"
+  },
+  {
+    "id": "776",
+    "input": "Welches Wort klingt wie das Wort \"triefst\": \"oft\" oder \"triffst\"?"
+  },
+  {
+    "id": "794",
+    "input": "Welches Wort klingt wie das Wort \"tagtet\": \"erstechen\" oder \"taktet\"?"
+  },
+  {
+    "id": "799",
+    "input": "Welches Wort klingt wie das Wort \"tagtet\": \"taktet\" oder \"Problem\"?"
+  },
+  {
+    "id": "800",
+    "input": "Welches Wort klingt wie das Wort \"tagtet\": \"Problem\" oder \"taktet\"?"
+  },
+  {
+    "id": "806",
+    "input": "Welches Wort klingt wie das Wort \"Mikrophonkabeln\": \"Raum\" oder \"Mikrofonkabeln\"?"
+  },
+  {
+    "id": "808",
+    "input": "Welches Wort klingt wie das Wort \"Mikrophonkabeln\": \"national\" oder \"Mikrofonkabeln\"?"
+  },
+  {
+    "id": "810",
+    "input": "Welches Wort klingt wie das Wort \"Rotohren\": \"oft\" oder \"Rotoren\"?"
+  },
+  {
+    "id": "814",
+    "input": "Welches Wort klingt wie das Wort \"Rotohren\": \"Bewusstsein\" oder \"Rotoren\"?"
+  },
+  {
+    "id": "822",
+    "input": "Welches Wort klingt wie das Wort \"Computergraphiken\": \"greifen\" oder \"Computergrafiken\"?"
+  },
+  {
+    "id": "825",
+    "input": "Welches Wort klingt wie das Wort \"zehnsaitige\": \"zehnseitige\" oder \"dermaßen\"?"
+  },
+  {
+    "id": "827",
+    "input": "Welches Wort klingt wie das Wort \"zehnsaitige\": \"zehnseitige\" oder \"Geige\"?"
+  },
+  {
+    "id": "833",
+    "input": "Welches Wort klingt wie das Wort \"Spielseiten\": \"Spielsaiten\" oder \"Karotte\"?"
+  },
+  {
+    "id": "839",
+    "input": "Welches Wort klingt wie das Wort \"Spielseiten\": \"Spielsaiten\" oder \"verneinen\"?"
+  },
+  {
+    "id": "855",
+    "input": "Welches Wort klingt wie das Wort \"Geographielehrerinnen\": \"Geografielehrerinnen\" oder \"Produkt\"?"
+  },
+  {
+    "id": "858",
+    "input": "Welches Wort klingt wie das Wort \"Transportfahrzeuge\": \"wachsen\" oder \"Transportfahrtzeuge\"?"
+  },
+  {
+    "id": "859",
+    "input": "Welches Wort klingt wie das Wort \"Transportfahrzeuge\": \"Transportfahrtzeuge\" oder \"Mechanikerin\"?"
+  },
+  {
+    "id": "860",
+    "input": "Welches Wort klingt wie das Wort \"Transportfahrzeuge\": \"Mechanikerin\" oder \"Transportfahrtzeuge\"?"
+  },
+  {
+    "id": "861",
+    "input": "Welches Wort klingt wie das Wort \"Transportfahrzeuge\": \"Transportfahrtzeuge\" oder \"Verwaltung\"?"
+  },
+  {
+    "id": "870",
+    "input": "Welches Wort klingt wie das Wort \"Handelsspanne\": \"Schnürsenkel\" oder \"Handelspanne\"?"
+  },
+  {
+    "id": "873",
+    "input": "Welches Wort klingt wie das Wort \"Einzellkulturen\": \"Einzelkulturen\" oder \"vor\"?"
+  },
+  {
+    "id": "876",
+    "input": "Welches Wort klingt wie das Wort \"Einzellkulturen\": \"Krawatte\" oder \"Einzelkulturen\"?"
+  },
+  {
+    "id": "888",
+    "input": "Welches Wort klingt wie das Wort \"digestiv\": \"Bäckerin\" oder \"Digestif\"?"
+  },
+  {
+    "id": "892",
+    "input": "Welches Wort klingt wie das Wort \"Bildbiographie\": \"Vogel\" oder \"Bildbiografie\"?"
+  },
+  {
+    "id": "894",
+    "input": "Welches Wort klingt wie das Wort \"Bildbiographie\": \"Projekt\" oder \"Bildbiografie\"?"
+  },
+  {
+    "id": "897",
+    "input": "Welches Wort klingt wie das Wort \"Lehrformel\": \"Leerformel\" oder \"Elektrikerin\"?"
+  },
+  {
+    "id": "901",
+    "input": "Welches Wort klingt wie das Wort \"Lehrformel\": \"Leerformel\" oder \"traurig\"?"
+  },
+  {
+    "id": "903",
+    "input": "Welches Wort klingt wie das Wort \"Lehrformel\": \"Leerformel\" oder \"Rat\"?"
+  },
+  {
+    "id": "906",
+    "input": "Welches Wort klingt wie das Wort \"leertet\": \"Knochen\" oder \"lehrtet\"?"
+  },
+  {
+    "id": "909",
+    "input": "Welches Wort klingt wie das Wort \"leertet\": \"lehrtet\" oder \"Lösung\"?"
+  },
+  {
+    "id": "915",
+    "input": "Welches Wort klingt wie das Wort \"Staatssekret\\xc3\\xa4rinnen\": \"Stadtsekret\\xc3\\xa4rinnen\" oder \"Adverb\"?"
+  },
+  {
+    "id": "918",
+    "input": "Welches Wort klingt wie das Wort \"Staatssekret\\xc3\\xa4rinnen\": \"öffnen\" oder \"Stadtsekret\\xc3\\xa4rinnen\"?"
+  },
+  {
+    "id": "930",
+    "input": "Welches Wort klingt wie das Wort \"Studentenclu\": \"grau\" oder \"Studentenklu\"?"
+  },
+  {
+    "id": "931",
+    "input": "Welches Wort klingt wie das Wort \"Studentenclu\": \"Studentenklu\" oder \"Unterschied\"?"
+  },
+  {
+    "id": "940",
+    "input": "Welches Wort klingt wie das Wort \"biografischem\": \"scheinen\" oder \"biographischem\"?"
+  },
+  {
+    "id": "950",
+    "input": "Welches Wort klingt wie das Wort \"Canopus\": \"Direktorin\" oder \"Kanopus\"?"
+  },
+  {
+    "id": "951",
+    "input": "Welches Wort klingt wie das Wort \"Canopus\": \"Kanopus\" oder \"Kopf\"?"
+  },
+  {
+    "id": "953",
+    "input": "Welches Wort klingt wie das Wort \"Grafikbildschirm\": \"Graphikbildschirm\" oder \"Ursprung\"?"
+  },
+  {
+    "id": "956",
+    "input": "Welches Wort klingt wie das Wort \"Grafikbildschirm\": \"Stellvertreter\" oder \"Graphikbildschirm\"?"
+  },
+  {
+    "id": "961",
+    "input": "Welches Wort klingt wie das Wort \"vermiest\": \"vermisst\" oder \"zwei\"?"
+  },
+  {
+    "id": "963",
+    "input": "Welches Wort klingt wie das Wort \"vermiest\": \"vermisst\" oder \"Prozess\"?"
+  },
+  {
+    "id": "964",
+    "input": "Welches Wort klingt wie das Wort \"vermiest\": \"Prozess\" oder \"vermisst\"?"
+  },
+  {
+    "id": "969",
+    "input": "Welches Wort klingt wie das Wort \"d\\xc3\\xbcrrste\": \"d\\xc3\\xbcrste\" oder \"offensichtlich\"?"
+  },
+  {
+    "id": "971",
+    "input": "Welches Wort klingt wie das Wort \"d\\xc3\\xbcrrste\": \"d\\xc3\\xbcrste\" oder \"wegnehmen\"?"
+  },
+  {
+    "id": "978",
+    "input": "Welches Wort klingt wie das Wort \"Kartenkasino\": \"Vogel\" oder \"Kartencasino\"?"
+  },
+  {
+    "id": "996",
+    "input": "Welches Wort klingt wie das Wort \"Gerhart\": \"genießen\" oder \"Gerhardt\"?"
+  },
+  {
+    "id": "1002",
+    "input": "Welches Wort klingt wie das Wort \"Fantasiegeldes\": \"Hauptstadt\" oder \"Phantasiegeldes\"?"
+  },
+  {
+    "id": "1007",
+    "input": "Welches Wort klingt wie das Wort \"Fantasiegeldes\": \"Phantasiegeldes\" oder \"von\"?"
+  },
+  {
+    "id": "1011",
+    "input": "Welches Wort klingt wie das Wort \"Schrottwagen\": \"Schrottwaagen\" oder \"sagen\"?"
+  },
+  {
+    "id": "1012",
+    "input": "Welches Wort klingt wie das Wort \"Schrottwagen\": \"sagen\" oder \"Schrottwaagen\"?"
+  },
+  {
+    "id": "1013",
+    "input": "Welches Wort klingt wie das Wort \"Schrottwagen\": \"Schrottwaagen\" oder \"Schrottkarre\"?"
+  },
+  {
+    "id": "1018",
+    "input": "Welches Wort klingt wie das Wort \"zeit\": \"Produktion\" oder \"zeiht\"?"
+  },
+  {
+    "id": "1020",
+    "input": "Welches Wort klingt wie das Wort \"zeit\": \"Bett\" oder \"zeiht\"?"
+  },
+  {
+    "id": "1022",
+    "input": "Welches Wort klingt wie das Wort \"zeit\": \"Biologin\" oder \"zeiht\"?"
+  },
+  {
+    "id": "1028",
+    "input": "Welches Wort klingt wie das Wort \"Fantasieheldin\": \"bleiben\" oder \"Phantasieheldin\"?"
+  },
+  {
+    "id": "1032",
+    "input": "Welches Wort klingt wie das Wort \"Fantasieheldin\": \"Leber\" oder \"Phantasieheldin\"?"
+  },
+  {
+    "id": "1037",
+    "input": "Welches Wort klingt wie das Wort \"choreographische\": \"choreografische\" oder \"kulturell\"?"
+  },
+  {
+    "id": "1040",
+    "input": "Welches Wort klingt wie das Wort \"choreographische\": \"Oberschenkel\" oder \"choreografische\"?"
+  },
+  {
+    "id": "1042",
+    "input": "Welches Wort klingt wie das Wort \"Camilla\": \"Pronomen\" oder \"Kamilla\"?"
+  },
+  {
+    "id": "1055",
+    "input": "Welches Wort klingt wie das Wort \"Phantasieprojekt\": \"Fantasieprojekt\" oder \"Enkelin\"?"
+  },
+  {
+    "id": "1058",
+    "input": "Welches Wort klingt wie das Wort \"Lebensdrang\": \"Geld\" oder \"Lebenstrank\"?"
+  },
+  {
+    "id": "1060",
+    "input": "Welches Wort klingt wie das Wort \"Lebensdrang\": \"Handball\" oder \"Lebenstrank\"?"
+  },
+  {
+    "id": "1062",
+    "input": "Welches Wort klingt wie das Wort \"Lebensdrang\": \"Skifahren\" oder \"Lebenstrank\"?"
+  },
+  {
+    "id": "1065",
+    "input": "Welches Wort klingt wie das Wort \"Cordm\\xc3\\xbctzen\": \"Kordm\\xc3\\xbctzen\" oder \"Weinbergschnecke\"?"
+  },
+  {
+    "id": "1066",
+    "input": "Welches Wort klingt wie das Wort \"Cordm\\xc3\\xbctzen\": \"Weinbergschnecke\" oder \"Kordm\\xc3\\xbctzen\"?"
+  },
+  {
+    "id": "1070",
+    "input": "Welches Wort klingt wie das Wort \"Cordm\\xc3\\xbctzen\": \"Nagel\" oder \"Kordm\\xc3\\xbctzen\"?"
+  },
+  {
+    "id": "1071",
+    "input": "Welches Wort klingt wie das Wort \"Cordm\\xc3\\xbctzen\": \"Kordm\\xc3\\xbctzen\" oder \"Freiheit\"?"
+  },
+  {
+    "id": "1076",
+    "input": "Welches Wort klingt wie das Wort \"ausdrehten\": \"Hand\" oder \"austreten\"?"
+  },
+  {
+    "id": "1077",
+    "input": "Welches Wort klingt wie das Wort \"ausdrehten\": \"austreten\" oder \"lachen\"?"
+  },
+  {
+    "id": "1078",
+    "input": "Welches Wort klingt wie das Wort \"ausdrehten\": \"lachen\" oder \"austreten\"?"
+  },
+  {
+    "id": "1080",
+    "input": "Welches Wort klingt wie das Wort \"ausdrehten\": \"Krimi\" oder \"austreten\"?"
+  },
+  {
+    "id": "1103",
+    "input": "Welches Wort klingt wie das Wort \"Klubhymnen\": \"Clubhymnen\" oder \"Nadel\"?"
+  },
+  {
+    "id": "1105",
+    "input": "Welches Wort klingt wie das Wort \"Mietsumme\": \"mitsumme\" oder \"Landstraße\"?"
+  },
+  {
+    "id": "1106",
+    "input": "Welches Wort klingt wie das Wort \"Mietsumme\": \"Landstraße\" oder \"mitsumme\"?"
+  },
+  {
+    "id": "1107",
+    "input": "Welches Wort klingt wie das Wort \"Mietsumme\": \"mitsumme\" oder \"Preis\"?"
+  },
+  {
+    "id": "1122",
+    "input": "Welches Wort klingt wie das Wort \"Zwerghundeclu\": \"Kraft\" oder \"Zwerghundeklu\"?"
+  },
+  {
+    "id": "1123",
+    "input": "Welches Wort klingt wie das Wort \"Zwerghundeclu\": \"Zwerghundeklu\" oder \"folgen\"?"
+  },
+  {
+    "id": "1129",
+    "input": "Welches Wort klingt wie das Wort \"Contenance\": \"Kontenance\" oder \"nie\"?"
+  },
+  {
+    "id": "1135",
+    "input": "Welches Wort klingt wie das Wort \"Contenance\": \"Kontenance\" oder \"Beherrschtheit\"?"
+  },
+  {
+    "id": "1138",
+    "input": "Welches Wort klingt wie das Wort \"rechtsprechend\": \"obwohl\" oder \"rechtssprechend\"?"
+  },
+  {
+    "id": "1148",
+    "input": "Welches Wort klingt wie das Wort \"rammst\": \"Mittel\" oder \"rahmst\"?"
+  },
+  {
+    "id": "1150",
+    "input": "Welches Wort klingt wie das Wort \"rammst\": \"Zentimeter\" oder \"rahmst\"?"
+  },
+  {
+    "id": "1156",
+    "input": "Welches Wort klingt wie das Wort \"Flussdelphine\": \"Mehrheit\" oder \"Flussdelfine\"?"
+  },
+  {
+    "id": "1157",
+    "input": "Welches Wort klingt wie das Wort \"Flussdelphine\": \"Flussdelfine\" oder \"nachdem\"?"
+  },
+  {
+    "id": "1162",
+    "input": "Welches Wort klingt wie das Wort \"beho\": \"vereinbaren\" oder \"Beo\"?"
+  },
+  {
+    "id": "1163",
+    "input": "Welches Wort klingt wie das Wort \"beho\": \"Beo\" oder \"eintreten\"?"
+  },
+  {
+    "id": "1174",
+    "input": "Welches Wort klingt wie das Wort \"gelegten\": \"leben\" oder \"geleckten\"?"
+  },
+  {
+    "id": "1182",
+    "input": "Welches Wort klingt wie das Wort \"forthastend\": \"Breite\" oder \"vortastend\"?"
+  },
+  {
+    "id": "1188",
+    "input": "Welches Wort klingt wie das Wort \"Glubschaugen\": \"wegnehmen\" oder \"Glupschaugen\"?"
+  },
+  {
+    "id": "1191",
+    "input": "Welches Wort klingt wie das Wort \"Glubschaugen\": \"Glupschaugen\" oder \"Hand\"?"
+  },
+  {
+    "id": "1195",
+    "input": "Welches Wort klingt wie das Wort \"sofft\": \"soft\" oder \"Erwachsener\"?"
+  },
+  {
+    "id": "1199",
+    "input": "Welches Wort klingt wie das Wort \"sofft\": \"soft\" oder \"Kellnerin\"?"
+  },
+  {
+    "id": "1207",
+    "input": "Welches Wort klingt wie das Wort \"Photowiderstandes\": \"Fotowiderstandes\" oder \"Friseursalon\"?"
+  },
+  {
+    "id": "1215",
+    "input": "Welches Wort klingt wie das Wort \"topografisches\": \"topographisches\" oder \"Direktorin\"?"
+  },
+  {
+    "id": "1216",
+    "input": "Welches Wort klingt wie das Wort \"topografisches\": \"Direktorin\" oder \"topographisches\"?"
+  },
+  {
+    "id": "1221",
+    "input": "Welches Wort klingt wie das Wort \"HP\": \"HB\" oder \"Weinbergschnecke\"?"
+  },
+  {
+    "id": "1224",
+    "input": "Welches Wort klingt wie das Wort \"HP\": \"Falke\" oder \"HB\"?"
+  },
+  {
+    "id": "1232",
+    "input": "Welches Wort klingt wie das Wort \"Nationalkinematographie\": \"umgekehrt\" oder \"Nationalkinematografie\"?"
+  },
+  {
+    "id": "1233",
+    "input": "Welches Wort klingt wie das Wort \"Kraftfahrzeugen\": \"Kraftfahrtzeugen\" oder \"Urenkel\"?"
+  },
+  {
+    "id": "1242",
+    "input": "Welches Wort klingt wie das Wort \"Widerspiel\": \"Ärztin\" oder \"Wiederspiel\"?"
+  },
+  {
+    "id": "1243",
+    "input": "Welches Wort klingt wie das Wort \"Widerspiel\": \"Wiederspiel\" oder \"messen\"?"
+  },
+  {
+    "id": "1248",
+    "input": "Welches Wort klingt wie das Wort \"Widerspiel\": \"Provinz\" oder \"Wiederspiel\"?"
+  },
+  {
+    "id": "1276",
+    "input": "Welches Wort klingt wie das Wort \"Frauenphantasien\": \"Garnele\" oder \"Frauenfantasien\"?"
+  },
+  {
+    "id": "1278",
+    "input": "Welches Wort klingt wie das Wort \"Frauenphantasien\": \"früh\" oder \"Frauenfantasien\"?"
+  },
+  {
+    "id": "1282",
+    "input": "Welches Wort klingt wie das Wort \"Bordtechniken\": \"probieren\" oder \"Bohrtechniken\"?"
+  },
+  {
+    "id": "1287",
+    "input": "Welches Wort klingt wie das Wort \"Bordtechniken\": \"Bohrtechniken\" oder \"Erbsen\"?"
+  },
+  {
+    "id": "1300",
+    "input": "Welches Wort klingt wie das Wort \"absenkte\": \"Küste\" oder \"absengte\"?"
+  },
+  {
+    "id": "1301",
+    "input": "Welches Wort klingt wie das Wort \"absenkte\": \"absengte\" oder \"Demokratie\"?"
+  },
+  {
+    "id": "1313",
+    "input": "Welches Wort klingt wie das Wort \"reinzuglotzen\": \"reinzuklotzen\" oder \"unser\"?"
+  },
+  {
+    "id": "1314",
+    "input": "Welches Wort klingt wie das Wort \"reinzuglotzen\": \"unser\" oder \"reinzuklotzen\"?"
+  },
+  {
+    "id": "1323",
+    "input": "Welches Wort klingt wie das Wort \"lactosefrei\": \"laktosefrei\" oder \"Zuhause\"?"
+  },
+  {
+    "id": "1336",
+    "input": "Welches Wort klingt wie das Wort \"Stahlknechten\": \"Gerät\" oder \"Stallknechten\"?"
+  },
+  {
+    "id": "1337",
+    "input": "Welches Wort klingt wie das Wort \"Typographin\": \"Typografien\" oder \"demnächst\"?"
+  },
+  {
+    "id": "1338",
+    "input": "Welches Wort klingt wie das Wort \"Typographin\": \"demnächst\" oder \"Typografien\"?"
+  },
+  {
+    "id": "1340",
+    "input": "Welches Wort klingt wie das Wort \"Typographin\": \"sagen\" oder \"Typografien\"?"
+  },
+  {
+    "id": "1343",
+    "input": "Welches Wort klingt wie das Wort \"Typographin\": \"Typografien\" oder \"Typograf\"?"
+  },
+  {
+    "id": "1345",
+    "input": "Welches Wort klingt wie das Wort \"Hohlweg\": \"Hollweg\" oder \"Berührung\"?"
+  },
+  {
+    "id": "1350",
+    "input": "Welches Wort klingt wie das Wort \"Hohlweg\": \"Gesicht\" oder \"Hollweg\"?"
+  },
+  {
+    "id": "1356",
+    "input": "Welches Wort klingt wie das Wort \"gepooltem\": \"Journalist\" oder \"gepoltem\"?"
+  },
+  {
+    "id": "1358",
+    "input": "Welches Wort klingt wie das Wort \"gepooltem\": \"Fuß\" oder \"gepoltem\"?"
+  },
+  {
+    "id": "1364",
+    "input": "Welches Wort klingt wie das Wort \"Gesangsstunden\": \"lachen\" oder \"Gesangstunden\"?"
+  },
+  {
+    "id": "1377",
+    "input": "Welches Wort klingt wie das Wort \"Altersbiografien\": \"Altersbiographien\" oder \"Adverb\"?"
+  },
+  {
+    "id": "1382",
+    "input": "Welches Wort klingt wie das Wort \"Altersbiografien\": \"Krankenhaus\" oder \"Altersbiographien\"?"
+  },
+  {
+    "id": "1384",
+    "input": "Welches Wort klingt wie das Wort \"Altersbiografien\": \"Ortschaft\" oder \"Altersbiographien\"?"
+  },
+  {
+    "id": "1385",
+    "input": "Welches Wort klingt wie das Wort \"Adelsklu\": \"Adelsclu\" oder \"Schwester\"?"
+  },
+  {
+    "id": "1390",
+    "input": "Welches Wort klingt wie das Wort \"Adelsklu\": \"probieren\" oder \"Adelsclu\"?"
+  },
+  {
+    "id": "1398",
+    "input": "Welches Wort klingt wie das Wort \"Wohnstatt\": \"Wohnung\" oder \"Wohnstadt\"?"
+  },
+  {
+    "id": "1399",
+    "input": "Welches Wort klingt wie das Wort \"Wohnstatt\": \"Wohnstadt\" oder \"Behausung\"?"
+  },
+  {
+    "id": "1406",
+    "input": "Welches Wort klingt wie das Wort \"Kuweit\": \"Aufzug\" oder \"Kuwait\"?"
+  },
+  {
+    "id": "1408",
+    "input": "Welches Wort klingt wie das Wort \"Kuweit\": \"Langeweile\" oder \"Kuwait\"?"
+  },
+  {
+    "id": "1410",
+    "input": "Welches Wort klingt wie das Wort \"M\\xc3\\xa4dchenfantasie\": \"Kette\" oder \"M\\xc3\\xa4dchenphantasie\"?"
+  },
+  {
+    "id": "1411",
+    "input": "Welches Wort klingt wie das Wort \"M\\xc3\\xa4dchenfantasie\": \"M\\xc3\\xa4dchenphantasie\" oder \"Kampagne\"?"
+  },
+  {
+    "id": "1420",
+    "input": "Welches Wort klingt wie das Wort \"klitschig\": \"hundertster\" oder \"glitschig\"?"
+  },
+  {
+    "id": "1421",
+    "input": "Welches Wort klingt wie das Wort \"klitschig\": \"glitschig\" oder \"Schreibwarenladen\"?"
+  },
+  {
+    "id": "1422",
+    "input": "Welches Wort klingt wie das Wort \"klitschig\": \"Schreibwarenladen\" oder \"glitschig\"?"
+  },
+  {
+    "id": "1423",
+    "input": "Welches Wort klingt wie das Wort \"klitschig\": \"glitschig\" oder \"bewerten\"?"
+  },
+  {
+    "id": "1431",
+    "input": "Welches Wort klingt wie das Wort \"compilieren\": \"kompilieren\" oder \"Informatiker\"?"
+  },
+  {
+    "id": "1447",
+    "input": "Welches Wort klingt wie das Wort \"gerammtes\": \"gerahmtes\" oder \"Dienstleistung\"?"
+  },
+  {
+    "id": "1448",
+    "input": "Welches Wort klingt wie das Wort \"gerammtes\": \"Dienstleistung\" oder \"gerahmtes\"?"
+  },
+  {
+    "id": "1455",
+    "input": "Welches Wort klingt wie das Wort \"Kleinperkussion\": \"Kleinpercussion\" oder \"Situation\"?"
+  },
+  {
+    "id": "1456",
+    "input": "Welches Wort klingt wie das Wort \"Kleinperkussion\": \"Situation\" oder \"Kleinpercussion\"?"
+  },
+  {
+    "id": "1457",
+    "input": "Welches Wort klingt wie das Wort \"Vorg\\xc3\\xa4ngerclu\": \"Vorg\\xc3\\xa4ngerklu\" oder \"Februar\"?"
+  },
+  {
+    "id": "1459",
+    "input": "Welches Wort klingt wie das Wort \"Vorg\\xc3\\xa4ngerclu\": \"Vorg\\xc3\\xa4ngerklu\" oder \"Adverb\"?"
+  },
+  {
+    "id": "1462",
+    "input": "Welches Wort klingt wie das Wort \"Vorg\\xc3\\xa4ngerclu\": \"Vernunft\" oder \"Vorg\\xc3\\xa4ngerklu\"?"
+  },
+  {
+    "id": "1466",
+    "input": "Welches Wort klingt wie das Wort \"Fechtklu\": \"Fisch\" oder \"Fechtclu\"?"
+  },
+  {
+    "id": "1467",
+    "input": "Welches Wort klingt wie das Wort \"Fechtklu\": \"Fechtclu\" oder \"Liebe\"?"
+  },
+  {
+    "id": "1472",
+    "input": "Welches Wort klingt wie das Wort \"Fechtklu\": \"Senatorin\" oder \"Fechtclu\"?"
+  },
+  {
+    "id": "1487",
+    "input": "Welches Wort klingt wie das Wort \"verdrehte\": \"vertrete\" oder \"reparieren\"?"
+  },
+  {
+    "id": "1488",
+    "input": "Welches Wort klingt wie das Wort \"verdrehte\": \"reparieren\" oder \"vertrete\"?"
+  },
+  {
+    "id": "1492",
+    "input": "Welches Wort klingt wie das Wort \"Fu\\xc3\\x9fballclu\": \"Koch\" oder \"Fu\\xc3\\x9fballklu\"?"
+  },
+  {
+    "id": "1494",
+    "input": "Welches Wort klingt wie das Wort \"Fu\\xc3\\x9fballclu\": \"Sellerie\" oder \"Fu\\xc3\\x9fballklu\"?"
+  },
+  {
+    "id": "1500",
+    "input": "Welches Wort klingt wie das Wort \"ausstichst\": \"Schmetterling\" oder \"austickst\"?"
+  },
+  {
+    "id": "1503",
+    "input": "Welches Wort klingt wie das Wort \"ausstichst\": \"austickst\" oder \"Schritt\"?"
+  },
+  {
+    "id": "1526",
+    "input": "Welches Wort klingt wie das Wort \"Vorzugsstimmenwahl\": \"auf\" oder \"Vorzugstimmenwahl\"?"
+  },
+  {
+    "id": "1533",
+    "input": "Welches Wort klingt wie das Wort \"Kurznamen\": \"Kurznahmen\" oder \"März\"?"
+  },
+  {
+    "id": "1535",
+    "input": "Welches Wort klingt wie das Wort \"Kurznamen\": \"Kurznahmen\" oder \"Verband\"?"
+  },
+  {
+    "id": "1537",
+    "input": "Welches Wort klingt wie das Wort \"kath\": \"Kat\" oder \"Mechaniker\"?"
+  },
+  {
+    "id": "1538",
+    "input": "Welches Wort klingt wie das Wort \"kath\": \"Mechaniker\" oder \"Kat\"?"
+  },
+  {
+    "id": "1540",
+    "input": "Welches Wort klingt wie das Wort \"kath\": \"zusammen\" oder \"Kat\"?"
+  },
+  {
+    "id": "1542",
+    "input": "Welches Wort klingt wie das Wort \"kath\": \"Leistung\" oder \"Kat\"?"
+  },
+  {
+    "id": "1549",
+    "input": "Welches Wort klingt wie das Wort \"Klubkampfes\": \"Clubkampfes\" oder \"gewöhnlich\"?"
+  },
+  {
+    "id": "1550",
+    "input": "Welches Wort klingt wie das Wort \"Klubkampfes\": \"gewöhnlich\" oder \"Clubkampfes\"?"
+  },
+  {
+    "id": "1552",
+    "input": "Welches Wort klingt wie das Wort \"Klubkampfes\": \"Chronik\" oder \"Clubkampfes\"?"
+  },
+  {
+    "id": "1555",
+    "input": "Welches Wort klingt wie das Wort \"Segelflugzeugklu\": \"Segelflugzeugclu\" oder \"schlafen\"?"
+  },
+  {
+    "id": "1568",
+    "input": "Welches Wort klingt wie das Wort \"Mitinteressent\": \"dort\" oder \"Mietinteressent\"?"
+  },
+  {
+    "id": "1571",
+    "input": "Welches der Wörter \"mehr\" und \"Socken\" klingt mehr wie \"Meer\"?"
+  },
+  {
+    "id": "1573",
+    "input": "Welches der Wörter \"mehr\" und \"Ozean\" klingt mehr wie \"Meer\"?"
+  },
+  {
+    "id": "1577",
+    "input": "Welches der Wörter \"Kathi\" und \"Qualität\" klingt mehr wie \"Kati\"?"
+  },
+  {
+    "id": "1578",
+    "input": "Welches der Wörter \"Qualität\" und \"Kathi\" klingt mehr wie \"Kati\"?"
+  },
+  {
+    "id": "1579",
+    "input": "Welches der Wörter \"Kathi\" und \"Vernunft\" klingt mehr wie \"Kati\"?"
+  },
+  {
+    "id": "1580",
+    "input": "Welches der Wörter \"Vernunft\" und \"Kathi\" klingt mehr wie \"Kati\"?"
+  },
+  {
+    "id": "1591",
+    "input": "Welches der Wörter \"Kaiman\" und \"Zentimeter\" klingt mehr wie \"Cayman\"?"
+  },
+  {
+    "id": "1595",
+    "input": "Welches der Wörter \"gekielter\" und \"wahrscheinlich\" klingt mehr wie \"gekillter\"?"
+  },
+  {
+    "id": "1597",
+    "input": "Welches der Wörter \"gekielter\" und \"echt\" klingt mehr wie \"gekillter\"?"
+  },
+  {
+    "id": "1601",
+    "input": "Welches der Wörter \"Rettungsboote\" und \"lesen\" klingt mehr wie \"Rettungsbote\"?"
+  },
+  {
+    "id": "1602",
+    "input": "Welches der Wörter \"lesen\" und \"Rettungsboote\" klingt mehr wie \"Rettungsbote\"?"
+  },
+  {
+    "id": "1603",
+    "input": "Welches der Wörter \"Rettungsboote\" und \"Kanzler\" klingt mehr wie \"Rettungsbote\"?"
+  },
+  {
+    "id": "1608",
+    "input": "Welches der Wörter \"Eisen\" und \"Rettungsboote\" klingt mehr wie \"Rettungsbote\"?"
+  },
+  {
+    "id": "1609",
+    "input": "Welches der Wörter \"gebrauchsgraphische\" und \"letzter\" klingt mehr wie \"gebrauchsgrafische\"?"
+  },
+  {
+    "id": "1612",
+    "input": "Welches der Wörter \"Organisation\" und \"gebrauchsgraphische\" klingt mehr wie \"gebrauchsgrafische\"?"
+  },
+  {
+    "id": "1613",
+    "input": "Welches der Wörter \"gebrauchsgraphische\" und \"Cafeteria\" klingt mehr wie \"gebrauchsgrafische\"?"
+  },
+  {
+    "id": "1618",
+    "input": "Welches der Wörter \"tragen\" und \"vorw\\xc3\\xa4rtsbringst\" klingt mehr wie \"vorw\\xc3\\xa4rtsspringst\"?"
+  },
+  {
+    "id": "1623",
+    "input": "Welches der Wörter \"vorw\\xc3\\xa4rtsbringst\" und \"fest\" klingt mehr wie \"vorw\\xc3\\xa4rtsspringst\"?"
+  },
+  {
+    "id": "1636",
+    "input": "Welches der Wörter \"neu\" und \"Paragrafendickicht\" klingt mehr wie \"Paragraphendickicht\"?"
+  },
+  {
+    "id": "1637",
+    "input": "Welches der Wörter \"Paragrafendickicht\" und \"Boot\" klingt mehr wie \"Paragraphendickicht\"?"
+  },
+  {
+    "id": "1638",
+    "input": "Welches der Wörter \"Boot\" und \"Paragrafendickicht\" klingt mehr wie \"Paragraphendickicht\"?"
+  },
+  {
+    "id": "1647",
+    "input": "Welches der Wörter \"na\" und \"Samstag\" klingt mehr wie \"Naa\"?"
+  },
+  {
+    "id": "1653",
+    "input": "Welches der Wörter \"Kraftwerksstandorte\" und \"Salat\" klingt mehr wie \"Kraftwerkstandorte\"?"
+  },
+  {
+    "id": "1654",
+    "input": "Welches der Wörter \"Salat\" und \"Kraftwerksstandorte\" klingt mehr wie \"Kraftwerkstandorte\"?"
+  },
+  {
+    "id": "1655",
+    "input": "Welches der Wörter \"Kraftwerksstandorte\" und \"besonders\" klingt mehr wie \"Kraftwerkstandorte\"?"
+  },
+  {
+    "id": "1662",
+    "input": "Welches der Wörter \"sozial\" und \"Modellflugklu\" klingt mehr wie \"Modellflugclu\"?"
+  },
+  {
+    "id": "1679",
+    "input": "Welches der Wörter \"Stra\\xc3\\x9fennahme\" und \"Maler\" klingt mehr wie \"Stra\\xc3\\x9fenname\"?"
+  },
+  {
+    "id": "1684",
+    "input": "Welches der Wörter \"ersetzen\" und \"Wissenschaftsbibliografien\" klingt mehr wie \"Wissenschaftsbibliographien\"?"
+  },
+  {
+    "id": "1685",
+    "input": "Welches der Wörter \"Wissenschaftsbibliografien\" und \"Oktopus\" klingt mehr wie \"Wissenschaftsbibliographien\"?"
+  },
+  {
+    "id": "1689",
+    "input": "Welches der Wörter \"trink\" und \"leicht\" klingt mehr wie \"Drink\"?"
+  },
+  {
+    "id": "1690",
+    "input": "Welches der Wörter \"leicht\" und \"trink\" klingt mehr wie \"Drink\"?"
+  },
+  {
+    "id": "1701",
+    "input": "Welches der Wörter \"katarisch\" und \"schnell\" klingt mehr wie \"katharisch\"?"
+  },
+  {
+    "id": "1714",
+    "input": "Welches der Wörter \"Verlauf\" und \"Tagesbruch\" klingt mehr wie \"Tagesspruch\"?"
+  },
+  {
+    "id": "1727",
+    "input": "Welches der Wörter \"Feuerwerksshows\" und \"einzigartig\" klingt mehr wie \"Feuerwerkshows\"?"
+  },
+  {
+    "id": "1728",
+    "input": "Welches der Wörter \"einzigartig\" und \"Feuerwerksshows\" klingt mehr wie \"Feuerwerkshows\"?"
+  },
+  {
+    "id": "1730",
+    "input": "Welches der Wörter \"vier\" und \"aufgehackt\" klingt mehr wie \"aufgehakt\"?"
+  },
+  {
+    "id": "1741",
+    "input": "Welches der Wörter \"bibliographischem\" und \"vermeiden\" klingt mehr wie \"bibliografischem\"?"
+  },
+  {
+    "id": "1750",
+    "input": "Welches der Wörter \"Höhe\" und \"Trakt\" klingt mehr wie \"trackt\"?"
+  },
+  {
+    "id": "1754",
+    "input": "Welches der Wörter \"Lösung\" und \"vorzuziehendes\" klingt mehr wie \"fortzuziehendes\"?"
+  },
+  {
+    "id": "1755",
+    "input": "Welches der Wörter \"vorzuziehendes\" und \"Beziehung\" klingt mehr wie \"fortzuziehendes\"?"
+  },
+  {
+    "id": "1760",
+    "input": "Welches der Wörter \"Ozean\" und \"vorzuziehendes\" klingt mehr wie \"fortzuziehendes\"?"
+  },
+  {
+    "id": "1767",
+    "input": "Welches der Wörter \"Vorzeigeklubs\" und \"Präsident\" klingt mehr wie \"Vorzeigeclubs\"?"
+  },
+  {
+    "id": "1768",
+    "input": "Welches der Wörter \"Präsident\" und \"Vorzeigeklubs\" klingt mehr wie \"Vorzeigeclubs\"?"
+  },
+  {
+    "id": "1771",
+    "input": "Welches der Wörter \"Tennisklu\" und \"Präsidentin\" klingt mehr wie \"Tennisclu\"?"
+  },
+  {
+    "id": "1772",
+    "input": "Welches der Wörter \"Präsidentin\" und \"Tennisklu\" klingt mehr wie \"Tennisclu\"?"
+  },
+  {
+    "id": "1779",
+    "input": "Welches der Wörter \"Lieblingsclubs\" und \"Allee\" klingt mehr wie \"Lieblingsklubs\"?"
+  },
+  {
+    "id": "1780",
+    "input": "Welches der Wörter \"Allee\" und \"Lieblingsclubs\" klingt mehr wie \"Lieblingsklubs\"?"
+  },
+  {
+    "id": "1783",
+    "input": "Welches der Wörter \"Lieblingsclubs\" und \"Lawine\" klingt mehr wie \"Lieblingsklubs\"?"
+  },
+  {
+    "id": "1796",
+    "input": "Welches der Wörter \"Kanufahren\" und \"fortzulassen\" klingt mehr wie \"vorzulassen\"?"
+  },
+  {
+    "id": "1821",
+    "input": "Welches der Wörter \"Demographin\" und \"beabsichtigen\" klingt mehr wie \"Demographien\"?"
+  },
+  {
+    "id": "1826",
+    "input": "Welches der Wörter \"Ton\" und \"Meer\" klingt mehr wie \"mehr\"?"
+  },
+  {
+    "id": "1831",
+    "input": "Welches der Wörter \"Meer\" und \"aktuell\" klingt mehr wie \"mehr\"?"
+  },
+  {
+    "id": "1833",
+    "input": "Welches der Wörter \"Bundessprechers\" und \"glauben\" klingt mehr wie \"Bundesbrechers\"?"
+  },
+  {
+    "id": "1834",
+    "input": "Welches der Wörter \"glauben\" und \"Bundessprechers\" klingt mehr wie \"Bundesbrechers\"?"
+  },
+  {
+    "id": "1840",
+    "input": "Welches der Wörter \"Fortpflanzung\" und \"Bundessprechers\" klingt mehr wie \"Bundesbrechers\"?"
+  },
+  {
+    "id": "1849",
+    "input": "Welches der Wörter \"Saiten\" und \"Apotheke\" klingt mehr wie \"Seiten\"?"
+  },
+  {
+    "id": "1854",
+    "input": "Welches der Wörter \"alt\" und \"Saiten\" klingt mehr wie \"Seiten\"?"
+  },
+  {
+    "id": "1861",
+    "input": "Welches der Wörter \"Agrar\\xc3\\xb6konomin\" und \"weit\" klingt mehr wie \"Agrar\\xc3\\xb6konomien\"?"
+  },
+  {
+    "id": "1868",
+    "input": "Welches der Wörter \"Taille\" und \"Grafikdatenverarbeitung\" klingt mehr wie \"Graphikdatenverarbeitung\"?"
+  },
+  {
+    "id": "1869",
+    "input": "Welches der Wörter \"Grafikdatenverarbeitung\" und \"Ärmel\" klingt mehr wie \"Graphikdatenverarbeitung\"?"
+  },
+  {
+    "id": "1870",
+    "input": "Welches der Wörter \"Ärmel\" und \"Grafikdatenverarbeitung\" klingt mehr wie \"Graphikdatenverarbeitung\"?"
+  },
+  {
+    "id": "1878",
+    "input": "Welches der Wörter \"Mehrheit\" und \"Schneid\" klingt mehr wie \"schneit\"?"
+  },
+  {
+    "id": "1879",
+    "input": "Welches der Wörter \"Schneid\" und \"bald\" klingt mehr wie \"schneit\"?"
+  },
+  {
+    "id": "1881",
+    "input": "Welches der Wörter \"Kaiserbiographen\" und \"Haltestelle\" klingt mehr wie \"Kaiserbiografen\"?"
+  },
+  {
+    "id": "1882",
+    "input": "Welches der Wörter \"Haltestelle\" und \"Kaiserbiographen\" klingt mehr wie \"Kaiserbiografen\"?"
+  },
+  {
+    "id": "1898",
+    "input": "Welches der Wörter \"etwa\" und \"Ministerratssitzung\" klingt mehr wie \"Ministerratsitzung\"?"
+  },
+  {
+    "id": "1900",
+    "input": "Welches der Wörter \"Bahnhof\" und \"Ministerratssitzung\" klingt mehr wie \"Ministerratsitzung\"?"
+  },
+  {
+    "id": "1910",
+    "input": "Welches der Wörter \"unser\" und \"Katarina\" klingt mehr wie \"Catarina\"?"
+  },
+  {
+    "id": "1914",
+    "input": "Welches der Wörter \"Schritt\" und \"scharten\" klingt mehr wie \"scharrten\"?"
+  },
+  {
+    "id": "1916",
+    "input": "Welches der Wörter \"Ingenieurin\" und \"scharten\" klingt mehr wie \"scharrten\"?"
+  },
+  {
+    "id": "1945",
+    "input": "Welches der Wörter \"Talheims\" und \"Mann\" klingt mehr wie \"Thalheims\"?"
+  },
+  {
+    "id": "1947",
+    "input": "Welches der Wörter \"Talheims\" und \"Schwester\" klingt mehr wie \"Thalheims\"?"
+  },
+  {
+    "id": "1952",
+    "input": "Welches der Wörter \"Beziehung\" und \"Talheims\" klingt mehr wie \"Thalheims\"?"
+  },
+  {
+    "id": "1953",
+    "input": "Welches der Wörter \"graphologischen\" und \"Ereignis\" klingt mehr wie \"grafologischen\"?"
+  },
+  {
+    "id": "1954",
+    "input": "Welches der Wörter \"Ereignis\" und \"graphologischen\" klingt mehr wie \"grafologischen\"?"
+  },
+  {
+    "id": "1964",
+    "input": "Welches der Wörter \"Segeln\" und \"Medienclubs\" klingt mehr wie \"Medienklubs\"?"
+  },
+  {
+    "id": "1971",
+    "input": "Welches der Wörter \"biografiebezogenem\" und \"Zimmer\" klingt mehr wie \"biographiebezogenem\"?"
+  },
+  {
+    "id": "1973",
+    "input": "Welches der Wörter \"biografiebezogenem\" und \"nachträglich\" klingt mehr wie \"biographiebezogenem\"?"
+  },
+  {
+    "id": "1978",
+    "input": "Welches der Wörter \"oft\" und \"prahlst\" klingt mehr wie \"prallst\"?"
+  },
+  {
+    "id": "1983",
+    "input": "Welches der Wörter \"prahlst\" und \"Qualität\" klingt mehr wie \"prallst\"?"
+  },
+  {
+    "id": "1987",
+    "input": "Welches der Wörter \"siechtest\" und \"Silber\" klingt mehr wie \"sichtest\"?"
+  },
+  {
+    "id": "1988",
+    "input": "Welches der Wörter \"Silber\" und \"siechtest\" klingt mehr wie \"sichtest\"?"
+  },
+  {
+    "id": "1993",
+    "input": "Welches der Wörter \"Wegkarten\" und \"beabsichtigen\" klingt mehr wie \"wegkarrten\"?"
+  },
+  {
+    "id": "2000",
+    "input": "Welches der Wörter \"Ortschaft\" und \"Wegkarten\" klingt mehr wie \"wegkarrten\"?"
+  },
+  {
+    "id": "2001",
+    "input": "Welches der Wörter \"Teresas\" und \"Politiker\" klingt mehr wie \"Theresas\"?"
+  },
+  {
+    "id": "2004",
+    "input": "Welches der Wörter \"Summe\" und \"Teresas\" klingt mehr wie \"Theresas\"?"
+  },
+  {
+    "id": "2010",
+    "input": "Welches der Wörter \"Recht\" und \"Nachtphantasie\" klingt mehr wie \"Nachtfantasie\"?"
+  },
+  {
+    "id": "2014",
+    "input": "Welches der Wörter \"Eidechse\" und \"Nachtphantasie\" klingt mehr wie \"Nachtfantasie\"?"
+  },
+  {
+    "id": "2016",
+    "input": "Welches der Wörter \"Knopf\" und \"Nachtphantasie\" klingt mehr wie \"Nachtfantasie\"?"
+  },
+  {
+    "id": "2022",
+    "input": "Welches der Wörter \"werfen\" und \"Clubtiteln\" klingt mehr wie \"Klubtiteln\"?"
+  },
+  {
+    "id": "2034",
+    "input": "Welches der Wörter \"Urenkelin\" und \"physiogeografisch\" klingt mehr wie \"physiogeographisch\"?"
+  },
+  {
+    "id": "2046",
+    "input": "Welches der Wörter \"wissen\" und \"Parteiclubs\" klingt mehr wie \"Parteiklubs\"?"
+  },
+  {
+    "id": "2061",
+    "input": "Welches der Wörter \"rumkrakelte\" und \"Krimi\" klingt mehr wie \"rumkrakeelte\"?"
+  },
+  {
+    "id": "2062",
+    "input": "Welches der Wörter \"Krimi\" und \"rumkrakelte\" klingt mehr wie \"rumkrakeelte\"?"
+  },
+  {
+    "id": "2076",
+    "input": "Welches der Wörter \"Mantel\" und \"hydrografische\" klingt mehr wie \"hydrographische\"?"
+  },
+  {
+    "id": "2081",
+    "input": "Welches der Wörter \"Wetterbote\" und \"setzen\" klingt mehr wie \"Wetterboote\"?"
+  },
+  {
+    "id": "2092",
+    "input": "Welches der Wörter \"prüfen\" und \"Dreiecksspitzen\" klingt mehr wie \"Dreieckspitzen\"?"
+  },
+  {
+    "id": "2096",
+    "input": "Welches der Wörter \"Merkmal\" und \"Dreiecksspitzen\" klingt mehr wie \"Dreieckspitzen\"?"
+  },
+  {
+    "id": "2107",
+    "input": "Welches der Wörter \"Clubliedes\" und \"Kassierer\" klingt mehr wie \"Klubliedes\"?"
+  },
+  {
+    "id": "2113",
+    "input": "Welches der Wörter \"reinglotze\" und \"Bett\" klingt mehr wie \"reinklotze\"?"
+  },
+  {
+    "id": "2115",
+    "input": "Welches der Wörter \"reinglotze\" und \"Märchen\" klingt mehr wie \"reinklotze\"?"
+  },
+  {
+    "id": "2116",
+    "input": "Welches der Wörter \"Märchen\" und \"reinglotze\" klingt mehr wie \"reinklotze\"?"
+  },
+  {
+    "id": "2122",
+    "input": "Welches der Wörter \"salzig\" und \"Bev\\xc3\\xb6lkerungsgeographie\" klingt mehr wie \"Bev\\xc3\\xb6lkerungsgeografie\"?"
+  },
+  {
+    "id": "2129",
+    "input": "Welches der Wörter \"Brokdorf\" und \"Lüge\" klingt mehr wie \"Brockdorf\"?"
+  },
+  {
+    "id": "2130",
+    "input": "Welches der Wörter \"Lüge\" und \"Brokdorf\" klingt mehr wie \"Brockdorf\"?"
+  },
+  {
+    "id": "2131",
+    "input": "Welches der Wörter \"Brokdorf\" und \"Feld\" klingt mehr wie \"Brockdorf\"?"
+  },
+  {
+    "id": "2133",
+    "input": "Welches der Wörter \"Brokdorf\" und \"Wesen\" klingt mehr wie \"Brockdorf\"?"
+  },
+  {
+    "id": "2144",
+    "input": "Welches der Wörter \"Horror\" und \"Provinzklu\" klingt mehr wie \"Provinzclu\"?"
+  },
+  {
+    "id": "2151",
+    "input": "Welches der Wörter \"Saxofonen\" und \"Wirbelsturm\" klingt mehr wie \"Saxophonen\"?"
+  },
+  {
+    "id": "2156",
+    "input": "Welches der Wörter \"bewundern\" und \"K\\xc3\\xbcnstlerbiographie\" klingt mehr wie \"K\\xc3\\xbcnstlerbiografie\"?"
+  },
+  {
+    "id": "2160",
+    "input": "Welches der Wörter \"stinkend\" und \"K\\xc3\\xbcnstlerbiographie\" klingt mehr wie \"K\\xc3\\xbcnstlerbiografie\"?"
+  },
+  {
+    "id": "2164",
+    "input": "Welches der Wörter \"Ortschaft\" und \"siezen\" klingt mehr wie \"sitzen\"?"
+  },
+  {
+    "id": "2165",
+    "input": "Welches der Wörter \"siezen\" und \"dasitzen\" klingt mehr wie \"sitzen\"?"
+  },
+  {
+    "id": "2177",
+    "input": "Welches der Wörter \"d\\xc3\\xbcrren\" und \"Partner\" klingt mehr wie \"D\\xc3\\xbcren\"?"
+  },
+  {
+    "id": "2179",
+    "input": "Welches der Wörter \"d\\xc3\\xbcrren\" und \"fast\" klingt mehr wie \"D\\xc3\\xbcren\"?"
+  },
+  {
+    "id": "2185",
+    "input": "Welches der Wörter \"posthume\" und \"Frieden\" klingt mehr wie \"postume\"?"
+  },
+  {
+    "id": "2191",
+    "input": "Welches der Wörter \"posthume\" und \"Auto\" klingt mehr wie \"postume\"?"
+  },
+  {
+    "id": "2201",
+    "input": "Welches der Wörter \"Literaturbibliographie\" und \"glauben\" klingt mehr wie \"Literaturbibliografie\"?"
+  },
+  {
+    "id": "2215",
+    "input": "Welches der Wörter \"Glubschaugenbowle\" und \"Wunsch\" klingt mehr wie \"Glupschaugenbowle\"?"
+  },
+  {
+    "id": "2216",
+    "input": "Welches der Wörter \"Wunsch\" und \"Glubschaugenbowle\" klingt mehr wie \"Glupschaugenbowle\"?"
+  },
+  {
+    "id": "2218",
+    "input": "Welches der Wörter \"Nase\" und \"zutreten\" klingt mehr wie \"zudrehten\"?"
+  },
+  {
+    "id": "2219",
+    "input": "Welches der Wörter \"zutreten\" und \"Neffe\" klingt mehr wie \"zudrehten\"?"
+  },
+  {
+    "id": "2222",
+    "input": "Welches der Wörter \"Tintenfisch\" und \"zutreten\" klingt mehr wie \"zudrehten\"?"
+  },
+  {
+    "id": "2224",
+    "input": "Welches der Wörter \"Enkelin\" und \"zutreten\" klingt mehr wie \"zudrehten\"?"
+  },
+  {
+    "id": "2227",
+    "input": "Welches der Wörter \"grafitfarbener\" und \"vergleichen\" klingt mehr wie \"graphitfarbener\"?"
+  },
+  {
+    "id": "2228",
+    "input": "Welches der Wörter \"vergleichen\" und \"grafitfarbener\" klingt mehr wie \"graphitfarbener\"?"
+  },
+  {
+    "id": "2240",
+    "input": "Welches der Wörter \"hier\" und \"Kalbssteak\" klingt mehr wie \"Kalbsteak\"?"
+  },
+  {
+    "id": "2242",
+    "input": "Welches der Wörter \"Mittel\" und \"Gesamtfahrzeiten\" klingt mehr wie \"Gesamtfahrtzeiten\"?"
+  },
+  {
+    "id": "2244",
+    "input": "Welches der Wörter \"Handel\" und \"Gesamtfahrzeiten\" klingt mehr wie \"Gesamtfahrtzeiten\"?"
+  },
+  {
+    "id": "2251",
+    "input": "Welches der Wörter \"Stadtsendern\" und \"falten\" klingt mehr wie \"Staatssendern\"?"
+  },
+  {
+    "id": "2252",
+    "input": "Welches der Wörter \"falten\" und \"Stadtsendern\" klingt mehr wie \"Staatssendern\"?"
+  },
+  {
+    "id": "2264",
+    "input": "Welches der Wörter \"unter\" und \"Generalsta\" klingt mehr wie \"Generalssta\"?"
+  },
+  {
+    "id": "2266",
+    "input": "Welches der Wörter \"Einheit\" und \"grafischem\" klingt mehr wie \"graphischem\"?"
+  },
+  {
+    "id": "2274",
+    "input": "Welches der Wörter \"Krieg\" und \"eingerammt\" klingt mehr wie \"eingerahmt\"?"
+  },
+  {
+    "id": "2291",
+    "input": "Welches der Wörter \"Nachtklubbesitzers\" und \"denken\" klingt mehr wie \"Nachtclubbesitzers\"?"
+  },
+  {
+    "id": "2293",
+    "input": "Welches der Wörter \"Nachtklubbesitzers\" und \"unmöglich\" klingt mehr wie \"Nachtclubbesitzers\"?"
+  },
+  {
+    "id": "2299",
+    "input": "Welches der Wörter \"Johnny\" und \"Bildschirm\" klingt mehr wie \"Jonny\"?"
+  },
+  {
+    "id": "2303",
+    "input": "Welches der Wörter \"Johnny\" und \"Billard\" klingt mehr wie \"Jonny\"?"
+  },
+  {
+    "id": "2308",
+    "input": "Welches der Wörter \"Vorschrift\" und \"Marlies\" klingt mehr wie \"Marlis\"?"
+  },
+  {
+    "id": "2314",
+    "input": "Welches der Wörter \"warm\" und \"Grat\" klingt mehr wie \"Grad\"?"
+  },
+  {
+    "id": "2316",
+    "input": "Welches der Wörter \"Gebäude\" und \"Grat\" klingt mehr wie \"Grad\"?"
+  },
+  {
+    "id": "2317",
+    "input": "Welches der Wörter \"Grat\" und \"dick\" klingt mehr wie \"Grad\"?"
+  },
+  {
+    "id": "2318",
+    "input": "Welches der Wörter \"dick\" und \"Grat\" klingt mehr wie \"Grad\"?"
+  },
+  {
+    "id": "2321",
+    "input": "Welches der Wörter \"Photoleitung\" und \"natürlich\" klingt mehr wie \"Fotoleitung\"?"
+  },
+  {
+    "id": "2326",
+    "input": "Welches der Wörter \"Zahnarzt\" und \"Photoleitung\" klingt mehr wie \"Fotoleitung\"?"
+  },
+  {
+    "id": "2327",
+    "input": "Welches der Wörter \"Photoleitung\" und \"Nichte\" klingt mehr wie \"Fotoleitung\"?"
+  },
+  {
+    "id": "2328",
+    "input": "Welches der Wörter \"Nichte\" und \"Photoleitung\" klingt mehr wie \"Fotoleitung\"?"
+  },
+  {
+    "id": "2331",
+    "input": "Welches der Wörter \"fantasielosester\" und \"Ähnlichkeit\" klingt mehr wie \"phantasielosester\"?"
+  },
+  {
+    "id": "2333",
+    "input": "Welches der Wörter \"fantasielosester\" und \"Fahrzeug\" klingt mehr wie \"phantasielosester\"?"
+  },
+  {
+    "id": "2334",
+    "input": "Welches der Wörter \"Fahrzeug\" und \"fantasielosester\" klingt mehr wie \"phantasielosester\"?"
+  },
+  {
+    "id": "2347",
+    "input": "Welches der Wörter \"regtest\" und \"kalt\" klingt mehr wie \"recktest\"?"
+  },
+  {
+    "id": "2348",
+    "input": "Welches der Wörter \"kalt\" und \"regtest\" klingt mehr wie \"recktest\"?"
+  },
+  {
+    "id": "2353",
+    "input": "Welches der Wörter \"Harlem\" und \"wahrscheinlich\" klingt mehr wie \"Haarlem\"?"
+  },
+  {
+    "id": "2360",
+    "input": "Welches der Wörter \"Fall\" und \"Harlem\" klingt mehr wie \"Haarlem\"?"
+  },
+  {
+    "id": "2365",
+    "input": "Welches der Wörter \"taktet\" und \"Feuer\" klingt mehr wie \"tagtet\"?"
+  },
+  {
+    "id": "2392",
+    "input": "Welches der Wörter \"Kind\" und \"Computergrafiken\" klingt mehr wie \"Computergraphiken\"?"
+  },
+  {
+    "id": "2396",
+    "input": "Welches der Wörter \"Geige\" und \"zehnseitige\" klingt mehr wie \"zehnsaitige\"?"
+  },
+  {
+    "id": "2397",
+    "input": "Welches der Wörter \"zehnseitige\" und \"weltweit\" klingt mehr wie \"zehnsaitige\"?"
+  },
+  {
+    "id": "2399",
+    "input": "Welches der Wörter \"zehnseitige\" und \"Projekt\" klingt mehr wie \"zehnsaitige\"?"
+  },
+  {
+    "id": "2409",
+    "input": "Welches der Wörter \"driftet\" und \"Arzt\" klingt mehr wie \"trieftet\"?"
+  },
+  {
+    "id": "2419",
+    "input": "Welches der Wörter \"Geografielehrerinnen\" und \"Bank\" klingt mehr wie \"Geographielehrerinnen\"?"
+  },
+  {
+    "id": "2426",
+    "input": "Welches der Wörter \"wachsen\" und \"Transportfahrtzeuge\" klingt mehr wie \"Transportfahrzeuge\"?"
+  },
+  {
+    "id": "2428",
+    "input": "Welches der Wörter \"Mechanikerin\" und \"Transportfahrtzeuge\" klingt mehr wie \"Transportfahrzeuge\"?"
+  },
+  {
+    "id": "2429",
+    "input": "Welches der Wörter \"Transportfahrtzeuge\" und \"Verwaltung\" klingt mehr wie \"Transportfahrzeuge\"?"
+  },
+  {
+    "id": "2440",
+    "input": "Welches der Wörter \"Mechanikerin\" und \"Handelspanne\" klingt mehr wie \"Handelsspanne\"?"
+  },
+  {
+    "id": "2441",
+    "input": "Welches der Wörter \"Einzelkulturen\" und \"vor\" klingt mehr wie \"Einzellkulturen\"?"
+  },
+  {
+    "id": "2448",
+    "input": "Welches der Wörter \"außer\" und \"Einzelkulturen\" klingt mehr wie \"Einzellkulturen\"?"
+  },
+  {
+    "id": "2451",
+    "input": "Welches der Wörter \"Digestif\" und \"Kammer\" klingt mehr wie \"digestiv\"?"
+  },
+  {
+    "id": "2454",
+    "input": "Welches der Wörter \"Art\" und \"Digestif\" klingt mehr wie \"digestiv\"?"
+  },
+  {
+    "id": "2462",
+    "input": "Welches der Wörter \"Projekt\" und \"Bildbiografie\" klingt mehr wie \"Bildbiographie\"?"
+  },
+  {
+    "id": "2464",
+    "input": "Welches der Wörter \"Fortpflanzung\" und \"Bildbiografie\" klingt mehr wie \"Bildbiographie\"?"
+  },
+  {
+    "id": "2467",
+    "input": "Welches der Wörter \"Leerformel\" und \"Kraft\" klingt mehr wie \"Lehrformel\"?"
+  },
+  {
+    "id": "2470",
+    "input": "Welches der Wörter \"traurig\" und \"Leerformel\" klingt mehr wie \"Lehrformel\"?"
+  },
+  {
+    "id": "2486",
+    "input": "Welches der Wörter \"öffnen\" und \"Stadtsekret\\xc3\\xa4rinnen\" klingt mehr wie \"Staatssekret\\xc3\\xa4rinnen\"?"
+  },
+  {
+    "id": "2491",
+    "input": "Welches der Wörter \"Hanns\" und \"Objekt\" klingt mehr wie \"Hans\"?"
+  },
+  {
+    "id": "2493",
+    "input": "Welches der Wörter \"Hanns\" und \"letzter\" klingt mehr wie \"Hans\"?"
+  },
+  {
+    "id": "2504",
+    "input": "Welches der Wörter \"also\" und \"Studentenklu\" klingt mehr wie \"Studentenclu\"?"
+  },
+  {
+    "id": "2506",
+    "input": "Welches der Wörter \"erschrocken\" und \"biographischem\" klingt mehr wie \"biografischem\"?"
+  },
+  {
+    "id": "2509",
+    "input": "Welches der Wörter \"biographischem\" und \"Biologe\" klingt mehr wie \"biografischem\"?"
+  },
+  {
+    "id": "2511",
+    "input": "Welches der Wörter \"biographischem\" und \"gelangweilt\" klingt mehr wie \"biografischem\"?"
+  },
+  {
+    "id": "2512",
+    "input": "Welches der Wörter \"gelangweilt\" und \"biographischem\" klingt mehr wie \"biografischem\"?"
+  },
+  {
+    "id": "2516",
+    "input": "Welches der Wörter \"noch\" und \"Kanopus\" klingt mehr wie \"Canopus\"?"
+  },
+  {
+    "id": "2528",
+    "input": "Welches der Wörter \"Donnerstag\" und \"Graphikbildschirm\" klingt mehr wie \"Grafikbildschirm\"?"
+  },
+  {
+    "id": "2529",
+    "input": "Welches der Wörter \"vermisst\" und \"zwei\" klingt mehr wie \"vermiest\"?"
+  },
+  {
+    "id": "2536",
+    "input": "Welches der Wörter \"Sicherheit\" und \"vermisst\" klingt mehr wie \"vermiest\"?"
+  },
+  {
+    "id": "2540",
+    "input": "Welches der Wörter \"wegnehmen\" und \"d\\xc3\\xbcrste\" klingt mehr wie \"d\\xc3\\xbcrrste\"?"
+  },
+  {
+    "id": "2541",
+    "input": "Welches der Wörter \"d\\xc3\\xbcrste\" und \"nehmen\" klingt mehr wie \"d\\xc3\\xbcrrste\"?"
+  },
+  {
+    "id": "2545",
+    "input": "Welches der Wörter \"Kartencasino\" und \"Vogel\" klingt mehr wie \"Kartenkasino\"?"
+  },
+  {
+    "id": "2550",
+    "input": "Welches der Wörter \"führend\" und \"Kartencasino\" klingt mehr wie \"Kartenkasino\"?"
+  },
+  {
+    "id": "2555",
+    "input": "Welches der Wörter \"Funktelegraphie\" und \"Name\" klingt mehr wie \"Funktelegrafie\"?"
+  },
+  {
+    "id": "2565",
+    "input": "Welches der Wörter \"Gerhardt\" und \"Sicht\" klingt mehr wie \"Gerhart\"?"
+  },
+  {
+    "id": "2567",
+    "input": "Welches der Wörter \"Gerhardt\" und \"folgend\" klingt mehr wie \"Gerhart\"?"
+  },
+  {
+    "id": "2575",
+    "input": "Welches der Wörter \"Phantasiegeldes\" und \"von\" klingt mehr wie \"Fantasiegeldes\"?"
+  },
+  {
+    "id": "2576",
+    "input": "Welches der Wörter \"von\" und \"Phantasiegeldes\" klingt mehr wie \"Fantasiegeldes\"?"
+  },
+  {
+    "id": "2582",
+    "input": "Welches der Wörter \"Schrottkarre\" und \"Schrottwaagen\" klingt mehr wie \"Schrottwagen\"?"
+  },
+  {
+    "id": "2583",
+    "input": "Welches der Wörter \"Schrottwaagen\" und \"Schrottkiste\" klingt mehr wie \"Schrottwagen\"?"
+  },
+  {
+    "id": "2584",
+    "input": "Welches der Wörter \"Schrottkiste\" und \"Schrottwaagen\" klingt mehr wie \"Schrottwagen\"?"
+  },
+  {
+    "id": "2597",
+    "input": "Welches der Wörter \"Phantasieheldin\" und \"fünfter\" klingt mehr wie \"Fantasieheldin\"?"
+  },
+  {
+    "id": "2598",
+    "input": "Welches der Wörter \"fünfter\" und \"Phantasieheldin\" klingt mehr wie \"Fantasieheldin\"?"
+  },
+  {
+    "id": "2606",
+    "input": "Welches der Wörter \"kulturell\" und \"choreografische\" klingt mehr wie \"choreographische\"?"
+  },
+  {
+    "id": "2614",
+    "input": "Welches der Wörter \"Wüste\" und \"Kamilla\" klingt mehr wie \"Camilla\"?"
+  },
+  {
+    "id": "2615",
+    "input": "Welches der Wörter \"Kamilla\" und \"Schulter\" klingt mehr wie \"Camilla\"?"
+  },
+  {
+    "id": "2617",
+    "input": "Welches der Wörter \"Fantasieprojekt\" und \"Inhalt\" klingt mehr wie \"Phantasieprojekt\"?"
+  },
+  {
+    "id": "2632",
+    "input": "Welches der Wörter \"Empfindung\" und \"Lebenstrank\" klingt mehr wie \"Lebensdrang\"?"
+  },
+  {
+    "id": "2635",
+    "input": "Welches der Wörter \"Kordm\\xc3\\xbctzen\" und \"Demokratie\" klingt mehr wie \"Cordm\\xc3\\xbctzen\"?"
+  },
+  {
+    "id": "2638",
+    "input": "Welches der Wörter \"Nagel\" und \"Kordm\\xc3\\xbctzen\" klingt mehr wie \"Cordm\\xc3\\xbctzen\"?"
+  },
+  {
+    "id": "2643",
+    "input": "Welches der Wörter \"austreten\" und \"Hand\" klingt mehr wie \"ausdrehten\"?"
+  },
+  {
+    "id": "2649",
+    "input": "Welches der Wörter \"Staatssport\" und \"Bauch\" klingt mehr wie \"Stadtsport\"?"
+  },
+  {
+    "id": "2655",
+    "input": "Welches der Wörter \"Staatssport\" und \"Roller\" klingt mehr wie \"Stadtsport\"?"
+  },
+  {
+    "id": "2658",
+    "input": "Welches der Wörter \"Charakter\" und \"Wissenstand\" klingt mehr wie \"Wissensstand\"?"
+  },
+  {
+    "id": "2661",
+    "input": "Welches der Wörter \"Wissenstand\" und \"Vertrauen\" klingt mehr wie \"Wissensstand\"?"
+  },
+  {
+    "id": "2666",
+    "input": "Welches der Wörter \"nach\" und \"Clubhymnen\" klingt mehr wie \"Klubhymnen\"?"
+  },
+  {
+    "id": "2668",
+    "input": "Welches der Wörter \"hier\" und \"Clubhymnen\" klingt mehr wie \"Klubhymnen\"?"
+  },
+  {
+    "id": "2680",
+    "input": "Welches der Wörter \"Mietbetrag\" und \"mitsumme\" klingt mehr wie \"Mietsumme\"?"
+  },
+  {
+    "id": "2684",
+    "input": "Welches der Wörter \"treffen\" und \"typographischer\" klingt mehr wie \"typografischer\"?"
+  },
+  {
+    "id": "2691",
+    "input": "Welches der Wörter \"Zwerghundeklu\" und \"folgen\" klingt mehr wie \"Zwerghundeclu\"?"
+  },
+  {
+    "id": "2700",
+    "input": "Welches der Wörter \"Feuerwehrfrau\" und \"Kontenance\" klingt mehr wie \"Contenance\"?"
+  },
+  {
+    "id": "2702",
+    "input": "Welches der Wörter \"Fassung\" und \"Kontenance\" klingt mehr wie \"Contenance\"?"
+  },
+  {
+    "id": "2724",
+    "input": "Welches der Wörter \"Mehrheit\" und \"Flussdelfine\" klingt mehr wie \"Flussdelphine\"?"
+  },
+  {
+    "id": "2727",
+    "input": "Welches der Wörter \"Flussdelfine\" und \"erschaffen\" klingt mehr wie \"Flussdelphine\"?"
+  },
+  {
+    "id": "2734",
+    "input": "Welches der Wörter \"fehlen\" und \"Beo\" klingt mehr wie \"beho\"?"
+  },
+  {
+    "id": "2735",
+    "input": "Welches der Wörter \"Beo\" und \"Rathaus\" klingt mehr wie \"beho\"?"
+  },
+  {
+    "id": "2736",
+    "input": "Welches der Wörter \"Rathaus\" und \"Beo\" klingt mehr wie \"beho\"?"
+  },
+  {
+    "id": "2738",
+    "input": "Welches der Wörter \"Kampagne\" und \"geleckten\" klingt mehr wie \"gelegten\"?"
+  },
+  {
+    "id": "2742",
+    "input": "Welches der Wörter \"leben\" und \"geleckten\" klingt mehr wie \"gelegten\"?"
+  },
+  {
+    "id": "2744",
+    "input": "Welches der Wörter \"müde\" und \"geleckten\" klingt mehr wie \"gelegten\"?"
+  },
+  {
+    "id": "2750",
+    "input": "Welches der Wörter \"Breite\" und \"vortastend\" klingt mehr wie \"forthastend\"?"
+  },
+  {
+    "id": "2757",
+    "input": "Welches der Wörter \"Glupschaugen\" und \"schmal\" klingt mehr wie \"Glubschaugen\"?"
+  },
+  {
+    "id": "2759",
+    "input": "Welches der Wörter \"Glupschaugen\" und \"Hand\" klingt mehr wie \"Glubschaugen\"?"
+  },
+  {
+    "id": "2764",
+    "input": "Welches der Wörter \"Erwachsener\" und \"soft\" klingt mehr wie \"sofft\"?"
+  },
+  {
+    "id": "2774",
+    "input": "Welches der Wörter \"trinken\" und \"Fotowiderstandes\" klingt mehr wie \"Photowiderstandes\"?"
+  },
+  {
+    "id": "2775",
+    "input": "Welches der Wörter \"Fotowiderstandes\" und \"Friseursalon\" klingt mehr wie \"Photowiderstandes\"?"
+  },
+  {
+    "id": "2783",
+    "input": "Welches der Wörter \"topographisches\" und \"Direktorin\" klingt mehr wie \"topografisches\"?"
+  },
+  {
+    "id": "2797",
+    "input": "Welches der Wörter \"Nationalkinematografie\" und \"Familie\" klingt mehr wie \"Nationalkinematographie\"?"
+  },
+  {
+    "id": "2801",
+    "input": "Welches der Wörter \"Kraftfahrtzeugen\" und \"Urenkel\" klingt mehr wie \"Kraftfahrzeugen\"?"
+  },
+  {
+    "id": "2802",
+    "input": "Welches der Wörter \"Urenkel\" und \"Kraftfahrtzeugen\" klingt mehr wie \"Kraftfahrzeugen\"?"
+  },
+  {
+    "id": "2803",
+    "input": "Welches der Wörter \"Kraftfahrtzeugen\" und \"Lösung\" klingt mehr wie \"Kraftfahrzeugen\"?"
+  },
+  {
+    "id": "2805",
+    "input": "Welches der Wörter \"Kraftfahrtzeugen\" und \"Schnur\" klingt mehr wie \"Kraftfahrzeugen\"?"
+  },
+  {
+    "id": "2817",
+    "input": "Welches der Wörter \"fantasiereichsten\" und \"lieben\" klingt mehr wie \"phantasiereichsten\"?"
+  },
+  {
+    "id": "2839",
+    "input": "Welches der Wörter \"Kalligraphiekurse\" und \"Freude\" klingt mehr wie \"Kalligrafiekurse\"?"
+  },
+  {
+    "id": "2846",
+    "input": "Welches der Wörter \"früh\" und \"Frauenfantasien\" klingt mehr wie \"Frauenphantasien\"?"
+  },
+  {
+    "id": "2850",
+    "input": "Welches der Wörter \"probieren\" und \"Bohrtechniken\" klingt mehr wie \"Bordtechniken\"?"
+  },
+  {
+    "id": "2855",
+    "input": "Welches der Wörter \"Bohrtechniken\" und \"Erbsen\" klingt mehr wie \"Bordtechniken\"?"
+  },
+  {
+    "id": "2858",
+    "input": "Welches der Wörter \"helfen\" und \"ertaube\" klingt mehr wie \"Erdtaube\"?"
+  },
+  {
+    "id": "2862",
+    "input": "Welches der Wörter \"schwer\" und \"ertaube\" klingt mehr wie \"Erdtaube\"?"
+  },
+  {
+    "id": "2863",
+    "input": "Welches der Wörter \"ertaube\" und \"Charakter\" klingt mehr wie \"Erdtaube\"?"
+  },
+  {
+    "id": "2864",
+    "input": "Welches der Wörter \"Charakter\" und \"ertaube\" klingt mehr wie \"Erdtaube\"?"
+  },
+  {
+    "id": "2870",
+    "input": "Welches der Wörter \"Demokratie\" und \"absengte\" klingt mehr wie \"absenkte\"?"
+  },
+  {
+    "id": "2871",
+    "input": "Welches der Wörter \"absengte\" und \"können\" klingt mehr wie \"absenkte\"?"
+  },
+  {
+    "id": "2878",
+    "input": "Welches der Wörter \"bewegen\" und \"herauslasst\" klingt mehr wie \"herauslast\"?"
+  },
+  {
+    "id": "2888",
+    "input": "Welches der Wörter \"Sicht\" und \"reinzuklotzen\" klingt mehr wie \"reinzuglotzen\"?"
+  },
+  {
+    "id": "2905",
+    "input": "Welches der Wörter \"Typografien\" und \"demnächst\" klingt mehr wie \"Typographin\"?"
+  },
+  {
+    "id": "2906",
+    "input": "Welches der Wörter \"demnächst\" und \"Typografien\" klingt mehr wie \"Typographin\"?"
+  },
+  {
+    "id": "2909",
+    "input": "Welches der Wörter \"Typografien\" und \"Typografin\" klingt mehr wie \"Typographin\"?"
+  },
+  {
+    "id": "2914",
+    "input": "Welches der Wörter \"Berührung\" und \"Hollweg\" klingt mehr wie \"Hohlweg\"?"
+  },
+  {
+    "id": "2915",
+    "input": "Welches der Wörter \"Hollweg\" und \"Bäckerei\" klingt mehr wie \"Hohlweg\"?"
+  },
+  {
+    "id": "2919",
+    "input": "Welches der Wörter \"Hollweg\" und \"neu\" klingt mehr wie \"Hohlweg\"?"
+  },
+  {
+    "id": "2921",
+    "input": "Welches der Wörter \"gepoltem\" und \"Landstraße\" klingt mehr wie \"gepooltem\"?"
+  },
+  {
+    "id": "2925",
+    "input": "Welches der Wörter \"gepoltem\" und \"Fuß\" klingt mehr wie \"gepooltem\"?"
+  },
+  {
+    "id": "2927",
+    "input": "Welches der Wörter \"gepoltem\" und \"fünf\" klingt mehr wie \"gepooltem\"?"
+  },
+  {
+    "id": "2935",
+    "input": "Welches der Wörter \"Gesangstunden\" und \"Kappe\" klingt mehr wie \"Gesangsstunden\"?"
+  },
+  {
+    "id": "2937",
+    "input": "Welches der Wörter \"Clubgr\\xc3\\xbcndung\" und \"mitten\" klingt mehr wie \"Klubgr\\xc3\\xbcndung\"?"
+  },
+  {
+    "id": "2946",
+    "input": "Welches der Wörter \"Adverb\" und \"Altersbiographien\" klingt mehr wie \"Altersbiografien\"?"
+  },
+  {
+    "id": "2961",
+    "input": "Welches der Wörter \"Wohnstadt\" und \"Meer\" klingt mehr wie \"Wohnstatt\"?"
+  },
+  {
+    "id": "2962",
+    "input": "Welches der Wörter \"Meer\" und \"Wohnstadt\" klingt mehr wie \"Wohnstatt\"?"
+  },
+  {
+    "id": "2964",
+    "input": "Welches der Wörter \"neu\" und \"Wohnstadt\" klingt mehr wie \"Wohnstatt\"?"
+  },
+  {
+    "id": "2970",
+    "input": "Welches der Wörter \"Transport\" und \"Kuwait\" klingt mehr wie \"Kuweit\"?"
+  },
+  {
+    "id": "2973",
+    "input": "Welches der Wörter \"Kuwait\" und \"Aufzug\" klingt mehr wie \"Kuweit\"?"
+  },
+  {
+    "id": "2976",
+    "input": "Welches der Wörter \"Langeweile\" und \"Kuwait\" klingt mehr wie \"Kuweit\"?"
+  },
+  {
+    "id": "2987",
+    "input": "Welches der Wörter \"glitschig\" und \"hundertster\" klingt mehr wie \"klitschig\"?"
+  },
+  {
+    "id": "2991",
+    "input": "Welches der Wörter \"glitschig\" und \"bewerten\" klingt mehr wie \"klitschig\"?"
+  },
+  {
+    "id": "2992",
+    "input": "Welches der Wörter \"bewerten\" und \"glitschig\" klingt mehr wie \"klitschig\"?"
+  },
+  {
+    "id": "2994",
+    "input": "Welches der Wörter \"Mechanikerin\" und \"kompilieren\" klingt mehr wie \"compilieren\"?"
+  },
+  {
+    "id": "2997",
+    "input": "Welches der Wörter \"kompilieren\" und \"Schwimmen\" klingt mehr wie \"compilieren\"?"
+  },
+  {
+    "id": "2999",
+    "input": "Welches der Wörter \"kompilieren\" und \"Informatiker\" klingt mehr wie \"compilieren\"?"
+  },
+  {
+    "id": "3003",
+    "input": "Welches der Wörter \"Clubsessels\" und \"Zug\" klingt mehr wie \"Klubsessels\"?"
+  },
+  {
+    "id": "3007",
+    "input": "Welches der Wörter \"Clubsessels\" und \"Berührung\" klingt mehr wie \"Klubsessels\"?"
+  },
+  {
+    "id": "3011",
+    "input": "Welches der Wörter \"gerahmtes\" und \"unser\" klingt mehr wie \"gerammtes\"?"
+  },
+  {
+    "id": "3014",
+    "input": "Welches der Wörter \"etwas\" und \"gerahmtes\" klingt mehr wie \"gerammtes\"?"
+  },
+  {
+    "id": "3040",
+    "input": "Welches der Wörter \"Senatorin\" und \"Fechtclu\" klingt mehr wie \"Fechtklu\"?"
+  },
+  {
+    "id": "3066",
+    "input": "Welches der Wörter \"vorankommen\" und \"austickst\" klingt mehr wie \"ausstichst\"?"
+  },
+  {
+    "id": "3073",
+    "input": "Welches der Wörter \"Selbstteilung\" und \"warten\" klingt mehr wie \"Selbstheilung\"?"
+  },
+  {
+    "id": "3081",
+    "input": "Welches der Wörter \"Sozialgeographie\" und \"Boxen\" klingt mehr wie \"Sozialgeografie\"?"
+  },
+  {
+    "id": "3082",
+    "input": "Welches der Wörter \"Boxen\" und \"Sozialgeographie\" klingt mehr wie \"Sozialgeografie\"?"
+  },
+  {
+    "id": "3085",
+    "input": "Welches der Wörter \"Sozialgeographie\" und \"Journalist\" klingt mehr wie \"Sozialgeografie\"?"
+  },
+  {
+    "id": "3086",
+    "input": "Welches der Wörter \"Journalist\" und \"Sozialgeographie\" klingt mehr wie \"Sozialgeografie\"?"
+  },
+  {
+    "id": "3092",
+    "input": "Welches der Wörter \"Heuschrecke\" und \"Vorzugstimmenwahl\" klingt mehr wie \"Vorzugsstimmenwahl\"?"
+  },
+  {
+    "id": "3096",
+    "input": "Welches der Wörter \"ankommen\" und \"Vorzugstimmenwahl\" klingt mehr wie \"Vorzugsstimmenwahl\"?"
+  },
+  {
+    "id": "3107",
+    "input": "Welches der Wörter \"Kat\" und \"zusammen\" klingt mehr wie \"kath\"?"
+  },
+  {
+    "id": "3110",
+    "input": "Welches der Wörter \"Leistung\" und \"Kat\" klingt mehr wie \"kath\"?"
+  },
+  {
+    "id": "3119",
+    "input": "Welches der Wörter \"Clubkampfes\" und \"Chronik\" klingt mehr wie \"Klubkampfes\"?"
+  },
+  {
+    "id": "3131",
+    "input": "Welches der Wörter \"Mietinteressent\" und \"Zustand\" klingt mehr wie \"Mitinteressent\"?"
+  },
+  {
+    "id": "3136",
+    "input": "Welches der Wörter \"dort\" und \"Mietinteressent\" klingt mehr wie \"Mitinteressent\"?"
+  },
+  {
+    "id": "3137",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Meer\": \"mehr\" oder \"Vater\"?"
+  },
+  {
+    "id": "3139",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Meer\": \"mehr\" oder \"Socken\"?"
+  },
+  {
+    "id": "3142",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Meer\": \"Ozean\" oder \"mehr\"?"
+  },
+  {
+    "id": "3148",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kati\": \"Vernunft\" oder \"Kathi\"?"
+  },
+  {
+    "id": "3149",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kati\": \"Kathi\" oder \"Tür\"?"
+  },
+  {
+    "id": "3154",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Cayman\": \"bauen\" oder \"Kaiman\"?"
+  },
+  {
+    "id": "3158",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Cayman\": \"Zwiebel\" oder \"Kaiman\"?"
+  },
+  {
+    "id": "3164",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gekillter\": \"wahrscheinlich\" oder \"gekielter\"?"
+  },
+  {
+    "id": "3180",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gebrauchsgrafische\": \"Organisation\" oder \"gebrauchsgraphische\"?"
+  },
+  {
+    "id": "3181",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gebrauchsgrafische\": \"gebrauchsgraphische\" oder \"Cafeteria\"?"
+  },
+  {
+    "id": "3182",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gebrauchsgrafische\": \"Cafeteria\" oder \"gebrauchsgraphische\"?"
+  },
+  {
+    "id": "3184",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gebrauchsgrafische\": \"noch\" oder \"gebrauchsgraphische\"?"
+  },
+  {
+    "id": "3185",
+    "input": "Welches Wort ist ein Homophon des Wortes \"vorw\\xc3\\xa4rtsspringst\": \"vorw\\xc3\\xa4rtsbringst\" oder \"tragen\"?"
+  },
+  {
+    "id": "3194",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Ministerien\": \"Folge\" oder \"Ministerin\"?"
+  },
+  {
+    "id": "3204",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Paragraphendickicht\": \"neu\" oder \"Paragrafendickicht\"?"
+  },
+  {
+    "id": "3205",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Paragraphendickicht\": \"Paragrafendickicht\" oder \"Boot\"?"
+  },
+  {
+    "id": "3206",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Paragraphendickicht\": \"Boot\" oder \"Paragrafendickicht\"?"
+  },
+  {
+    "id": "3214",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Naa\": \"Flughafen\" oder \"na\"?"
+  },
+  {
+    "id": "3232",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Modellflugclu\": \"letzter\" oder \"Modellflugklu\"?"
+  },
+  {
+    "id": "3234",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kadmiums\": \"Baby\" oder \"Cadmiums\"?"
+  },
+  {
+    "id": "3235",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kadmiums\": \"Cadmiums\" oder \"Hund\"?"
+  },
+  {
+    "id": "3238",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kadmiums\": \"Socken\" oder \"Cadmiums\"?"
+  },
+  {
+    "id": "3240",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kadmiums\": \"heute\" oder \"Cadmiums\"?"
+  },
+  {
+    "id": "3245",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Stra\\xc3\\x9fenname\": \"Stra\\xc3\\x9fennahme\" oder \"Schreibtisch\"?"
+  },
+  {
+    "id": "3257",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Drink\": \"trink\" oder \"leicht\"?"
+  },
+  {
+    "id": "3266",
+    "input": "Welches Wort ist ein Homophon des Wortes \"katharisch\": \"Biologin\" oder \"katarisch\"?"
+  },
+  {
+    "id": "3282",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Tagesspruch\": \"Verlauf\" oder \"Tagesbruch\"?"
+  },
+  {
+    "id": "3284",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Tagesspruch\": \"Bahn\" oder \"Tagesbruch\"?"
+  },
+  {
+    "id": "3288",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Tagesspruch\": \"Faden\" oder \"Tagesbruch\"?"
+  },
+  {
+    "id": "3289",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Feuerwerkshows\": \"Feuerwerksshows\" oder \"oft\"?"
+  },
+  {
+    "id": "3291",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Feuerwerkshows\": \"Feuerwerksshows\" oder \"bringen\"?"
+  },
+  {
+    "id": "3303",
+    "input": "Welches Wort ist ein Homophon des Wortes \"aufgehakt\": \"aufgehackt\" oder \"nahe\"?"
+  },
+  {
+    "id": "3312",
+    "input": "Welches Wort ist ein Homophon des Wortes \"bibliografischem\": \"dritter\" oder \"bibliographischem\"?"
+  },
+  {
+    "id": "3317",
+    "input": "Welches Wort ist ein Homophon des Wortes \"trackt\": \"Trakt\" oder \"Höhe\"?"
+  },
+  {
+    "id": "3319",
+    "input": "Welches Wort ist ein Homophon des Wortes \"trackt\": \"Trakt\" oder \"Körper\"?"
+  },
+  {
+    "id": "3320",
+    "input": "Welches Wort ist ein Homophon des Wortes \"trackt\": \"Körper\" oder \"Trakt\"?"
+  },
+  {
+    "id": "3328",
+    "input": "Welches Wort ist ein Homophon des Wortes \"fortzuziehendes\": \"Ozean\" oder \"vorzuziehendes\"?"
+  },
+  {
+    "id": "3329",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Vorzeigeclubs\": \"Vorzeigeklubs\" oder \"normal\"?"
+  },
+  {
+    "id": "3341",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Tennisclu\": \"Tennisklu\" oder \"Tür\"?"
+  },
+  {
+    "id": "3342",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Tennisclu\": \"Tür\" oder \"Tennisklu\"?"
+  },
+  {
+    "id": "3348",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lieblingsklubs\": \"Allee\" oder \"Lieblingsclubs\"?"
+  },
+  {
+    "id": "3350",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lieblingsklubs\": \"Brust\" oder \"Lieblingsclubs\"?"
+  },
+  {
+    "id": "3353",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Querschnittsstudien\": \"Querschnittstudien\" oder \"Metall\"?"
+  },
+  {
+    "id": "3354",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Querschnittsstudien\": \"Metall\" oder \"Querschnittstudien\"?"
+  },
+  {
+    "id": "3367",
+    "input": "Welches Wort ist ein Homophon des Wortes \"vorzulassen\": \"fortzulassen\" oder \"Romanze\"?"
+  },
+  {
+    "id": "3372",
+    "input": "Welches Wort ist ein Homophon des Wortes \"kodiertest\": \"Liebe\" oder \"codiertest\"?"
+  },
+  {
+    "id": "3374",
+    "input": "Welches Wort ist ein Homophon des Wortes \"kodiertest\": \"oft\" oder \"codiertest\"?"
+  },
+  {
+    "id": "3376",
+    "input": "Welches Wort ist ein Homophon des Wortes \"kodiertest\": \"einsam\" oder \"codiertest\"?"
+  },
+  {
+    "id": "3381",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Burkard\": \"Burkart\" oder \"warten\"?"
+  },
+  {
+    "id": "3385",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Demographien\": \"Demographin\" oder \"neun\"?"
+  },
+  {
+    "id": "3387",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Demographien\": \"Demographin\" oder \"September\"?"
+  },
+  {
+    "id": "3389",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Demographien\": \"Demographin\" oder \"beabsichtigen\"?"
+  },
+  {
+    "id": "3393",
+    "input": "Welches Wort ist ein Homophon des Wortes \"mehr\": \"Meer\" oder \"Ton\"?"
+  },
+  {
+    "id": "3401",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bundesbrechers\": \"Bundessprechers\" oder \"glauben\"?"
+  },
+  {
+    "id": "3404",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bundesbrechers\": \"Ingenieurin\" oder \"Bundessprechers\"?"
+  },
+  {
+    "id": "3408",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bundesbrechers\": \"Fortpflanzung\" oder \"Bundessprechers\"?"
+  },
+  {
+    "id": "3415",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Geografieinstitut\": \"Geographieinstitut\" oder \"Krawatte\"?"
+  },
+  {
+    "id": "3419",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Seiten\": \"Saiten\" oder \"kaufen\"?"
+  },
+  {
+    "id": "3423",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Seiten\": \"Saiten\" oder \"Frau\"?"
+  },
+  {
+    "id": "3430",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Agrar\\xc3\\xb6konomien\": \"weit\" oder \"Agrar\\xc3\\xb6konomin\"?"
+  },
+  {
+    "id": "3438",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Graphikdatenverarbeitung\": \"Ärmel\" oder \"Grafikdatenverarbeitung\"?"
+  },
+  {
+    "id": "3439",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Graphikdatenverarbeitung\": \"Grafikdatenverarbeitung\" oder \"streng\"?"
+  },
+  {
+    "id": "3451",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kaiserbiografen\": \"Kaiserbiographen\" oder \"Rückschritt\"?"
+  },
+  {
+    "id": "3452",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kaiserbiografen\": \"Rückschritt\" oder \"Kaiserbiographen\"?"
+  },
+  {
+    "id": "3458",
+    "input": "Welches Wort ist ein Homophon des Wortes \"glichst\": \"Wissenschaftlerin\" oder \"klickst\"?"
+  },
+  {
+    "id": "3460",
+    "input": "Welches Wort ist ein Homophon des Wortes \"glichst\": \"Bohnen\" oder \"klickst\"?"
+  },
+  {
+    "id": "3493",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Spitzenfu\\xc3\\x9fballklubs\": \"Spitzenfu\\xc3\\x9fballclubs\" oder \"Hund\"?"
+  },
+  {
+    "id": "3495",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Spitzenfu\\xc3\\x9fballklubs\": \"Spitzenfu\\xc3\\x9fballclubs\" oder \"Verteidigung\"?"
+  },
+  {
+    "id": "3499",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Walbeobachtern\": \"Wahlbeobachtern\" oder \"Tasche\"?"
+  },
+  {
+    "id": "3501",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Walbeobachtern\": \"Wahlbeobachtern\" oder \"einzigartig\"?"
+  },
+  {
+    "id": "3502",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Walbeobachtern\": \"einzigartig\" oder \"Wahlbeobachtern\"?"
+  },
+  {
+    "id": "3506",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gebloggt\": \"Bildschirm\" oder \"geblockt\"?"
+  },
+  {
+    "id": "3517",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Thalheims\": \"Talheims\" oder \"Schauspielerin\"?"
+  },
+  {
+    "id": "3526",
+    "input": "Welches Wort ist ein Homophon des Wortes \"grafologischen\": \"beißen\" oder \"graphologischen\"?"
+  },
+  {
+    "id": "3527",
+    "input": "Welches Wort ist ein Homophon des Wortes \"grafologischen\": \"graphologischen\" oder \"Slip\"?"
+  },
+  {
+    "id": "3531",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Medienklubs\": \"Medienclubs\" oder \"Segeln\"?"
+  },
+  {
+    "id": "3538",
+    "input": "Welches Wort ist ein Homophon des Wortes \"biographiebezogenem\": \"Richter\" oder \"biografiebezogenem\"?"
+  },
+  {
+    "id": "3541",
+    "input": "Welches Wort ist ein Homophon des Wortes \"biographiebezogenem\": \"biografiebezogenem\" oder \"nachträglich\"?"
+  },
+  {
+    "id": "3544",
+    "input": "Welches Wort ist ein Homophon des Wortes \"biographiebezogenem\": \"Motorrad\" oder \"biografiebezogenem\"?"
+  },
+  {
+    "id": "3555",
+    "input": "Welches Wort ist ein Homophon des Wortes \"sichtest\": \"siechtest\" oder \"Silber\"?"
+  },
+  {
+    "id": "3565",
+    "input": "Welches Wort ist ein Homophon des Wortes \"wegkarrten\": \"Wegkarten\" oder \"Gleis\"?"
+  },
+  {
+    "id": "3572",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Theresas\": \"Summe\" oder \"Teresas\"?"
+  },
+  {
+    "id": "3577",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Nachtfantasie\": \"Nachtphantasie\" oder \"Recht\"?"
+  },
+  {
+    "id": "3580",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Nachtfantasie\": \"Tisch\" oder \"Nachtphantasie\"?"
+  },
+  {
+    "id": "3584",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Nachtfantasie\": \"Knopf\" oder \"Nachtphantasie\"?"
+  },
+  {
+    "id": "3611",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Parteiklubs\": \"Parteiclubs\" oder \"um\"?"
+  },
+  {
+    "id": "3615",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Parteiklubs\": \"Parteiclubs\" oder \"Kongress\"?"
+  },
+  {
+    "id": "3618",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Nationalratsclu\": \"Mittel\" oder \"Nationalratsklu\"?"
+  },
+  {
+    "id": "3636",
+    "input": "Welches Wort ist ein Homophon des Wortes \"ausspracht\": \"Umfang\" oder \"ausbracht\"?"
+  },
+  {
+    "id": "3638",
+    "input": "Welches Wort ist ein Homophon des Wortes \"ausspracht\": \"Schlange\" oder \"ausbracht\"?"
+  },
+  {
+    "id": "3641",
+    "input": "Welches Wort ist ein Homophon des Wortes \"hydrographische\": \"hydrografische\" oder \"Ingenieurin\"?"
+  },
+  {
+    "id": "3643",
+    "input": "Welches Wort ist ein Homophon des Wortes \"hydrographische\": \"hydrografische\" oder \"Mantel\"?"
+  },
+  {
+    "id": "3649",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Wetterboote\": \"Wetterbote\" oder \"setzen\"?"
+  },
+  {
+    "id": "3650",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Wetterboote\": \"setzen\" oder \"Wetterbote\"?"
+  },
+  {
+    "id": "3651",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Wetterboote\": \"Wetterbote\" oder \"sofort\"?"
+  },
+  {
+    "id": "3661",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Dreieckspitzen\": \"Dreiecksspitzen\" oder \"wechseln\"?"
+  },
+  {
+    "id": "3663",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Dreieckspitzen\": \"Dreiecksspitzen\" oder \"Merkmal\"?"
+  },
+  {
+    "id": "3666",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Dentalradiografie\": \"Schwimmen\" oder \"Dentalradiographie\"?"
+  },
+  {
+    "id": "3678",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubliedes\": \"Bildschirm\" oder \"Clubliedes\"?"
+  },
+  {
+    "id": "3693",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bev\\xc3\\xb6lkerungsgeografie\": \"Bev\\xc3\\xb6lkerungsgeographie\" oder \"mit\"?"
+  },
+  {
+    "id": "3694",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bev\\xc3\\xb6lkerungsgeografie\": \"mit\" oder \"Bev\\xc3\\xb6lkerungsgeographie\"?"
+  },
+  {
+    "id": "3696",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bev\\xc3\\xb6lkerungsgeografie\": \"Besprechung\" oder \"Bev\\xc3\\xb6lkerungsgeographie\"?"
+  },
+  {
+    "id": "3703",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Brockdorf\": \"Brokdorf\" oder \"etcetera\"?"
+  },
+  {
+    "id": "3705",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Provinzclu\": \"Provinzklu\" oder \"September\"?"
+  },
+  {
+    "id": "3708",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Provinzclu\": \"Brille\" oder \"Provinzklu\"?"
+  },
+  {
+    "id": "3709",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Provinzclu\": \"Provinzklu\" oder \"Grundsatz\"?"
+  },
+  {
+    "id": "3716",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Saxophonen\": \"allgemein\" oder \"Saxofonen\"?"
+  },
+  {
+    "id": "3718",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Saxophonen\": \"Gefühl\" oder \"Saxofonen\"?"
+  },
+  {
+    "id": "3724",
+    "input": "Welches Wort ist ein Homophon des Wortes \"K\\xc3\\xbcnstlerbiografie\": \"bewundern\" oder \"K\\xc3\\xbcnstlerbiographie\"?"
+  },
+  {
+    "id": "3735",
+    "input": "Welches Wort ist ein Homophon des Wortes \"sitzen\": \"siezen\" oder \"hocken\"?"
+  },
+  {
+    "id": "3737",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Theaterjugendclu\": \"Theaterjugendklu\" oder \"Richter\"?"
+  },
+  {
+    "id": "3741",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Theaterjugendclu\": \"Theaterjugendklu\" oder \"Bevölkerung\"?"
+  },
+  {
+    "id": "3742",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Theaterjugendclu\": \"Bevölkerung\" oder \"Theaterjugendklu\"?"
+  },
+  {
+    "id": "3749",
+    "input": "Welches Wort ist ein Homophon des Wortes \"D\\xc3\\xbcren\": \"d\\xc3\\xbcrren\" oder \"Merkmal\"?"
+  },
+  {
+    "id": "3752",
+    "input": "Welches Wort ist ein Homophon des Wortes \"D\\xc3\\xbcren\": \"Kanzlerin\" oder \"d\\xc3\\xbcrren\"?"
+  },
+  {
+    "id": "3756",
+    "input": "Welches Wort ist ein Homophon des Wortes \"postume\": \"Knopf\" oder \"posthume\"?"
+  },
+  {
+    "id": "3760",
+    "input": "Welches Wort ist ein Homophon des Wortes \"postume\": \"Auto\" oder \"posthume\"?"
+  },
+  {
+    "id": "3761",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Phantasieuniform\": \"Fantasieuniform\" oder \"bedauern\"?"
+  },
+  {
+    "id": "3765",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Phantasieuniform\": \"Fantasieuniform\" oder \"fremd\"?"
+  },
+  {
+    "id": "3772",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Literaturbibliografie\": \"Klettern\" oder \"Literaturbibliographie\"?"
+  },
+  {
+    "id": "3773",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Literaturbibliografie\": \"Literaturbibliographie\" oder \"Bild\"?"
+  },
+  {
+    "id": "3777",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Glupschaugenbowle\": \"Glubschaugenbowle\" oder \"Besprechung\"?"
+  },
+  {
+    "id": "3782",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Glupschaugenbowle\": \"wann\" oder \"Glubschaugenbowle\"?"
+  },
+  {
+    "id": "3788",
+    "input": "Welches Wort ist ein Homophon des Wortes \"zudrehten\": \"Neffe\" oder \"zutreten\"?"
+  },
+  {
+    "id": "3791",
+    "input": "Welches Wort ist ein Homophon des Wortes \"zudrehten\": \"zutreten\" oder \"Enkelin\"?"
+  },
+  {
+    "id": "3794",
+    "input": "Welches Wort ist ein Homophon des Wortes \"graphitfarbener\": \"Verbot\" oder \"grafitfarbener\"?"
+  },
+  {
+    "id": "3798",
+    "input": "Welches Wort ist ein Homophon des Wortes \"graphitfarbener\": \"Krokodil\" oder \"grafitfarbener\"?"
+  },
+  {
+    "id": "3801",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kalbsteak\": \"Kalbssteak\" oder \"Knoblauch\"?"
+  },
+  {
+    "id": "3803",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kalbsteak\": \"Kalbssteak\" oder \"schreiben\"?"
+  },
+  {
+    "id": "3808",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kalbsteak\": \"hier\" oder \"Kalbssteak\"?"
+  },
+  {
+    "id": "3811",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Gesamtfahrtzeiten\": \"Gesamtfahrzeiten\" oder \"Handel\"?"
+  },
+  {
+    "id": "3821",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Staatssendern\": \"Stadtsendern\" oder \"Art\"?"
+  },
+  {
+    "id": "3828",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Generalssta\": \"Fuß\" oder \"Generalsta\"?"
+  },
+  {
+    "id": "3832",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Generalssta\": \"unter\" oder \"Generalsta\"?"
+  },
+  {
+    "id": "3839",
+    "input": "Welches Wort ist ein Homophon des Wortes \"graphischem\": \"grafischem\" oder \"Spinne\"?"
+  },
+  {
+    "id": "3842",
+    "input": "Welches Wort ist ein Homophon des Wortes \"eingerahmt\": \"Krieg\" oder \"eingerammt\"?"
+  },
+  {
+    "id": "3847",
+    "input": "Welches Wort ist ein Homophon des Wortes \"eingerahmt\": \"eingerammt\" oder \"Schuh\"?"
+  },
+  {
+    "id": "3848",
+    "input": "Welches Wort ist ein Homophon des Wortes \"eingerahmt\": \"Schuh\" oder \"eingerammt\"?"
+  },
+  {
+    "id": "3849",
+    "input": "Welches Wort ist ein Homophon des Wortes \"siedlungsgeografisches\": \"siedlungsgeographisches\" oder \"Transaktion\"?"
+  },
+  {
+    "id": "3863",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Nachtclubbesitzers\": \"Nachtklubbesitzers\" oder \"dann\"?"
+  },
+  {
+    "id": "3866",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Jonny\": \"Name\" oder \"Johnny\"?"
+  },
+  {
+    "id": "3868",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Jonny\": \"Bildschirm\" oder \"Johnny\"?"
+  },
+  {
+    "id": "3870",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Jonny\": \"Vereinbarung\" oder \"Johnny\"?"
+  },
+  {
+    "id": "3874",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Marlis\": \"Adverb\" oder \"Marlies\"?"
+  },
+  {
+    "id": "3900",
+    "input": "Welches Wort ist ein Homophon des Wortes \"phantasielosester\": \"Ähnlichkeit\" oder \"fantasielosester\"?"
+  },
+  {
+    "id": "3904",
+    "input": "Welches Wort ist ein Homophon des Wortes \"phantasielosester\": \"Schal\" oder \"fantasielosester\"?"
+  },
+  {
+    "id": "3905",
+    "input": "Welches Wort ist ein Homophon des Wortes \"triefst\": \"triffst\" oder \"Meer\"?"
+  },
+  {
+    "id": "3913",
+    "input": "Welches Wort ist ein Homophon des Wortes \"recktest\": \"regtest\" oder \"öffentlich\"?"
+  },
+  {
+    "id": "3921",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Haarlem\": \"Harlem\" oder \"wahrscheinlich\"?"
+  },
+  {
+    "id": "3922",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Haarlem\": \"wahrscheinlich\" oder \"Harlem\"?"
+  },
+  {
+    "id": "3926",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Haarlem\": \"überrascht\" oder \"Harlem\"?"
+  },
+  {
+    "id": "3927",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Haarlem\": \"Harlem\" oder \"Fall\"?"
+  },
+  {
+    "id": "3928",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Haarlem\": \"Fall\" oder \"Harlem\"?"
+  },
+  {
+    "id": "3931",
+    "input": "Welches Wort ist ein Homophon des Wortes \"tagtet\": \"taktet\" oder \"Kilometer\"?"
+  },
+  {
+    "id": "3932",
+    "input": "Welches Wort ist ein Homophon des Wortes \"tagtet\": \"Kilometer\" oder \"taktet\"?"
+  },
+  {
+    "id": "3935",
+    "input": "Welches Wort ist ein Homophon des Wortes \"tagtet\": \"taktet\" oder \"Problem\"?"
+  },
+  {
+    "id": "3941",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Mikrophonkabeln\": \"Mikrofonkabeln\" oder \"Raum\"?"
+  },
+  {
+    "id": "3946",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Rotohren\": \"oft\" oder \"Rotoren\"?"
+  },
+  {
+    "id": "3949",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Rotohren\": \"Rotoren\" oder \"Bewusstsein\"?"
+  },
+  {
+    "id": "3952",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Rotohren\": \"Kleid\" oder \"Rotoren\"?"
+  },
+  {
+    "id": "3953",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Computergraphiken\": \"Computergrafiken\" oder \"Bekanntschaft\"?"
+  },
+  {
+    "id": "3969",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Spielseiten\": \"Spielsaiten\" oder \"Karotte\"?"
+  },
+  {
+    "id": "3972",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Spielseiten\": \"Ton\" oder \"Spielsaiten\"?"
+  },
+  {
+    "id": "3975",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Spielseiten\": \"Spielsaiten\" oder \"verneinen\"?"
+  },
+  {
+    "id": "3978",
+    "input": "Welches Wort ist ein Homophon des Wortes \"trieftet\": \"Arzt\" oder \"driftet\"?"
+  },
+  {
+    "id": "3980",
+    "input": "Welches Wort ist ein Homophon des Wortes \"trieftet\": \"gering\" oder \"driftet\"?"
+  },
+  {
+    "id": "3986",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Geographielehrerinnen\": \"scheinen\" oder \"Geografielehrerinnen\"?"
+  },
+  {
+    "id": "3996",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Transportfahrzeuge\": \"Mechanikerin\" oder \"Transportfahrtzeuge\"?"
+  },
+  {
+    "id": "3997",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Transportfahrzeuge\": \"Transportfahrtzeuge\" oder \"Verwaltung\"?"
+  },
+  {
+    "id": "3998",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Transportfahrzeuge\": \"Verwaltung\" oder \"Transportfahrtzeuge\"?"
+  },
+  {
+    "id": "3999",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Transportfahrzeuge\": \"Transportfahrtzeuge\" oder \"Romanze\"?"
+  },
+  {
+    "id": "4004",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Handelsspanne\": \"Merkmal\" oder \"Handelspanne\"?"
+  },
+  {
+    "id": "4005",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Handelsspanne\": \"Handelspanne\" oder \"Schnürsenkel\"?"
+  },
+  {
+    "id": "4007",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Handelsspanne\": \"Handelspanne\" oder \"Mechanikerin\"?"
+  },
+  {
+    "id": "4014",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Einzellkulturen\": \"Salz\" oder \"Einzelkulturen\"?"
+  },
+  {
+    "id": "4018",
+    "input": "Welches Wort ist ein Homophon des Wortes \"digestiv\": \"Weg\" oder \"Digestif\"?"
+  },
+  {
+    "id": "4031",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bildbiographie\": \"Bildbiografie\" oder \"Fortpflanzung\"?"
+  },
+  {
+    "id": "4033",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lehrformel\": \"Leerformel\" oder \"Elektrikerin\"?"
+  },
+  {
+    "id": "4037",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lehrformel\": \"Leerformel\" oder \"traurig\"?"
+  },
+  {
+    "id": "4041",
+    "input": "Welches Wort ist ein Homophon des Wortes \"leertet\": \"lehrtet\" oder \"Knochen\"?"
+  },
+  {
+    "id": "4047",
+    "input": "Welches Wort ist ein Homophon des Wortes \"leertet\": \"lehrtet\" oder \"messen\"?"
+  },
+  {
+    "id": "4048",
+    "input": "Welches Wort ist ein Homophon des Wortes \"leertet\": \"messen\" oder \"lehrtet\"?"
+  },
+  {
+    "id": "4051",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Staatssekret\\xc3\\xa4rinnen\": \"Stadtsekret\\xc3\\xa4rinnen\" oder \"Adverb\"?"
+  },
+  {
+    "id": "4056",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Staatssekret\\xc3\\xa4rinnen\": \"Gegenwart\" oder \"Stadtsekret\\xc3\\xa4rinnen\"?"
+  },
+  {
+    "id": "4057",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hans\": \"Hanns\" oder \"Ärmel\"?"
+  },
+  {
+    "id": "4058",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hans\": \"Ärmel\" oder \"Hanns\"?"
+  },
+  {
+    "id": "4059",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hans\": \"Hanns\" oder \"Objekt\"?"
+  },
+  {
+    "id": "4062",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hans\": \"letzter\" oder \"Hanns\"?"
+  },
+  {
+    "id": "4064",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hans\": \"letzter\" oder \"Hanns\"?"
+  },
+  {
+    "id": "4065",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Studentenclu\": \"Studentenklu\" oder \"grau\"?"
+  },
+  {
+    "id": "4066",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Studentenclu\": \"grau\" oder \"Studentenklu\"?"
+  },
+  {
+    "id": "4076",
+    "input": "Welches Wort ist ein Homophon des Wortes \"biografischem\": \"scheinen\" oder \"biographischem\"?"
+  },
+  {
+    "id": "4085",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Canopus\": \"Kanopus\" oder \"Direktorin\"?"
+  },
+  {
+    "id": "4089",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Grafikbildschirm\": \"Graphikbildschirm\" oder \"Ursprung\"?"
+  },
+  {
+    "id": "4093",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Grafikbildschirm\": \"Graphikbildschirm\" oder \"alles\"?"
+  },
+  {
+    "id": "4095",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Grafikbildschirm\": \"Graphikbildschirm\" oder \"Donnerstag\"?"
+  },
+  {
+    "id": "4097",
+    "input": "Welches Wort ist ein Homophon des Wortes \"vermiest\": \"vermisst\" oder \"zwei\"?"
+  },
+  {
+    "id": "4099",
+    "input": "Welches Wort ist ein Homophon des Wortes \"vermiest\": \"vermisst\" oder \"Prozess\"?"
+  },
+  {
+    "id": "4106",
+    "input": "Welches Wort ist ein Homophon des Wortes \"d\\xc3\\xbcrrste\": \"offensichtlich\" oder \"d\\xc3\\xbcrste\"?"
+  },
+  {
+    "id": "4107",
+    "input": "Welches Wort ist ein Homophon des Wortes \"d\\xc3\\xbcrrste\": \"d\\xc3\\xbcrste\" oder \"wegnehmen\"?"
+  },
+  {
+    "id": "4108",
+    "input": "Welches Wort ist ein Homophon des Wortes \"d\\xc3\\xbcrrste\": \"wegnehmen\" oder \"d\\xc3\\xbcrste\"?"
+  },
+  {
+    "id": "4111",
+    "input": "Welches Wort ist ein Homophon des Wortes \"d\\xc3\\xbcrrste\": \"d\\xc3\\xbcrste\" oder \"reparieren\"?"
+  },
+  {
+    "id": "4114",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kartenkasino\": \"Vogel\" oder \"Kartencasino\"?"
+  },
+  {
+    "id": "4115",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kartenkasino\": \"Kartencasino\" oder \"existieren\"?"
+  },
+  {
+    "id": "4117",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kartenkasino\": \"Kartencasino\" oder \"führend\"?"
+  },
+  {
+    "id": "4118",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kartenkasino\": \"führend\" oder \"Kartencasino\"?"
+  },
+  {
+    "id": "4119",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kartenkasino\": \"Kartencasino\" oder \"Staat\"?"
+  },
+  {
+    "id": "4121",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Funktelegrafie\": \"Funktelegraphie\" oder \"nähern\"?"
+  },
+  {
+    "id": "4124",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Funktelegrafie\": \"Name\" oder \"Funktelegraphie\"?"
+  },
+  {
+    "id": "4137",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fantasiegeldes\": \"Phantasiegeldes\" oder \"Hauptstadt\"?"
+  },
+  {
+    "id": "4139",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fantasiegeldes\": \"Phantasiegeldes\" oder \"Angestellte\"?"
+  },
+  {
+    "id": "4146",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Schrottwagen\": \"zehnter\" oder \"Schrottwaagen\"?"
+  },
+  {
+    "id": "4154",
+    "input": "Welches Wort ist ein Homophon des Wortes \"zeit\": \"Produktion\" oder \"zeiht\"?"
+  },
+  {
+    "id": "4163",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fantasieheldin\": \"Phantasieheldin\" oder \"bleiben\"?"
+  },
+  {
+    "id": "4165",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fantasieheldin\": \"Phantasieheldin\" oder \"fünfter\"?"
+  },
+  {
+    "id": "4168",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fantasieheldin\": \"Leber\" oder \"Phantasieheldin\"?"
+  },
+  {
+    "id": "4177",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Camilla\": \"Kamilla\" oder \"Pronomen\"?"
+  },
+  {
+    "id": "4178",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Camilla\": \"Pronomen\" oder \"Kamilla\"?"
+  },
+  {
+    "id": "4182",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Camilla\": \"Wüste\" oder \"Kamilla\"?"
+  },
+  {
+    "id": "4186",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Phantasieprojekt\": \"Inhalt\" oder \"Fantasieprojekt\"?"
+  },
+  {
+    "id": "4196",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lebensdrang\": \"Handball\" oder \"Lebenstrank\"?"
+  },
+  {
+    "id": "4198",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lebensdrang\": \"Skifahren\" oder \"Lebenstrank\"?"
+  },
+  {
+    "id": "4199",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Lebensdrang\": \"Lebenstrank\" oder \"Empfindung\"?"
+  },
+  {
+    "id": "4203",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Cordm\\xc3\\xbctzen\": \"Kordm\\xc3\\xbctzen\" oder \"Demokratie\"?"
+  },
+  {
+    "id": "4206",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Cordm\\xc3\\xbctzen\": \"Nagel\" oder \"Kordm\\xc3\\xbctzen\"?"
+  },
+  {
+    "id": "4208",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Cordm\\xc3\\xbctzen\": \"Freiheit\" oder \"Kordm\\xc3\\xbctzen\"?"
+  },
+  {
+    "id": "4213",
+    "input": "Welches Wort ist ein Homophon des Wortes \"ausdrehten\": \"austreten\" oder \"lachen\"?"
+  },
+  {
+    "id": "4216",
+    "input": "Welches Wort ist ein Homophon des Wortes \"ausdrehten\": \"Krimi\" oder \"austreten\"?"
+  },
+  {
+    "id": "4221",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Stadtsport\": \"Staatssport\" oder \"Großmutter\"?"
+  },
+  {
+    "id": "4225",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Wissensstand\": \"Wissenstand\" oder \"Charakter\"?"
+  },
+  {
+    "id": "4234",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubhymnen\": \"nach\" oder \"Clubhymnen\"?"
+  },
+  {
+    "id": "4245",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Mietsumme\": \"mitsumme\" oder \"Mietpreis\"?"
+  },
+  {
+    "id": "4251",
+    "input": "Welches Wort ist ein Homophon des Wortes \"typografischer\": \"typographischer\" oder \"treffen\"?"
+  },
+  {
+    "id": "4256",
+    "input": "Welches Wort ist ein Homophon des Wortes \"typografischer\": \"sieben\" oder \"typographischer\"?"
+  },
+  {
+    "id": "4262",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Zwerghundeclu\": \"geben\" oder \"Zwerghundeklu\"?"
+  },
+  {
+    "id": "4264",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Zwerghundeclu\": \"überlegen\" oder \"Zwerghundeklu\"?"
+  },
+  {
+    "id": "4265",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Contenance\": \"Kontenance\" oder \"nie\"?"
+  },
+  {
+    "id": "4266",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Contenance\": \"nie\" oder \"Kontenance\"?"
+  },
+  {
+    "id": "4270",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Contenance\": \"Fassung\" oder \"Kontenance\"?"
+  },
+  {
+    "id": "4271",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Contenance\": \"Kontenance\" oder \"Beherrschtheit\"?"
+  },
+  {
+    "id": "4275",
+    "input": "Welches Wort ist ein Homophon des Wortes \"rechtsprechend\": \"rechtssprechend\" oder \"Bereich\"?"
+  },
+  {
+    "id": "4285",
+    "input": "Welches Wort ist ein Homophon des Wortes \"rammst\": \"rahmst\" oder \"Zentimeter\"?"
+  },
+  {
+    "id": "4289",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Flussdelphine\": \"Flussdelfine\" oder \"Polizeistation\"?"
+  },
+  {
+    "id": "4290",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Flussdelphine\": \"Polizeistation\" oder \"Flussdelfine\"?"
+  },
+  {
+    "id": "4292",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Flussdelphine\": \"Mehrheit\" oder \"Flussdelfine\"?"
+  },
+  {
+    "id": "4297",
+    "input": "Welches Wort ist ein Homophon des Wortes \"beho\": \"Beo\" oder \"vereinbaren\"?"
+  },
+  {
+    "id": "4299",
+    "input": "Welches Wort ist ein Homophon des Wortes \"beho\": \"Beo\" oder \"eintreten\"?"
+  },
+  {
+    "id": "4304",
+    "input": "Welches Wort ist ein Homophon des Wortes \"beho\": \"Rathaus\" oder \"Beo\"?"
+  },
+  {
+    "id": "4305",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gelegten\": \"geleckten\" oder \"Kampagne\"?"
+  },
+  {
+    "id": "4309",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gelegten\": \"geleckten\" oder \"leben\"?"
+  },
+  {
+    "id": "4311",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gelegten\": \"geleckten\" oder \"müde\"?"
+  },
+  {
+    "id": "4320",
+    "input": "Welches Wort ist ein Homophon des Wortes \"forthastend\": \"Beschleunigung\" oder \"vortastend\"?"
+  },
+  {
+    "id": "4327",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Glubschaugen\": \"Glupschaugen\" oder \"Hand\"?"
+  },
+  {
+    "id": "4329",
+    "input": "Welches Wort ist ein Homophon des Wortes \"sofft\": \"soft\" oder \"weiterhin\"?"
+  },
+  {
+    "id": "4336",
+    "input": "Welches Wort ist ein Homophon des Wortes \"sofft\": \"Kellnerin\" oder \"soft\"?"
+  },
+  {
+    "id": "4337",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Photowiderstandes\": \"Fotowiderstandes\" oder \"millionster\"?"
+  },
+  {
+    "id": "4342",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Photowiderstandes\": \"trinken\" oder \"Fotowiderstandes\"?"
+  },
+  {
+    "id": "4343",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Photowiderstandes\": \"Fotowiderstandes\" oder \"Friseursalon\"?"
+  },
+  {
+    "id": "4355",
+    "input": "Welches Wort ist ein Homophon des Wortes \"HP\": \"HB\" oder \"Bar\"?"
+  },
+  {
+    "id": "4356",
+    "input": "Welches Wort ist ein Homophon des Wortes \"HP\": \"Bar\" oder \"HB\"?"
+  },
+  {
+    "id": "4357",
+    "input": "Welches Wort ist ein Homophon des Wortes \"HP\": \"HB\" oder \"Weinbergschnecke\"?"
+  },
+  {
+    "id": "4358",
+    "input": "Welches Wort ist ein Homophon des Wortes \"HP\": \"Weinbergschnecke\" oder \"HB\"?"
+  },
+  {
+    "id": "4359",
+    "input": "Welches Wort ist ein Homophon des Wortes \"HP\": \"HB\" oder \"Falke\"?"
+  },
+  {
+    "id": "4368",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Nationalkinematographie\": \"umgekehrt\" oder \"Nationalkinematografie\"?"
+  },
+  {
+    "id": "4377",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Widerspiel\": \"Wiederspiel\" oder \"Ärztin\"?"
+  },
+  {
+    "id": "4383",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Widerspiel\": \"Wiederspiel\" oder \"Provinz\"?"
+  },
+  {
+    "id": "4385",
+    "input": "Welches Wort ist ein Homophon des Wortes \"phantasiereichsten\": \"fantasiereichsten\" oder \"lieben\"?"
+  },
+  {
+    "id": "4386",
+    "input": "Welches Wort ist ein Homophon des Wortes \"phantasiereichsten\": \"lieben\" oder \"fantasiereichsten\"?"
+  },
+  {
+    "id": "4390",
+    "input": "Welches Wort ist ein Homophon des Wortes \"phantasiereichsten\": \"lassen\" oder \"fantasiereichsten\"?"
+  },
+  {
+    "id": "4397",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Konstanze\": \"Constanze\" oder \"Kind\"?"
+  },
+  {
+    "id": "4407",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kalligrafiekurse\": \"Kalligraphiekurse\" oder \"Freude\"?"
+  },
+  {
+    "id": "4413",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Frauenphantasien\": \"Frauenfantasien\" oder \"früh\"?"
+  },
+  {
+    "id": "4417",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bordtechniken\": \"Bohrtechniken\" oder \"probieren\"?"
+  },
+  {
+    "id": "4420",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bordtechniken\": \"Schwester\" oder \"Bohrtechniken\"?"
+  },
+  {
+    "id": "4422",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Bordtechniken\": \"heute\" oder \"Bohrtechniken\"?"
+  },
+  {
+    "id": "4427",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Erdtaube\": \"ertaube\" oder \"Kassierer\"?"
+  },
+  {
+    "id": "4433",
+    "input": "Welches Wort ist ein Homophon des Wortes \"absenkte\": \"absengte\" oder \"erklären\"?"
+  },
+  {
+    "id": "4435",
+    "input": "Welches Wort ist ein Homophon des Wortes \"absenkte\": \"absengte\" oder \"Küste\"?"
+  },
+  {
+    "id": "4436",
+    "input": "Welches Wort ist ein Homophon des Wortes \"absenkte\": \"Küste\" oder \"absengte\"?"
+  },
+  {
+    "id": "4437",
+    "input": "Welches Wort ist ein Homophon des Wortes \"absenkte\": \"absengte\" oder \"Demokratie\"?"
+  },
+  {
+    "id": "4439",
+    "input": "Welches Wort ist ein Homophon des Wortes \"absenkte\": \"absengte\" oder \"können\"?"
+  },
+  {
+    "id": "4444",
+    "input": "Welches Wort ist ein Homophon des Wortes \"herauslast\": \"Spargel\" oder \"herauslasst\"?"
+  },
+  {
+    "id": "4445",
+    "input": "Welches Wort ist ein Homophon des Wortes \"herauslast\": \"herauslasst\" oder \"bewegen\"?"
+  },
+  {
+    "id": "4454",
+    "input": "Welches Wort ist ein Homophon des Wortes \"reinzuglotzen\": \"Billard\" oder \"reinzuklotzen\"?"
+  },
+  {
+    "id": "4458",
+    "input": "Welches Wort ist ein Homophon des Wortes \"lactosefrei\": \"Wal\" oder \"laktosefrei\"?"
+  },
+  {
+    "id": "4469",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Stahlknechten\": \"Stallknechten\" oder \"Urenkelin\"?"
+  },
+  {
+    "id": "4481",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hohlweg\": \"Hollweg\" oder \"Berührung\"?"
+  },
+  {
+    "id": "4486",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hohlweg\": \"Gesicht\" oder \"Hollweg\"?"
+  },
+  {
+    "id": "4488",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Hohlweg\": \"neu\" oder \"Hollweg\"?"
+  },
+  {
+    "id": "4496",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gepooltem\": \"fünf\" oder \"gepoltem\"?"
+  },
+  {
+    "id": "4498",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Gesangsstunden\": \"Junge\" oder \"Gesangstunden\"?"
+  },
+  {
+    "id": "4501",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Gesangsstunden\": \"Gesangstunden\" oder \"städtisch\"?"
+  },
+  {
+    "id": "4511",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubgr\\xc3\\xbcndung\": \"Clubgr\\xc3\\xbcndung\" oder \"gut\"?"
+  },
+  {
+    "id": "4515",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Altersbiografien\": \"Altersbiographien\" oder \"Bohnen\"?"
+  },
+  {
+    "id": "4524",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Adelsklu\": \"Wirtschaft\" oder \"Adelsclu\"?"
+  },
+  {
+    "id": "4526",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Adelsklu\": \"probieren\" oder \"Adelsclu\"?"
+  },
+  {
+    "id": "4529",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Wohnstatt\": \"Wohnstadt\" oder \"Meer\"?"
+  },
+  {
+    "id": "4535",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Wohnstatt\": \"Wohnstadt\" oder \"Behausung\"?"
+  },
+  {
+    "id": "4538",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kuweit\": \"Transport\" oder \"Kuwait\"?"
+  },
+  {
+    "id": "4548",
+    "input": "Welches Wort ist ein Homophon des Wortes \"M\\xc3\\xa4dchenfantasie\": \"Kampagne\" oder \"M\\xc3\\xa4dchenphantasie\"?"
+  },
+  {
+    "id": "4549",
+    "input": "Welches Wort ist ein Homophon des Wortes \"M\\xc3\\xa4dchenfantasie\": \"M\\xc3\\xa4dchenphantasie\" oder \"Kommission\"?"
+  },
+  {
+    "id": "4566",
+    "input": "Welches Wort ist ein Homophon des Wortes \"compilieren\": \"Schwimmen\" oder \"kompilieren\"?"
+  },
+  {
+    "id": "4569",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubsessels\": \"Clubsessels\" oder \"hören\"?"
+  },
+  {
+    "id": "4575",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubsessels\": \"Clubsessels\" oder \"Berührung\"?"
+  },
+  {
+    "id": "4577",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gerammtes\": \"gerahmtes\" oder \"Ärztin\"?"
+  },
+  {
+    "id": "4578",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gerammtes\": \"Ärztin\" oder \"gerahmtes\"?"
+  },
+  {
+    "id": "4580",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gerammtes\": \"unser\" oder \"gerahmtes\"?"
+  },
+  {
+    "id": "4583",
+    "input": "Welches Wort ist ein Homophon des Wortes \"gerammtes\": \"gerahmtes\" oder \"Dienstleistung\"?"
+  },
+  {
+    "id": "4586",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kleinperkussion\": \"September\" oder \"Kleinpercussion\"?"
+  },
+  {
+    "id": "4591",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kleinperkussion\": \"Kleinpercussion\" oder \"Situation\"?"
+  },
+  {
+    "id": "4595",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Vorg\\xc3\\xa4ngerclu\": \"Vorg\\xc3\\xa4ngerklu\" oder \"Adverb\"?"
+  },
+  {
+    "id": "4597",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Vorg\\xc3\\xa4ngerclu\": \"Vorg\\xc3\\xa4ngerklu\" oder \"Vernunft\"?"
+  },
+  {
+    "id": "4607",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fechtklu\": \"Fechtclu\" oder \"Senatorin\"?"
+  },
+  {
+    "id": "4613",
+    "input": "Welches Wort ist ein Homophon des Wortes \"klagten\": \"klackten\" oder \"aufgewühlt\"?"
+  },
+  {
+    "id": "4618",
+    "input": "Welches Wort ist ein Homophon des Wortes \"verdrehte\": \"Ebene\" oder \"vertrete\"?"
+  },
+  {
+    "id": "4621",
+    "input": "Welches Wort ist ein Homophon des Wortes \"verdrehte\": \"vertrete\" oder \"Klarinette\"?"
+  },
+  {
+    "id": "4622",
+    "input": "Welches Wort ist ein Homophon des Wortes \"verdrehte\": \"Klarinette\" oder \"vertrete\"?"
+  },
+  {
+    "id": "4623",
+    "input": "Welches Wort ist ein Homophon des Wortes \"verdrehte\": \"vertrete\" oder \"reparieren\"?"
+  },
+  {
+    "id": "4626",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fu\\xc3\\x9fballclu\": \"nehmen\" oder \"Fu\\xc3\\x9fballklu\"?"
+  },
+  {
+    "id": "4628",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Fu\\xc3\\x9fballclu\": \"Koch\" oder \"Fu\\xc3\\x9fballklu\"?"
+  },
+  {
+    "id": "4634",
+    "input": "Welches Wort ist ein Homophon des Wortes \"ausstichst\": \"vorankommen\" oder \"austickst\"?"
+  },
+  {
+    "id": "4637",
+    "input": "Welches Wort ist ein Homophon des Wortes \"ausstichst\": \"austickst\" oder \"lokal\"?"
+  },
+  {
+    "id": "4643",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Selbstheilung\": \"Selbstteilung\" oder \"Inhalt\"?"
+  },
+  {
+    "id": "4644",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Selbstheilung\": \"Inhalt\" oder \"Selbstteilung\"?"
+  },
+  {
+    "id": "4646",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Selbstheilung\": \"zwei\" oder \"Selbstteilung\"?"
+  },
+  {
+    "id": "4652",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Sozialgeografie\": \"Kegeln\" oder \"Sozialgeographie\"?"
+  },
+  {
+    "id": "4667",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kurznamen\": \"Kurznahmen\" oder \"Elefant\"?"
+  },
+  {
+    "id": "4668",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Kurznamen\": \"Elefant\" oder \"Kurznahmen\"?"
+  },
+  {
+    "id": "4673",
+    "input": "Welches Wort ist ein Homophon des Wortes \"kath\": \"Kat\" oder \"Mechaniker\"?"
+  },
+  {
+    "id": "4684",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubkampfes\": \"Arm\" oder \"Clubkampfes\"?"
+  },
+  {
+    "id": "4688",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Klubkampfes\": \"Chronik\" oder \"Clubkampfes\"?"
+  },
+  {
+    "id": "4698",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Mitinteressent\": \"unwahrscheinlich\" oder \"Mietinteressent\"?"
+  },
+  {
+    "id": "4703",
+    "input": "Welches Wort ist ein Homophon des Wortes \"Mitinteressent\": \"Mietinteressent\" oder \"dort\"?"
+  }
+]
