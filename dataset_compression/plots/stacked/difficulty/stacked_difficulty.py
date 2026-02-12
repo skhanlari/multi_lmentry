@@ -16,35 +16,19 @@ DIFFICULTY_TECHNIQUES = [
     "difficulty_stratified",
 ]
 
-
-# ---------------------------------------------------------
-# Ratio grouping
-# ---------------------------------------------------------
-def group_ratio(r):
-    percent = int(r * 100)
-
-    if percent <= 2:
-        return "1–2%"
-    elif percent <= 7:
-        return "3–7%"
-    elif percent <= 15:
-        return "10–15%"
-    elif percent <= 30:
-        return "20–30%"
-    elif percent <= 60:
-        return "40–60%"
-    else:
-        return "70–100%"
+TECH_COLORS = {
+    "difficulty_easy": "#1b9e77",
+    "difficulty_mid": "#d95f02",
+    "difficulty_hard": "#7570b3",
+    "difficulty_stratified": "#e7298a",
+}
 
 
-# ---------------------------------------------------------
-# Collect distribution
-# ---------------------------------------------------------
-def collect_ratio_distribution():
+def collect_technique_distribution():
 
-    distributions = defaultdict(
-        lambda: {lang: defaultdict(int) for lang in LANGUAGES}
-    )
+    distributions = {
+        lang: defaultdict(int) for lang in LANGUAGES
+    }
 
     for lang in LANGUAGES:
 
@@ -60,96 +44,59 @@ def collect_ratio_distribution():
                 continue
 
             best = task_data.get("best", {})
-            ratio = best.get("ratio")
             technique = best.get("technique")
 
-            if ratio is None or technique not in DIFFICULTY_TECHNIQUES:
-                continue
-
-            group = group_ratio(ratio)
-            distributions[technique][lang][group] += 1
+            if technique in DIFFICULTY_TECHNIQUES:
+                distributions[lang][technique] += 1
 
     return distributions
 
 
-# ---------------------------------------------------------
-# Plot stacked
-# ---------------------------------------------------------
-def plot_stacked_ratio_distribution_difficulty():
+def plot_stacked_difficulty_techniques():
 
-    distributions = collect_ratio_distribution()
+    distributions = collect_technique_distribution()
 
-    all_groups = ["1–2%", "3–7%", "10–15%", "20–30%", "40–60%", "70–100%"]
+    x = np.arange(len(LANGUAGES))
+    bottom = np.zeros(len(LANGUAGES))
 
-    colors = [
-        "#1b9e77",
-        "#d95f02",
-        "#7570b3",
-        "#e7298a",
-        "#66a61e",
-        "#e6ab02",
-    ]
+    plt.figure(figsize=(12, 6))
 
-    techniques = [t for t in DIFFICULTY_TECHNIQUES if t in distributions]
+    for technique in DIFFICULTY_TECHNIQUES:
 
-    fig, axes = plt.subplots(
-        1, len(techniques),
-        figsize=(4 * len(techniques), 6),
-        sharey=True
-    )
+        values = [
+            distributions[lang].get(technique, 0)
+            for lang in LANGUAGES
+        ]
 
-    if len(techniques) == 1:
-        axes = [axes]
+        plt.bar(
+            x,
+            values,
+            bottom=bottom,
+            label=technique.replace("difficulty_", ""),
+            color=TECH_COLORS[technique],
+            edgecolor="black",
+            linewidth=0.6,
+        )
 
-    for ax, technique in zip(axes, techniques):
+        bottom += np.array(values)
 
-        bottom = np.zeros(len(LANGUAGES))
+    plt.xticks(x, LANGUAGES, rotation=45)
+    plt.ylabel("Number of tasks")
+    plt.xlabel("Language")
+    plt.title("Technique selection distribution (Difficulty methods)")
 
-        for i, group in enumerate(all_groups):
-            values = [
-                distributions[technique][lang].get(group, 0)
-                for lang in LANGUAGES
-            ]
+    plt.legend(title="Technique", bbox_to_anchor=(1.02, 1), loc="upper left")
 
-            ax.bar(
-                LANGUAGES,
-                values,
-                bottom=bottom,
-                label=group,
-                color=colors[i],
-                edgecolor="black",
-                linewidth=0.5,
-            )
+    plt.tight_layout()
 
-            bottom += np.array(values)
-
-        ax.set_title(technique.replace("difficulty_", ""), fontsize=13)
-        ax.tick_params(axis="x", rotation=45)
-
-    axes[-1].legend(
-        title="Compression ratio group",
-        bbox_to_anchor=(1.02, 1),
-        loc="upper left"
-    )
-
-    plt.suptitle(
-        "Selected compression ratio distribution (Difficulty techniques)",
-        fontsize=15
-    )
-
-    plt.subplots_adjust(right=0.85)
-
-    output_path = Path("dataset_compression/plots/stacked/difficulty/stacked_difficulty_ratio_distribution.png")
+    output_path = Path("dataset_compression/plots/stacked/difficulty/stacked_difficulty_technique_distribution.png")
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     plt.savefig(output_path, dpi=300)
     print(f"Saved figure to {output_path}")
 
-    # plt.show()
+    plt.close()
 
 
 if __name__ == "__main__":
-    plot_stacked_ratio_distribution_difficulty()
-
-
-# run: python -m dataset_compression.plots.stacked.difficulty.stacked_difficulty
+    plot_stacked_difficulty_techniques()
