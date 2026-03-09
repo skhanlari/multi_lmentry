@@ -1,0 +1,482 @@
+[
+  {
+    "id": "2002",
+    "input": "A lista [\"largo\", \"pequeno\", \"fino\", \"grosso\", \"estreito\"] contém exclusivamente tipos de adjetivo de forma? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2017",
+    "input": "A lista [\"cor\", \"laranja\", \"roxo\", \"verde\", \"cinza\"] contém exclusivamente tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2019",
+    "input": "A lista [\"doloroso\", \"assustado\", \"fedido\", \"solitário\", \"encantado\"] contém exclusivamente tipos de adjetivo de sentimento? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2025",
+    "input": "A lista [\"antes\", \"ontem\", \"atualmente\", \"recentemente\", \"agora\"] contém exclusivamente tipos de advérbio de tempo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2029",
+    "input": "A lista [\"doloroso\", \"entediado\", \"interessado\", \"agitado\", \"encantado\"] contém exclusivamente tipos de adjetivo de sentimento? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2034",
+    "input": "A lista [\"construir\", \"complicar\", \"concordar\", \"avançar\", \"dormir\"] contém exclusivamente tipos de verbo de atividade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2035",
+    "input": "A lista [\"sexto\", \"sétimo\", \"milionésimo\", \"penúltimo\", \"nono\"] contém exclusivamente tipos de numeral ordinal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2039",
+    "input": "A lista [\"lugar\", \"posição\", \"tamanho\", \"movimento\", \"fundo\"] contém exclusivamente tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2050",
+    "input": "A lista [\"cabo\", \"chave\", \"furadeira\", \"martelo\", \"tela\"] contém exclusivamente tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2054",
+    "input": "A lista [\"chegar\", \"segurar\", \"agarrar\", \"atirar\", \"levantar\"] contém exclusivamente tipos de verbo de movimento? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2057",
+    "input": "A lista [\"corda\", \"furadeira\", \"arma\", \"aparelho\", \"tela\"] contém exclusivamente tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2077",
+    "input": "A lista [\"ouvir\", \"cheirar\", \"tocar\", \"ver\", \"sentir\"] contém exclusivamente tipos de verbo de sensação? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2086",
+    "input": "A lista [\"saxofone\", \"violão\", \"flauta\", \"guitarra\", \"clarinete\"] contém exclusivamente tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2114",
+    "input": "A lista [\"bota\", \"cinto\", \"casaco\", \"bolso\", \"camiseta\"] contém exclusivamente tipos de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2150",
+    "input": "A lista [\"pois\", \"quando\", \"então\", \"que\", \"porque\"] contém exclusivamente tipos de conjunção? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2151",
+    "input": "A lista [\"joalheria\", \"delegacia\", \"restaurante\", \"loja\", \"hotel\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2175",
+    "input": "A lista [\"existência\", \"experiência\", \"fracasso\", \"exemplo\", \"resultado\"] contém exclusivamente tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2178",
+    "input": "A lista [\"suspense\", \"musical\", \"fantasia\", \"comédia\", \"histórico\"] contém exclusivamente tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2185",
+    "input": "A lista [\"joalheria\", \"bar\", \"farmácia\", \"tabacaria\", \"pousada\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2186",
+    "input": "A lista [\"nada\", \"quase\", \"tudo\", \"pouco\", \"somente\"] contém exclusivamente tipos de advérbio de intensidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2190",
+    "input": "A lista [\"cidade\", \"encontro\", \"direito\", \"associação\", \"estrutura\"] contém exclusivamente tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2201",
+    "input": "A lista [\"três\", \"dois\", \"quatro\", \"dez\", \"cinco\"] contém exclusivamente tipos de número? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2203",
+    "input": "A lista [\"comédia\", \"fantasia\", \"romance\", \"terror\", \"drama\"] contém exclusivamente tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2211",
+    "input": "A lista [\"levantar\", \"recolher\", \"agarrar\", \"afastar\", \"bater\"] contém exclusivamente tipos de verbo de movimento? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2222",
+    "input": "A lista [\"mergulho\", \"badminton\", \"ciclismo\", \"atletismo\", \"hipismo\"] contém exclusivamente tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2230",
+    "input": "A lista [\"pé\", \"fígado\", \"abdômen\", \"braço\", \"pulso\"] contém exclusivamente tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2242",
+    "input": "A lista [\"unicamente\", \"exato\", \"lento\", \"finalmente\", \"regular\"] contém exclusivamente tipos de advérbio de modo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2248",
+    "input": "A lista [\"suspense\", \"fantasia\", \"comédia\", \"histórico\", \"terror\"] contém exclusivamente tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2265",
+    "input": "A lista [\"parada\", \"transporte\", \"avenida\", \"veículo\", \"carro\"] contém exclusivamente tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2283",
+    "input": "A lista [\"talvez\", \"provavelmente\", \"possivelmente\", \"facilmente\", \"dificilmente\"] contém exclusivamente tipos de advérbio de dúvida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2288",
+    "input": "A lista [\"inicialmente\", \"pior\", \"melhor\", \"sequer\", \"exato\"] contém exclusivamente tipos de advérbio de modo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2291",
+    "input": "A lista [\"suave\", \"pesado\", \"unido\", \"anterior\", \"fresco\"] contém exclusivamente tipos de adjetivo sensorial? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2294",
+    "input": "A lista [\"palma\", \"cérebro\", \"olho\", \"peito\", \"abdômen\"] contém exclusivamente tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2299",
+    "input": "A lista [\"penúltimo\", \"centésimo\", \"quinto\", \"segundo\", \"primeiro\"] contém exclusivamente tipos de numeral ordinal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2300",
+    "input": "A lista [\"cedo\", \"sempre\", \"imediatamente\", \"anteriormente\", \"logo\"] contém exclusivamente tipos de advérbio de tempo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2317",
+    "input": "A lista [\"arma\", \"martelo\", \"agulha\", \"cabo\", \"tela\"] contém exclusivamente tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2335",
+    "input": "A lista [\"loja\", \"hotel\", \"floricultura\", \"delegacia\", \"prefeitura\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2337",
+    "input": "A lista [\"escada\", \"lavabo\", \"banheiro\", \"cadeira\", \"construção\"] contém exclusivamente tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2351",
+    "input": "A lista [\"vapor\", \"sal\", \"barro\", \"ouro\", \"metal\"] contém exclusivamente tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2355",
+    "input": "A lista [\"braço\", \"joelho\", \"olho\", \"bunda\", \"abdômen\"] contém exclusivamente tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2365",
+    "input": "A lista [\"cebola\", \"abobrinha\", \"milho\", \"aspargos\", \"cenoura\"] contém exclusivamente tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2366",
+    "input": "A lista [\"criatura\", \"nascimento\", \"espécie\", \"vida\", \"morte\"] contém exclusivamente tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2370",
+    "input": "A lista [\"humanidade\", \"menina\", \"senhora\", \"indivíduo\", \"bebê\"] contém exclusivamente tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2375",
+    "input": "A lista [\"oitavo\", \"penúltimo\", \"terceiro\", \"quinto\", \"sétimo\"] contém exclusivamente tipos de numeral ordinal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2387",
+    "input": "A lista [\"após\", \"entre\", \"sobre\", \"até\", \"para\"] contém exclusivamente tipos de preposição? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2399",
+    "input": "A lista [\"berinjela\", \"couve-flor\", \"alho\", \"batata\", \"beterraba\"] contém exclusivamente tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2415",
+    "input": "A lista [\"sábado\", \"domingo\", \"sexta-feira\", \"segunda-feira\", \"quarta-feira\"] contém exclusivamente tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2419",
+    "input": "A lista [\"comunidade\", \"sociedade\", \"estado\", \"organização\", \"província\"] contém exclusivamente tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2425",
+    "input": "A lista [\"hotel\", \"farmácia\", \"tabacaria\", \"biblioteca\", \"prefeitura\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2427",
+    "input": "A lista [\"assim\", \"somente\", \"mais\", \"algo\", \"exatamente\"] contém exclusivamente tipos de advérbio de intensidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2429",
+    "input": "A lista [\"lugar\", \"movimento\", \"aceleração\", \"minoria\", \"velocidade\"] contém exclusivamente tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2437",
+    "input": "A lista [\"enquanto\", \"antes\", \"ainda\", \"já\", \"jamais\"] contém exclusivamente tipos de advérbio de tempo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2451",
+    "input": "A lista [\"rápido\", \"exato\", \"óbvio\", \"sequer\", \"especialmente\"] contém exclusivamente tipos de advérbio de modo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2467",
+    "input": "A lista [\"litro\", \"quilo\", \"grama\", \"peso\", \"centímetro\"] contém exclusivamente tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2468",
+    "input": "A lista [\"compacto\", \"pequeno\", \"estreito\", \"largo\", \"grande\"] contém exclusivamente tipos de adjetivo de forma? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2477",
+    "input": "A lista [\"cinco\", \"nove\", \"oito\", \"dois\", \"um\"] contém exclusivamente tipos de número? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2484",
+    "input": "A lista [\"substantivo\", \"verbo\", \"adjetivo\", \"advérbio\", \"pronome\"] contém exclusivamente tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2494",
+    "input": "A lista [\"comprovar\", \"decidir\", \"avaliar\", \"destruir\", \"pesar\"] contém exclusivamente tipos de verbo de atividade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2497",
+    "input": "A lista [\"primeiro\", \"penúltimo\", \"centésimo\", \"sétimo\", \"décimo\"] contém exclusivamente tipos de numeral ordinal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2502",
+    "input": "A lista [\"lodo\", \"ouro\", \"barro\", \"fogo\", \"lama\"] contém exclusivamente tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2507",
+    "input": "A lista [\"possivelmente\", \"facilmente\", \"talvez\", \"dificilmente\", \"provavelmente\"] contém exclusivamente tipos de advérbio de dúvida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2508",
+    "input": "A lista [\"código\", \"causa\", \"retrocesso\", \"cansaço\", \"qualidade\"] contém exclusivamente tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2509",
+    "input": "A lista [\"unha\", \"mão\", \"cabelo\", \"lábio\", \"costas\"] contém exclusivamente tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2524",
+    "input": "A lista [\"joalheria\", \"pousada\", \"livraria\", \"cafeteria\", \"supermercado\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2528",
+    "input": "A lista [\"quarta-feira\", \"domingo\", \"sábado\", \"sexta-feira\", \"segunda-feira\"] contém exclusivamente tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2529",
+    "input": "A lista [\"milho\", \"alface\", \"berinjela\", \"couve\", \"pepino\"] contém exclusivamente tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2539",
+    "input": "A lista [\"enquanto\", \"cedo\", \"sempre\", \"recentemente\", \"atualmente\"] contém exclusivamente tipos de advérbio de tempo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2555",
+    "input": "A lista [\"quando\", \"então\", \"pois\", \"nem\", \"se\"] contém exclusivamente tipos de conjunção? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2561",
+    "input": "A lista [\"irritar\", \"desejar\", \"maravilhar\", \"assustar\", \"amar\"] contém exclusivamente tipos de verbo de emoção? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2582",
+    "input": "A lista [\"vida\", \"criatura\", \"espécie\", \"morte\", \"nascimento\"] contém exclusivamente tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2587",
+    "input": "A lista [\"janeiro\", \"abril\", \"julho\", \"maio\", \"outubro\"] contém exclusivamente tipos de mês do ano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2590",
+    "input": "A lista [\"lama\", \"chumbo\", \"barro\", \"vapor\", \"fogo\"] contém exclusivamente tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2597",
+    "input": "A lista [\"fino\", \"pequeno\", \"grande\", \"largo\", \"grosso\"] contém exclusivamente tipos de adjetivo de forma? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2607",
+    "input": "A lista [\"morrer\", \"nascer\", \"crescer\", \"aparecer\", \"existir\"] contém exclusivamente tipos de verbo de existência? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2608",
+    "input": "A lista [\"verde\", \"branco\", \"roxo\", \"laranja\", \"azul\"] contém exclusivamente tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2615",
+    "input": "A lista [\"amarelo\", \"azul\", \"preto\", \"branco\", \"marrom\"] contém exclusivamente tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2616",
+    "input": "A lista [\"coelho\", \"macaco\", \"tigre\", \"rato\", \"aranha\"] contém exclusivamente tipos de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2623",
+    "input": "A lista [\"menina\", \"senhora\", \"homem\", \"humano\", \"mulher\"] contém exclusivamente tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2631",
+    "input": "A lista [\"fora\", \"ali\", \"aqui\", \"acima\", \"abaixo\"] contém exclusivamente tipos de advérbio de lugar? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2639",
+    "input": "A lista [\"casa\", \"porta\", \"banheiro\", \"escritório\", \"edifício\"] contém exclusivamente tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2667",
+    "input": "A lista [\"substantivo\", \"conjunção\", \"pronome\", \"advérbio\", \"preposição\"] contém exclusivamente tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2669",
+    "input": "A lista [\"produto\", \"economia\", \"comércio\", \"transação\", \"bilhete\"] contém exclusivamente tipos de termo relacionado a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2683",
+    "input": "A lista [\"comparar\", \"precisar\", \"afirmar\", \"medir\", \"negar\"] contém exclusivamente tipos de verbo de atividade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2695",
+    "input": "A lista [\"alho\", \"alcachofra\", \"ervilha\", \"milho\", \"favas\"] contém exclusivamente tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2714",
+    "input": "A lista [\"tsunami\", \"inundação\", \"seca\", \"tornado\", \"enchente\"] contém exclusivamente tipos de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2721",
+    "input": "A lista [\"ferro\", \"lama\", \"prata\", \"gás\", \"fogo\"] contém exclusivamente tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2732",
+    "input": "A lista [\"altura\", \"lugar\", \"minoria\", \"fundo\", \"maioria\"] contém exclusivamente tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2733",
+    "input": "A lista [\"sétimo\", \"centésimo\", \"nono\", \"último\", \"penúltimo\"] contém exclusivamente tipos de numeral ordinal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2742",
+    "input": "A lista [\"enchente\", \"tsunami\", \"furacão\", \"terremoto\", \"inundação\"] contém exclusivamente tipos de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2751",
+    "input": "A lista [\"quente\", \"junto\", \"picante\", \"seguinte\", \"salgado\"] contém exclusivamente tipos de adjetivo sensorial? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2761",
+    "input": "A lista [\"aldeia\", \"nação\", \"política\", \"organização\", \"campanha\"] contém exclusivamente tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2764",
+    "input": "A lista [\"esgrima\", \"golfe\", \"futsal\", \"patinação\", \"atletismo\"] contém exclusivamente tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2766",
+    "input": "A lista [\"acima\", \"abaixo\", \"perto\", \"distante\", \"dentro\"] contém exclusivamente tipos de advérbio de lugar? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2771",
+    "input": "A lista [\"prego\", \"agulha\", \"martelo\", \"furadeira\", \"câmera\"] contém exclusivamente tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2773",
+    "input": "A lista [\"cheirar\", \"escutar\", \"perceber\", \"sentir\", \"tocar\"] contém exclusivamente tipos de verbo de sensação? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2777",
+    "input": "A lista [\"sete\", \"dois\", \"três\", \"quatro\", \"nove\"] contém exclusivamente tipos de número? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2790",
+    "input": "A lista [\"furadeira\", \"câmera\", \"fio\", \"tela\", \"prego\"] contém exclusivamente tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2791",
+    "input": "A lista [\"cabo\", \"furadeira\", \"fio\", \"câmera\", \"aparelho\"] contém exclusivamente tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2793",
+    "input": "A lista [\"teu\", \"seu\", \"vosso\", \"meu\", \"nosso\"] contém exclusivamente tipos de pronome possessivo? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2798",
+    "input": "A lista [\"conjunção\", \"determinante\", \"adjetivo\", \"verbo\", \"advérbio\"] contém exclusivamente tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2808",
+    "input": "A lista [\"setembro\", \"novembro\", \"agosto\", \"junho\", \"fevereiro\"] contém exclusivamente tipos de mês do ano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2810",
+    "input": "A lista [\"aparecer\", \"nascer\", \"morrer\", \"crescer\", \"existir\"] contém exclusivamente tipos de verbo de existência? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2820",
+    "input": "A lista [\"sexta-feira\", \"domingo\", \"quarta-feira\", \"terça-feira\", \"quinta-feira\"] contém exclusivamente tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2843",
+    "input": "A lista [\"bisavô\", \"namorada\", \"casamento\", \"tio\", \"pai\"] contém exclusivamente tipos de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2849",
+    "input": "A lista [\"dois\", \"cinco\", \"sete\", \"oito\", \"seis\"] contém exclusivamente tipos de número? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2880",
+    "input": "A lista [\"restaurante\", \"loja\", \"banco\", \"cafeteria\", \"açougue\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2892",
+    "input": "A lista [\"cafeteria\", \"livraria\", \"pousada\", \"padaria\", \"mercearia\"] contém exclusivamente tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2896",
+    "input": "A lista [\"inundação\", \"avalanche\", \"tsunami\", \"seca\", \"terremoto\"] contém exclusivamente tipos de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2897",
+    "input": "A lista [\"fino\", \"grande\", \"pequeno\", \"estreito\", \"largo\"] contém exclusivamente tipos de adjetivo de forma? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2910",
+    "input": "A lista [\"namorado\", \"tio\", \"neto\", \"namorada\", \"bisavô\"] contém exclusivamente tipos de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2912",
+    "input": "A lista [\"substantivo\", \"advérbio\", \"pronome\", \"determinante\", \"verbo\"] contém exclusivamente tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2923",
+    "input": "A lista [\"com\", \"depois\", \"para\", \"contra\", \"sob\"] contém exclusivamente tipos de preposição? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2925",
+    "input": "A lista [\"primeiro\", \"centésimo\", \"sétimo\", \"terceiro\", \"nono\"] contém exclusivamente tipos de numeral ordinal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2929",
+    "input": "A lista [\"sofrer\", \"cansar\", \"adorar\", \"odiar\", \"irritar\"] contém exclusivamente tipos de verbo de emoção? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2935",
+    "input": "A lista [\"desejar\", \"admirar\", \"rir\", \"alegrar\", \"surpreender\"] contém exclusivamente tipos de verbo de emoção? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2940",
+    "input": "A lista [\"movimento\", \"maioria\", \"redução\", \"velocidade\", \"aumento\"] contém exclusivamente tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2941",
+    "input": "A lista [\"abaixo\", \"aí\", \"perto\", \"acima\", \"fora\"] contém exclusivamente tipos de advérbio de lugar? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2945",
+    "input": "A lista [\"musical\", \"romance\", \"fantasia\", \"terror\", \"drama\"] contém exclusivamente tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2960",
+    "input": "A lista [\"compacto\", \"estreito\", \"fino\", \"largo\", \"grande\"] contém exclusivamente tipos de adjetivo de forma? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2966",
+    "input": "A lista [\"psicólogo\", \"professor\", \"fotógrafo\", \"arquiteto\", \"garçom\"] contém exclusivamente tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  }
+]

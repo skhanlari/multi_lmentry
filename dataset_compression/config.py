@@ -24,25 +24,17 @@ SAMPLING_TECHNIQUES: Tuple[str, ...] = ("random", "cluster_dedup", "difficulty_e
 # Multilingual embedding model for clustering
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
-# Similarity threshold for clustering (τ = 0.90)
-SIMILARITY_THRESHOLD = 0.90
+# Similarity threshold for clustering (τ = 0.99)
+SIMILARITY_THRESHOLD = 0.9
 
 # Correlation thresholds
-SPEARMAN_THRESHOLD = 0.90
-PEARSON_THRESHOLD = 0.90
+SPEARMAN_THRESHOLD = 0.9
+PEARSON_THRESHOLD = 0.9
 
-# Number of seeds per ratio
 def get_num_seeds(ratio: float) -> int:
-    """Return number of random seeds for a given ratio.
-    
-    - 10 seeds for r ≤ 10%
-    - 5 seeds for r > 10%
-    """
-    return 10 if ratio <= 0.10 else 5
+    return 1
 
-
-# Fixed random seeds for reproducibility
-RANDOM_SEEDS: Tuple[int, ...] = (42, 123, 456, 789, 1011, 1314, 1516, 1718, 1920, 2122)
+RANDOM_SEEDS: Tuple[int, ...] = (42,)
 
 
 @dataclass

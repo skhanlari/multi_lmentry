@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2011",
+    "input": "L'elenco [\"uragano\", \"cucchiaio\", \"tornado\", \"valanga\", \"maremoto\"] contiene solo catastrofe naturale? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2012",
+    "input": "L'elenco [\"venerdì\", \"pescheria\", \"domenica\", \"lunedì\", \"mercoledì\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2016",
+    "input": "L'elenco [\"nonno\", \"ufficio\", \"suocero\", \"bisnonna\", \"figlia\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2021",
+    "input": "L'elenco [\"pallacanestro\", \"osso\", \"pentathlon\", \"surf\", \"rugby\"] contiene solo sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2027",
+    "input": "L'elenco [\"corda\", \"binario\", \"cacciavite\", \"ago\", \"cucchiaio\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2028",
+    "input": "L'elenco [\"lunedì\", \"mercoledì\", \"giovedì\", \"venerdì\", \"tsunami\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2030",
+    "input": "L'elenco [\"sabato\", \"venerdì\", \"porro\", \"mercoledì\", \"lunedì\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2031",
+    "input": "L'elenco [\"cavolo\", \"peperone\", \"fava\", \"topo\", \"mais\"] contiene solo verdure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2042",
+    "input": "L'elenco [\"dente\", \"cerniera\", \"giacca\", \"lacci\", \"calzini\"] contiene solo vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2044",
+    "input": "L'elenco [\"violoncello\", \"cappello\", \"mutande\", \"scarpe\", \"bottone\"] contiene solo vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2050",
+    "input": "L'elenco [\"parola\", \"sequenza\", \"difesa\", \"formalità\", \"valle\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2052",
+    "input": "L'elenco [\"senso\", \"guerra\", \"pace\", \"difesa\", \"deserto\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2063",
+    "input": "L'elenco [\"giovedì\", \"venerdì\", \"martedì\", \"incendio\", \"domenica\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2072",
+    "input": "L'elenco [\"gamba\", \"naso\", \"imprenditore\", \"baffi\", \"corpo\"] contiene solo parti del corpo umano? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2075",
+    "input": "L'elenco [\"guanti\", \"zaino\", \"gonna\", \"ascensore\", \"costume\"] contiene solo vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2084",
+    "input": "L'elenco [\"netturbino\", \"politico\", \"avvocato\", \"desiderio\", \"ingegnere\"] contiene solo professioni? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2092",
+    "input": "L'elenco [\"sabato\", \"leopardo\", \"giovedì\", \"martedì\", \"mercoledì\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2096",
+    "input": "L'elenco [\"litro\", \"centimetro\", \"pastificio\", \"chilometro\", \"grammo\"] contiene solo misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2108",
+    "input": "L'elenco [\"gas\", \"metallo\", \"ferro\", \"fuoco\", \"blu\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2112",
+    "input": "L'elenco [\"sposo\", \"coppia\", \"salumeria\", \"nonna\", \"coniuge\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2122",
+    "input": "L'elenco [\"broccoli\", \"cavolfiore\", \"melanzana\", \"ravanello\", \"attenzione\"] contiene solo verdure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2127",
+    "input": "L'elenco [\"manopola\", \"vite\", \"cintura\", \"cucchiaio\", \"coltello\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2133",
+    "input": "L'elenco [\"ghiaccio\", \"fuoco\", \"gas\", \"argento\", \"schiena\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2139",
+    "input": "L'elenco [\"barbiere\", \"erboristeria\", \"millilitro\", \"macelleria\", \"pastificio\"] contiene solo posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2150",
+    "input": "L'elenco [\"mercato\", \"danno\", \"valore\", \"compagnia\", \"economia\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2160",
+    "input": "L'elenco [\"millilitro\", \"chilo\", \"quantità\", \"spinaci\", \"millimetro\"] contiene solo misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2174",
+    "input": "L'elenco [\"presenza\", \"avverbio\", \"verbo\", \"congiunzione\", \"articolo\"] contiene solo classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2178",
+    "input": "L'elenco [\"comunità\", \"vapore\", \"acqua\", \"ferro\", \"metallo\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2182",
+    "input": "L'elenco [\"maremoto\", \"thriller\", \"tragedia\", \"fantascienza\", \"commedia\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2191",
+    "input": "L'elenco [\"sale\", \"ferro\", \"argento\", \"autista\", \"terra\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2196",
+    "input": "L'elenco [\"tornado\", \"poliziotto\", \"incendio\", \"siccità\", \"slavina\"] contiene solo catastrofe naturale? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2197",
+    "input": "L'elenco [\"figlio\", \"nipote\", \"sposa\", \"figlia\", \"capitale\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2204",
+    "input": "L'elenco [\"articolo\", \"avverbio\", \"pronome\", \"hockey\", \"verbo\"] contiene solo classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2208",
+    "input": "L'elenco [\"fase\", \"bimbo\", \"infante\", \"adulta\", \"signora\"] contiene solo persone? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2219",
+    "input": "L'elenco [\"morte\", \"nascita\", \"carpentiere\", \"riproduzione\", \"essere\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2238",
+    "input": "L'elenco [\"pallanuoto\", \"bambino\", \"bambina\", \"donna\", \"gente\"] contiene solo persone? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2244",
+    "input": "L'elenco [\"persona\", \"salotto\", \"adulta\", \"donna\", \"uomo\"] contiene solo persone? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2245",
+    "input": "L'elenco [\"ingegnere\", \"possibilità\", \"politico\", \"guardiano\", \"poliziotto\"] contiene solo professioni? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2256",
+    "input": "L'elenco [\"padre\", \"figlio\", \"genitore\", \"problema\", \"coniuge\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2257",
+    "input": "L'elenco [\"domenica\", \"venerdì\", \"lunedì\", \"prezzo\", \"mercoledì\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2272",
+    "input": "L'elenco [\"altezza\", \"velocità\", \"minoranza\", \"movimento\", \"bietola\"] contiene solo spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2282",
+    "input": "L'elenco [\"coniuge\", \"drammatico\", \"commedia\", \"musical\", \"tragedia\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2289",
+    "input": "L'elenco [\"terracotta\", \"oro\", \"argento\", \"verde\", \"gas\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2293",
+    "input": "L'elenco [\"sassofono\", \"batteria\", \"clavicembalo\", \"scarpata\", \"arpa\"] contiene solo strumenti musicali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2295",
+    "input": "L'elenco [\"edificio\", \"casa\", \"divano\", \"biblioteca\", \"scrivania\"] contiene solo arredamento o parti di casa? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2297",
+    "input": "L'elenco [\"insegnante\", \"hotel\", \"banca\", \"oreficeria\", \"libreria\"] contiene solo posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2306",
+    "input": "L'elenco [\"noir\", \"drammatico\", \"tragedia\", \"zucca\", \"documentario\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2311",
+    "input": "L'elenco [\"copisteria\", \"cucina\", \"appartamento\", \"sedia\", \"bagno\"] contiene solo arredamento o parti di casa? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2317",
+    "input": "L'elenco [\"bianco\", \"grigio\", \"blu\", \"frana\", \"violetto\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2319",
+    "input": "L'elenco [\"noir\", \"fantascienza\", \"drammatico\", \"pugilato\", \"commedia\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2325",
+    "input": "L'elenco [\"coppia\", \"essere\", \"specie\", \"nascita\", \"riproduzione\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2334",
+    "input": "L'elenco [\"riproduzione\", \"morte\", \"essere\", \"specie\", \"medico\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2338",
+    "input": "L'elenco [\"collina\", \"bosco\", \"canale\", \"cucchiaino\", \"spiaggia\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2356",
+    "input": "L'elenco [\"probabilità\", \"creazione\", \"qualità\", \"scrivania\", \"conflitto\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2360",
+    "input": "L'elenco [\"orrore\", \"commedia\", \"tram\", \"drammatico\", \"musical\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2364",
+    "input": "L'elenco [\"verde\", \"mosca\", \"violetto\", \"celeste\", \"grigio\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2366",
+    "input": "L'elenco [\"violetto\", \"marrone\", \"bianco\", \"viola\", \"farmacia\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2370",
+    "input": "L'elenco [\"celeste\", \"verde\", \"azzurro\", \"viola\", \"montagna\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2381",
+    "input": "L'elenco [\"sposa\", \"zio\", \"amico\", \"struttura\", \"figlio\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2390",
+    "input": "L'elenco [\"foresta\", \"valle\", \"scarpata\", \"campo\", \"pancia\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2392",
+    "input": "L'elenco [\"ago\", \"telecamera\", \"costituzione\", \"cucchiaio\", \"filo\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2399",
+    "input": "L'elenco [\"medico\", \"incremento\", \"riduzione\", \"ampiezza\", \"maggioranza\"] contiene solo spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2405",
+    "input": "L'elenco [\"signora\", \"banchiere\", \"donna\", \"umano\", \"signore\"] contiene solo persone? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2407",
+    "input": "L'elenco [\"presenza\", \"chitarra\", \"pianoforte\", \"flauto\", \"clavicembalo\"] contiene solo strumenti musicali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2425",
+    "input": "L'elenco [\"noir\", \"fermata\", \"fantascienza\", \"thriller\", \"orrore\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2435",
+    "input": "L'elenco [\"autobus\", \"sequenza\", \"transito\", \"taxi\", \"ferrovia\"] contiene solo trasporto? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2443",
+    "input": "L'elenco [\"quantità\", \"centimetro\", \"totale\", \"media\", \"coscia\"] contiene solo misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2445",
+    "input": "L'elenco [\"figlio\", \"suocera\", \"fratello\", \"piombo\", \"nonno\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2462",
+    "input": "L'elenco [\"vestito\", \"indumento\", \"calzini\", \"guanti\", \"dottoressa\"] contiene solo vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2497",
+    "input": "L'elenco [\"fango\", \"acqua\", \"gas\", \"bronzo\", \"idraulico\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2499",
+    "input": "L'elenco [\"economia\", \"uccello\", \"industria\", \"mercato\", \"prodotto\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2507",
+    "input": "L'elenco [\"aumento\", \"posizione\", \"decremento\", \"altitudine\", \"infermiere\"] contiene solo spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2513",
+    "input": "L'elenco [\"centimetro\", \"media\", \"cugina\", \"millilitro\", \"quantità\"] contiene solo misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2520",
+    "input": "L'elenco [\"dimensione\", \"aumento\", \"altitudine\", \"maggioranza\", \"stazione\"] contiene solo spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2526",
+    "input": "L'elenco [\"intenzione\", \"paura\", \"futuro\", \"accordo\", \"porro\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2534",
+    "input": "L'elenco [\"marrone\", \"pianoforte\", \"magenta\", \"rosa\", \"bianco\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2538",
+    "input": "L'elenco [\"pescheria\", \"ristorante\", \"netturbino\", \"libreria\", \"erboristeria\"] contiene solo posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2543",
+    "input": "L'elenco [\"violetto\", \"uccello\", \"arancione\", \"blu\", \"grigio\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2551",
+    "input": "L'elenco [\"esperienza\", \"ciclismo\", \"canottaggio\", \"ginnastica\", \"nuoto\"] contiene solo sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2580",
+    "input": "L'elenco [\"sci\", \"equitazione\", \"esperienza\", \"nuoto\", \"calcio\"] contiene solo sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2590",
+    "input": "L'elenco [\"infante\", \"tragedia\", \"adolescente\", \"bambina\", \"uomo\"] contiene solo persone? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2594",
+    "input": "L'elenco [\"centimetro\", \"litro\", \"luogo\", \"totale\", \"chilo\"] contiene solo misure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2606",
+    "input": "L'elenco [\"sedano\", \"ravanello\", \"scarpe\", \"carciofo\", \"barbabietola\"] contiene solo verdure? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2609",
+    "input": "L'elenco [\"ferro\", \"millimetro\", \"acqua\", \"sale\", \"terracotta\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2615",
+    "input": "L'elenco [\"scuola\", \"pronome\", \"articolo\", \"verbo\", \"sostantivo\"] contiene solo classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2622",
+    "input": "L'elenco [\"politica\", \"associazione\", \"provincia\", \"muscolo\", \"città\"] contiene solo termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2632",
+    "input": "L'elenco [\"bisnonna\", \"magenta\", \"colore\", \"verde\", \"celeste\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2645",
+    "input": "L'elenco [\"senatrice\", \"prezzo\", \"costo\", \"domanda\", \"servizio\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2655",
+    "input": "L'elenco [\"terra\", \"aria\", \"scimmia\", \"argento\", \"terracotta\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2660",
+    "input": "L'elenco [\"formalità\", \"quartiere\", \"costituzione\", \"associazione\", \"regole\"] contiene solo termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2663",
+    "input": "L'elenco [\"anca\", \"vite\", \"forchetta\", \"telecamera\", \"ago\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2665",
+    "input": "L'elenco [\"baffi\", \"capelli\", \"osso\", \"indice\", \"crisi\"] contiene solo parti del corpo umano? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2668",
+    "input": "L'elenco [\"sassofono\", \"terremoto\", \"inondazione\", \"valanga\", \"frana\"] contiene solo catastrofe naturale? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2670",
+    "input": "L'elenco [\"ministro\", \"camicia\", \"scarpe\", \"cappotto\", \"gonna\"] contiene solo vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2676",
+    "input": "L'elenco [\"signora\", \"bambina\", \"errore\", \"signore\", \"adulto\"] contiene solo persone? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2690",
+    "input": "L'elenco [\"memoria\", \"nascita\", \"riproduzione\", \"morte\", \"specie\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2693",
+    "input": "L'elenco [\"chiave\", \"martello\", \"cucchiaio\", \"telecamera\", \"cameriere\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2695",
+    "input": "L'elenco [\"uragano\", \"terremoto\", \"tornado\", \"inondazione\", \"lingua\"] contiene solo catastrofe naturale? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2697",
+    "input": "L'elenco [\"avverbio\", \"pronome\", \"pelo\", \"congiunzione\", \"aggettivo\"] contiene solo classi grammaticali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2710",
+    "input": "L'elenco [\"mercato\", \"spavento\", \"tariffa\", \"valore\", \"compagnia\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2725",
+    "input": "L'elenco [\"foresta\", \"laguna\", \"scarpata\", \"barbabietola\", \"ruscello\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2729",
+    "input": "L'elenco [\"ingresso\", \"attacco\", \"letto\", \"divano\", \"camera\"] contiene solo arredamento o parti di casa? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2731",
+    "input": "L'elenco [\"maglietta\", \"porro\", \"vestito\", \"calze\", \"camicia\"] contiene solo vestiti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2736",
+    "input": "L'elenco [\"sale\", \"terra\", \"vapore\", \"verbo\", \"argento\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2743",
+    "input": "L'elenco [\"cucchiaio\", \"essere\", \"riproduzione\", \"nascita\", \"specie\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2746",
+    "input": "L'elenco [\"figlio\", \"forza\", \"padre\", \"suocero\", \"nonno\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2759",
+    "input": "L'elenco [\"denaro\", \"servizio\", \"parola\", \"azienda\", \"prezzo\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2761",
+    "input": "L'elenco [\"sedia\", \"tavolo\", \"tragedia\", \"finestra\", \"stanza\"] contiene solo arredamento o parti di casa? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2767",
+    "input": "L'elenco [\"media\", \"significato\", \"formalità\", \"mancanza\", \"grado\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2771",
+    "input": "L'elenco [\"specie\", \"riproduzione\", \"bronzo\", \"nascita\", \"essere\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2775",
+    "input": "L'elenco [\"laguna\", \"bosco\", \"fiume\", \"mutande\", \"canale\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2785",
+    "input": "L'elenco [\"servizio\", \"valore\", \"commercio\", \"nome\", \"prodotto\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2786",
+    "input": "L'elenco [\"produzione\", \"valore\", \"bambina\", \"consumo\", \"servizio\"] contiene solo termini economici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2812",
+    "input": "L'elenco [\"dittatura\", \"netturbino\", \"libertà\", \"popolo\", \"associazione\"] contiene solo termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2815",
+    "input": "L'elenco [\"guardiano\", \"equitazione\", \"atletica\", \"judo\", \"scherma\"] contiene solo sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2816",
+    "input": "L'elenco [\"drammatico\", \"musical\", \"fantascienza\", \"noir\", \"crisi\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2818",
+    "input": "L'elenco [\"morte\", \"nascita\", \"nonna\", \"specie\", \"essere\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2824",
+    "input": "L'elenco [\"dolore\", \"settore\", \"valle\", \"obiettivo\", \"conseguenza\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2829",
+    "input": "L'elenco [\"sedia\", \"ingresso\", \"porta\", \"tavolo\", \"paese\"] contiene solo arredamento o parti di casa? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2835",
+    "input": "L'elenco [\"commedia\", \"ghiaccio\", \"acqua\", \"terra\", \"fango\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2863",
+    "input": "L'elenco [\"popolazione\", \"consiglio\", \"politica\", \"società\", \"valle\"] contiene solo termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2880",
+    "input": "L'elenco [\"deserto\", \"foresta\", \"caratteristica\", \"collina\", \"campo\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2884",
+    "input": "L'elenco [\"associazione\", \"cavo\", \"autorizzazione\", \"diritti\", \"costituzione\"] contiene solo termini socio-politici? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2890",
+    "input": "L'elenco [\"bambino\", \"fune\", \"filo\", \"cucchiaino\", \"corda\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2898",
+    "input": "L'elenco [\"ciclismo\", \"sindaco\", \"arrampicata\", \"karate\", \"golf\"] contiene solo sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2901",
+    "input": "L'elenco [\"monte\", \"foresta\", \"valle\", \"segretario\", \"lago\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2903",
+    "input": "L'elenco [\"fuoco\", \"terra\", \"sale\", \"bimbo\", \"ferro\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2916",
+    "input": "L'elenco [\"palude\", \"collina\", \"montagna\", \"creazione\", \"valle\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2926",
+    "input": "L'elenco [\"documentario\", \"tragedia\", \"thriller\", \"musical\", \"parola\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2937",
+    "input": "L'elenco [\"erboristeria\", \"tabaccaio\", \"autostrada\", \"albergo\", \"oreficeria\"] contiene solo posti di lavoro? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2940",
+    "input": "L'elenco [\"sabato\", \"martedì\", \"lunedì\", \"pastificio\", \"venerdì\"] contiene solo giorni della settimana? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2941",
+    "input": "L'elenco [\"clavicembalo\", \"aspetto\", \"successo\", \"danno\", \"errore\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2942",
+    "input": "L'elenco [\"ferro\", \"terracotta\", \"piombo\", \"cugino\", \"fuoco\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2944",
+    "input": "L'elenco [\"piombo\", \"sale\", \"terra\", \"ghiaccio\", \"taxi\"] contiene solo materiali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2949",
+    "input": "L'elenco [\"grigio\", \"arancione\", \"capelli\", \"violetto\", \"colore\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2954",
+    "input": "L'elenco [\"chitarra\", \"pianoforte\", \"arpa\", \"clavicembalo\", \"nuora\"] contiene solo strumenti musicali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2955",
+    "input": "L'elenco [\"noir\", \"commedia\", \"musical\", \"thriller\", \"processo\"] contiene solo genere di film? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2957",
+    "input": "L'elenco [\"rosa\", \"nero\", \"marrone\", \"violetto\", \"falena\"] contiene solo colori? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2959",
+    "input": "L'elenco [\"gorilla\", \"tigre\", \"falena\", \"oreficeria\", \"corvo\"] contiene solo animali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2969",
+    "input": "L'elenco [\"noia\", \"tipo\", \"felicità\", \"fotografo\", \"spavento\"] contiene solo sostantivi astratti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2973",
+    "input": "L'elenco [\"ago\", \"cucchiaio\", \"tornado\", \"telecamera\", \"chiave\"] contiene solo utensili? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2975",
+    "input": "L'elenco [\"violino\", \"tromba\", \"calze\", \"chitarra\", \"clavicembalo\"] contiene solo strumenti musicali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2977",
+    "input": "L'elenco [\"ampiezza\", \"lunghezza\", \"altezza\", \"maggioranza\", \"oceano\"] contiene solo spazio o quantità? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2978",
+    "input": "L'elenco [\"laguna\", \"oceano\", \"scarpata\", \"tram\", \"deserto\"] contiene solo ambienti naturali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2981",
+    "input": "L'elenco [\"riproduzione\", \"adolescente\", \"specie\", \"essere\", \"nascita\"] contiene solo aspetti della vita? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2984",
+    "input": "L'elenco [\"scacchi\", \"parola\", \"canottaggio\", \"rugby\", \"pallacanestro\"] contiene solo sport? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2985",
+    "input": "L'elenco [\"topo\", \"chiocciola\", \"falco\", \"ricordo\", \"cervo\"] contiene solo animali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2993",
+    "input": "L'elenco [\"copisteria\", \"clarinetto\", \"pianoforte\", \"flauto\", \"batteria\"] contiene solo strumenti musicali? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2995",
+    "input": "L'elenco [\"nuora\", \"matrimonio\", \"genitore\", \"coppia\", \"divano\"] contiene solo parenti? Rispondi o 'sì' o 'no'."
+  },
+  {
+    "id": "2998",
+    "input": "L'elenco [\"luogo\", \"arrampicata\", \"ampiezza\", \"decelerazione\", \"incremento\"] contiene solo spazio o quantità? Rispondi o 'sì' o 'no'."
+  }
+]

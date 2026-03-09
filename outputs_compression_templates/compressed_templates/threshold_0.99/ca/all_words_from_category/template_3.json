@@ -1,0 +1,722 @@
+[
+  {
+    "id": "2002",
+    "input": "La llista [\"futbol\", \"criquet\", \"bitlles\", \"basquetbol\", \"rugbi\"] conté exclusivament esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2017",
+    "input": "La llista [\"mil·límetre\", \"mil·lilitre\", \"gram\", \"quantitat\", \"fruiteria\"] conté exclusivament mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2019",
+    "input": "La llista [\"trobada\", \"norma\", \"municipi\", \"estat\", \"equip\"] conté exclusivament conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2025",
+    "input": "La llista [\"comèdia\", \"musical\", \"fantasia\", \"drama\", \"terror\"] conté exclusivament gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2029",
+    "input": "La llista [\"patinet\", \"camí\", \"taxi\", \"tren\", \"bàdminton\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2034",
+    "input": "La llista [\"espàrrec\", \"albergínia\", \"enciam\", \"astronauta\", \"espinacs\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2035",
+    "input": "La llista [\"gent\", \"persona\", \"home\", \"dona\", \"aire\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2039",
+    "input": "La llista [\"substantiu\", \"desert\", \"conjunció\", \"preposició\", \"pronom\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2050",
+    "input": "La llista [\"govern\", \"departament\", \"llei\", \"estat\", \"patates\"] conté exclusivament conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2054",
+    "input": "La llista [\"arma\", \"cordill\", \"fil\", \"agulla\", \"pantalla\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2057",
+    "input": "La llista [\"alcalde\", \"forner\", \"mecànica\", \"ruta\", \"benzinera\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2067",
+    "input": "La llista [\"servei\", \"comerç\", \"bitllet\", \"tarifa\", \"coneguda\"] conté exclusivament conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2077",
+    "input": "La llista [\"fil\", \"cordill\", \"clau\", \"aparell\", \"cordó\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2086",
+    "input": "La llista [\"suspens\", \"terror\", \"fantasia\", \"musical\", \"drama\"] conté exclusivament gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2093",
+    "input": "La llista [\"posició\", \"ample\", \"majoria\", \"lloc\", \"gimnàstica\"] conté exclusivament conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2114",
+    "input": "La llista [\"alcalde\", \"pintora\", \"cambrer\", \"actor\", \"dentista\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2130",
+    "input": "La llista [\"bròquil\", \"coliflor\", \"carxofa\", \"espàrrec\", \"ministra\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2150",
+    "input": "La llista [\"flauta\", \"violí\", \"programador\", \"guitarra\", \"trompeta\"] conté exclusivament instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2151",
+    "input": "La llista [\"autoescola\", \"floristeria\", \"restaurant\", \"joieria\", \"banc\"] conté exclusivament llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2158",
+    "input": "La llista [\"quantitat\", \"quilo\", \"quilòmetre\", \"litre\", \"mesura\"] conté exclusivament mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2175",
+    "input": "La llista [\"piragüisme\", \"senderisme\", \"criquet\", \"tennis\", \"dentista\"] conté exclusivament esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2178",
+    "input": "La llista [\"cogombre\", \"pastanaga\", \"api\", \"diners\", \"faves\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2185",
+    "input": "La llista [\"dama\", \"home\", \"autopista\", \"nen\", \"humà\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2186",
+    "input": "La llista [\"fons\", \"llei\", \"velocitat\", \"moviment\", \"majoria\"] conté exclusivament conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2189",
+    "input": "La llista [\"surf\", \"samarreta\", \"hoquei\", \"waterpolo\", \"billar\"] conté exclusivament esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2190",
+    "input": "La llista [\"serp\", \"espècie\", \"criatura\", \"ésser\", \"naixement\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2196",
+    "input": "La llista [\"lampista\", \"atletisme\", \"criquet\", \"beisbol\", \"boxa\"] conté exclusivament esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2199",
+    "input": "La llista [\"adjectiu\", \"hospital\", \"xarcuteria\", \"carnisseria\", \"cafeteria\"] conté exclusivament llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2201",
+    "input": "La llista [\"tancament\", \"capell\", \"màniga\", \"mitjons\", \"banyador\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2203",
+    "input": "La llista [\"corda\", \"pantalla\", \"vapor\", \"aparell\", \"cordó\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2211",
+    "input": "La llista [\"boxa\", \"oceà\", \"mar\", \"bosc\", \"desert\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2222",
+    "input": "La llista [\"nen\", \"adolescent\", \"senyor\", \"humà\", \"persona\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2230",
+    "input": "La llista [\"terratrèmol\", \"tsunami\", \"vella\", \"tornado\", \"allau\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2242",
+    "input": "La llista [\"adjectiu\", \"substantiu\", \"preposició\", \"determinant\", \"verb\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2248",
+    "input": "La llista [\"suspens\", \"advocada\", \"arquitecta\", \"bombera\", \"professor\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2252",
+    "input": "La llista [\"col·lega\", \"reproducció\", \"besàvia\", \"cosí\", \"oncle\"] conté exclusivament membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2257",
+    "input": "La llista [\"comerç\", \"transacció\", \"mercat\", \"destinació\", \"servei\"] conté exclusivament conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2265",
+    "input": "La llista [\"llar\", \"casa\", \"panell\", \"divendres\", \"taula\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2283",
+    "input": "La llista [\"cintura\", \"colze\", \"dit\", \"ull\", \"cos\"] conté exclusivament parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2288",
+    "input": "La llista [\"filla\", \"neboda\", \"parella\", \"esposa\", \"àvia\"] conté exclusivament membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2291",
+    "input": "La llista [\"rosa\", \"morat\", \"verd\", \"groc\", \"taronja\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2294",
+    "input": "La llista [\"marró\", \"blau\", \"morat\", \"verd\", \"blanc\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2299",
+    "input": "La llista [\"mort\", \"espècie\", \"reproducció\", \"naixement\", \"vida\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2300",
+    "input": "La llista [\"terror\", \"suspens\", \"fantasia\", \"comèdia\", \"drama\"] conté exclusivament gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2312",
+    "input": "La llista [\"jungla\", \"selva\", \"gos\", \"mar\", \"camp\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2317",
+    "input": "La llista [\"transport\", \"platja\", \"vaixell\", \"avió\", \"aeroport\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2326",
+    "input": "La llista [\"litre\", \"mil·límetre\", \"mesura\", \"pes\", \"plaer\"] conté exclusivament mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2331",
+    "input": "La llista [\"veritat\", \"relació\", \"memòria\", \"benzinera\", \"oïda\"] conté exclusivament substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2335",
+    "input": "La llista [\"dissabte\", \"diumenge\", \"dijous\", \"dimarts\", \"dimecres\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2337",
+    "input": "La llista [\"morat\", \"vermell\", \"blau\", \"actor\", \"marró\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2351",
+    "input": "La llista [\"substantiu\", \"perjudici\", \"verb\", \"conjunció\", \"preposició\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2355",
+    "input": "La llista [\"via\", \"negre\", \"color\", \"groc\", \"marró\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2356",
+    "input": "La llista [\"ulleres\", \"vel\", \"capell\", \"tancament\", \"meta\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2360",
+    "input": "La llista [\"falcó\", \"insecte\", \"gambeta\", \"corb\", \"cavall\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2362",
+    "input": "La llista [\"vida\", \"reproducció\", \"ésser\", \"mort\", \"espècie\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2365",
+    "input": "La llista [\"perruquer\", \"director\", \"bombera\", \"metgessa\", \"boca\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2366",
+    "input": "La llista [\"huracà\", \"incendi\", \"inundació\", \"sequera\", \"allau\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2370",
+    "input": "La llista [\"negre\", \"rosa\", \"groc\", \"blanc\", \"color\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2375",
+    "input": "La llista [\"cintura\", \"cordons\", \"capell\", \"peça\", \"abric\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2387",
+    "input": "La llista [\"dimecres\", \"ratolí\", \"dissabte\", \"dijous\", \"dimarts\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2393",
+    "input": "La llista [\"tsunami\", \"sequera\", \"incendi\", \"terratrèmol\", \"huracà\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2394",
+    "input": "La llista [\"perruquer\", \"carter\", \"biòleg\", \"fustera\", \"benzinera\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2397",
+    "input": "La llista [\"humà\", \"nadó\", \"cavaller\", \"adolescent\", \"vella\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2399",
+    "input": "La llista [\"dimecres\", \"divendres\", \"dijous\", \"senador\", \"dimarts\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2402",
+    "input": "La llista [\"agulla\", \"pom\", \"clau\", \"corda\", \"arma\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2415",
+    "input": "La llista [\"autopista\", \"bicicleta\", \"tramvia\", \"automòbil\", \"camí\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2418",
+    "input": "La llista [\"ull\", \"aspecte\", \"cuixa\", \"cos\", \"orella\"] conté exclusivament parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2419",
+    "input": "La llista [\"total\", \"quilo\", \"quantitat\", \"gram\", \"pes\"] conté exclusivament mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2425",
+    "input": "La llista [\"inundació\", \"huracà\", \"terratrèmol\", \"tornado\", \"allau\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2427",
+    "input": "La llista [\"partit\", \"empresa\", \"norma\", \"província\", \"política\"] conté exclusivament conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2429",
+    "input": "La llista [\"ovella\", \"gat\", \"granota\", \"gallina\", \"serp\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2437",
+    "input": "La llista [\"mort\", \"ésser\", \"naixement\", \"espècie\", \"reproducció\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2451",
+    "input": "La llista [\"clarinet\", \"saxofon\", \"bateria\", \"cafeteria\", \"violí\"] conté exclusivament instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2452",
+    "input": "La llista [\"comèdia\", \"musical\", \"terror\", \"suspens\", \"fantasia\"] conté exclusivament gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2462",
+    "input": "La llista [\"escola\", \"adult\", \"xarcuteria\", \"peixateria\", \"autoescola\"] conté exclusivament llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2464",
+    "input": "La llista [\"incendi\", \"adjectiu\", \"sequera\", \"tornado\", \"huracà\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2467",
+    "input": "La llista [\"blau\", \"groc\", \"morat\", \"blanc\", \"negre\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2468",
+    "input": "La llista [\"comèdia\", \"fantasia\", \"drama\", \"terror\", \"suspens\"] conté exclusivament gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2477",
+    "input": "La llista [\"albergínia\", \"carbassons\", \"pebrot\", \"pèsols\", \"patates\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2484",
+    "input": "La llista [\"ascensor\", \"natació\", \"edifici\", \"llit\", \"apartament\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2490",
+    "input": "La llista [\"lloc\", \"fons\", \"llarg\", \"mida\", \"posició\"] conté exclusivament conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2491",
+    "input": "La llista [\"cavaller\", \"senyor\", \"capell\", \"persona\", \"dona\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2494",
+    "input": "La llista [\"jaqueta\", \"realitat\", \"faldilla\", \"roba\", \"sabata\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2497",
+    "input": "La llista [\"conill\", \"mort\", \"mosca\", \"tonyina\", \"sardina\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2502",
+    "input": "La llista [\"metall\", \"espàrrec\", \"cogombre\", \"carxofa\", \"remolatxa\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2507",
+    "input": "La llista [\"tramvia\", \"bicicleta\", \"ferrocarril\", \"moto\", \"vehicle\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2508",
+    "input": "La llista [\"mesura\", \"gram\", \"total\", \"groc\", \"litre\"] conté exclusivament mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2509",
+    "input": "La llista [\"cosina\", \"tornado\", \"sequera\", \"incendi\", \"allau\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2516",
+    "input": "La llista [\"bateria\", \"clarinet\", \"saxofon\", \"trompeta\", \"violí\"] conté exclusivament instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2517",
+    "input": "La llista [\"construcció\", \"llar\", \"cansament\", \"habitació\", \"entrada\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2523",
+    "input": "La llista [\"individu\", \"home\", \"dama\", \"cavaller\", \"humanitat\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2524",
+    "input": "La llista [\"cadira\", \"taula\", \"casa\", \"cambra\", \"científic\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2528",
+    "input": "La llista [\"adverbi\", \"substantiu\", \"conjunció\", \"adjectiu\", \"preposició\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2529",
+    "input": "La llista [\"individu\", \"nen\", \"senyora\", \"gent\", \"vella\"] conté exclusivament persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2539",
+    "input": "La llista [\"orella\", \"presència\", \"solució\", \"cosa\", \"guerra\"] conté exclusivament substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2555",
+    "input": "La llista [\"tipus\", \"minoria\", \"moviment\", \"fons\", \"direcció\"] conté exclusivament conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2561",
+    "input": "La llista [\"matrimoni\", \"besnét\", \"oncle\", \"mida\", \"amiga\"] conté exclusivament membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2578",
+    "input": "La llista [\"avinguda\", \"via\", \"autopista\", \"vehicle\", \"patinet\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2582",
+    "input": "La llista [\"floristeria\", \"perruqueria\", \"botiga\", \"copisteria\", \"llibreria\"] conté exclusivament llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2586",
+    "input": "La llista [\"groc\", \"verd\", \"vela\", \"vermell\", \"rosa\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2587",
+    "input": "La llista [\"atac\", \"societat\", \"enuig\", \"característica\", \"funció\"] conté exclusivament substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2590",
+    "input": "La llista [\"producte\", \"comerç\", \"servei\", \"valor\", \"consum\"] conté exclusivament conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2595",
+    "input": "La llista [\"peix\", \"saltamartí\", \"calamar\", \"cérvol\", \"tigre\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2597",
+    "input": "La llista [\"espècie\", \"criatura\", \"naixement\", \"ésser\", \"vida\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2607",
+    "input": "La llista [\"inundació\", \"incendi\", \"cotxe\", \"tornado\", \"tsunami\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2608",
+    "input": "La llista [\"acord\", \"escala\", \"cambra\", \"panell\", \"casa\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2613",
+    "input": "La llista [\"api\", \"pastanaga\", \"carbassa\", \"samarreta\", \"remolatxa\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2615",
+    "input": "La llista [\"diputada\", \"mecànica\", \"actriu\", \"administratiu\", \"enginyera\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2616",
+    "input": "La llista [\"camí\", \"vehicle\", \"transport\", \"autopista\", \"ferrocarril\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2623",
+    "input": "La llista [\"falcó\", \"calamar\", \"corb\", \"gat\", \"insecte\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2631",
+    "input": "La llista [\"granota\", \"gallina\", \"calamar\", \"ocell\", \"memòria\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2632",
+    "input": "La llista [\"habitació\", \"casa\", \"apartament\", \"llit\", \"confiança\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2638",
+    "input": "La llista [\"tonyina\", \"cavall\", \"ratolí\", \"serp\", \"tigre\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2639",
+    "input": "La llista [\"escalada\", \"basquetbol\", \"patinatge\", \"vela\", \"waterpolo\"] conté exclusivament esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2654",
+    "input": "La llista [\"tonyina\", \"vaca\", \"ceba\", \"saltamartí\", \"pop\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2661",
+    "input": "La llista [\"dimarts\", \"preposició\", \"divendres\", \"dilluns\", \"diumenge\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2667",
+    "input": "La llista [\"riu\", \"conill\", \"llac\", \"desert\", \"oceà\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2669",
+    "input": "La llista [\"desert\", \"oceà\", \"platja\", \"bosc\", \"esquena\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2671",
+    "input": "La llista [\"servei\", \"diners\", \"companyia\", \"producte\", \"valor\"] conté exclusivament conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2681",
+    "input": "La llista [\"ulleres\", \"botó\", \"bufanda\", \"vestit\", \"màniga\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2683",
+    "input": "La llista [\"carretera\", \"casa\", \"escala\", \"panell\", \"ascensor\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2689",
+    "input": "La llista [\"remolatxa\", \"albergínia\", \"pebrot\", \"all\", \"porro\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2694",
+    "input": "La llista [\"fantasia\", \"comèdia\", \"drama\", \"suspens\", \"terror\"] conté exclusivament gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2695",
+    "input": "La llista [\"via\", \"transport\", \"moto\", \"avió\", \"parada\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2703",
+    "input": "La llista [\"rosa\", \"blanc\", \"gris\", \"negre\", \"verd\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2714",
+    "input": "La llista [\"ceba\", \"matrimoni\", \"bròquil\", \"carxofa\", \"pebrot\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2721",
+    "input": "La llista [\"parada\", \"olfacte\", \"transport\", \"patinet\", \"ferrocarril\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2728",
+    "input": "La llista [\"màniga\", \"cinturó\", \"sostenidor\", \"capell\", \"calçotet\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2732",
+    "input": "La llista [\"foc\", \"fang\", \"aire\", \"aigua\", \"gel\"] conté exclusivament materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2733",
+    "input": "La llista [\"panell\", \"construcció\", \"ascensor\", \"finestra\", \"edifici\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2741",
+    "input": "La llista [\"bus\", \"matrimoni\", \"avinguda\", \"parada\", \"avió\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2742",
+    "input": "La llista [\"dent\", \"cama\", \"barba\", \"cap\", \"os\"] conté exclusivament parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2745",
+    "input": "La llista [\"governadora\", \"fotògraf\", \"administratiu\", \"cuinera\", \"electricista\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2751",
+    "input": "La llista [\"clarinet\", \"formalitat\", \"saxofon\", \"guitarra\", \"piano\"] conté exclusivament instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2761",
+    "input": "La llista [\"ajuntament\", \"oficina\", \"supermercat\", \"banc\", \"botiga\"] conté exclusivament llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2764",
+    "input": "La llista [\"besnét\", \"percepció\", \"amic\", \"marit\", \"nét\"] conté exclusivament membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2766",
+    "input": "La llista [\"ésser\", \"vida\", \"naixement\", \"reproducció\", \"drama\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2770",
+    "input": "La llista [\"dilluns\", \"dama\", \"diumenge\", \"divendres\", \"dijous\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2771",
+    "input": "La llista [\"litre\", \"quantitat\", \"fantasia\", \"mil·límetre\", \"total\"] conté exclusivament mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2773",
+    "input": "La llista [\"present\", \"plom\", \"foc\", \"metall\", \"or\"] conté exclusivament materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2777",
+    "input": "La llista [\"transacció\", \"producció\", \"valor\", \"producte\", \"mercat\"] conté exclusivament conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2789",
+    "input": "La llista [\"govern\", \"país\", \"departament\", \"acte\", \"empresa\"] conté exclusivament conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2790",
+    "input": "La llista [\"maluc\", \"abdomen\", \"cama\", \"coll\", \"taló\"] conté exclusivament parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2791",
+    "input": "La llista [\"faldilla\", \"gorra\", \"camisa\", \"solapa\", \"genoll\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2793",
+    "input": "La llista [\"cordill\", \"pantalla\", \"cordó\", \"clau\", \"agulla\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2798",
+    "input": "La llista [\"groc\", \"verd\", \"rosa\", \"negre\", \"morat\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2800",
+    "input": "La llista [\"naixement\", \"vida\", \"espècie\", \"família\", \"reproducció\"] conté exclusivament conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2808",
+    "input": "La llista [\"diumenge\", \"divendres\", \"dijous\", \"dimecres\", \"ésser\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2810",
+    "input": "La llista [\"ascensor\", \"escriptori\", \"llar\", \"llit\", \"cambra\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2817",
+    "input": "La llista [\"bosc\", \"muntanya\", \"platja\", \"riu\", \"jungla\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2820",
+    "input": "La llista [\"posició\", \"creixement\", \"augment\", \"alt\", \"lloc\"] conté exclusivament conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2824",
+    "input": "La llista [\"gas\", \"terra\", \"sal\", \"plata\", \"cuixa\"] conté exclusivament materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2837",
+    "input": "La llista [\"vaixell\", \"taxi\", \"carrer\", \"trànsit\", \"moto\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2843",
+    "input": "La llista [\"llac\", \"oceà\", \"platja\", \"bosc\", \"jungla\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2849",
+    "input": "La llista [\"comissaria\", \"congrés\", \"supermercat\", \"fleca\", \"perruqueria\"] conté exclusivament llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2865",
+    "input": "La llista [\"carbassons\", \"pastanaga\", \"estat\", \"patates\", \"pèsols\"] conté exclusivament verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2878",
+    "input": "La llista [\"tsunami\", \"allau\", \"sequera\", \"terratrèmol\", \"tornado\"] conté exclusivament catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2880",
+    "input": "La llista [\"preposició\", \"substantiu\", \"verb\", \"adjectiu\", \"conjunció\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2892",
+    "input": "La llista [\"perjudici\", \"verb\", \"pronom\", \"determinant\", \"substantiu\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2896",
+    "input": "La llista [\"cul\", \"esquena\", \"espatlla\", \"peu\", \"cuixa\"] conté exclusivament parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2897",
+    "input": "La llista [\"rosa\", \"negre\", \"verd\", \"color\", \"taronja\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2903",
+    "input": "La llista [\"astronauta\", \"caixera\", \"biòleg\", \"perruquer\", \"patates\"] conté exclusivament professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2910",
+    "input": "La llista [\"preposició\", \"adverbi\", \"conjunció\", \"capell\", \"verb\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2912",
+    "input": "La llista [\"mosca\", \"llangardaix\", \"gos\", \"cocodril\", \"cavall\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2918",
+    "input": "La llista [\"dissabte\", \"dimarts\", \"dilluns\", \"qualitat\", \"divendres\"] conté exclusivament dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2921",
+    "input": "La llista [\"atenció\", \"caràcter\", \"origen\", \"tristesa\", \"pau\"] conté exclusivament substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2922",
+    "input": "La llista [\"vaca\", \"diumenge\", \"elefant\", \"panerola\", \"mico\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2923",
+    "input": "La llista [\"trompeta\", \"mar\", \"saxofon\", \"clarinet\", \"flauta\"] conté exclusivament instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2925",
+    "input": "La llista [\"aparell\", \"arma\", \"amic\", \"càmera\", \"pantalla\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2929",
+    "input": "La llista [\"capital\", \"gris\", \"vermell\", \"groc\", \"negre\"] conté exclusivament colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2935",
+    "input": "La llista [\"gas\", \"aire\", \"casa\", \"sal\", \"gel\"] conté exclusivament materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2940",
+    "input": "La llista [\"tia\", \"pronom\", \"conjunció\", \"adjectiu\", \"determinant\"] conté exclusivament categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2941",
+    "input": "La llista [\"sector\", \"fil\", \"aparell\", \"corda\", \"càmera\"] conté exclusivament eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2943",
+    "input": "La llista [\"oïda\", \"llac\", \"selva\", \"desert\", \"muntanya\"] conté exclusivament conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2945",
+    "input": "La llista [\"guants\", \"màniga\", \"mitjons\", \"calçotet\", \"tancament\"] conté exclusivament peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2950",
+    "input": "La llista [\"ferrocarril\", \"taxi\", \"avió\", \"restaurant\", \"transport\"] conté exclusivament conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2960",
+    "input": "La llista [\"ovella\", \"pop\", \"saltamartí\", \"mosca\", \"vehicle\"] conté exclusivament animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2966",
+    "input": "La llista [\"ascensor\", \"plaer\", \"llar\", \"llit\", \"cambra\"] conté exclusivament components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2970",
+    "input": "La llista [\"col·lega\", \"besàvia\", \"reunió\", \"nebot\", \"oncle\"] conté exclusivament membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "2992",
+    "input": "La llista [\"servei\", \"economia\", \"mercat\", \"tarifa\", \"producció\"] conté exclusivament conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  }
+]

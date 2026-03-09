@@ -1,0 +1,802 @@
+[
+  {
+    "id": "2002",
+    "input": "De las palabras \"billar\" y \"parecido\", ¿cuál rima con \"contenido\"?"
+  },
+  {
+    "id": "2017",
+    "input": "De las palabras \"calcetines\" y \"valor\", ¿cuál rima con \"señor\"?"
+  },
+  {
+    "id": "2019",
+    "input": "De las palabras \"descansar\" y \"cuando\", ¿cuál rima con \"pesar\"?"
+  },
+  {
+    "id": "2025",
+    "input": "De las palabras \"frontal\" y \"clarinete\", ¿cuál rima con \"usual\"?"
+  },
+  {
+    "id": "2027",
+    "input": "De las palabras \"partido\" y \"clarinete\", ¿cuál rima con \"patinete\"?"
+  },
+  {
+    "id": "2029",
+    "input": "De las palabras \"reunirse\" y \"waterpolo\", ¿cuál rima con \"aburrirse\"?"
+  },
+  {
+    "id": "2034",
+    "input": "De las palabras \"pequeño\" y \"mostrar\", ¿cuál rima con \"comprobar\"?"
+  },
+  {
+    "id": "2035",
+    "input": "De las palabras \"actor\" y \"encantarse\", ¿cuál rima con \"asustarse\"?"
+  },
+  {
+    "id": "2039",
+    "input": "De las palabras \"diferencia\" y \"nacer\", ¿cuál rima con \"secuencia\"?"
+  },
+  {
+    "id": "2050",
+    "input": "De las palabras \"querer\" y \"significado\", ¿cuál rima con \"enfadado\"?"
+  },
+  {
+    "id": "2051",
+    "input": "De las palabras \"opuesto\" y \"odiar\", ¿cuál rima con \"quitar\"?"
+  },
+  {
+    "id": "2054",
+    "input": "De las palabras \"negar\" y \"ratón\", ¿cuál rima con \"pegar\"?"
+  },
+  {
+    "id": "2057",
+    "input": "De las palabras \"distinguir\" y \"función\", ¿cuál rima con \"gorrión\"?"
+  },
+  {
+    "id": "2067",
+    "input": "De las palabras \"saltamontes\" y \"raro\", ¿cuál rima con \"claro\"?"
+  },
+  {
+    "id": "2077",
+    "input": "De las palabras \"tren\" y \"cafetería\", ¿cuál rima con \"bien\"?"
+  },
+  {
+    "id": "2086",
+    "input": "De las palabras \"encima\" y \"difícil\", ¿cuál rima con \"esgrima\"?"
+  },
+  {
+    "id": "2089",
+    "input": "De las palabras \"ayuntamiento\" y \"bolsa\", ¿cuál rima con \"aumento\"?"
+  },
+  {
+    "id": "2093",
+    "input": "De las palabras \"abuela\" y \"inicialmente\", ¿cuál rima con \"probablemente\"?"
+  },
+  {
+    "id": "2114",
+    "input": "De las palabras \"destrucción\" y \"fotógrafo\", ¿cuál rima con \"prohibición\"?"
+  },
+  {
+    "id": "2130",
+    "input": "De las palabras \"hielo\" y \"acordar\", ¿cuál rima con \"escuchar\"?"
+  },
+  {
+    "id": "2137",
+    "input": "De las palabras \"por\" y \"memoria\", ¿cuál rima con \"programador\"?"
+  },
+  {
+    "id": "2150",
+    "input": "De las palabras \"botón\" y \"posiblemente\", ¿cuál rima con \"finalmente\"?"
+  },
+  {
+    "id": "2151",
+    "input": "De las palabras \"oreja\" y \"duro\", ¿cuál rima con \"futuro\"?"
+  },
+  {
+    "id": "2158",
+    "input": "De las palabras \"golpear\" y \"aceleración\", ¿cuál rima con \"crear\"?"
+  },
+  {
+    "id": "2175",
+    "input": "De las palabras \"solamente\" y \"senderismo\", ¿cuál rima con \"asimismo\"?"
+  },
+  {
+    "id": "2178",
+    "input": "De las palabras \"tratar\" y \"hotel\", ¿cuál rima con \"consolar\"?"
+  },
+  {
+    "id": "2179",
+    "input": "De las palabras \"inmediatamente\" y \"cuando\", ¿cuál rima con \"finalmente\"?"
+  },
+  {
+    "id": "2185",
+    "input": "De las palabras \"capaz\" y \"nombre\", ¿cuál rima con \"hombre\"?"
+  },
+  {
+    "id": "2186",
+    "input": "De las palabras \"entonces\" y \"zapato\", ¿cuál rima con \"olfato\"?"
+  },
+  {
+    "id": "2189",
+    "input": "De las palabras \"decir\" y \"finalmente\", ¿cuál rima con \"próximamente\"?"
+  },
+  {
+    "id": "2190",
+    "input": "De las palabras \"encima\" y \"bádminton\", ¿cuál rima con \"esgrima\"?"
+  },
+  {
+    "id": "2196",
+    "input": "De las palabras \"derecho\" y \"transporte\", ¿cuál rima con \"corte\"?"
+  },
+  {
+    "id": "2199",
+    "input": "De las palabras \"domingo\" y \"plata\", ¿cuál rima con \"corbata\"?"
+  },
+  {
+    "id": "2201",
+    "input": "De las palabras \"hogar\" y \"excepto\", ¿cuál rima con \"mejorar\"?"
+  },
+  {
+    "id": "2203",
+    "input": "De las palabras \"tenis\" y \"destrucción\", ¿cuál rima con \"botón\"?"
+  },
+  {
+    "id": "2211",
+    "input": "De las palabras \"inundación\" y \"llevar\", ¿cuál rima con \"solución\"?"
+  },
+  {
+    "id": "2212",
+    "input": "De las palabras \"fondo\" y \"langosta\", ¿cuál rima con \"costa\"?"
+  },
+  {
+    "id": "2222",
+    "input": "De las palabras \"considerar\" y \"angosto\", ¿cuál rima con \"pegar\"?"
+  },
+  {
+    "id": "2230",
+    "input": "De las palabras \"bañador\" y \"mundial\", ¿cuál rima con \"real\"?"
+  },
+  {
+    "id": "2242",
+    "input": "De las palabras \"recién\" y \"servicio\", ¿cuál rima con \"también\"?"
+  },
+  {
+    "id": "2248",
+    "input": "De las palabras \"consejo\" y \"mejora\", ¿cuál rima con \"viejo\"?"
+  },
+  {
+    "id": "2252",
+    "input": "De las palabras \"blanco\" y \"batería\", ¿cuál rima con \"estanco\"?"
+  },
+  {
+    "id": "2257",
+    "input": "De las palabras \"acierto\" y \"crear\", ¿cuál rima con \"desierto\"?"
+  },
+  {
+    "id": "2265",
+    "input": "De las palabras \"alcanzar\" y \"nueve\", ¿cuál rima con \"cantar\"?"
+  },
+  {
+    "id": "2283",
+    "input": "De las palabras \"actor\" y \"después\", ¿cuál rima con \"interés\"?"
+  },
+  {
+    "id": "2288",
+    "input": "De las palabras \"noviembre\" y \"camino\", ¿cuál rima con \"septiembre\"?"
+  },
+  {
+    "id": "2291",
+    "input": "De las palabras \"internacional\" y \"retroceso\", ¿cuál rima con \"manual\"?"
+  },
+  {
+    "id": "2294",
+    "input": "De las palabras \"mejora\" y \"conejo\", ¿cuál rima con \"ahora\"?"
+  },
+  {
+    "id": "2299",
+    "input": "De las palabras \"mover\" y \"universal\", ¿cuál rima con \"placer\"?"
+  },
+  {
+    "id": "2300",
+    "input": "De las palabras \"señor\" y \"programa\", ¿cuál rima con \"alrededor\"?"
+  },
+  {
+    "id": "2309",
+    "input": "De las palabras \"desear\" y \"gris\", ¿cuál rima con \"separar\"?"
+  },
+  {
+    "id": "2312",
+    "input": "De las palabras \"sentir\" y \"joven\", ¿cuál rima con \"distinguir\"?"
+  },
+  {
+    "id": "2317",
+    "input": "De las palabras \"bueno\" y \"comprobar\", ¿cuál rima con \"ajeno\"?"
+  },
+  {
+    "id": "2326",
+    "input": "De las palabras \"alegría\" y \"boxeo\", ¿cuál rima con \"charcutería\"?"
+  },
+  {
+    "id": "2328",
+    "input": "De las palabras \"joyería\" y \"diez\", ¿cuál rima con \"floristería\"?"
+  },
+  {
+    "id": "2331",
+    "input": "De las palabras \"niño\" y \"exactamente\", ¿cuál rima con \"serpiente\"?"
+  },
+  {
+    "id": "2335",
+    "input": "De las palabras \"plomo\" y \"bombera\", ¿cuál rima con \"pomo\"?"
+  },
+  {
+    "id": "2337",
+    "input": "De las palabras \"arreglar\" y \"privado\", ¿cuál rima con \"trabajar\"?"
+  },
+  {
+    "id": "2343",
+    "input": "De las palabras \"interés\" y \"fuerza\", ¿cuál rima con \"después\"?"
+  },
+  {
+    "id": "2350",
+    "input": "De las palabras \"talón\" y \"compañía\", ¿cuál rima con \"herboristería\"?"
+  },
+  {
+    "id": "2351",
+    "input": "De las palabras \"charcutería\" y \"aparecer\", ¿cuál rima con \"romper\"?"
+  },
+  {
+    "id": "2355",
+    "input": "De las palabras \"estación\" y \"sentir\", ¿cuál rima con \"asociación\"?"
+  },
+  {
+    "id": "2356",
+    "input": "De las palabras \"democracia\" y \"pantalón\", ¿cuál rima con \"farmacia\"?"
+  },
+  {
+    "id": "2360",
+    "input": "De las palabras \"lombriz\" y \"desaparecer\", ¿cuál rima con \"feliz\"?"
+  },
+  {
+    "id": "2362",
+    "input": "De las palabras \"cortar\" y \"clarinete\", ¿cuál rima con \"siete\"?"
+  },
+  {
+    "id": "2365",
+    "input": "De las palabras \"patines\" y \"cabeza\", ¿cuál rima con \"calcetines\"?"
+  },
+  {
+    "id": "2366",
+    "input": "De las palabras \"libertad\" y \"hacer\", ¿cuál rima con \"conocer\"?"
+  },
+  {
+    "id": "2370",
+    "input": "De las palabras \"transporte\" y \"ciudad\", ¿cuál rima con \"corte\"?"
+  },
+  {
+    "id": "2375",
+    "input": "De las palabras \"caro\" y \"calcetines\", ¿cuál rima con \"claro\"?"
+  },
+  {
+    "id": "2376",
+    "input": "De las palabras \"sorprendido\" y \"siquiera\", ¿cuál rima con \"fontanera\"?"
+  },
+  {
+    "id": "2382",
+    "input": "De las palabras \"asociación\" y \"tacto\", ¿cuál rima con \"prohibición\"?"
+  },
+  {
+    "id": "2387",
+    "input": "De las palabras \"espárrago\" y \"bicicleta\", ¿cuál rima con \"bisnieta\"?"
+  },
+  {
+    "id": "2393",
+    "input": "De las palabras \"cuarto\" y \"babosa\", ¿cuál rima con \"lagarto\"?"
+  },
+  {
+    "id": "2394",
+    "input": "De las palabras \"enero\" y \"cordel\", ¿cuál rima con \"panel\"?"
+  },
+  {
+    "id": "2397",
+    "input": "De las palabras \"hermano\" y \"escuchar\", ¿cuál rima con \"dar\"?"
+  },
+  {
+    "id": "2399",
+    "input": "De las palabras \"aceleración\" y \"bolos\", ¿cuál rima con \"comisión\"?"
+  },
+  {
+    "id": "2402",
+    "input": "De las palabras \"causa\" y \"raro\", ¿cuál rima con \"caro\"?"
+  },
+  {
+    "id": "2415",
+    "input": "De las palabras \"tsunami\" y \"costa\", ¿cuál rima con \"langosta\"?"
+  },
+  {
+    "id": "2418",
+    "input": "De las palabras \"consejo\" y \"también\", ¿cuál rima con \"recién\"?"
+  },
+  {
+    "id": "2419",
+    "input": "De las palabras \"atender\" y \"capaz\", ¿cuál rima con \"proponer\"?"
+  },
+  {
+    "id": "2425",
+    "input": "De las palabras \"solamente\" y \"solitario\", ¿cuál rima con \"reciente\"?"
+  },
+  {
+    "id": "2427",
+    "input": "De las palabras \"cansado\" y \"tres\", ¿cuál rima con \"alejado\"?"
+  },
+  {
+    "id": "2429",
+    "input": "De las palabras \"conocida\" y \"empresario\", ¿cuál rima con \"avenida\"?"
+  },
+  {
+    "id": "2437",
+    "input": "De las palabras \"aparecer\" y \"opuesto\", ¿cuál rima con \"crecer\"?"
+  },
+  {
+    "id": "2451",
+    "input": "De las palabras \"continental\" y \"destino\", ¿cuál rima con \"camino\"?"
+  },
+  {
+    "id": "2452",
+    "input": "De las palabras \"relativo\" y \"señalar\", ¿cuál rima con \"particular\"?"
+  },
+  {
+    "id": "2462",
+    "input": "De las palabras \"parecido\" y \"atender\", ¿cuál rima con \"conocido\"?"
+  },
+  {
+    "id": "2464",
+    "input": "De las palabras \"éxito\" y \"diputada\", ¿cuál rima con \"entrada\"?"
+  },
+  {
+    "id": "2467",
+    "input": "De las palabras \"camiseta\" y \"dormitorio\", ¿cuál rima con \"escritorio\"?"
+  },
+  {
+    "id": "2468",
+    "input": "De las palabras \"levantar\" y \"como\", ¿cuál rima con \"evaluar\"?"
+  },
+  {
+    "id": "2475",
+    "input": "De las palabras \"calabacines\" y \"construcción\", ¿cuál rima con \"calcetines\"?"
+  },
+  {
+    "id": "2476",
+    "input": "De las palabras \"señor\" y \"norma\", ¿cuál rima con \"programador\"?"
+  },
+  {
+    "id": "2477",
+    "input": "De las palabras \"solución\" y \"odiar\", ¿cuál rima con \"comparar\"?"
+  },
+  {
+    "id": "2484",
+    "input": "De las palabras \"desaparecer\" y \"sentido\", ¿cuál rima con \"nacer\"?"
+  },
+  {
+    "id": "2490",
+    "input": "De las palabras \"señora\" y \"individuo\", ¿cuál rima con \"pintora\"?"
+  },
+  {
+    "id": "2491",
+    "input": "De las palabras \"evaluar\" y \"peso\", ¿cuál rima con \"abandonar\"?"
+  },
+  {
+    "id": "2494",
+    "input": "De las palabras \"criatura\" y \"pueblo\", ¿cuál rima con \"dictadura\"?"
+  },
+  {
+    "id": "2497",
+    "input": "De las palabras \"amar\" y \"movimiento\", ¿cuál rima con \"entrar\"?"
+  },
+  {
+    "id": "2500",
+    "input": "De las palabras \"estación\" y \"reír\", ¿cuál rima con \"avión\"?"
+  },
+  {
+    "id": "2502",
+    "input": "De las palabras \"guisantes\" y \"realidad\", ¿cuál rima con \"autoridad\"?"
+  },
+  {
+    "id": "2507",
+    "input": "De las palabras \"mar\" y \"elefante\", ¿cuál rima con \"empeorar\"?"
+  },
+  {
+    "id": "2508",
+    "input": "De las palabras \"tornado\" y \"social\", ¿cuál rima con \"nacional\"?"
+  },
+  {
+    "id": "2509",
+    "input": "De las palabras \"programa\" y \"pimiento\", ¿cuál rima con \"aburrimiento\"?"
+  },
+  {
+    "id": "2516",
+    "input": "De las palabras \"asustarse\" y \"caballero\", ¿cuál rima con \"cartero\"?"
+  },
+  {
+    "id": "2517",
+    "input": "De las palabras \"tarde\" y \"cara\", ¿cuál rima con \"para\"?"
+  },
+  {
+    "id": "2523",
+    "input": "De las palabras \"mariposa\" y \"desde\", ¿cuál rima con \"babosa\"?"
+  },
+  {
+    "id": "2524",
+    "input": "De las palabras \"alegría\" y \"tipo\", ¿cuál rima con \"pescadería\"?"
+  },
+  {
+    "id": "2528",
+    "input": "De las palabras \"longitud\" y \"mar\", ¿cuál rima con \"empeorar\"?"
+  },
+  {
+    "id": "2529",
+    "input": "De las palabras \"batería\" y \"color\", ¿cuál rima con \"vapor\"?"
+  },
+  {
+    "id": "2539",
+    "input": "De las palabras \"todo\" y \"ahora\", ¿cuál rima con \"lodo\"?"
+  },
+  {
+    "id": "2555",
+    "input": "De las palabras \"porque\" y \"primero\", ¿cuál rima con \"tercero\"?"
+  },
+  {
+    "id": "2561",
+    "input": "De las palabras \"con\" y \"construir\", ¿cuál rima con \"don\"?"
+  },
+  {
+    "id": "2578",
+    "input": "De las palabras \"bota\" y \"bañador\", ¿cuál rima con \"valor\"?"
+  },
+  {
+    "id": "2582",
+    "input": "De las palabras \"copistería\" y \"presente\", ¿cuál rima con \"posiblemente\"?"
+  },
+  {
+    "id": "2586",
+    "input": "De las palabras \"despertar\" y \"departamento\", ¿cuál rima con \"aumento\"?"
+  },
+  {
+    "id": "2587",
+    "input": "De las palabras \"de\" y \"percepción\", ¿cuál rima con \"situación\"?"
+  },
+  {
+    "id": "2590",
+    "input": "De las palabras \"bebé\" y \"flexible\", ¿cuál rima con \"imposible\"?"
+  },
+  {
+    "id": "2595",
+    "input": "De las palabras \"crisis\" y \"seguridad\", ¿cuál rima con \"personalidad\"?"
+  },
+  {
+    "id": "2597",
+    "input": "De las palabras \"para\" y \"importante\", ¿cuál rima con \"cara\"?"
+  },
+  {
+    "id": "2607",
+    "input": "De las palabras \"kilómetro\" y \"cosa\", ¿cuál rima con \"rosa\"?"
+  },
+  {
+    "id": "2608",
+    "input": "De las palabras \"sustituir\" y \"décimo\", ¿cuál rima con \"abrir\"?"
+  },
+  {
+    "id": "2613",
+    "input": "De las palabras \"pegar\" y \"abdomen\", ¿cuál rima con \"faltar\"?"
+  },
+  {
+    "id": "2615",
+    "input": "De las palabras \"igual\" y \"picante\", ¿cuál rima con \"actual\"?"
+  },
+  {
+    "id": "2616",
+    "input": "De las palabras \"autopista\" y \"tercero\", ¿cuál rima con \"congresista\"?"
+  },
+  {
+    "id": "2618",
+    "input": "De las palabras \"bien\" y \"abrir\", ¿cuál rima con \"decidir\"?"
+  },
+  {
+    "id": "2623",
+    "input": "De las palabras \"cama\" y \"primero\", ¿cuál rima con \"dinero\"?"
+  },
+  {
+    "id": "2631",
+    "input": "De las palabras \"tacto\" y \"para\", ¿cuál rima con \"cara\"?"
+  },
+  {
+    "id": "2632",
+    "input": "De las palabras \"ligero\" y \"reproducción\", ¿cuál rima con \"dinero\"?"
+  },
+  {
+    "id": "2638",
+    "input": "De las palabras \"tener\" y \"frontal\", ¿cuál rima con \"mundial\"?"
+  },
+  {
+    "id": "2639",
+    "input": "De las palabras \"cajera\" y \"objetivo\", ¿cuál rima con \"fontanera\"?"
+  },
+  {
+    "id": "2654",
+    "input": "De las palabras \"consecuencia\" y \"calabacines\", ¿cuál rima con \"experiencia\"?"
+  },
+  {
+    "id": "2661",
+    "input": "De las palabras \"excepto\" y \"empresa\", ¿cuál rima con \"mesa\"?"
+  },
+  {
+    "id": "2667",
+    "input": "De las palabras \"avalancha\" y \"proceso\", ¿cuál rima con \"peso\"?"
+  },
+  {
+    "id": "2669",
+    "input": "De las palabras \"senderismo\" y \"deber\", ¿cuál rima con \"atletismo\"?"
+  },
+  {
+    "id": "2671",
+    "input": "De las palabras \"falso\" y \"encontrar\", ¿cuál rima con \"intercambiar\"?"
+  },
+  {
+    "id": "2681",
+    "input": "De las palabras \"jamás\" y \"parte\", ¿cuál rima con \"detrás\"?"
+  },
+  {
+    "id": "2683",
+    "input": "De las palabras \"sustantivo\" y \"confianza\", ¿cuál rima con \"administrativo\"?"
+  },
+  {
+    "id": "2689",
+    "input": "De las palabras \"adulta\" y \"prohibición\", ¿cuál rima con \"avión\"?"
+  },
+  {
+    "id": "2694",
+    "input": "De las palabras \"intento\" y \"atención\", ¿cuál rima con \"percepción\"?"
+  },
+  {
+    "id": "2695",
+    "input": "De las palabras \"importante\" y \"todavía\", ¿cuál rima con \"panadería\"?"
+  },
+  {
+    "id": "2698",
+    "input": "De las palabras \"vez\" y \"cocodrilo\", ¿cuál rima con \"pez\"?"
+  },
+  {
+    "id": "2703",
+    "input": "De las palabras \"código\" y \"vender\", ¿cuál rima con \"mover\"?"
+  },
+  {
+    "id": "2714",
+    "input": "De las palabras \"economía\" y \"océano\", ¿cuál rima con \"policía\"?"
+  },
+  {
+    "id": "2721",
+    "input": "De las palabras \"verano\" y \"llorar\", ¿cuál rima con \"avanzar\"?"
+  },
+  {
+    "id": "2728",
+    "input": "De las palabras \"diferencia\" y \"tener\", ¿cuál rima con \"querer\"?"
+  },
+  {
+    "id": "2732",
+    "input": "De las palabras \"agosto\" y \"habitación\", ¿cuál rima con \"angosto\"?"
+  },
+  {
+    "id": "2733",
+    "input": "De las palabras \"congreso\" y \"maíz\", ¿cuál rima con \"proceso\"?"
+  },
+  {
+    "id": "2741",
+    "input": "De las palabras \"gas\" y \"nación\", ¿cuál rima con \"tras\"?"
+  },
+  {
+    "id": "2742",
+    "input": "De las palabras \"sorprendido\" y \"preposición\", ¿cuál rima con \"situación\"?"
+  },
+  {
+    "id": "2745",
+    "input": "De las palabras \"relativo\" y \"siguiente\", ¿cuál rima con \"objetivo\"?"
+  },
+  {
+    "id": "2751",
+    "input": "De las palabras \"atender\" y \"permiso\", ¿cuál rima con \"ver\"?"
+  },
+  {
+    "id": "2761",
+    "input": "De las palabras \"prima\" y \"delgado\", ¿cuál rima con \"agitado\"?"
+  },
+  {
+    "id": "2764",
+    "input": "De las palabras \"lagarto\" y \"entristecerse\", ¿cuál rima con \"sorprenderse\"?"
+  },
+  {
+    "id": "2766",
+    "input": "De las palabras \"barrendera\" y \"guisantes\", ¿cuál rima con \"gasolinera\"?"
+  },
+  {
+    "id": "2770",
+    "input": "De las palabras \"mayor\" y \"calcetines\", ¿cuál rima con \"amor\"?"
+  },
+  {
+    "id": "2771",
+    "input": "De las palabras \"martes\" y \"dejar\", ¿cuál rima con \"hablar\"?"
+  },
+  {
+    "id": "2773",
+    "input": "De las palabras \"pierna\" y \"vez\", ¿cuál rima con \"pez\"?"
+  },
+  {
+    "id": "2777",
+    "input": "De las palabras \"significado\" y \"posible\", ¿cuál rima con \"flexible\"?"
+  },
+  {
+    "id": "2789",
+    "input": "De las palabras \"blanco\" y \"tranvía\", ¿cuál rima con \"estanco\"?"
+  },
+  {
+    "id": "2790",
+    "input": "De las palabras \"cuervo\" y \"langosta\", ¿cuál rima con \"costa\"?"
+  },
+  {
+    "id": "2791",
+    "input": "De las palabras \"querer\" y \"grueso\", ¿cuál rima con \"oler\"?"
+  },
+  {
+    "id": "2793",
+    "input": "De las palabras \"retroceder\" y \"minoría\", ¿cuál rima con \"batería\"?"
+  },
+  {
+    "id": "2798",
+    "input": "De las palabras \"nombre\" y \"asociación\", ¿cuál rima con \"hombre\"?"
+  },
+  {
+    "id": "2800",
+    "input": "De las palabras \"boxeo\" y \"constitución\", ¿cuál rima con \"sensación\"?"
+  },
+  {
+    "id": "2808",
+    "input": "De las palabras \"dependiente\" y \"carpintera\", ¿cuál rima con \"espera\"?"
+  },
+  {
+    "id": "2810",
+    "input": "De las palabras \"origen\" y \"local\", ¿cuál rima con \"frontal\"?"
+  },
+  {
+    "id": "2817",
+    "input": "De las palabras \"beneficio\" y \"contra\", ¿cuál rima con \"servicio\"?"
+  },
+  {
+    "id": "2820",
+    "input": "De las palabras \"empresario\" y \"después\", ¿cuál rima con \"interés\"?"
+  },
+  {
+    "id": "2824",
+    "input": "De las palabras \"marzo\" y \"tranvía\", ¿cuál rima con \"fantasía\"?"
+  },
+  {
+    "id": "2837",
+    "input": "De las palabras \"carpintera\" y \"kilo\", ¿cuál rima con \"cocodrilo\"?"
+  },
+  {
+    "id": "2843",
+    "input": "De las palabras \"cuerpo\" y \"exactamente\", ¿cuál rima con \"solamente\"?"
+  },
+  {
+    "id": "2849",
+    "input": "De las palabras \"horrible\" y \"mesa\", ¿cuál rima con \"empresa\"?"
+  },
+  {
+    "id": "2851",
+    "input": "De las palabras \"patatas\" y \"objeto\", ¿cuál rima con \"nieto\"?"
+  },
+  {
+    "id": "2865",
+    "input": "De las palabras \"individuo\" y \"abuela\", ¿cuál rima con \"escuela\"?"
+  },
+  {
+    "id": "2878",
+    "input": "De las palabras \"poco\" y \"padre\", ¿cuál rima con \"madre\"?"
+  },
+  {
+    "id": "2880",
+    "input": "De las palabras \"como\" y \"dar\", ¿cuál rima con \"abandonar\"?"
+  },
+  {
+    "id": "2892",
+    "input": "De las palabras \"luego\" y \"rugby\", ¿cuál rima con \"fuego\"?"
+  },
+  {
+    "id": "2893",
+    "input": "De las palabras \"vapor\" y \"oreja\", ¿cuál rima con \"ascensor\"?"
+  },
+  {
+    "id": "2896",
+    "input": "De las palabras \"percepción\" y \"apestoso\", ¿cuál rima con \"halcón\"?"
+  },
+  {
+    "id": "2897",
+    "input": "De las palabras \"permiso\" y \"poder\", ¿cuál rima con \"romper\"?"
+  },
+  {
+    "id": "2903",
+    "input": "De las palabras \"significado\" y \"romper\", ¿cuál rima con \"retroceder\"?"
+  },
+  {
+    "id": "2910",
+    "input": "De las palabras \"señor\" y \"sardina\", ¿cuál rima con \"gallina\"?"
+  },
+  {
+    "id": "2912",
+    "input": "De las palabras \"avión\" y \"araña\", ¿cuál rima con \"atención\"?"
+  },
+  {
+    "id": "2918",
+    "input": "De las palabras \"acuerdo\" y \"frontal\", ¿cuál rima con \"actual\"?"
+  },
+  {
+    "id": "2921",
+    "input": "De las palabras \"apenas\" y \"durante\", ¿cuál rima con \"bastante\"?"
+  },
+  {
+    "id": "2922",
+    "input": "De las palabras \"llevar puesto\" y \"ahora\", ¿cuál rima con \"gobernadora\"?"
+  },
+  {
+    "id": "2923",
+    "input": "De las palabras \"verdad\" y \"exacto\", ¿cuál rima con \"tacto\"?"
+  },
+  {
+    "id": "2925",
+    "input": "De las palabras \"ligero\" y \"cansarse\", ¿cuál rima con \"camarero\"?"
+  },
+  {
+    "id": "2929",
+    "input": "De las palabras \"señor\" y \"maíz\", ¿cuál rima con \"actor\"?"
+  },
+  {
+    "id": "2935",
+    "input": "De las palabras \"mover\" y \"paso\", ¿cuál rima con \"acaso\"?"
+  },
+  {
+    "id": "2940",
+    "input": "De las palabras \"aumento\" y \"tras\", ¿cuál rima con \"pensamiento\"?"
+  },
+  {
+    "id": "2941",
+    "input": "De las palabras \"tocar\" y \"movimiento\", ¿cuál rima con \"apartamento\"?"
+  },
+  {
+    "id": "2943",
+    "input": "De las palabras \"seguramente\" y \"interesado\", ¿cuál rima con \"únicamente\"?"
+  },
+  {
+    "id": "2945",
+    "input": "De las palabras \"drama\" y \"amor\", ¿cuál rima con \"profesor\"?"
+  },
+  {
+    "id": "2950",
+    "input": "De las palabras \"vestido\" y \"entrevistar\", ¿cuál rima con \"significar\"?"
+  },
+  {
+    "id": "2960",
+    "input": "De las palabras \"conocida\" y \"acierto\", ¿cuál rima con \"desierto\"?"
+  },
+  {
+    "id": "2966",
+    "input": "De las palabras \"patinete\" y \"voleibol\", ¿cuál rima con \"caracol\"?"
+  },
+  {
+    "id": "2970",
+    "input": "De las palabras \"avenida\" y \"único\", ¿cuál rima con \"medida\"?"
+  },
+  {
+    "id": "2982",
+    "input": "De las palabras \"adulta\" y \"percepción\", ¿cuál rima con \"natación\"?"
+  },
+  {
+    "id": "2992",
+    "input": "De las palabras \"dama\" y \"hombre\", ¿cuál rima con \"nombre\"?"
+  }
+]

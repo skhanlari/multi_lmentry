@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "2002",
+    "input": "Does the list [\"dog\", \"cow\", \"duck\", \"fish\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2003",
+    "input": "Does the list [\"train\", \"tram\", \"car\", \"tractor\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2005",
+    "input": "Does the list [\"peach\", \"strawberry\", \"watermelon\", \"apple\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2006",
+    "input": "Does the list [\"apple\", \"melon\", \"watermelon\", \"pineapple\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2009",
+    "input": "Does the list [\"shorts\", \"sweater\", \"jeans\", \"pants\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2010",
+    "input": "Does the list [\"jacket\", \"shorts\", \"jeans\", \"socks\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2011",
+    "input": "Does the list [\"mango\", \"pineapple\", \"lemon\", \"melon\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2013",
+    "input": "Does the list [\"mango\", \"lemon\", \"strawberry\", \"apple\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2014",
+    "input": "Does the list [\"chicken\", \"mouse\", \"dog\", \"rabbit\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2015",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"tractor\", \"van\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2016",
+    "input": "Does the list [\"coat\", \"shirt\", \"skirt\", \"dress\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2017",
+    "input": "Does the list [\"melon\", \"lemon\", \"peach\", \"pear\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2018",
+    "input": "Does the list [\"pineapple\", \"lemon\", \"apple\", \"mango\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2019",
+    "input": "Does the list [\"bed\", \"sofa\", \"table\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2021",
+    "input": "Does the list [\"watermelon\", \"mango\", \"strawberry\", \"melon\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2023",
+    "input": "Does the list [\"sofa\", \"armchair\", \"bed\", \"desk\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2024",
+    "input": "Does the list [\"bed\", \"bookcase\", \"desk\", \"armchair\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2025",
+    "input": "Does the list [\"van\", \"bus\", \"truck\", \"tractor\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2027",
+    "input": "Does the list [\"mouse\", \"fish\", \"rabbit\", \"pig\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2029",
+    "input": "Does the list [\"fish\", \"mouse\", \"pig\", \"goat\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2030",
+    "input": "Does the list [\"bus\", \"car\", \"motorcycle\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2032",
+    "input": "Does the list [\"mango\", \"lemon\", \"watermelon\", \"melon\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2034",
+    "input": "Does the list [\"lemon\", \"peach\", \"melon\", \"pear\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2035",
+    "input": "Does the list [\"train\", \"truck\", \"tram\", \"van\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2036",
+    "input": "Does the list [\"motorcycle\", \"train\", \"tractor\", \"truck\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2037",
+    "input": "Does the list [\"mouse\", \"duck\", \"cow\", \"chicken\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2038",
+    "input": "Does the list [\"cat\", \"goat\", \"dog\", \"chicken\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2039",
+    "input": "Does the list [\"armchair\", \"couch\", \"desk\", \"table\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2040",
+    "input": "Does the list [\"banana\", \"pear\", \"strawberry\", \"mango\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2041",
+    "input": "Does the list [\"melon\", \"peach\", \"lemon\", \"pineapple\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2042",
+    "input": "Does the list [\"van\", \"tractor\", \"bus\", \"car\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2043",
+    "input": "Does the list [\"duck\", \"dog\", \"rabbit\", \"chicken\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2044",
+    "input": "Does the list [\"tram\", \"van\", \"truck\", \"car\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2046",
+    "input": "Does the list [\"car\", \"train\", \"motorcycle\", \"van\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2048",
+    "input": "Does the list [\"watermelon\", \"strawberry\", \"melon\", \"peach\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2050",
+    "input": "Does the list [\"banana\", \"melon\", \"strawberry\", \"peach\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2051",
+    "input": "Does the list [\"armchair\", \"sofa\", \"bed\", \"chair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2052",
+    "input": "Does the list [\"coat\", \"shorts\", \"dress\", \"sweater\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2053",
+    "input": "Does the list [\"couch\", \"sofa\", \"table\", \"bed\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2054",
+    "input": "Does the list [\"pear\", \"apple\", \"pineapple\", \"peach\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2055",
+    "input": "Does the list [\"shorts\", \"sweater\", \"coat\", \"skirt\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2056",
+    "input": "Does the list [\"tractor\", \"tram\", \"car\", \"van\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2057",
+    "input": "Does the list [\"chair\", \"desk\", \"sofa\", \"couch\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2059",
+    "input": "Does the list [\"mango\", \"apple\", \"peach\", \"strawberry\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2062",
+    "input": "Does the list [\"armchair\", \"bed\", \"couch\", \"chair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2063",
+    "input": "Does the list [\"socks\", \"jeans\", \"coat\", \"shirt\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2064",
+    "input": "Does the list [\"jeans\", \"skirt\", \"dress\", \"sweater\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2065",
+    "input": "Does the list [\"socks\", \"dress\", \"skirt\", \"jeans\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2067",
+    "input": "Does the list [\"dog\", \"pig\", \"rabbit\", \"cat\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2069",
+    "input": "Does the list [\"car\", \"motorcycle\", \"van\", \"tractor\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2075",
+    "input": "Does the list [\"skirt\", \"coat\", \"jeans\", \"dress\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2076",
+    "input": "Does the list [\"watermelon\", \"strawberry\", \"pear\", \"mango\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2077",
+    "input": "Does the list [\"chicken\", \"cow\", \"dog\", \"cat\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2078",
+    "input": "Does the list [\"desk\", \"chair\", \"couch\", \"armchair\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2079",
+    "input": "Does the list [\"sofa\", \"armchair\", \"chair\", \"table\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2080",
+    "input": "Does the list [\"shirt\", \"socks\", \"jacket\", \"shorts\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2083",
+    "input": "Does the list [\"bus\", \"motorcycle\", \"train\", \"tractor\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2084",
+    "input": "Does the list [\"motorcycle\", \"tractor\", \"tram\", \"truck\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2085",
+    "input": "Does the list [\"goat\", \"rabbit\", \"cow\", \"dog\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2086",
+    "input": "Does the list [\"socks\", \"sweater\", \"shirt\", \"jeans\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2087",
+    "input": "Does the list [\"tractor\", \"truck\", \"motorcycle\", \"bus\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2089",
+    "input": "Does the list [\"bookcase\", \"desk\", \"armchair\", \"sofa\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2091",
+    "input": "Does the list [\"tractor\", \"truck\", \"car\", \"van\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2092",
+    "input": "Does the list [\"coat\", \"pants\", \"shorts\", \"sweater\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2093",
+    "input": "Does the list [\"mouse\", \"cat\", \"goat\", \"duck\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2098",
+    "input": "Does the list [\"apple\", \"lemon\", \"watermelon\", \"banana\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2099",
+    "input": "Does the list [\"dress\", \"jacket\", \"skirt\", \"socks\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2101",
+    "input": "Does the list [\"dress\", \"shorts\", \"pants\", \"jacket\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2102",
+    "input": "Does the list [\"bus\", \"tractor\", \"tram\", \"train\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2103",
+    "input": "Does the list [\"train\", \"motorcycle\", \"tractor\", \"bus\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2106",
+    "input": "Does the list [\"fish\", \"dog\", \"chicken\", \"mouse\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2107",
+    "input": "Does the list [\"apple\", \"mango\", \"banana\", \"melon\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2108",
+    "input": "Does the list [\"pear\", \"melon\", \"apple\", \"banana\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2110",
+    "input": "Does the list [\"train\", \"bus\", \"tram\", \"van\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2111",
+    "input": "Does the list [\"table\", \"desk\", \"bookcase\", \"sofa\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2112",
+    "input": "Does the list [\"chicken\", \"mouse\", \"cow\", \"cat\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2114",
+    "input": "Does the list [\"dog\", \"cat\", \"fish\", \"pig\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2116",
+    "input": "Does the list [\"skirt\", \"sweater\", \"coat\", \"dress\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2117",
+    "input": "Does the list [\"melon\", \"mango\", \"lemon\", \"banana\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2119",
+    "input": "Does the list [\"goat\", \"cat\", \"cow\", \"dog\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2120",
+    "input": "Does the list [\"chicken\", \"goat\", \"rabbit\", \"cat\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2121",
+    "input": "Does the list [\"shirt\", \"pants\", \"shorts\", \"skirt\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2122",
+    "input": "Does the list [\"apple\", \"melon\", \"pear\", \"strawberry\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2123",
+    "input": "Does the list [\"couch\", \"table\", \"chair\", \"armchair\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2125",
+    "input": "Does the list [\"chair\", \"table\", \"couch\", \"sofa\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2126",
+    "input": "Does the list [\"couch\", \"table\", \"armchair\", \"desk\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2127",
+    "input": "Does the list [\"coat\", \"shirt\", \"dress\", \"skirt\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2130",
+    "input": "Does the list [\"cow\", \"pig\", \"mouse\", \"duck\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2131",
+    "input": "Does the list [\"pig\", \"cat\", \"mouse\", \"cow\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2133",
+    "input": "Does the list [\"armchair\", \"desk\", \"sofa\", \"bookcase\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2134",
+    "input": "Does the list [\"watermelon\", \"banana\", \"pear\", \"lemon\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2135",
+    "input": "Does the list [\"strawberry\", \"watermelon\", \"apple\", \"pineapple\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2137",
+    "input": "Does the list [\"banana\", \"strawberry\", \"mango\", \"apple\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2138",
+    "input": "Does the list [\"table\", \"bookcase\", \"chair\", \"sofa\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2139",
+    "input": "Does the list [\"tractor\", \"motorcycle\", \"tram\", \"car\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2140",
+    "input": "Does the list [\"strawberry\", \"mango\", \"pear\", \"lemon\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2141",
+    "input": "Does the list [\"dog\", \"mouse\", \"cat\", \"pig\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2144",
+    "input": "Does the list [\"sofa\", \"bed\", \"chair\", \"desk\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2145",
+    "input": "Does the list [\"pants\", \"jacket\", \"sweater\", \"jeans\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2146",
+    "input": "Does the list [\"bed\", \"armchair\", \"bookcase\", \"desk\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2148",
+    "input": "Does the list [\"bookcase\", \"chair\", \"armchair\", \"table\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2149",
+    "input": "Does the list [\"bookcase\", \"armchair\", \"couch\", \"chair\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2150",
+    "input": "Does the list [\"tram\", \"tractor\", \"motorcycle\", \"train\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2151",
+    "input": "Does the list [\"motorcycle\", \"van\", \"truck\", \"train\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2152",
+    "input": "Does the list [\"mango\", \"peach\", \"strawberry\", \"lemon\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2153",
+    "input": "Does the list [\"chair\", \"couch\", \"table\", \"armchair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2154",
+    "input": "Does the list [\"jeans\", \"socks\", \"shirt\", \"coat\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2155",
+    "input": "Does the list [\"couch\", \"table\", \"desk\", \"armchair\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2156",
+    "input": "Does the list [\"coat\", \"shorts\", \"jeans\", \"shirt\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2158",
+    "input": "Does the list [\"train\", \"van\", \"car\", \"bus\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2159",
+    "input": "Does the list [\"watermelon\", \"mango\", \"pineapple\", \"peach\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2161",
+    "input": "Does the list [\"watermelon\", \"lemon\", \"apple\", \"banana\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2163",
+    "input": "Does the list [\"apple\", \"mango\", \"watermelon\", \"strawberry\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2165",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"tractor\", \"tram\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2169",
+    "input": "Does the list [\"melon\", \"peach\", \"banana\", \"lemon\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2171",
+    "input": "Does the list [\"bookcase\", \"bed\", \"table\", \"sofa\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2172",
+    "input": "Does the list [\"rabbit\", \"mouse\", \"cow\", \"fish\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2173",
+    "input": "Does the list [\"train\", \"van\", \"car\", \"tractor\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2174",
+    "input": "Does the list [\"dog\", \"cow\", \"goat\", \"mouse\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2175",
+    "input": "Does the list [\"pig\", \"cat\", \"dog\", \"mouse\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2177",
+    "input": "Does the list [\"mango\", \"pineapple\", \"lemon\", \"peach\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2178",
+    "input": "Does the list [\"pineapple\", \"mango\", \"pear\", \"peach\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2179",
+    "input": "Does the list [\"mouse\", \"fish\", \"rabbit\", \"cow\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2180",
+    "input": "Does the list [\"sweater\", \"shirt\", \"pants\", \"jeans\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2181",
+    "input": "Does the list [\"truck\", \"car\", \"bus\", \"tractor\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2182",
+    "input": "Does the list [\"bus\", \"train\", \"car\", \"tractor\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2184",
+    "input": "Does the list [\"lemon\", \"pear\", \"peach\", \"banana\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2185",
+    "input": "Does the list [\"apple\", \"mango\", \"melon\", \"pear\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2186",
+    "input": "Does the list [\"strawberry\", \"pineapple\", \"banana\", \"peach\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2187",
+    "input": "Does the list [\"tram\", \"train\", \"truck\", \"motorcycle\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2188",
+    "input": "Does the list [\"rabbit\", \"pig\", \"mouse\", \"goat\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2189",
+    "input": "Does the list [\"sofa\", \"chair\", \"armchair\", \"couch\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2190",
+    "input": "Does the list [\"rabbit\", \"dog\", \"fish\", \"duck\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2191",
+    "input": "Does the list [\"banana\", \"apple\", \"peach\", \"strawberry\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2192",
+    "input": "Does the list [\"pineapple\", \"mango\", \"banana\", \"peach\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2193",
+    "input": "Does the list [\"pig\", \"cat\", \"duck\", \"mouse\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2194",
+    "input": "Does the list [\"bed\", \"sofa\", \"bookcase\", \"desk\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2196",
+    "input": "Does the list [\"bed\", \"armchair\", \"desk\", \"couch\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2198",
+    "input": "Does the list [\"sofa\", \"chair\", \"table\", \"couch\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2199",
+    "input": "Does the list [\"melon\", \"peach\", \"banana\", \"lemon\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2200",
+    "input": "Does the list [\"strawberry\", \"pear\", \"peach\", \"mango\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2201",
+    "input": "Does the list [\"skirt\", \"pants\", \"shorts\", \"sweater\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2202",
+    "input": "Does the list [\"van\", \"motorcycle\", \"train\", \"tractor\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2203",
+    "input": "Does the list [\"mango\", \"watermelon\", \"banana\", \"pear\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2205",
+    "input": "Does the list [\"cow\", \"goat\", \"dog\", \"pig\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2207",
+    "input": "Does the list [\"pig\", \"chicken\", \"mouse\", \"duck\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2208",
+    "input": "Does the list [\"tram\", \"bus\", \"van\", \"train\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2209",
+    "input": "Does the list [\"bus\", \"train\", \"motorcycle\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2210",
+    "input": "Does the list [\"coat\", \"shorts\", \"sweater\", \"dress\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2211",
+    "input": "Does the list [\"car\", \"tram\", \"train\", \"motorcycle\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2212",
+    "input": "Does the list [\"car\", \"bus\", \"tram\", \"train\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2213",
+    "input": "Does the list [\"mango\", \"peach\", \"watermelon\", \"apple\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2214",
+    "input": "Does the list [\"fish\", \"goat\", \"cow\", \"rabbit\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2216",
+    "input": "Does the list [\"bed\", \"desk\", \"sofa\", \"couch\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2219",
+    "input": "Does the list [\"peach\", \"banana\", \"pineapple\", \"melon\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2222",
+    "input": "Does the list [\"peach\", \"lemon\", \"pineapple\", \"strawberry\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2223",
+    "input": "Does the list [\"pineapple\", \"melon\", \"banana\", \"watermelon\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2227",
+    "input": "Does the list [\"desk\", \"sofa\", \"armchair\", \"couch\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2228",
+    "input": "Does the list [\"pear\", \"melon\", \"watermelon\", \"peach\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2230",
+    "input": "Does the list [\"motorcycle\", \"van\", \"bus\", \"tram\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2232",
+    "input": "Does the list [\"peach\", \"watermelon\", \"pear\", \"banana\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2233",
+    "input": "Does the list [\"bookcase\", \"table\", \"sofa\", \"armchair\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2237",
+    "input": "Does the list [\"melon\", \"banana\", \"strawberry\", \"mango\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2238",
+    "input": "Does the list [\"chair\", \"bed\", \"couch\", \"sofa\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2240",
+    "input": "Does the list [\"pig\", \"goat\", \"chicken\", \"fish\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2241",
+    "input": "Does the list [\"armchair\", \"desk\", \"sofa\", \"table\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2242",
+    "input": "Does the list [\"melon\", \"apple\", \"watermelon\", \"strawberry\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2243",
+    "input": "Does the list [\"truck\", \"bus\", \"van\", \"car\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2245",
+    "input": "Does the list [\"melon\", \"watermelon\", \"peach\", \"pear\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2248",
+    "input": "Does the list [\"jeans\", \"sweater\", \"shorts\", \"skirt\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2250",
+    "input": "Does the list [\"skirt\", \"sweater\", \"jeans\", \"pants\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2252",
+    "input": "Does the list [\"dress\", \"pants\", \"shirt\", \"jeans\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2255",
+    "input": "Does the list [\"dog\", \"rabbit\", \"cow\", \"chicken\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2256",
+    "input": "Does the list [\"jacket\", \"skirt\", \"coat\", \"shorts\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2257",
+    "input": "Does the list [\"peach\", \"banana\", \"watermelon\", \"lemon\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2259",
+    "input": "Does the list [\"jacket\", \"skirt\", \"pants\", \"sweater\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2260",
+    "input": "Does the list [\"lemon\", \"banana\", \"pear\", \"peach\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2261",
+    "input": "Does the list [\"jeans\", \"dress\", \"coat\", \"skirt\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2262",
+    "input": "Does the list [\"dress\", \"coat\", \"jacket\", \"shirt\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2263",
+    "input": "Does the list [\"armchair\", \"bookcase\", \"bed\", \"chair\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2264",
+    "input": "Does the list [\"goat\", \"cow\", \"pig\", \"chicken\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2265",
+    "input": "Does the list [\"jeans\", \"skirt\", \"pants\", \"dress\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2266",
+    "input": "Does the list [\"lemon\", \"mango\", \"melon\", \"pineapple\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2267",
+    "input": "Does the list [\"fish\", \"cat\", \"mouse\", \"cow\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2268",
+    "input": "Does the list [\"van\", \"truck\", \"tractor\", \"car\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2269",
+    "input": "Does the list [\"dress\", \"jacket\", \"skirt\", \"shorts\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2273",
+    "input": "Does the list [\"tram\", \"train\", \"tractor\", \"motorcycle\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2276",
+    "input": "Does the list [\"shorts\", \"pants\", \"sweater\", \"shirt\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2278",
+    "input": "Does the list [\"shorts\", \"sweater\", \"jeans\", \"shirt\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2279",
+    "input": "Does the list [\"sweater\", \"dress\", \"jacket\", \"socks\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2280",
+    "input": "Does the list [\"cow\", \"mouse\", \"goat\", \"rabbit\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2281",
+    "input": "Does the list [\"tram\", \"bus\", \"truck\", \"tractor\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2283",
+    "input": "Does the list [\"pineapple\", \"mango\", \"strawberry\", \"melon\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2284",
+    "input": "Does the list [\"dog\", \"cow\", \"chicken\", \"mouse\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2287",
+    "input": "Does the list [\"socks\", \"jacket\", \"pants\", \"shirt\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2288",
+    "input": "Does the list [\"mouse\", \"goat\", \"chicken\", \"fish\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2289",
+    "input": "Does the list [\"van\", \"bus\", \"car\", \"train\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2290",
+    "input": "Does the list [\"goat\", \"chicken\", \"fish\", \"duck\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2291",
+    "input": "Does the list [\"goat\", \"cat\", \"duck\", \"dog\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2292",
+    "input": "Does the list [\"banana\", \"strawberry\", \"peach\", \"apple\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2293",
+    "input": "Does the list [\"banana\", \"apple\", \"strawberry\", \"pear\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2294",
+    "input": "Does the list [\"rabbit\", \"cow\", \"goat\", \"dog\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2295",
+    "input": "Does the list [\"banana\", \"melon\", \"watermelon\", \"apple\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2296",
+    "input": "Does the list [\"mouse\", \"rabbit\", \"cat\", \"duck\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2298",
+    "input": "Does the list [\"bus\", \"motorcycle\", \"van\", \"tractor\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2299",
+    "input": "Does the list [\"table\", \"chair\", \"armchair\", \"bookcase\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2300",
+    "input": "Does the list [\"chair\", \"bed\", \"desk\", \"couch\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2302",
+    "input": "Does the list [\"fish\", \"chicken\", \"rabbit\", \"mouse\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2303",
+    "input": "Does the list [\"jeans\", \"dress\", \"pants\", \"skirt\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2304",
+    "input": "Does the list [\"shorts\", \"jacket\", \"sweater\", \"jeans\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2305",
+    "input": "Does the list [\"dog\", \"cow\", \"duck\", \"rabbit\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2307",
+    "input": "Does the list [\"apple\", \"melon\", \"mango\", \"pineapple\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2308",
+    "input": "Does the list [\"van\", \"train\", \"bus\", \"tram\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2309",
+    "input": "Does the list [\"lemon\", \"pear\", \"mango\", \"watermelon\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2310",
+    "input": "Does the list [\"peach\", \"pineapple\", \"banana\", \"mango\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2311",
+    "input": "Does the list [\"chair\", \"couch\", \"bed\", \"armchair\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2312",
+    "input": "Does the list [\"coat\", \"skirt\", \"jeans\", \"dress\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2313",
+    "input": "Does the list [\"dog\", \"chicken\", \"goat\", \"mouse\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2314",
+    "input": "Does the list [\"armchair\", \"bed\", \"chair\", \"bookcase\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2316",
+    "input": "Does the list [\"train\", \"bus\", \"truck\", \"car\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2317",
+    "input": "Does the list [\"chair\", \"armchair\", \"table\", \"desk\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2318",
+    "input": "Does the list [\"bus\", \"motorcycle\", \"van\", \"truck\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2319",
+    "input": "Does the list [\"rabbit\", \"cow\", \"mouse\", \"pig\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2321",
+    "input": "Does the list [\"rabbit\", \"cow\", \"dog\", \"duck\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2322",
+    "input": "Does the list [\"banana\", \"peach\", \"pear\", \"melon\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2325",
+    "input": "Does the list [\"pants\", \"shirt\", \"skirt\", \"jacket\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2326",
+    "input": "Does the list [\"skirt\", \"jeans\", \"sweater\", \"pants\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2327",
+    "input": "Does the list [\"cat\", \"mouse\", \"duck\", \"cow\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2328",
+    "input": "Does the list [\"jacket\", \"sweater\", \"coat\", \"shirt\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2329",
+    "input": "Does the list [\"bookcase\", \"couch\", \"bed\", \"desk\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2330",
+    "input": "Does the list [\"cat\", \"duck\", \"fish\", \"dog\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2331",
+    "input": "Does the list [\"bus\", \"tram\", \"truck\", \"van\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2334",
+    "input": "Does the list [\"bed\", \"armchair\", \"bookcase\", \"desk\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2335",
+    "input": "Does the list [\"bed\", \"sofa\", \"couch\", \"chair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2336",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"car\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2337",
+    "input": "Does the list [\"armchair\", \"table\", \"couch\", \"bed\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2338",
+    "input": "Does the list [\"bookcase\", \"table\", \"chair\", \"bed\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2340",
+    "input": "Does the list [\"cat\", \"dog\", \"rabbit\", \"fish\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2341",
+    "input": "Does the list [\"coat\", \"dress\", \"jeans\", \"sweater\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2342",
+    "input": "Does the list [\"dog\", \"fish\", \"chicken\", \"mouse\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2343",
+    "input": "Does the list [\"strawberry\", \"peach\", \"pear\", \"pineapple\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2344",
+    "input": "Does the list [\"cow\", \"goat\", \"chicken\", \"cat\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2346",
+    "input": "Does the list [\"tractor\", \"train\", \"motorcycle\", \"car\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2348",
+    "input": "Does the list [\"skirt\", \"jacket\", \"shorts\", \"pants\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2350",
+    "input": "Does the list [\"goat\", \"cow\", \"mouse\", \"cat\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2351",
+    "input": "Does the list [\"armchair\", \"chair\", \"bed\", \"sofa\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2352",
+    "input": "Does the list [\"fish\", \"mouse\", \"goat\", \"cow\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2354",
+    "input": "Does the list [\"sofa\", \"desk\", \"table\", \"bookcase\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2355",
+    "input": "Does the list [\"pineapple\", \"lemon\", \"pear\", \"peach\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2356",
+    "input": "Does the list [\"coat\", \"jacket\", \"dress\", \"jeans\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2357",
+    "input": "Does the list [\"skirt\", \"jacket\", \"shirt\", \"sweater\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2358",
+    "input": "Does the list [\"train\", \"car\", \"tram\", \"truck\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2359",
+    "input": "Does the list [\"apple\", \"watermelon\", \"pineapple\", \"lemon\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2360",
+    "input": "Does the list [\"shorts\", \"socks\", \"shirt\", \"dress\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2361",
+    "input": "Does the list [\"watermelon\", \"lemon\", \"pear\", \"mango\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2362",
+    "input": "Does the list [\"mango\", \"lemon\", \"pear\", \"peach\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2365",
+    "input": "Does the list [\"car\", \"tram\", \"train\", \"truck\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2366",
+    "input": "Does the list [\"melon\", \"pineapple\", \"mango\", \"peach\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2367",
+    "input": "Does the list [\"chair\", \"desk\", \"armchair\", \"sofa\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2369",
+    "input": "Does the list [\"tram\", \"car\", \"motorcycle\", \"tractor\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2370",
+    "input": "Does the list [\"train\", \"motorcycle\", \"tram\", \"truck\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2373",
+    "input": "Does the list [\"duck\", \"dog\", \"goat\", \"fish\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2375",
+    "input": "Does the list [\"table\", \"sofa\", \"armchair\", \"bed\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2376",
+    "input": "Does the list [\"couch\", \"bed\", \"desk\", \"armchair\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2377",
+    "input": "Does the list [\"strawberry\", \"mango\", \"apple\", \"banana\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2378",
+    "input": "Does the list [\"banana\", \"watermelon\", \"peach\", \"pineapple\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2379",
+    "input": "Does the list [\"jeans\", \"pants\", \"shorts\", \"dress\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2381",
+    "input": "Does the list [\"melon\", \"banana\", \"mango\", \"watermelon\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2382",
+    "input": "Does the list [\"train\", \"motorcycle\", \"van\", \"bus\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2384",
+    "input": "Does the list [\"dress\", \"coat\", \"skirt\", \"pants\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2385",
+    "input": "Does the list [\"sofa\", \"couch\", \"table\", \"bookcase\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2386",
+    "input": "Does the list [\"motorcycle\", \"tractor\", \"car\", \"tram\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2387",
+    "input": "Does the list [\"jacket\", \"dress\", \"socks\", \"shirt\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2392",
+    "input": "Does the list [\"melon\", \"peach\", \"lemon\", \"watermelon\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2393",
+    "input": "Does the list [\"bus\", \"tram\", \"truck\", \"train\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2394",
+    "input": "Does the list [\"bus\", \"car\", \"train\", \"truck\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2396",
+    "input": "Does the list [\"armchair\", \"bookcase\", \"desk\", \"sofa\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2397",
+    "input": "Does the list [\"shirt\", \"dress\", \"socks\", \"jacket\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2398",
+    "input": "Does the list [\"cat\", \"goat\", \"chicken\", \"mouse\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2399",
+    "input": "Does the list [\"chicken\", \"goat\", \"rabbit\", \"fish\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2400",
+    "input": "Does the list [\"shorts\", \"jacket\", \"coat\", \"shirt\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2401",
+    "input": "Does the list [\"chicken\", \"dog\", \"rabbit\", \"duck\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2402",
+    "input": "Does the list [\"tram\", \"truck\", \"motorcycle\", \"van\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2403",
+    "input": "Does the list [\"apple\", \"strawberry\", \"pineapple\", \"banana\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2404",
+    "input": "Does the list [\"jeans\", \"sweater\", \"jacket\", \"socks\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2405",
+    "input": "Does the list [\"bus\", \"motorcycle\", \"train\", \"truck\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2407",
+    "input": "Does the list [\"couch\", \"desk\", \"bed\", \"bookcase\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2408",
+    "input": "Does the list [\"motorcycle\", \"car\", \"van\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2410",
+    "input": "Does the list [\"banana\", \"apple\", \"strawberry\", \"pineapple\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2412",
+    "input": "Does the list [\"goat\", \"dog\", \"duck\", \"fish\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2413",
+    "input": "Does the list [\"couch\", \"table\", \"bookcase\", \"desk\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2414",
+    "input": "Does the list [\"armchair\", \"couch\", \"bed\", \"desk\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2415",
+    "input": "Does the list [\"peach\", \"pear\", \"pineapple\", \"melon\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2416",
+    "input": "Does the list [\"apple\", \"strawberry\", \"peach\", \"watermelon\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2418",
+    "input": "Does the list [\"lemon\", \"strawberry\", \"peach\", \"banana\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2419",
+    "input": "Does the list [\"cow\", \"fish\", \"goat\", \"cat\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2420",
+    "input": "Does the list [\"van\", \"truck\", \"motorcycle\", \"tractor\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2421",
+    "input": "Does the list [\"chicken\", \"cat\", \"dog\", \"goat\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2422",
+    "input": "Does the list [\"skirt\", \"socks\", \"coat\", \"jeans\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2423",
+    "input": "Does the list [\"socks\", \"jeans\", \"jacket\", \"skirt\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2424",
+    "input": "Does the list [\"bed\", \"sofa\", \"couch\", \"bookcase\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2425",
+    "input": "Does the list [\"strawberry\", \"apple\", \"lemon\", \"pear\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2426",
+    "input": "Does the list [\"rabbit\", \"cat\", \"goat\", \"mouse\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2427",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"van\", \"car\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2428",
+    "input": "Does the list [\"bed\", \"bookcase\", \"table\", \"desk\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2429",
+    "input": "Does the list [\"bus\", \"van\", \"tram\", \"motorcycle\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2431",
+    "input": "Does the list [\"couch\", \"armchair\", \"table\", \"desk\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2432",
+    "input": "Does the list [\"mouse\", \"cat\", \"rabbit\", \"pig\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2435",
+    "input": "Does the list [\"bus\", \"truck\", \"motorcycle\", \"van\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2436",
+    "input": "Does the list [\"cow\", \"goat\", \"chicken\", \"dog\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2437",
+    "input": "Does the list [\"strawberry\", \"melon\", \"peach\", \"pineapple\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2438",
+    "input": "Does the list [\"chicken\", \"cow\", \"mouse\", \"pig\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2440",
+    "input": "Does the list [\"apple\", \"banana\", \"pear\", \"peach\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2441",
+    "input": "Does the list [\"strawberry\", \"banana\", \"lemon\", \"mango\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2443",
+    "input": "Does the list [\"table\", \"chair\", \"couch\", \"armchair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2444",
+    "input": "Does the list [\"pig\", \"cow\", \"mouse\", \"rabbit\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2445",
+    "input": "Does the list [\"jeans\", \"shirt\", \"dress\", \"skirt\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2447",
+    "input": "Does the list [\"car\", \"truck\", \"van\", \"tractor\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2448",
+    "input": "Does the list [\"van\", \"truck\", \"car\", \"bus\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2450",
+    "input": "Does the list [\"skirt\", \"jeans\", \"pants\", \"shirt\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2451",
+    "input": "Does the list [\"chicken\", \"goat\", \"cow\", \"pig\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2452",
+    "input": "Does the list [\"pear\", \"banana\", \"peach\", \"pineapple\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2453",
+    "input": "Does the list [\"table\", \"chair\", \"bookcase\", \"couch\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2454",
+    "input": "Does the list [\"shorts\", \"jacket\", \"jeans\", \"dress\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2455",
+    "input": "Does the list [\"pineapple\", \"watermelon\", \"melon\", \"mango\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2456",
+    "input": "Does the list [\"shirt\", \"sweater\", \"skirt\", \"jacket\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2457",
+    "input": "Does the list [\"dog\", \"mouse\", \"cow\", \"chicken\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2458",
+    "input": "Does the list [\"mango\", \"pear\", \"apple\", \"lemon\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2459",
+    "input": "Does the list [\"shorts\", \"sweater\", \"dress\", \"shirt\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2461",
+    "input": "Does the list [\"jacket\", \"pants\", \"shirt\", \"socks\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2462",
+    "input": "Does the list [\"tractor\", \"van\", \"tram\", \"motorcycle\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2464",
+    "input": "Does the list [\"bus\", \"tractor\", \"truck\", \"tram\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2466",
+    "input": "Does the list [\"desk\", \"chair\", \"bookcase\", \"table\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2467",
+    "input": "Does the list [\"pig\", \"rabbit\", \"fish\", \"duck\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2468",
+    "input": "Does the list [\"sweater\", \"jacket\", \"jeans\", \"pants\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2469",
+    "input": "Does the list [\"banana\", \"mango\", \"peach\", \"pineapple\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2472",
+    "input": "Does the list [\"pineapple\", \"watermelon\", \"banana\", \"apple\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2473",
+    "input": "Does the list [\"tractor\", \"train\", \"bus\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2475",
+    "input": "Does the list [\"apple\", \"pear\", \"pineapple\", \"melon\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2476",
+    "input": "Does the list [\"car\", \"truck\", \"van\", \"tram\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2477",
+    "input": "Does the list [\"coat\", \"skirt\", \"jeans\", \"pants\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2478",
+    "input": "Does the list [\"tram\", \"motorcycle\", \"van\", \"car\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2479",
+    "input": "Does the list [\"mango\", \"watermelon\", \"banana\", \"strawberry\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2481",
+    "input": "Does the list [\"truck\", \"train\", \"bus\", \"motorcycle\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2482",
+    "input": "Does the list [\"apple\", \"watermelon\", \"strawberry\", \"pear\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2483",
+    "input": "Does the list [\"peach\", \"strawberry\", \"watermelon\", \"mango\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2484",
+    "input": "Does the list [\"sofa\", \"bookcase\", \"bed\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2486",
+    "input": "Does the list [\"skirt\", \"jeans\", \"shirt\", \"shorts\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2488",
+    "input": "Does the list [\"truck\", \"motorcycle\", \"tram\", \"tractor\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2489",
+    "input": "Does the list [\"coat\", \"pants\", \"skirt\", \"jacket\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2490",
+    "input": "Does the list [\"sweater\", \"shorts\", \"coat\", \"dress\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2491",
+    "input": "Does the list [\"table\", \"couch\", \"sofa\", \"bed\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2492",
+    "input": "Does the list [\"tram\", \"tractor\", \"train\", \"car\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2493",
+    "input": "Does the list [\"banana\", \"strawberry\", \"lemon\", \"apple\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2494",
+    "input": "Does the list [\"dog\", \"cow\", \"chicken\", \"duck\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2495",
+    "input": "Does the list [\"pants\", \"socks\", \"shorts\", \"jacket\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2496",
+    "input": "Does the list [\"sofa\", \"chair\", \"armchair\", \"table\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2497",
+    "input": "Does the list [\"rabbit\", \"cow\", \"fish\", \"pig\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2499",
+    "input": "Does the list [\"lemon\", \"banana\", \"peach\", \"watermelon\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2500",
+    "input": "Does the list [\"bed\", \"chair\", \"armchair\", \"bookcase\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2502",
+    "input": "Does the list [\"desk\", \"bookcase\", \"sofa\", \"table\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2503",
+    "input": "Does the list [\"skirt\", \"pants\", \"jeans\", \"shirt\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2504",
+    "input": "Does the list [\"shorts\", \"skirt\", \"jacket\", \"dress\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2505",
+    "input": "Does the list [\"mouse\", \"pig\", \"goat\", \"fish\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2507",
+    "input": "Does the list [\"car\", \"train\", \"bus\", \"van\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2508",
+    "input": "Does the list [\"goat\", \"rabbit\", \"duck\", \"dog\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2509",
+    "input": "Does the list [\"rabbit\", \"cow\", \"fish\", \"duck\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2510",
+    "input": "Does the list [\"sweater\", \"jeans\", \"jacket\", \"dress\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2511",
+    "input": "Does the list [\"pig\", \"duck\", \"dog\", \"mouse\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2514",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"car\", \"train\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2515",
+    "input": "Does the list [\"pig\", \"cow\", \"duck\", \"cat\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2516",
+    "input": "Does the list [\"banana\", \"pear\", \"strawberry\", \"pineapple\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2517",
+    "input": "Does the list [\"van\", \"train\", \"motorcycle\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2519",
+    "input": "Does the list [\"jacket\", \"skirt\", \"pants\", \"shorts\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2521",
+    "input": "Does the list [\"shorts\", \"jeans\", \"shirt\", \"dress\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2523",
+    "input": "Does the list [\"sofa\", \"couch\", \"chair\", \"desk\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2524",
+    "input": "Does the list [\"pig\", \"fish\", \"goat\", \"duck\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2525",
+    "input": "Does the list [\"car\", \"bus\", \"tram\", \"motorcycle\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2526",
+    "input": "Does the list [\"strawberry\", \"pineapple\", \"apple\", \"lemon\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2528",
+    "input": "Does the list [\"coat\", \"sweater\", \"jacket\", \"dress\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2529",
+    "input": "Does the list [\"jacket\", \"jeans\", \"shirt\", \"pants\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2531",
+    "input": "Does the list [\"sofa\", \"table\", \"bookcase\", \"desk\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2532",
+    "input": "Does the list [\"armchair\", \"table\", \"desk\", \"sofa\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2533",
+    "input": "Does the list [\"duck\", \"pig\", \"rabbit\", \"chicken\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2534",
+    "input": "Does the list [\"train\", \"truck\", \"tram\", \"tractor\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2535",
+    "input": "Does the list [\"apple\", \"pear\", \"peach\", \"lemon\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2536",
+    "input": "Does the list [\"armchair\", \"bookcase\", \"desk\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2537",
+    "input": "Does the list [\"bed\", \"desk\", \"chair\", \"armchair\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2538",
+    "input": "Does the list [\"strawberry\", \"pineapple\", \"peach\", \"mango\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2539",
+    "input": "Does the list [\"socks\", \"jacket\", \"sweater\", \"dress\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2540",
+    "input": "Does the list [\"pig\", \"chicken\", \"cow\", \"dog\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2543",
+    "input": "Does the list [\"chair\", \"bookcase\", \"couch\", \"bed\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2545",
+    "input": "Does the list [\"lemon\", \"melon\", \"pear\", \"mango\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2548",
+    "input": "Does the list [\"armchair\", \"bookcase\", \"sofa\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2549",
+    "input": "Does the list [\"tractor\", \"train\", \"truck\", \"bus\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2551",
+    "input": "Does the list [\"bookcase\", \"table\", \"couch\", \"armchair\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2554",
+    "input": "Does the list [\"pineapple\", \"pear\", \"mango\", \"peach\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2555",
+    "input": "Does the list [\"truck\", \"tram\", \"train\", \"motorcycle\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2556",
+    "input": "Does the list [\"motorcycle\", \"tram\", \"train\", \"car\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2557",
+    "input": "Does the list [\"chicken\", \"cow\", \"pig\", \"mouse\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2558",
+    "input": "Does the list [\"shirt\", \"dress\", \"jacket\", \"pants\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2560",
+    "input": "Does the list [\"fish\", \"cat\", \"cow\", \"dog\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2561",
+    "input": "Does the list [\"pineapple\", \"apple\", \"mango\", \"pear\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2562",
+    "input": "Does the list [\"bed\", \"chair\", \"armchair\", \"bookcase\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2564",
+    "input": "Does the list [\"lemon\", \"mango\", \"banana\", \"melon\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2565",
+    "input": "Does the list [\"couch\", \"armchair\", \"chair\", \"table\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2569",
+    "input": "Does the list [\"shorts\", \"jacket\", \"shirt\", \"jeans\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2570",
+    "input": "Does the list [\"dog\", \"fish\", \"chicken\", \"goat\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2572",
+    "input": "Does the list [\"bookcase\", \"armchair\", \"table\", \"chair\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2573",
+    "input": "Does the list [\"socks\", \"jacket\", \"sweater\", \"pants\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2574",
+    "input": "Does the list [\"jeans\", \"coat\", \"pants\", \"socks\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2576",
+    "input": "Does the list [\"rabbit\", \"duck\", \"pig\", \"fish\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2577",
+    "input": "Does the list [\"truck\", \"tractor\", \"van\", \"tram\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2578",
+    "input": "Does the list [\"desk\", \"bookcase\", \"chair\", \"table\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2579",
+    "input": "Does the list [\"armchair\", \"table\", \"bed\", \"chair\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2580",
+    "input": "Does the list [\"tractor\", \"van\", \"motorcycle\", \"truck\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2582",
+    "input": "Does the list [\"sweater\", \"coat\", \"jeans\", \"socks\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2583",
+    "input": "Does the list [\"desk\", \"table\", \"bookcase\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2584",
+    "input": "Does the list [\"truck\", \"bus\", \"tram\", \"van\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2586",
+    "input": "Does the list [\"lemon\", \"mango\", \"strawberry\", \"pear\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2587",
+    "input": "Does the list [\"socks\", \"dress\", \"coat\", \"pants\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2588",
+    "input": "Does the list [\"chicken\", \"duck\", \"cat\", \"mouse\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2589",
+    "input": "Does the list [\"dress\", \"pants\", \"shorts\", \"socks\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2590",
+    "input": "Does the list [\"jacket\", \"socks\", \"dress\", \"shirt\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2593",
+    "input": "Does the list [\"bookcase\", \"armchair\", \"chair\", \"sofa\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2594",
+    "input": "Does the list [\"coat\", \"shirt\", \"socks\", \"jacket\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2595",
+    "input": "Does the list [\"coat\", \"skirt\", \"pants\", \"shirt\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2596",
+    "input": "Does the list [\"goat\", \"rabbit\", \"chicken\", \"cow\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2597",
+    "input": "Does the list [\"tram\", \"bus\", \"car\", \"tractor\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2600",
+    "input": "Does the list [\"bus\", \"tram\", \"car\", \"truck\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2601",
+    "input": "Does the list [\"dress\", \"jeans\", \"shirt\", \"pants\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2602",
+    "input": "Does the list [\"van\", \"bus\", \"motorcycle\", \"tram\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2606",
+    "input": "Does the list [\"cat\", \"pig\", \"dog\", \"chicken\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2607",
+    "input": "Does the list [\"duck\", \"goat\", \"pig\", \"rabbit\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2608",
+    "input": "Does the list [\"rabbit\", \"cow\", \"goat\", \"cat\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2609",
+    "input": "Does the list [\"chicken\", \"mouse\", \"cow\", \"fish\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2610",
+    "input": "Does the list [\"goat\", \"rabbit\", \"cat\", \"dog\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2612",
+    "input": "Does the list [\"desk\", \"armchair\", \"sofa\", \"couch\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2613",
+    "input": "Does the list [\"car\", \"train\", \"truck\", \"tram\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2615",
+    "input": "Does the list [\"apple\", \"strawberry\", \"melon\", \"lemon\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2616",
+    "input": "Does the list [\"van\", \"bus\", \"motorcycle\", \"truck\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2618",
+    "input": "Does the list [\"peach\", \"pear\", \"apple\", \"melon\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2620",
+    "input": "Does the list [\"duck\", \"chicken\", \"rabbit\", \"dog\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2621",
+    "input": "Does the list [\"jeans\", \"socks\", \"sweater\", \"coat\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2623",
+    "input": "Does the list [\"desk\", \"chair\", \"table\", \"bed\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2625",
+    "input": "Does the list [\"shorts\", \"skirt\", \"shirt\", \"socks\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2626",
+    "input": "Does the list [\"lemon\", \"pineapple\", \"watermelon\", \"banana\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2627",
+    "input": "Does the list [\"shorts\", \"socks\", \"shirt\", \"jeans\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2628",
+    "input": "Does the list [\"fish\", \"cow\", \"duck\", \"rabbit\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2629",
+    "input": "Does the list [\"pineapple\", \"melon\", \"peach\", \"apple\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2630",
+    "input": "Does the list [\"car\", \"van\", \"tram\", \"truck\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2631",
+    "input": "Does the list [\"motorcycle\", \"train\", \"van\", \"truck\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2632",
+    "input": "Does the list [\"sweater\", \"skirt\", \"shorts\", \"socks\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2633",
+    "input": "Does the list [\"peach\", \"pineapple\", \"banana\", \"melon\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2635",
+    "input": "Does the list [\"pants\", \"dress\", \"coat\", \"shirt\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2636",
+    "input": "Does the list [\"goat\", \"chicken\", \"rabbit\", \"pig\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2637",
+    "input": "Does the list [\"bus\", \"motorcycle\", \"tram\", \"tractor\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2638",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"tractor\", \"van\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2639",
+    "input": "Does the list [\"chair\", \"bed\", \"armchair\", \"couch\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2640",
+    "input": "Does the list [\"sofa\", \"chair\", \"couch\", \"bed\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2642",
+    "input": "Does the list [\"melon\", \"mango\", \"pineapple\", \"lemon\", \"pear\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2645",
+    "input": "Does the list [\"fish\", \"rabbit\", \"cat\", \"cow\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2646",
+    "input": "Does the list [\"pig\", \"mouse\", \"fish\", \"chicken\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2648",
+    "input": "Does the list [\"desk\", \"bed\", \"table\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2649",
+    "input": "Does the list [\"duck\", \"rabbit\", \"pig\", \"chicken\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2650",
+    "input": "Does the list [\"tram\", \"tractor\", \"bus\", \"car\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2652",
+    "input": "Does the list [\"truck\", \"train\", \"motorcycle\", \"tractor\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2653",
+    "input": "Does the list [\"jacket\", \"socks\", \"coat\", \"shirt\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2654",
+    "input": "Does the list [\"mouse\", \"cat\", \"rabbit\", \"pig\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2658",
+    "input": "Does the list [\"van\", \"train\", \"tractor\", \"bus\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2660",
+    "input": "Does the list [\"strawberry\", \"mango\", \"pear\", \"melon\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2661",
+    "input": "Does the list [\"jeans\", \"shirt\", \"skirt\", \"shorts\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2662",
+    "input": "Does the list [\"fish\", \"duck\", \"chicken\", \"dog\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2663",
+    "input": "Does the list [\"shorts\", \"jeans\", \"skirt\", \"sweater\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2665",
+    "input": "Does the list [\"pineapple\", \"pear\", \"lemon\", \"watermelon\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2667",
+    "input": "Does the list [\"bookcase\", \"couch\", \"desk\", \"armchair\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2668",
+    "input": "Does the list [\"van\", \"tram\", \"bus\", \"motorcycle\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2669",
+    "input": "Does the list [\"coat\", \"shorts\", \"skirt\", \"dress\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2670",
+    "input": "Does the list [\"cow\", \"chicken\", \"pig\", \"mouse\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2671",
+    "input": "Does the list [\"sofa\", \"armchair\", \"desk\", \"bookcase\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2673",
+    "input": "Does the list [\"apple\", \"pineapple\", \"banana\", \"mango\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2674",
+    "input": "Does the list [\"bus\", \"truck\", \"van\", \"motorcycle\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2677",
+    "input": "Does the list [\"train\", \"car\", \"bus\", \"tram\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2679",
+    "input": "Does the list [\"duck\", \"goat\", \"mouse\", \"chicken\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2680",
+    "input": "Does the list [\"chair\", \"couch\", \"desk\", \"sofa\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2681",
+    "input": "Does the list [\"bed\", \"desk\", \"table\", \"bookcase\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2682",
+    "input": "Does the list [\"cow\", \"duck\", \"chicken\", \"rabbit\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2683",
+    "input": "Does the list [\"skirt\", \"sweater\", \"pants\", \"jacket\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2684",
+    "input": "Does the list [\"bus\", \"truck\", \"van\", \"train\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2685",
+    "input": "Does the list [\"watermelon\", \"pear\", \"banana\", \"pineapple\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2689",
+    "input": "Does the list [\"couch\", \"desk\", \"bookcase\", \"bed\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2690",
+    "input": "Does the list [\"lemon\", \"pineapple\", \"apple\", \"banana\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2691",
+    "input": "Does the list [\"car\", \"van\", \"tractor\", \"truck\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2692",
+    "input": "Does the list [\"mango\", \"peach\", \"pear\", \"apple\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2694",
+    "input": "Does the list [\"banana\", \"watermelon\", \"strawberry\", \"pineapple\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2695",
+    "input": "Does the list [\"sweater\", \"coat\", \"skirt\", \"dress\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2696",
+    "input": "Does the list [\"motorcycle\", \"tram\", \"truck\", \"bus\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2698",
+    "input": "Does the list [\"watermelon\", \"strawberry\", \"banana\", \"melon\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2701",
+    "input": "Does the list [\"apple\", \"banana\", \"lemon\", \"strawberry\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2703",
+    "input": "Does the list [\"sweater\", \"skirt\", \"socks\", \"jacket\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2704",
+    "input": "Does the list [\"strawberry\", \"pear\", \"peach\", \"pineapple\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2706",
+    "input": "Does the list [\"pig\", \"cat\", \"dog\", \"rabbit\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2708",
+    "input": "Does the list [\"motorcycle\", \"tram\", \"truck\", \"train\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2709",
+    "input": "Does the list [\"dress\", \"jacket\", \"shirt\", \"jeans\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2711",
+    "input": "Does the list [\"tram\", \"train\", \"truck\", \"bus\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2712",
+    "input": "Does the list [\"motorcycle\", \"tram\", \"train\", \"van\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2713",
+    "input": "Does the list [\"chair\", \"sofa\", \"bookcase\", \"desk\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2714",
+    "input": "Does the list [\"bookcase\", \"couch\", \"desk\", \"bed\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2716",
+    "input": "Does the list [\"coat\", \"jacket\", \"jeans\", \"sweater\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2717",
+    "input": "Does the list [\"bed\", \"chair\", \"armchair\", \"bookcase\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2718",
+    "input": "Does the list [\"skirt\", \"shorts\", \"coat\", \"shirt\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2720",
+    "input": "Does the list [\"train\", \"tram\", \"van\", \"bus\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2721",
+    "input": "Does the list [\"mango\", \"lemon\", \"banana\", \"strawberry\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2723",
+    "input": "Does the list [\"dress\", \"jacket\", \"sweater\", \"pants\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2724",
+    "input": "Does the list [\"dress\", \"skirt\", \"sweater\", \"socks\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2726",
+    "input": "Does the list [\"bed\", \"table\", \"bookcase\", \"couch\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2727",
+    "input": "Does the list [\"tractor\", \"van\", \"motorcycle\", \"train\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2728",
+    "input": "Does the list [\"mango\", \"lemon\", \"melon\", \"peach\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2730",
+    "input": "Does the list [\"bed\", \"couch\", \"desk\", \"table\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2732",
+    "input": "Does the list [\"van\", \"tram\", \"tractor\", \"bus\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2733",
+    "input": "Does the list [\"tram\", \"van\", \"tractor\", \"truck\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2738",
+    "input": "Does the list [\"pants\", \"dress\", \"coat\", \"socks\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2741",
+    "input": "Does the list [\"pig\", \"cow\", \"mouse\", \"dog\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2742",
+    "input": "Does the list [\"banana\", \"lemon\", \"pineapple\", \"watermelon\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2743",
+    "input": "Does the list [\"shirt\", \"jacket\", \"coat\", \"socks\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2744",
+    "input": "Does the list [\"socks\", \"skirt\", \"dress\", \"jacket\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2745",
+    "input": "Does the list [\"motorcycle\", \"bus\", \"truck\", \"train\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2746",
+    "input": "Does the list [\"couch\", \"bookcase\", \"armchair\", \"chair\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2749",
+    "input": "Does the list [\"jeans\", \"coat\", \"pants\", \"shirt\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2751",
+    "input": "Does the list [\"pear\", \"pineapple\", \"banana\", \"mango\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2752",
+    "input": "Does the list [\"melon\", \"watermelon\", \"mango\", \"pineapple\", \"banana\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2753",
+    "input": "Does the list [\"table\", \"bed\", \"chair\", \"bookcase\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2756",
+    "input": "Does the list [\"pear\", \"watermelon\", \"melon\", \"pineapple\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2757",
+    "input": "Does the list [\"couch\", \"bed\", \"desk\", \"table\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2758",
+    "input": "Does the list [\"banana\", \"lemon\", \"peach\", \"melon\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2761",
+    "input": "Does the list [\"cow\", \"goat\", \"mouse\", \"rabbit\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2762",
+    "input": "Does the list [\"pants\", \"shorts\", \"skirt\", \"socks\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2764",
+    "input": "Does the list [\"dress\", \"shorts\", \"sweater\", \"pants\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2766",
+    "input": "Does the list [\"table\", \"bookcase\", \"sofa\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2767",
+    "input": "Does the list [\"dog\", \"cow\", \"fish\", \"duck\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2770",
+    "input": "Does the list [\"tractor\", \"tram\", \"car\", \"motorcycle\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2771",
+    "input": "Does the list [\"sofa\", \"couch\", \"desk\", \"chair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2772",
+    "input": "Does the list [\"goat\", \"dog\", \"pig\", \"chicken\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2773",
+    "input": "Does the list [\"bed\", \"sofa\", \"desk\", \"armchair\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2775",
+    "input": "Does the list [\"train\", \"motorcycle\", \"truck\", \"car\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2776",
+    "input": "Does the list [\"dog\", \"mouse\", \"fish\", \"rabbit\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2777",
+    "input": "Does the list [\"shirt\", \"socks\", \"jeans\", \"shorts\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2779",
+    "input": "Does the list [\"armchair\", \"bookcase\", \"sofa\", \"desk\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2780",
+    "input": "Does the list [\"bed\", \"sofa\", \"chair\", \"couch\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2783",
+    "input": "Does the list [\"jeans\", \"sweater\", \"shorts\", \"shirt\", \"socks\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2784",
+    "input": "Does the list [\"tram\", \"van\", \"motorcycle\", \"tractor\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2786",
+    "input": "Does the list [\"chicken\", \"pig\", \"dog\", \"duck\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2789",
+    "input": "Does the list [\"bookcase\", \"chair\", \"table\", \"armchair\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2790",
+    "input": "Does the list [\"pear\", \"pineapple\", \"peach\", \"melon\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2791",
+    "input": "Does the list [\"skirt\", \"coat\", \"dress\", \"sweater\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2793",
+    "input": "Does the list [\"pear\", \"pineapple\", \"apple\", \"strawberry\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2794",
+    "input": "Does the list [\"tram\", \"van\", \"motorcycle\", \"train\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2796",
+    "input": "Does the list [\"desk\", \"chair\", \"armchair\", \"table\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2798",
+    "input": "Does the list [\"van\", \"motorcycle\", \"train\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2800",
+    "input": "Does the list [\"tractor\", \"van\", \"car\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2801",
+    "input": "Does the list [\"bed\", \"desk\", \"chair\", \"table\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2802",
+    "input": "Does the list [\"tram\", \"tractor\", \"train\", \"truck\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2803",
+    "input": "Does the list [\"pineapple\", \"strawberry\", \"banana\", \"peach\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2804",
+    "input": "Does the list [\"watermelon\", \"pear\", \"peach\", \"lemon\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2805",
+    "input": "Does the list [\"skirt\", \"sweater\", \"jacket\", \"coat\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2806",
+    "input": "Does the list [\"socks\", \"pants\", \"shorts\", \"coat\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2807",
+    "input": "Does the list [\"pineapple\", \"strawberry\", \"mango\", \"watermelon\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2808",
+    "input": "Does the list [\"motorcycle\", \"train\", \"car\", \"tractor\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2810",
+    "input": "Does the list [\"socks\", \"skirt\", \"coat\", \"sweater\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2811",
+    "input": "Does the list [\"table\", \"desk\", \"armchair\", \"chair\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2813",
+    "input": "Does the list [\"van\", \"train\", \"motorcycle\", \"truck\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2814",
+    "input": "Does the list [\"chicken\", \"cat\", \"duck\", \"dog\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2815",
+    "input": "Does the list [\"tractor\", \"motorcycle\", \"tram\", \"bus\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2816",
+    "input": "Does the list [\"train\", \"motorcycle\", \"bus\", \"car\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2817",
+    "input": "Does the list [\"cow\", \"duck\", \"mouse\", \"pig\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2818",
+    "input": "Does the list [\"cow\", \"goat\", \"duck\", \"fish\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2819",
+    "input": "Does the list [\"van\", \"tram\", \"motorcycle\", \"bus\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2820",
+    "input": "Does the list [\"pants\", \"shorts\", \"dress\", \"skirt\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2821",
+    "input": "Does the list [\"bookcase\", \"bed\", \"table\", \"armchair\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2822",
+    "input": "Does the list [\"pineapple\", \"watermelon\", \"melon\", \"apple\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2823",
+    "input": "Does the list [\"socks\", \"shirt\", \"jeans\", \"coat\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2824",
+    "input": "Does the list [\"pineapple\", \"melon\", \"pear\", \"strawberry\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2830",
+    "input": "Does the list [\"coat\", \"shorts\", \"pants\", \"sweater\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2833",
+    "input": "Does the list [\"table\", \"desk\", \"bed\", \"sofa\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2834",
+    "input": "Does the list [\"couch\", \"desk\", \"sofa\", \"chair\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2836",
+    "input": "Does the list [\"bus\", \"tractor\", \"train\", \"motorcycle\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2837",
+    "input": "Does the list [\"dog\", \"pig\", \"rabbit\", \"chicken\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2838",
+    "input": "Does the list [\"shorts\", \"socks\", \"shirt\", \"coat\", \"jeans\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2839",
+    "input": "Does the list [\"pants\", \"skirt\", \"jeans\", \"shorts\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2840",
+    "input": "Does the list [\"goat\", \"pig\", \"cat\", \"rabbit\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2841",
+    "input": "Does the list [\"car\", \"tractor\", \"truck\", \"motorcycle\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2843",
+    "input": "Does the list [\"rabbit\", \"cow\", \"goat\", \"duck\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2844",
+    "input": "Does the list [\"desk\", \"couch\", \"sofa\", \"armchair\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2846",
+    "input": "Does the list [\"jacket\", \"shirt\", \"socks\", \"skirt\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2847",
+    "input": "Does the list [\"chicken\", \"dog\", \"cat\", \"goat\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2848",
+    "input": "Does the list [\"bus\", \"truck\", \"motorcycle\", \"van\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2849",
+    "input": "Does the list [\"apple\", \"banana\", \"peach\", \"melon\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2851",
+    "input": "Does the list [\"bookcase\", \"desk\", \"table\", \"chair\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2852",
+    "input": "Does the list [\"pants\", \"jeans\", \"dress\", \"sweater\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2853",
+    "input": "Does the list [\"pants\", \"socks\", \"shorts\", \"sweater\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2854",
+    "input": "Does the list [\"truck\", \"motorcycle\", \"car\", \"tractor\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2857",
+    "input": "Does the list [\"motorcycle\", \"train\", \"tram\", \"bus\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2858",
+    "input": "Does the list [\"banana\", \"mango\", \"apple\", \"pineapple\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2859",
+    "input": "Does the list [\"car\", \"van\", \"tractor\", \"tram\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2860",
+    "input": "Does the list [\"table\", \"armchair\", \"bookcase\", \"bed\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2861",
+    "input": "Does the list [\"rabbit\", \"pig\", \"goat\", \"cat\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2862",
+    "input": "Does the list [\"dog\", \"pig\", \"chicken\", \"goat\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2863",
+    "input": "Does the list [\"coat\", \"socks\", \"sweater\", \"jeans\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2865",
+    "input": "Does the list [\"chair\", \"armchair\", \"couch\", \"desk\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2869",
+    "input": "Does the list [\"strawberry\", \"apple\", \"banana\", \"mango\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2870",
+    "input": "Does the list [\"duck\", \"goat\", \"cat\", \"rabbit\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2871",
+    "input": "Does the list [\"desk\", \"bed\", \"bookcase\", \"sofa\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2872",
+    "input": "Does the list [\"pants\", \"shirt\", \"jacket\", \"sweater\", \"shorts\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2874",
+    "input": "Does the list [\"dress\", \"skirt\", \"socks\", \"shirt\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2877",
+    "input": "Does the list [\"chicken\", \"pig\", \"dog\", \"mouse\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2878",
+    "input": "Does the list [\"cat\", \"fish\", \"duck\", \"chicken\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2879",
+    "input": "Does the list [\"train\", \"bus\", \"motorcycle\", \"car\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2880",
+    "input": "Does the list [\"couch\", \"bed\", \"sofa\", \"armchair\", \"desk\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2881",
+    "input": "Does the list [\"fish\", \"cat\", \"mouse\", \"goat\", \"pig\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2884",
+    "input": "Does the list [\"desk\", \"couch\", \"bed\", \"armchair\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2885",
+    "input": "Does the list [\"bed\", \"table\", \"chair\", \"couch\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2886",
+    "input": "Does the list [\"pig\", \"cow\", \"mouse\", \"fish\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2887",
+    "input": "Does the list [\"bookcase\", \"chair\", \"couch\", \"bed\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2889",
+    "input": "Does the list [\"car\", \"motorcycle\", \"tram\", \"train\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2890",
+    "input": "Does the list [\"watermelon\", \"banana\", \"melon\", \"strawberry\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2892",
+    "input": "Does the list [\"duck\", \"chicken\", \"mouse\", \"fish\", \"cat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2893",
+    "input": "Does the list [\"cow\", \"mouse\", \"goat\", \"cat\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2894",
+    "input": "Does the list [\"motorcycle\", \"tram\", \"car\", \"van\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2896",
+    "input": "Does the list [\"table\", \"desk\", \"couch\", \"bookcase\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2897",
+    "input": "Does the list [\"pear\", \"pineapple\", \"melon\", \"banana\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2898",
+    "input": "Does the list [\"pig\", \"rabbit\", \"fish\", \"cat\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2899",
+    "input": "Does the list [\"armchair\", \"bookcase\", \"table\", \"bed\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2901",
+    "input": "Does the list [\"chicken\", \"pig\", \"dog\", \"cat\", \"goat\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2902",
+    "input": "Does the list [\"rabbit\", \"cat\", \"pig\", \"goat\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2903",
+    "input": "Does the list [\"desk\", \"couch\", \"bookcase\", \"sofa\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2904",
+    "input": "Does the list [\"coat\", \"shirt\", \"shorts\", \"socks\", \"pants\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2905",
+    "input": "Does the list [\"goat\", \"cow\", \"dog\", \"fish\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2906",
+    "input": "Does the list [\"chicken\", \"pig\", \"mouse\", \"fish\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2910",
+    "input": "Does the list [\"car\", \"train\", \"motorcycle\", \"bus\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2911",
+    "input": "Does the list [\"mango\", \"pear\", \"apple\", \"melon\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2912",
+    "input": "Does the list [\"bed\", \"armchair\", \"table\", \"chair\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2913",
+    "input": "Does the list [\"tractor\", \"tram\", \"car\", \"truck\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2915",
+    "input": "Does the list [\"bed\", \"armchair\", \"table\", \"bookcase\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2916",
+    "input": "Does the list [\"motorcycle\", \"train\", \"tractor\", \"bus\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2917",
+    "input": "Does the list [\"table\", \"couch\", \"chair\", \"desk\", \"bookcase\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2918",
+    "input": "Does the list [\"dog\", \"duck\", \"goat\", \"chicken\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2919",
+    "input": "Does the list [\"goat\", \"mouse\", \"cat\", \"chicken\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2920",
+    "input": "Does the list [\"lemon\", \"watermelon\", \"strawberry\", \"pear\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2921",
+    "input": "Does the list [\"lemon\", \"strawberry\", \"apple\", \"mango\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2922",
+    "input": "Does the list [\"pineapple\", \"pear\", \"banana\", \"peach\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2923",
+    "input": "Does the list [\"tram\", \"motorcycle\", \"van\", \"bus\", \"train\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2924",
+    "input": "Does the list [\"shorts\", \"pants\", \"shirt\", \"sweater\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2925",
+    "input": "Does the list [\"pineapple\", \"strawberry\", \"mango\", \"banana\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2927",
+    "input": "Does the list [\"skirt\", \"shorts\", \"coat\", \"jeans\", \"sweater\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2928",
+    "input": "Does the list [\"pineapple\", \"strawberry\", \"watermelon\", \"peach\", \"melon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2929",
+    "input": "Does the list [\"cow\", \"goat\", \"rabbit\", \"duck\", \"chicken\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2930",
+    "input": "Does the list [\"pig\", \"dog\", \"duck\", \"cat\", \"rabbit\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2933",
+    "input": "Does the list [\"bus\", \"train\", \"tram\", \"car\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2935",
+    "input": "Does the list [\"duck\", \"chicken\", \"mouse\", \"cow\", \"fish\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2936",
+    "input": "Does the list [\"bookcase\", \"bed\", \"chair\", \"armchair\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2938",
+    "input": "Does the list [\"bus\", \"train\", \"truck\", \"motorcycle\", \"van\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2940",
+    "input": "Does the list [\"bed\", \"bookcase\", \"chair\", \"sofa\", \"armchair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2941",
+    "input": "Does the list [\"car\", \"tram\", \"bus\", \"van\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2942",
+    "input": "Does the list [\"bed\", \"chair\", \"desk\", \"table\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2943",
+    "input": "Does the list [\"peach\", \"pineapple\", \"watermelon\", \"banana\", \"apple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2944",
+    "input": "Does the list [\"train\", \"truck\", \"bus\", \"car\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2945",
+    "input": "Does the list [\"truck\", \"motorcycle\", \"tram\", \"tractor\", \"bus\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2946",
+    "input": "Does the list [\"chicken\", \"pig\", \"mouse\", \"duck\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2949",
+    "input": "Does the list [\"tractor\", \"bus\", \"motorcycle\", \"car\", \"truck\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2950",
+    "input": "Does the list [\"armchair\", \"table\", \"desk\", \"chair\", \"bed\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2951",
+    "input": "Does the list [\"melon\", \"strawberry\", \"apple\", \"watermelon\", \"mango\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2952",
+    "input": "Does the list [\"tram\", \"train\", \"van\", \"motorcycle\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2953",
+    "input": "Does the list [\"truck\", \"train\", \"bus\", \"tram\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2954",
+    "input": "Does the list [\"desk\", \"chair\", \"armchair\", \"bookcase\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2958",
+    "input": "Does the list [\"sweater\", \"socks\", \"coat\", \"jacket\", \"skirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2960",
+    "input": "Does the list [\"watermelon\", \"pear\", \"melon\", \"peach\", \"strawberry\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2961",
+    "input": "Does the list [\"coat\", \"socks\", \"dress\", \"skirt\", \"shirt\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2962",
+    "input": "Does the list [\"goat\", \"dog\", \"cat\", \"chicken\", \"mouse\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2963",
+    "input": "Does the list [\"sofa\", \"desk\", \"bookcase\", \"bed\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2966",
+    "input": "Does the list [\"socks\", \"dress\", \"sweater\", \"skirt\", \"coat\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2967",
+    "input": "Does the list [\"banana\", \"pineapple\", \"pear\", \"strawberry\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2969",
+    "input": "Does the list [\"train\", \"tram\", \"truck\", \"motorcycle\", \"car\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2970",
+    "input": "Does the list [\"apple\", \"watermelon\", \"banana\", \"mango\", \"peach\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2973",
+    "input": "Does the list [\"lemon\", \"apple\", \"melon\", \"peach\", \"watermelon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2976",
+    "input": "Does the list [\"banana\", \"lemon\", \"pear\", \"strawberry\", \"pineapple\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2977",
+    "input": "Does the list [\"dog\", \"pig\", \"fish\", \"chicken\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2978",
+    "input": "Does the list [\"mouse\", \"fish\", \"goat\", \"dog\", \"duck\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2980",
+    "input": "Does the list [\"apple\", \"banana\", \"pineapple\", \"mango\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2981",
+    "input": "Does the list [\"skirt\", \"sweater\", \"shirt\", \"socks\", \"jacket\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2982",
+    "input": "Does the list [\"car\", \"truck\", \"tram\", \"train\", \"motorcycle\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2985",
+    "input": "Does the list [\"table\", \"sofa\", \"bed\", \"couch\", \"chair\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2986",
+    "input": "Does the list [\"cat\", \"pig\", \"dog\", \"rabbit\", \"cow\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2988",
+    "input": "Does the list [\"goat\", \"rabbit\", \"fish\", \"duck\", \"dog\"] contain only animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2989",
+    "input": "Does the list [\"pants\", \"skirt\", \"coat\", \"sweater\", \"dress\"] contain only items of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2990",
+    "input": "Does the list [\"van\", \"truck\", \"car\", \"tractor\", \"tram\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2992",
+    "input": "Does the list [\"bed\", \"desk\", \"sofa\", \"table\", \"couch\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2994",
+    "input": "Does the list [\"van\", \"tram\", \"train\", \"motorcycle\", \"tractor\"] contain only vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2996",
+    "input": "Does the list [\"bed\", \"chair\", \"armchair\", \"table\", \"sofa\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2997",
+    "input": "Does the list [\"mango\", \"banana\", \"apple\", \"peach\", \"lemon\"] contain only fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2998",
+    "input": "Does the list [\"armchair\", \"sofa\", \"chair\", \"desk\", \"table\"] contain only furniture? Answer either \"yes\" or \"no\"."
+  }
+]

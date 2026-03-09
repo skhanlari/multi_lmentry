@@ -20,6 +20,7 @@ from .config import (
     EMBEDDING_MODEL,
     get_num_seeds,
     RANDOM_SEEDS,
+    N_EXAMPLES,
 )
 from .samplers import (
     TextEmbedder,
@@ -613,6 +614,16 @@ def run_adaptive_sampling(cfg: CompressionConfig) -> Path:
             example_ids, prompts, model_names = extract_task_data(
                 cfg.predictions_root, cfg.language, task_name
             )
+            
+            # Skip tasks that don't have exactly N_EXAMPLES (3000) examples
+            if len(example_ids) != N_EXAMPLES:
+                logger.info(f"  Skipping task: {len(example_ids)} examples (expected {N_EXAMPLES})")
+                results["tasks"][task_name] = {
+                    "skipped": True,
+                    "reason": f"Task has {len(example_ids)} examples, expected {N_EXAMPLES}",
+                    "n_examples": len(example_ids),
+                }
+                continue
             
             full_scores = compute_full_scores(
                 cfg.predictions_root, cfg.language, task_name,

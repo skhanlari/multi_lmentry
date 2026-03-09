@@ -1,0 +1,906 @@
+[
+  {
+    "id": "1011",
+    "input": "A la frase \"A més de l'àrea expositiva conté laboratoris i magatzems\", quina paraula precedeix a la paraula \"magatzems\"?"
+  },
+  {
+    "id": "1014",
+    "input": "A la frase \"Per Cap d'Any na Dolça anirà a Real\", quina paraula precedeix a la paraula \"d'Any\"?"
+  },
+  {
+    "id": "1017",
+    "input": "A la frase \"I cagades per inexperiència també\", quina paraula precedeix a la paraula \"inexperiència\"?"
+  },
+  {
+    "id": "1018",
+    "input": "A la frase \"Pot ser extret com a mena del metall de níquel\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1025",
+    "input": "A la frase \"Alguns mitjans ho anunciaran com una dissolució\", quina paraula precedeix a la paraula \"mitjans\"?"
+  },
+  {
+    "id": "1027",
+    "input": "A la frase \"Jo no li he fet res Modesta\", quina paraula precedeix a la paraula \"Modesta\"?"
+  },
+  {
+    "id": "1029",
+    "input": "A la frase \"Quantes peces de fruita has menjat avui?\", quina paraula precedeix a la paraula \"has\"?"
+  },
+  {
+    "id": "1030",
+    "input": "A la frase \"Demà en Jan i na Sança aniran a Parlavà\", quina paraula precedeix a la paraula \"aniran\"?"
+  },
+  {
+    "id": "1032",
+    "input": "A la frase \"Diumenge na Zoè anirà a Barxeta\", quina paraula precedeix a la paraula \"Zoè\"?"
+  },
+  {
+    "id": "1034",
+    "input": "A la frase \"La porta d'accés és dovellada\", quina paraula precedeix a la paraula \"porta\"?"
+  },
+  {
+    "id": "1035",
+    "input": "A la frase \"Estaven disponibles tant separats com empaquetats conjuntament\", quina paraula precedeix a la paraula \"disponibles\"?"
+  },
+  {
+    "id": "1037",
+    "input": "A la frase \"De quina planta s'alimenten les femelles adultes?\", quina paraula precedeix a la paraula \"planta\"?"
+  },
+  {
+    "id": "1043",
+    "input": "A la frase \"Les capelles presenten volta d'arestes\", quina paraula precedeix a la paraula \"presenten\"?"
+  },
+  {
+    "id": "1050",
+    "input": "A la frase \"És protegida com a bé cultural d'interès local\", quina paraula precedeix a la paraula \"local\"?"
+  },
+  {
+    "id": "1051",
+    "input": "A la frase \"Sant Andreu de la Barca és un bon lloc per anar-hi\", quina paraula precedeix a la paraula \"un\"?"
+  },
+  {
+    "id": "1054",
+    "input": "A la frase \"Vull anar al Pla de Santa Maria amb tren\", quina paraula precedeix a la paraula \"Maria\"?"
+  },
+  {
+    "id": "1057",
+    "input": "A la frase \"Per Cap d'Any na Carla i en Blai aniran d'excursió\", quina paraula precedeix a la paraula \"aniran\"?"
+  },
+  {
+    "id": "1062",
+    "input": "A la frase \"A l'interior es conserva l'estructura metàl·lica amb l'enteixinat de fusta\", quina paraula precedeix a la paraula \"fusta\"?"
+  },
+  {
+    "id": "1065",
+    "input": "A la frase \"Els mitjans de comunicació poden ser públics o privats\", quina paraula precedeix a la paraula \"poden\"?"
+  },
+  {
+    "id": "1086",
+    "input": "A la frase \"Els resultats confirmaren la tendència de les eleccions regionals\", quina paraula precedeix a la paraula \"tendència\"?"
+  },
+  {
+    "id": "1089",
+    "input": "A la frase \"L'alcàsser cremà durant quatre dies i quedà reduït a runes\", quina paraula precedeix a la paraula \"reduït\"?"
+  },
+  {
+    "id": "1093",
+    "input": "A la frase \"Tot plegat constitueix una composició ordenada\", quina paraula precedeix a la paraula \"constitueix\"?"
+  },
+  {
+    "id": "1106",
+    "input": "A la frase \"El centre incloïa una sala d'hidroteràpia per a cada sexe\", quina paraula precedeix a la paraula \"sala\"?"
+  },
+  {
+    "id": "1111",
+    "input": "A la frase \"Després d'una setmana d'acció el govern va cedir\", quina paraula precedeix a la paraula \"el\"?"
+  },
+  {
+    "id": "1131",
+    "input": "A la frase \"Va arribar a ser un comtat\", quina paraula precedeix a la paraula \"ser\"?"
+  },
+  {
+    "id": "1146",
+    "input": "A la frase \"Ho vivia com un esquinçament dins la seva família\", quina paraula precedeix a la paraula \"esquinçament\"?"
+  },
+  {
+    "id": "1151",
+    "input": "A la frase \"Diumenge na Blau anirà a Vila-seca\", quina paraula precedeix a la paraula \"anirà\"?"
+  },
+  {
+    "id": "1154",
+    "input": "A la frase \"Dissabte en Quel anirà a visitar mon oncle\", quina paraula precedeix a la paraula \"visitar\"?"
+  },
+  {
+    "id": "1156",
+    "input": "A la frase \"Com era l'ambient al teatre?\", quina paraula precedeix a la paraula \"al\"?"
+  },
+  {
+    "id": "1176",
+    "input": "A la frase \"Per Cap d'Any na Núria vol anar al metge\", quina paraula precedeix a la paraula \"d'Any\"?"
+  },
+  {
+    "id": "1177",
+    "input": "A la frase \"Comercialment la gira va ser un èxit\", quina paraula precedeix a la paraula \"gira\"?"
+  },
+  {
+    "id": "1178",
+    "input": "A la frase \"L'Sten s'adona que no hi ha res a fer\", quina paraula precedeix a la paraula \"hi\"?"
+  },
+  {
+    "id": "1181",
+    "input": "A la frase \"Molts actes avancen l'objectiu final de construir el dispositiu diari\", quina paraula precedeix a la paraula \"dispositiu\"?"
+  },
+  {
+    "id": "1184",
+    "input": "A la frase \"Si vol pot fer la comanda per aquí\", quina paraula precedeix a la paraula \"vol\"?"
+  },
+  {
+    "id": "1188",
+    "input": "A la frase \"Els catalans admirem la política danesa\", quina paraula precedeix a la paraula \"admirem\"?"
+  },
+  {
+    "id": "1189",
+    "input": "A la frase \"Es troba a Taiwan i a les illes Hawaii\", quina paraula precedeix a la paraula \"Hawaii\"?"
+  },
+  {
+    "id": "1192",
+    "input": "A la frase \"Al club mai arribà a ser titular indiscutible\", quina paraula precedeix a la paraula \"arribà\"?"
+  },
+  {
+    "id": "1195",
+    "input": "A la frase \"Dissabte en Pau vol anar al metge\", quina paraula precedeix a la paraula \"anar\"?"
+  },
+  {
+    "id": "1197",
+    "input": "A la frase \"I cagades per inexperiència també\", quina paraula precedeix a la paraula \"per\"?"
+  },
+  {
+    "id": "1202",
+    "input": "A la frase \"La Pobla de Mafumet es troba al Tarragonès\", quina paraula precedeix a la paraula \"Mafumet\"?"
+  },
+  {
+    "id": "1203",
+    "input": "A la frase \"Però encara no sabem per què ho va fer\", quina paraula precedeix a la paraula \"què\"?"
+  },
+  {
+    "id": "1204",
+    "input": "A la frase \"És quan xuta que perd el cap\", quina paraula precedeix a la paraula \"quan\"?"
+  },
+  {
+    "id": "1205",
+    "input": "A la frase \"El seu germà Pierre també fou futbolista\", quina paraula precedeix a la paraula \"també\"?"
+  },
+  {
+    "id": "1206",
+    "input": "A la frase \"Xavi Font és un compositor nascut a Bellpuig\", quina paraula precedeix a la paraula \"nascut\"?"
+  },
+  {
+    "id": "1225",
+    "input": "A la frase \"Alguns epigrames d'aquest poeta es troben a l'antologia grega\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1231",
+    "input": "A la frase \"D'adolescents es van convertir en molt bons amics\", quina paraula precedeix a la paraula \"convertir\"?"
+  },
+  {
+    "id": "1233",
+    "input": "A la frase \"Per Sant Jordi na Lena vol anar d'excursió\", quina paraula precedeix a la paraula \"anar\"?"
+  },
+  {
+    "id": "1236",
+    "input": "A la frase \"Els ancilòstoms habiten al sud de Califòrnia\", quina paraula precedeix a la paraula \"al\"?"
+  },
+  {
+    "id": "1240",
+    "input": "A la frase \"Per Cap d'Any na Tura anirà a Son Servera\", quina paraula precedeix a la paraula \"na\"?"
+  },
+  {
+    "id": "1243",
+    "input": "A la frase \"Els seus penya-segats alberguen nombroses espècies d'aus marines\", quina paraula precedeix a la paraula \"marines\"?"
+  },
+  {
+    "id": "1245",
+    "input": "A la frase \"La Sol li explica la situació\", quina paraula precedeix a la paraula \"Sol\"?"
+  },
+  {
+    "id": "1252",
+    "input": "A la frase \"Tres-cents vuitanta-tres mil vuit-cents setanta-tres admet una lectura prosaica\", quina paraula precedeix a la paraula \"una\"?"
+  },
+  {
+    "id": "1255",
+    "input": "A la frase \"La Sol li explica la situació\", quina paraula precedeix a la paraula \"explica\"?"
+  },
+  {
+    "id": "1257",
+    "input": "A la frase \"L'aqüicultura és una indústria emergent als pobles costaners\", quina paraula precedeix a la paraula \"indústria\"?"
+  },
+  {
+    "id": "1262",
+    "input": "A la frase \"En aquest sentit aporten més informació els jaciments arqueològics\", quina paraula precedeix a la paraula \"informació\"?"
+  },
+  {
+    "id": "1269",
+    "input": "A la frase \"El Centre Agrícola era la societat dels propietaris rurals\", quina paraula precedeix a la paraula \"Centre\"?"
+  },
+  {
+    "id": "1271",
+    "input": "A la frase \"Però aquestes negociacions no van donar cap resultat\", quina paraula precedeix a la paraula \"negociacions\"?"
+  },
+  {
+    "id": "1275",
+    "input": "A la frase \"El campus va ser traslladat a Ariel\", quina paraula precedeix a la paraula \"traslladat\"?"
+  },
+  {
+    "id": "1279",
+    "input": "A la frase \"Escala centrada i dos apartaments per planta als pisos\", quina paraula precedeix a la paraula \"apartaments\"?"
+  },
+  {
+    "id": "1286",
+    "input": "A la frase \"Pot ser extret com a mena del metall de níquel\", quina paraula precedeix a la paraula \"ser\"?"
+  },
+  {
+    "id": "1298",
+    "input": "A la frase \"El vint-i-nou de febrer na Gemma anirà al cinema\", quina paraula precedeix a la paraula \"cinema\"?"
+  },
+  {
+    "id": "1299",
+    "input": "A la frase \"Aquestes fredorades han aflamat el ficus\", quina paraula precedeix a la paraula \"han\"?"
+  },
+  {
+    "id": "1302",
+    "input": "A la frase \"Qui està malalt que jegui\", quina paraula precedeix a la paraula \"malalt\"?"
+  },
+  {
+    "id": "1308",
+    "input": "A la frase \"La Universitat negocia el preu que pagarà per l'edifici\", quina paraula precedeix a la paraula \"el\"?"
+  },
+  {
+    "id": "1310",
+    "input": "A la frase \"Els jueus s'ocupen dels seus\", quina paraula precedeix a la paraula \"s'ocupen\"?"
+  },
+  {
+    "id": "1311",
+    "input": "A la frase \"Al tercer dia el peix comença a envoltar l'esquif\", quina paraula precedeix a la paraula \"comença\"?"
+  },
+  {
+    "id": "1313",
+    "input": "A la frase \"Quin soroll fa el gos?\", quina paraula precedeix a la paraula \"fa\"?"
+  },
+  {
+    "id": "1317",
+    "input": "A la frase \"La seva especialitat és la Guerra Civil espanyola i l'exili\", quina paraula precedeix a la paraula \"Civil\"?"
+  },
+  {
+    "id": "1320",
+    "input": "A la frase \"La parella no va arribar a tenir fills\", quina paraula precedeix a la paraula \"arribar\"?"
+  },
+  {
+    "id": "1322",
+    "input": "A la frase \"Quantes parades té el trajecte en autobús fins a Cadaqués?\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1327",
+    "input": "A la frase \"Per Cap d'Any anem a visitar mon oncle\", quina paraula precedeix a la paraula \"mon\"?"
+  },
+  {
+    "id": "1334",
+    "input": "A la frase \"Ciceró el va recomanar a Cèsar\", quina paraula precedeix a la paraula \"Cèsar\"?"
+  },
+  {
+    "id": "1335",
+    "input": "A la frase \"Les setze restants no professarien cap religió\", quina paraula precedeix a la paraula \"professarien\"?"
+  },
+  {
+    "id": "1337",
+    "input": "A la frase \"L'última sala de la visita comentada és un bar\", quina paraula precedeix a la paraula \"un\"?"
+  },
+  {
+    "id": "1340",
+    "input": "A la frase \"Per Sant Jordi en Ton anirà a Carcaixent\", quina paraula precedeix a la paraula \"en\"?"
+  },
+  {
+    "id": "1345",
+    "input": "A la frase \"Fidel era un jove mercader d'origen grec\", quina paraula precedeix a la paraula \"grec\"?"
+  },
+  {
+    "id": "1346",
+    "input": "A la frase \"Quan passa l'autobús pel carrer Berlín?\", quina paraula precedeix a la paraula \"passa\"?"
+  },
+  {
+    "id": "1357",
+    "input": "A la frase \"Quines mesures preveu cadascun dels cinc nivells de control epidemiològic?\", quina paraula precedeix a la paraula \"de\"?"
+  },
+  {
+    "id": "1362",
+    "input": "A la frase \"N'és un representant als Països Catalans el torlit\", quina paraula precedeix a la paraula \"un\"?"
+  },
+  {
+    "id": "1366",
+    "input": "A la frase \"Des de llavors van romandre lleials a Esparta\", quina paraula precedeix a la paraula \"lleials\"?"
+  },
+  {
+    "id": "1367",
+    "input": "A la frase \"El deu d'agost na Thaís anirà a Soriguera\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1372",
+    "input": "A la frase \"El nou d'octubre na Dolça va a Prat de Comte\", quina paraula precedeix a la paraula \"de\"?"
+  },
+  {
+    "id": "1375",
+    "input": "A la frase \"Els britànics varen respondre de seguida amb detencions en massa\", quina paraula precedeix a la paraula \"de\"?"
+  },
+  {
+    "id": "1380",
+    "input": "A la frase \"Crec que hi haurà referèndum\", quina paraula precedeix a la paraula \"haurà\"?"
+  },
+  {
+    "id": "1381",
+    "input": "A la frase \"És una banalitat que retrata un dol\", quina paraula precedeix a la paraula \"que\"?"
+  },
+  {
+    "id": "1385",
+    "input": "A la frase \"Així no heu perdut el fil\", quina paraula precedeix a la paraula \"el\"?"
+  },
+  {
+    "id": "1391",
+    "input": "A la frase \"El Vaticà ha reconegut dos miracles\", quina paraula precedeix a la paraula \"dos\"?"
+  },
+  {
+    "id": "1399",
+    "input": "A la frase \"Divendres na Dàlia anirà al teatre\", quina paraula precedeix a la paraula \"na\"?"
+  },
+  {
+    "id": "1404",
+    "input": "A la frase \"Els dos cossos tenen característiques semblants\", quina paraula precedeix a la paraula \"semblants\"?"
+  },
+  {
+    "id": "1414",
+    "input": "A la frase \"És un dels més grans de la província\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1418",
+    "input": "A la frase \"Visca les persones com cal!\", quina paraula precedeix a la paraula \"cal!\"?"
+  },
+  {
+    "id": "1419",
+    "input": "A la frase \"En aquest moment no hi ha cap decisió presa\", quina paraula precedeix a la paraula \"cap\"?"
+  },
+  {
+    "id": "1420",
+    "input": "A la frase \"D'hàbits monògams defensen el seu territori\", quina paraula precedeix a la paraula \"territori\"?"
+  },
+  {
+    "id": "1423",
+    "input": "A la frase \"Només s'han trobat restes d'un crani i una mandíbula\", quina paraula precedeix a la paraula \"restes\"?"
+  },
+  {
+    "id": "1424",
+    "input": "A la frase \"És membre del Club Natació Sabadell\", quina paraula precedeix a la paraula \"del\"?"
+  },
+  {
+    "id": "1426",
+    "input": "A la frase \"Sant de les Esglésies catòlica i ortodoxa\", quina paraula precedeix a la paraula \"de\"?"
+  },
+  {
+    "id": "1429",
+    "input": "A la frase \"Vull reservar un bar a Bonaparte Palau\", quina paraula precedeix a la paraula \"Palau\"?"
+  },
+  {
+    "id": "1434",
+    "input": "A la frase \"Cúmul d'elements favorables al president de la Generalitat\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1443",
+    "input": "A la frase \"Els clades són formats per famílies i ordres\", quina paraula precedeix a la paraula \"i\"?"
+  },
+  {
+    "id": "1447",
+    "input": "A la frase \"Finalment va ser nomenat Aeronauta Oficial de França\", quina paraula precedeix a la paraula \"nomenat\"?"
+  },
+  {
+    "id": "1448",
+    "input": "A la frase \"També treballà en l'edició crítica d'obres de diversos sants\", quina paraula precedeix a la paraula \"de\"?"
+  },
+  {
+    "id": "1449",
+    "input": "A la frase \"El nou d'octubre na Lena anirà a Mollerussa\", quina paraula precedeix a la paraula \"na\"?"
+  },
+  {
+    "id": "1452",
+    "input": "A la frase \"Com els seus germans va fer carrera política\", quina paraula precedeix a la paraula \"política\"?"
+  },
+  {
+    "id": "1457",
+    "input": "A la frase \"Mentrestant treballava per pagar les seves pròpies despeses\", quina paraula precedeix a la paraula \"pròpies\"?"
+  },
+  {
+    "id": "1458",
+    "input": "A la frase \"Un gat ros clapat de blanc\", quina paraula precedeix a la paraula \"blanc\"?"
+  },
+  {
+    "id": "1462",
+    "input": "A la frase \"Com van els tràmits per poder obtenir el visat?\", quina paraula precedeix a la paraula \"el\"?"
+  },
+  {
+    "id": "1471",
+    "input": "A la frase \"Dema aniré a Sant Llorenç d'Hortons\", quina paraula precedeix a la paraula \"Llorenç\"?"
+  },
+  {
+    "id": "1472",
+    "input": "A la frase \"No vull marxar a casa\", quina paraula precedeix a la paraula \"marxar\"?"
+  },
+  {
+    "id": "1474",
+    "input": "A la frase \"Programa la ràdio del rebedor\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1479",
+    "input": "A la frase \"Dimarts mon pare anirà al cinema\", quina paraula precedeix a la paraula \"pare\"?"
+  },
+  {
+    "id": "1483",
+    "input": "A la frase \"Això el va posar en contacte amb la història\", quina paraula precedeix a la paraula \"contacte\"?"
+  },
+  {
+    "id": "1484",
+    "input": "A la frase \"El solc central de la depressió nasal és relativament estret\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1485",
+    "input": "A la frase \"Dilluns en Quim anirà a Cornellà del Terri\", quina paraula precedeix a la paraula \"en\"?"
+  },
+  {
+    "id": "1486",
+    "input": "A la frase \"L'aventura andalusa tampoc va durar gaire\", quina paraula precedeix a la paraula \"andalusa\"?"
+  },
+  {
+    "id": "1487",
+    "input": "A la frase \"No pensen sinó a solaçar-se\", quina paraula precedeix a la paraula \"solaçar-se\"?"
+  },
+  {
+    "id": "1501",
+    "input": "A la frase \"Els membres van triar principalment persones revolucionàries i creients\", quina paraula precedeix a la paraula \"triar\"?"
+  },
+  {
+    "id": "1502",
+    "input": "A la frase \"Els autors antics el presenten com a deforme i viciós\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1517",
+    "input": "A la frase \"Crit del gat enfurismat que estrafà la llengua de Crist\", quina paraula precedeix a la paraula \"gat\"?"
+  },
+  {
+    "id": "1519",
+    "input": "A la frase \"Allò que manca d'olor es denomina inodor\", quina paraula precedeix a la paraula \"inodor\"?"
+  },
+  {
+    "id": "1523",
+    "input": "A la frase \"L'Sten no pot evitar sentir un cert orgull republicà\", quina paraula precedeix a la paraula \"republicà\"?"
+  },
+  {
+    "id": "1527",
+    "input": "A la frase \"Quan passa l'autobús per Sant Iscle de Vallalta?\", quina paraula precedeix a la paraula \"per\"?"
+  },
+  {
+    "id": "1528",
+    "input": "A la frase \"El nou d'octubre na Beth vol anar a Burjassot\", quina paraula precedeix a la paraula \"nou\"?"
+  },
+  {
+    "id": "1529",
+    "input": "A la frase \"Què és el que vol modificar?\", quina paraula precedeix a la paraula \"és\"?"
+  },
+  {
+    "id": "1532",
+    "input": "A la frase \"El vint-i-nou de febrer en David anirà al metge\", quina paraula precedeix a la paraula \"febrer\"?"
+  },
+  {
+    "id": "1537",
+    "input": "A la frase \"El moviment va ser declarat com a heretge per l'Església\", quina paraula precedeix a la paraula \"ser\"?"
+  },
+  {
+    "id": "1538",
+    "input": "A la frase \"Aquesta acció li comportà l'exili a Occitània\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1540",
+    "input": "A la frase \"Dissabte na Núria i n'Hug aniran a visitar mon oncle\", quina paraula precedeix a la paraula \"na\"?"
+  },
+  {
+    "id": "1541",
+    "input": "A la frase \"Línies que uneixen les ciutats d'una manera molt ràpida\", quina paraula precedeix a la paraula \"molt\"?"
+  },
+  {
+    "id": "1542",
+    "input": "A la frase \"Inicialment la pagesia revoltada va col·laborar amb els pobles bàrbars\", quina paraula precedeix a la paraula \"revoltada\"?"
+  },
+  {
+    "id": "1552",
+    "input": "A la frase \"Llavors recluta dos assassins per eliminar la seva muller\", quina paraula precedeix a la paraula \"eliminar\"?"
+  },
+  {
+    "id": "1560",
+    "input": "A la frase \"És un arxiu de titularitat local\", quina paraula precedeix a la paraula \"arxiu\"?"
+  },
+  {
+    "id": "1561",
+    "input": "A la frase \"Totes les finestres conserven la llinda de pedra\", quina paraula precedeix a la paraula \"finestres\"?"
+  },
+  {
+    "id": "1562",
+    "input": "A la frase \"El nou d'octubre en Bernat anirà al metge\", quina paraula precedeix a la paraula \"Bernat\"?"
+  },
+  {
+    "id": "1572",
+    "input": "A la frase \"Es tracta del primer musical rodat en exteriors\", quina paraula precedeix a la paraula \"musical\"?"
+  },
+  {
+    "id": "1573",
+    "input": "A la frase \"Un dels nans s'adona d'això i avisa els altres\", quina paraula precedeix a la paraula \"avisa\"?"
+  },
+  {
+    "id": "1577",
+    "input": "A la frase \"També tenia ramaderia ovina i aviram\", quina paraula precedeix a la paraula \"tenia\"?"
+  },
+  {
+    "id": "1579",
+    "input": "A la frase \"Per aquest motiu la campana fou temporalment despenjada\", quina paraula precedeix a la paraula \"despenjada\"?"
+  },
+  {
+    "id": "1589",
+    "input": "A la frase \"Espanya serà sancionada per la Unió Europea\", quina paraula precedeix a la paraula \"Unió\"?"
+  },
+  {
+    "id": "1591",
+    "input": "A la frase \"Aquesta desviació arriba fins al Corrent d'Agulles\", quina paraula precedeix a la paraula \"fins\"?"
+  },
+  {
+    "id": "1593",
+    "input": "A la frase \"Qui hi ha al grup de captius britànics?\", quina paraula precedeix a la paraula \"hi\"?"
+  },
+  {
+    "id": "1601",
+    "input": "A la frase \"Què té l'animal a les potes?\", quina paraula precedeix a la paraula \"potes?\"?"
+  },
+  {
+    "id": "1603",
+    "input": "A la frase \"Expel·lir ventositats gàstriques per via oral\", quina paraula precedeix a la paraula \"via\"?"
+  },
+  {
+    "id": "1605",
+    "input": "A la frase \"El parament romànic és de carreus petits i rectangulars\", quina paraula precedeix a la paraula \"i\"?"
+  },
+  {
+    "id": "1608",
+    "input": "A la frase \"Es troba a Bulgària Grècia Rússia i Síria\", quina paraula precedeix a la paraula \"Grècia\"?"
+  },
+  {
+    "id": "1615",
+    "input": "A la frase \"Llavors la casaren amb Conrad\", quina paraula precedeix a la paraula \"casaren\"?"
+  },
+  {
+    "id": "1621",
+    "input": "A la frase \"Feta servir a l'americana de segona mà\", quina paraula precedeix a la paraula \"servir\"?"
+  },
+  {
+    "id": "1623",
+    "input": "A la frase \"Tenen un fort sentit de la identitat tribal\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1624",
+    "input": "A la frase \"És l'acte popular més emblemàtic de la festa\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1632",
+    "input": "A la frase \"També realitzà diverses campanyes a la península Ibèrica\", quina paraula precedeix a la paraula \"península\"?"
+  },
+  {
+    "id": "1638",
+    "input": "A la frase \"El vint-i-nou de febrer en David anirà al metge\", quina paraula precedeix a la paraula \"al\"?"
+  },
+  {
+    "id": "1639",
+    "input": "A la frase \"Dissabte en Quel anirà a visitar mon oncle\", quina paraula precedeix a la paraula \"en\"?"
+  },
+  {
+    "id": "1646",
+    "input": "A la frase \"Entre els jugadors habituals la notícia cau com una bomba\", quina paraula precedeix a la paraula \"jugadors\"?"
+  },
+  {
+    "id": "1654",
+    "input": "A la frase \"El cap del districte és la sotsprefectura de Pontoise\", quina paraula precedeix a la paraula \"cap\"?"
+  },
+  {
+    "id": "1665",
+    "input": "A la frase \"Dijous la Maria anirà a Esterri de Cardós\", quina paraula precedeix a la paraula \"Cardós\"?"
+  },
+  {
+    "id": "1671",
+    "input": "A la frase \"El nou d'octubre n'Oriol i na Sança aniran d'excursió\", quina paraula precedeix a la paraula \"na\"?"
+  },
+  {
+    "id": "1673",
+    "input": "A la frase \"Dissabte na Gemma i en Guerau volen anar al teatre\", quina paraula precedeix a la paraula \"al\"?"
+  },
+  {
+    "id": "1679",
+    "input": "A la frase \"Immediatament en Joan s'erigí com a pretendent carlí\", quina paraula precedeix a la paraula \"Joan\"?"
+  },
+  {
+    "id": "1681",
+    "input": "A la frase \"Per la no discriminació lingüística\", quina paraula precedeix a la paraula \"no\"?"
+  },
+  {
+    "id": "1685",
+    "input": "A la frase \"L'Sten no pot evitar sentir un cert orgull republicà\", quina paraula precedeix a la paraula \"orgull\"?"
+  },
+  {
+    "id": "1689",
+    "input": "A la frase \"Ho va escriure i cantar Steve Diggle\", quina paraula precedeix a la paraula \"Steve\"?"
+  },
+  {
+    "id": "1691",
+    "input": "A la frase \"Feta servir a l'americana de segona mà\", quina paraula precedeix a la paraula \"mà\"?"
+  },
+  {
+    "id": "1694",
+    "input": "A la frase \"Què hi ha al carrer Viladecavalls cantonada Ardena?\", quina paraula precedeix a la paraula \"carrer\"?"
+  },
+  {
+    "id": "1697",
+    "input": "A la frase \"Telefona a la Leia Basanta\", quina paraula precedeix a la paraula \"Leia\"?"
+  },
+  {
+    "id": "1709",
+    "input": "A la frase \"Dissabte en Marc i na Laura aniran a la biblioteca\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1714",
+    "input": "A la frase \"Entre els jugadors habituals la notícia cau com una bomba\", quina paraula precedeix a la paraula \"com\"?"
+  },
+  {
+    "id": "1720",
+    "input": "A la frase \"El nou d'octubre na Beth vol anar a Burjassot\", quina paraula precedeix a la paraula \"Burjassot\"?"
+  },
+  {
+    "id": "1731",
+    "input": "A la frase \"El parament romànic és de carreus petits i rectangulars\", quina paraula precedeix a la paraula \"parament\"?"
+  },
+  {
+    "id": "1733",
+    "input": "A la frase \"Va tornar a la ciutat natal Barcelona\", quina paraula precedeix a la paraula \"tornar\"?"
+  },
+  {
+    "id": "1739",
+    "input": "A la frase \"Com puc arribar a Colomers amb tren?\", quina paraula precedeix a la paraula \"Colomers\"?"
+  },
+  {
+    "id": "1741",
+    "input": "A la frase \"Dissabte na Núria i n'Hug aniran a visitar mon oncle\", quina paraula precedeix a la paraula \"Núria\"?"
+  },
+  {
+    "id": "1744",
+    "input": "A la frase \"La seva qualitat és àmpliament reconeguda\", quina paraula precedeix a la paraula \"reconeguda\"?"
+  },
+  {
+    "id": "1747",
+    "input": "A la frase \"José Gabriel Alonso Pascual és un ciclista nascut a Barcelona\", quina paraula precedeix a la paraula \"Gabriel\"?"
+  },
+  {
+    "id": "1748",
+    "input": "A la frase \"Dijous en Marc i na Joana van a Anglesola\", quina paraula precedeix a la paraula \"van\"?"
+  },
+  {
+    "id": "1750",
+    "input": "A la frase \"El model fou exhibit per primera vegada a l'Òpera d'Hamburg\", quina paraula precedeix a la paraula \"primera\"?"
+  },
+  {
+    "id": "1758",
+    "input": "A la frase \"T'asseguro que l'estampa és xocant\", quina paraula precedeix a la paraula \"xocant\"?"
+  },
+  {
+    "id": "1763",
+    "input": "A la frase \"Està agermanada amb la ciutat de València als Països Catalans\", quina paraula precedeix a la paraula \"la\"?"
+  },
+  {
+    "id": "1764",
+    "input": "A la frase \"Això el va posar en contacte amb la història\", quina paraula precedeix a la paraula \"el\"?"
+  },
+  {
+    "id": "1770",
+    "input": "A la frase \"L'obra es troba a la Galeria Borghese Roma\", quina paraula precedeix a la paraula \"Galeria\"?"
+  },
+  {
+    "id": "1774",
+    "input": "A la frase \"Per això explora unes altres vies\", quina paraula precedeix a la paraula \"vies\"?"
+  },
+  {
+    "id": "1778",
+    "input": "A la frase \"El vint-i-nou de febrer na Gemma anirà al cinema\", quina paraula precedeix a la paraula \"al\"?"
+  },
+  {
+    "id": "1780",
+    "input": "A la frase \"És al voltant de la circumferència\", quina paraula precedeix a la paraula \"circumferència\"?"
+  },
+  {
+    "id": "1788",
+    "input": "A la frase \"Quins anys va ser enviada als Estats Units?\", quina paraula precedeix a la paraula \"enviada\"?"
+  },
+  {
+    "id": "1791",
+    "input": "A la frase \"Les decisions d’avui no tenen cap lògica científica\", quina paraula precedeix a la paraula \"decisions\"?"
+  },
+  {
+    "id": "1792",
+    "input": "A la frase \"Aquesta reacció es fa en un medi aquós\", quina paraula precedeix a la paraula \"fa\"?"
+  },
+  {
+    "id": "1797",
+    "input": "A la frase \"Dues subespècies germanes reconegudes actualment i estretament relacionades\", quina paraula precedeix a la paraula \"germanes\"?"
+  },
+  {
+    "id": "1799",
+    "input": "A la frase \"Els gimnastes realitzen moviments sincronitzats i danses\", quina paraula precedeix a la paraula \"gimnastes\"?"
+  },
+  {
+    "id": "1805",
+    "input": "A la frase \"Algunes pedres de les obres encara es poden veure\", quina paraula precedeix a la paraula \"obres\"?"
+  },
+  {
+    "id": "1808",
+    "input": "A la frase \"Diumenge na Dàlia anirà a visitar mon oncle\", quina paraula precedeix a la paraula \"visitar\"?"
+  },
+  {
+    "id": "1810",
+    "input": "A la frase \"Pels europeus però era relativament benigna\", quina paraula precedeix a la paraula \"benigna\"?"
+  },
+  {
+    "id": "1811",
+    "input": "A la frase \"Té poca decoració i cap inscripció\", quina paraula precedeix a la paraula \"i\"?"
+  },
+  {
+    "id": "1815",
+    "input": "A la frase \"Aquest és el punt projectat\", quina paraula precedeix a la paraula \"punt\"?"
+  },
+  {
+    "id": "1829",
+    "input": "A la frase \"Inicialment la pagesia revoltada va col·laborar amb els pobles bàrbars\", quina paraula precedeix a la paraula \"amb\"?"
+  },
+  {
+    "id": "1830",
+    "input": "A la frase \"Hi ha algun lampista als jardins de Villa Clara?\", quina paraula precedeix a la paraula \"Villa\"?"
+  },
+  {
+    "id": "1834",
+    "input": "A la frase \"La ciutat és la seu de dos aeroports\", quina paraula precedeix a la paraula \"dos\"?"
+  },
+  {
+    "id": "1840",
+    "input": "A la frase \"També estudià a la Universitat d'Edimburg Escòcia\", quina paraula precedeix a la paraula \"a\"?"
+  },
+  {
+    "id": "1842",
+    "input": "A la frase \"Com ha arribat Teresa Colom?\", quina paraula precedeix a la paraula \"ha\"?"
+  },
+  {
+    "id": "1845",
+    "input": "A la frase \"L’Olga també estava embarassada en aquell moment\", quina paraula precedeix a la paraula \"aquell\"?"
+  },
+  {
+    "id": "1855",
+    "input": "A la frase \"Es prepara per a exercir de casteller tot amagant panxa\", quina paraula precedeix a la paraula \"amagant\"?"
+  },
+  {
+    "id": "1871",
+    "input": "A la frase \"També ha demanat silenci als mitjans\", quina paraula precedeix a la paraula \"silenci\"?"
+  },
+  {
+    "id": "1873",
+    "input": "A la frase \"Narius anteriors tubulars a cada costat de l'extrem del musell\", quina paraula precedeix a la paraula \"cada\"?"
+  },
+  {
+    "id": "1878",
+    "input": "A la frase \"A la tornada el diari en va ple\", quina paraula precedeix a la paraula \"tornada\"?"
+  },
+  {
+    "id": "1885",
+    "input": "A la frase \"En aquest període havia gravat seixanta alfabets\", quina paraula precedeix a la paraula \"aquest\"?"
+  },
+  {
+    "id": "1888",
+    "input": "A la frase \"Dimarts en Mateu i na Judit aniran a la Llacuna\", quina paraula precedeix a la paraula \"en\"?"
+  },
+  {
+    "id": "1891",
+    "input": "A la frase \"El treball dels agricultors d'allà és magnífic\", quina paraula precedeix a la paraula \"dels\"?"
+  },
+  {
+    "id": "1895",
+    "input": "A la frase \"Quantes parades té el trajecte en autobús fins a Cadaqués?\", quina paraula precedeix a la paraula \"autobús\"?"
+  },
+  {
+    "id": "1896",
+    "input": "A la frase \"És protegida com a bé cultural d'interès local\", quina paraula precedeix a la paraula \"cultural\"?"
+  },
+  {
+    "id": "1898",
+    "input": "A la frase \"També hi va acudir el governador de la Mauritània Tingitana\", quina paraula precedeix a la paraula \"Tingitana\"?"
+  },
+  {
+    "id": "1902",
+    "input": "A la frase \"Demà en Bernat anirà a la biblioteca\", quina paraula precedeix a la paraula \"en\"?"
+  },
+  {
+    "id": "1912",
+    "input": "A la frase \"Què venen al carrer dels Tres Llits número cinquanta?\", quina paraula precedeix a la paraula \"Tres\"?"
+  },
+  {
+    "id": "1913",
+    "input": "A la frase \"El nou d'octubre na Bruna anirà a la biblioteca\", quina paraula precedeix a la paraula \"Bruna\"?"
+  },
+  {
+    "id": "1914",
+    "input": "A la frase \"No hi ha barber mut ni músic tossut\", quina paraula precedeix a la paraula \"hi\"?"
+  },
+  {
+    "id": "1917",
+    "input": "A la frase \"Per Cap d'Any na Sira anirà a Càrcer\", quina paraula precedeix a la paraula \"d'Any\"?"
+  },
+  {
+    "id": "1926",
+    "input": "A la frase \"La seva hibernació té lloc entre octubre i abril-maig\", quina paraula precedeix a la paraula \"té\"?"
+  },
+  {
+    "id": "1933",
+    "input": "A la frase \"Les llengües celtes comencen la seva expansió a Europa\", quina paraula precedeix a la paraula \"comencen\"?"
+  },
+  {
+    "id": "1936",
+    "input": "A la frase \"Sílvia Espinosa i Mirabet és una periodista nascuda a Terrassa\", quina paraula precedeix a la paraula \"Espinosa\"?"
+  },
+  {
+    "id": "1937",
+    "input": "A la frase \"La Biblioteca Museu Víctor Balaguer conserva obres seves\", quina paraula precedeix a la paraula \"Biblioteca\"?"
+  },
+  {
+    "id": "1938",
+    "input": "A la frase \"Vaig als jardins de Rosa Luxemburg\", quina paraula precedeix a la paraula \"jardins\"?"
+  },
+  {
+    "id": "1945",
+    "input": "A la frase \"Moore va néixer i créixer a Baltimore Maryland\", quina paraula precedeix a la paraula \"Baltimore\"?"
+  },
+  {
+    "id": "1955",
+    "input": "A la frase \"El pont té l'obertura principal més llarga del país\", quina paraula precedeix a la paraula \"més\"?"
+  },
+  {
+    "id": "1957",
+    "input": "A la frase \"Per què no enderroquem l'edifici?\", quina paraula precedeix a la paraula \"què\"?"
+  },
+  {
+    "id": "1972",
+    "input": "A la frase \"El Zygentoma també va ser ascendit a l'estat d'ordre absolut\", quina paraula precedeix a la paraula \"d'ordre\"?"
+  },
+  {
+    "id": "1973",
+    "input": "A la frase \"Manuel Delgado Ruiz és un antropòleg nascut a Barcelona\", quina paraula precedeix a la paraula \"antropòleg\"?"
+  },
+  {
+    "id": "1978",
+    "input": "A la frase \"Diumenge na Sira anirà d'excursió\", quina paraula precedeix a la paraula \"d'excursió\"?"
+  },
+  {
+    "id": "1981",
+    "input": "A la frase \"Fugir com un ca llebrer\", quina paraula precedeix a la paraula \"un\"?"
+  },
+  {
+    "id": "1985",
+    "input": "A la frase \"Deu haver sortit a fumar\", quina paraula precedeix a la paraula \"fumar\"?"
+  },
+  {
+    "id": "1995",
+    "input": "A la frase \"Els interessos econòmics no han d'imposar límits a la democràcia\", quina paraula precedeix a la paraula \"democràcia\"?"
+  }
+]

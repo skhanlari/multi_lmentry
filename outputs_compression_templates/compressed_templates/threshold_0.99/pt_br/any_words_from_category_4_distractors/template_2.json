@@ -1,0 +1,722 @@
+[
+  {
+    "id": "1002",
+    "input": "Todas estas palavras \"boné\", \"bilhete\", \"tristeza\", \"unha\" y \"bateria\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1017",
+    "input": "Todas estas palavras \"azul\", \"transação\", \"músculo\", \"fracasso\" y \"girafa\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1019",
+    "input": "Todas estas palavras \"táxi\", \"açougueiro\", \"presença\", \"romance\" y \"neto\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1025",
+    "input": "Todas estas palavras \"namorada\", \"boliche\", \"litro\", \"rato\" y \"tsunami\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1029",
+    "input": "Todas estas palavras \"tornado\", \"vôlei\", \"movimento\", \"quantidade\" y \"ar\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1034",
+    "input": "Todas estas palavras \"diminuição\", \"antropólogo\", \"rua\", \"rosa\" y \"avião\" representam um tipo de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1035",
+    "input": "Todas estas palavras \"tráfego\", \"equipe\", \"acerto\", \"crise\" y \"minoria\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1039",
+    "input": "Todas estas palavras \"velocidade\", \"pensamento\", \"amiga\", \"condição\" y \"centímetro\" representam um tipo de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1050",
+    "input": "Todas estas palavras \"conhecida\", \"milímetro\", \"prazer\", \"força\" y \"função\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1054",
+    "input": "Todas estas palavras \"hipismo\", \"ouro\", \"bebê\", \"rua\" y \"guitarra\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1057",
+    "input": "Todas estas palavras \"congresso\", \"cidade\", \"drama\", \"consumo\" y \"padaria\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1067",
+    "input": "Todas estas palavras \"segredo\", \"azul\", \"basquete\", \"agulha\" y \"preposição\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1077",
+    "input": "Todas estas palavras \"borboleta\", \"inundação\", \"carteiro\", \"quantidade\" y \"tela\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1086",
+    "input": "Todas estas palavras \"musical\", \"nação\", \"natureza\", \"peixe\" y \"suéter\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1093",
+    "input": "Todas estas palavras \"criatura\", \"série\", \"tabacaria\", \"mosquito\" y \"professor\" representam um tipo de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1114",
+    "input": "Todas estas palavras \"ônibus\", \"águia\", \"hipismo\", \"código\" y \"joalheria\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1130",
+    "input": "Todas estas palavras \"véu\", \"ator\", \"palma\", \"governo\" y \"palavra\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1150",
+    "input": "Todas estas palavras \"fio\", \"vez\", \"primo\", \"meias\" y \"hóquei\" representam um tipo de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1151",
+    "input": "Todas estas palavras \"canela\", \"diminuição\", \"aparelho\", \"natação\" y \"quilo\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1158",
+    "input": "Todas estas palavras \"pé\", \"avião\", \"clube\", \"segunda-feira\" y \"dinheiro\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1175",
+    "input": "Todas estas palavras \"estado\", \"casamento\", \"chumbo\", \"porta\" y \"filha\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1178",
+    "input": "Todas estas palavras \"objeto\", \"idoso\", \"casa\", \"origem\" y \"esgrima\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1185",
+    "input": "Todas estas palavras \"lodo\", \"minoria\", \"ciclismo\", \"obrigação\" y \"oceano\" representam um tipo de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1186",
+    "input": "Todas estas palavras \"desejo\", \"conhecida\", \"mercado\", \"praia\" y \"mesa\" representam um tipo de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1189",
+    "input": "Todas estas palavras \"terror\", \"marido\", \"benefício\", \"associação\" y \"palma\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1190",
+    "input": "Todas estas palavras \"mergulho\", \"sequência\", \"furacão\", \"mesa\" y \"organização\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1196",
+    "input": "Todas estas palavras \"bateria\", \"golfe\", \"galinha\", \"dinheiro\" y \"médico\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1199",
+    "input": "Todas estas palavras \"tarifa\", \"aeroporto\", \"pensamento\", \"ataque\" y \"boxe\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1201",
+    "input": "Todas estas palavras \"skate\", \"força\", \"situação\", \"criatura\" y \"posição\" representam um tipo de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1203",
+    "input": "Todas estas palavras \"ervilha\", \"golfe\", \"rua\", \"gafanhoto\" y \"véu\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1211",
+    "input": "Todas estas palavras \"tamanho\", \"camisa\", \"quantidade\", \"obrigação\" y \"bar\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1222",
+    "input": "Todas estas palavras \"mentira\", \"varanda\", \"cadarço\", \"badminton\" y \"falta\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1230",
+    "input": "Todas estas palavras \"velejo\", \"avalanche\", \"cachorro\", \"advérbio\" y \"patins\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1242",
+    "input": "Todas estas palavras \"vôlei\", \"braço\", \"inseto\", \"direito\" y \"série\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1248",
+    "input": "Todas estas palavras \"indivíduo\", \"possibilidade\", \"calcanhar\", \"garçom\" y \"cotovelo\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1252",
+    "input": "Todas estas palavras \"preto\", \"realidade\", \"suspense\", \"velocidade\" y \"surf\" representam um tipo de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1257",
+    "input": "Todas estas palavras \"tsunami\", \"boné\", \"sobrinho\", \"natureza\" y \"dano\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1265",
+    "input": "Todas estas palavras \"sunga\", \"raiva\", \"veado\", \"personalidade\" y \"benefício\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1283",
+    "input": "Todas estas palavras \"calcinha\", \"construção\", \"mecânico\", \"escola\" y \"inundação\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1288",
+    "input": "Todas estas palavras \"montanha\", \"cueca\", \"mililitro\", \"economia\" y \"borboleta\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1291",
+    "input": "Todas estas palavras \"decreto\", \"avalanche\", \"interrupção\", \"biquíni\" y \"substantivo\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1294",
+    "input": "Todas estas palavras \"psicólogo\", \"gorro\", \"advogado\", \"casamento\" y \"parlamentar\" representam um tipo de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1299",
+    "input": "Todas estas palavras \"janela\", \"pimentão\", \"benefício\", \"situação\" y \"corte\" representam um tipo de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1300",
+    "input": "Todas estas palavras \"constituição\", \"ditadura\", \"tristeza\", \"bicicleta\" y \"lesma\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1312",
+    "input": "Todas estas palavras \"adulto\", \"setor\", \"namorado\", \"braço\" y \"demanda\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1317",
+    "input": "Todas estas palavras \"rota\", \"palma\", \"sucesso\", \"acelga\" y \"sexta-feira\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1326",
+    "input": "Todas estas palavras \"estado\", \"personalidade\", \"aranha\", \"reprodução\" y \"músculo\" representam um tipo de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1331",
+    "input": "Todas estas palavras \"mercearia\", \"padaria\", \"couve\", \"ratazana\" y \"furadeira\" representam um tipo de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1335",
+    "input": "Todas estas palavras \"handebol\", \"origem\", \"irmão\", \"via\" y \"pele\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1337",
+    "input": "Todas estas palavras \"senhor\", \"musical\", \"tarifa\", \"tédio\" y \"borboleta\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1351",
+    "input": "Todas estas palavras \"comédia\", \"boliche\", \"diferença\", \"sensação\" y \"ferro\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1355",
+    "input": "Todas estas palavras \"ovelha\", \"trompete\", \"organização\", \"apartamento\" y \"segurança\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1356",
+    "input": "Todas estas palavras \"carteiro\", \"centímetro\", \"gente\", \"furadeira\" y \"dentista\" representam um tipo de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1360",
+    "input": "Todas estas palavras \"menino\", \"confiança\", \"adulto\", \"gato\" y \"mercado\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1362",
+    "input": "Todas estas palavras \"chumbo\", \"manga\", \"cientista\", \"braço\" y \"sapo\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1365",
+    "input": "Todas estas palavras \"abóbora\", \"médico\", \"dor\", \"violão\" y \"colega\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1366",
+    "input": "Todas estas palavras \"cadeira\", \"quantidade\", \"natação\", \"atitude\" y \"rua\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1370",
+    "input": "Todas estas palavras \"total\", \"idoso\", \"retrocesso\", \"processo\" y \"sal\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1375",
+    "input": "Todas estas palavras \"bebê\", \"senhor\", \"cabo\", \"estômago\" y \"moto\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1387",
+    "input": "Todas estas palavras \"tarifa\", \"maioria\", \"província\", \"boliche\" y \"vermelho\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1393",
+    "input": "Todas estas palavras \"encontro\", \"drama\", \"professor\", \"tristeza\" y \"saco\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1394",
+    "input": "Todas estas palavras \"cadeira\", \"lama\", \"solução\", \"agulha\" y \"saxofone\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1397",
+    "input": "Todas estas palavras \"rato\", \"existência\", \"girafa\", \"amigo\" y \"preço\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1399",
+    "input": "Todas estas palavras \"azul\", \"couve\", \"ônibus\", \"metal\" y \"demanda\" representam um tipo de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1402",
+    "input": "Todas estas palavras \"violino\", \"lagarto\", \"lago\", \"atenção\" y \"ministro\" representam um tipo de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1415",
+    "input": "Todas estas palavras \"cavalo\", \"processo\", \"amarelo\", \"biólogo\" y \"martelo\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1418",
+    "input": "Todas estas palavras \"sensação\", \"terça-feira\", \"tia\", \"cinto\" y \"conjunção\" representam um tipo de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1419",
+    "input": "Todas estas palavras \"cabeça\", \"enchente\", \"montanha\", \"edifício\" y \"sutiã\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1425",
+    "input": "Todas estas palavras \"gás\", \"campo\", \"possibilidade\", \"mãe\" y \"bisneto\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1427",
+    "input": "Todas estas palavras \"milímetro\", \"parada\", \"contrabaixo\", \"escola\" y \"conteúdo\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1429",
+    "input": "Todas estas palavras \"braço\", \"roupa\", \"estado\", \"estação\" y \"boxe\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1437",
+    "input": "Todas estas palavras \"função\", \"altura\", \"semelhança\", \"avião\" y \"equipe\" representam um tipo de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1451",
+    "input": "Todas estas palavras \"avenida\", \"pintor\", \"batata\", \"sobrinho\" y \"quilo\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1452",
+    "input": "Todas estas palavras \"criação\", \"inseto\", \"mergulho\", \"realidade\" y \"comércio\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1462",
+    "input": "Todas estas palavras \"presença\", \"brócolis\", \"sentido\", \"atum\" y \"município\" representam um tipo de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1464",
+    "input": "Todas estas palavras \"cadarço\", \"minhoca\", \"jaqueta\", \"adulta\" y \"cabeleireiro\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1467",
+    "input": "Todas estas palavras \"projeto\", \"engenheiro\", \"violino\", \"interrupção\" y \"tio\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1468",
+    "input": "Todas estas palavras \"medida\", \"padeiro\", \"tigre\", \"formalidade\" y \"capoeira\" representam um tipo de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1477",
+    "input": "Todas estas palavras \"centímetro\", \"atum\", \"rota\", \"tarifa\" y \"neta\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1484",
+    "input": "Todas estas palavras \"comércio\", \"moto\", \"desejo\", \"pepino\" y \"clube\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1490",
+    "input": "Todas estas palavras \"flauta\", \"avalanche\", \"costa\", \"assistente\" y \"girafa\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1491",
+    "input": "Todas estas palavras \"rua\", \"cebola\", \"pintor\", \"ataque\" y \"senhor\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1494",
+    "input": "Todas estas palavras \"benefício\", \"terça-feira\", \"batata\", \"coisa\" y \"escritório\" representam um tipo de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1497",
+    "input": "Todas estas palavras \"nascimento\", \"prima\", \"cientista\", \"contrabaixo\" y \"fio\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1502",
+    "input": "Todas estas palavras \"fecho\", \"égua\", \"direito\", \"roxo\" y \"programador\" representam um tipo de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1507",
+    "input": "Todas estas palavras \"ferro\", \"palma\", \"quilômetro\", \"sentido\" y \"gravata\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1508",
+    "input": "Todas estas palavras \"ditadura\", \"paz\", \"onça\", \"parada\" y \"lembrança\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1509",
+    "input": "Todas estas palavras \"comédia\", \"acordo\", \"pai\", \"altura\" y \"programa\" representam um tipo de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1516",
+    "input": "Todas estas palavras \"aeroporto\", \"bigode\", \"clube\", \"litro\" y \"peixaria\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1517",
+    "input": "Todas estas palavras \"peito\", \"altura\", \"rato\", \"governador\" y \"preto\" representam um tipo de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1523",
+    "input": "Todas estas palavras \"paz\", \"rodovia\", \"rio\", \"pessoa\" y \"gato\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1524",
+    "input": "Todas estas palavras \"astronauta\", \"sunga\", \"fantasia\", \"dedo\" y \"pasto\" representam um tipo de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1528",
+    "input": "Todas estas palavras \"saia\", \"encanador\", \"fracasso\", \"caracol\" y \"açougue\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1529",
+    "input": "Todas estas palavras \"diminuição\", \"monte\", \"ouro\", \"abobrinha\" y \"gás\" representam um tipo de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1539",
+    "input": "Todas estas palavras \"patins\", \"tigre\", \"associação\", \"musical\" y \"ataque\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1555",
+    "input": "Todas estas palavras \"pimentão\", \"conhecida\", \"sapato\", \"preto\" y \"gente\" representam um tipo de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1561",
+    "input": "Todas estas palavras \"padaria\", \"milho\", \"pepino\", \"canela\" y \"entrada\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1578",
+    "input": "Todas estas palavras \"cirurgião\", \"assistente\", \"namorado\", \"furacão\" y \"costas\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1582",
+    "input": "Todas estas palavras \"tentativa\", \"transporte\", \"produto\", \"velocidade\" y \"coisa\" representam um tipo de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1586",
+    "input": "Todas estas palavras \"porco\", \"construção\", \"pepino\", \"gás\" y \"segunda-feira\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1587",
+    "input": "Todas estas palavras \"açougue\", \"meias\", \"bisneta\", \"demanda\" y \"substantivo\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1590",
+    "input": "Todas estas palavras \"coxa\", \"gorro\", \"pássaro\", \"cabelo\" y \"peso\" representam um tipo de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1595",
+    "input": "Todas estas palavras \"atitude\", \"pepino\", \"natureza\", \"tsunami\" y \"cavalo\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1597",
+    "input": "Todas estas palavras \"ginástica\", \"menino\", \"águia\", \"jacaré\" y \"cachecol\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1607",
+    "input": "Todas estas palavras \"perna\", \"senhor\", \"mar\", \"movimento\" y \"cidade\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1608",
+    "input": "Todas estas palavras \"campanha\", \"advérbio\", \"legging\", \"elevador\" y \"clarinete\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1613",
+    "input": "Todas estas palavras \"branco\", \"comprimento\", \"cadarço\", \"consciência\" y \"coração\" representam um tipo de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1615",
+    "input": "Todas estas palavras \"ginástica\", \"verdade\", \"prata\", \"musical\" y \"falcão\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1616",
+    "input": "Todas estas palavras \"aldeia\", \"badminton\", \"crise\", \"crocodilo\" y \"cérebro\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1623",
+    "input": "Todas estas palavras \"avó\", \"drama\", \"série\", \"saia\" y \"bota\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1631",
+    "input": "Todas estas palavras \"badminton\", \"conjunto\", \"lesma\", \"cebola\" y \"eletricista\" representam um tipo de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1632",
+    "input": "Todas estas palavras \"monte\", \"neto\", \"lodo\", \"boné\" y \"aparelho\" representam um tipo de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1638",
+    "input": "Todas estas palavras \"rã\", \"osso\", \"automóvel\", \"idoso\" y \"caraterística\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1639",
+    "input": "Todas estas palavras \"advogado\", \"biblioteca\", \"coelho\", \"ônibus\" y \"casaco\" representam um tipo de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1654",
+    "input": "Todas estas palavras \"caráter\", \"setor\", \"fecho\", \"tato\" y \"gari\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1661",
+    "input": "Todas estas palavras \"comunidade\", \"patinação\", \"nome\", \"milho\" y \"pintor\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1667",
+    "input": "Todas estas palavras \"moto\", \"onça\", \"suéter\", \"veado\" y \"padeiro\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1669",
+    "input": "Todas estas palavras \"corpo\", \"hotel\", \"ciclismo\", \"sentido\" y \"neta\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1671",
+    "input": "Todas estas palavras \"boné\", \"ônibus\", \"tipo\", \"loja\" y \"princípio\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1681",
+    "input": "Todas estas palavras \"medo\", \"sexta-feira\", \"inundação\", \"cama\" y \"selva\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1683",
+    "input": "Todas estas palavras \"manga\", \"escritório\", \"ginástica\", \"camarão\" y \"martelo\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1689",
+    "input": "Todas estas palavras \"saia\", \"vila\", \"rio\", \"verdade\" y \"quarta-feira\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1694",
+    "input": "Todas estas palavras \"pé\", \"clarinete\", \"fase\", \"tela\" y \"bisneto\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1695",
+    "input": "Todas estas palavras \"organização\", \"criação\", \"natureza\", \"jaqueta\" y \"atenção\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1703",
+    "input": "Todas estas palavras \"pasto\", \"laranja\", \"arma\", \"nível\" y \"hipismo\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1714",
+    "input": "Todas estas palavras \"consumo\", \"gorro\", \"setor\", \"dor\" y \"verde\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1721",
+    "input": "Todas estas palavras \"terror\", \"juiz\", \"gari\", \"namorada\" y \"lama\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1728",
+    "input": "Todas estas palavras \"criação\", \"milímetro\", \"atenção\", \"água\" y \"adulto\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1732",
+    "input": "Todas estas palavras \"direito\", \"neto\", \"valor\", \"orelha\" y \"surpresa\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1733",
+    "input": "Todas estas palavras \"destino\", \"futuro\", \"empresa\", \"prazer\" y \"necessidade\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1741",
+    "input": "Todas estas palavras \"saxofone\", \"erro\", \"escalada\", \"princípio\" y \"unha\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1742",
+    "input": "Todas estas palavras \"fundo\", \"milímetro\", \"suspense\", \"cebola\" y \"jornalista\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1745",
+    "input": "Todas estas palavras \"girafa\", \"palavra\", \"cor\", \"trem\" y \"milho\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1751",
+    "input": "Todas estas palavras \"colega\", \"coisa\", \"fundo\", \"fim\" y \"objetivo\" representam um tipo de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1761",
+    "input": "Todas estas palavras \"bicho\", \"varanda\", \"psicólogo\", \"vez\" y \"mãe\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1764",
+    "input": "Todas estas palavras \"avalanche\", \"autoridade\", \"capoeira\", \"rua\" y \"largura\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1766",
+    "input": "Todas estas palavras \"quadril\", \"azul\", \"senador\", \"filha\" y \"varanda\" representam um tipo de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1770",
+    "input": "Todas estas palavras \"lula\", \"ratazana\", \"lagosta\", \"fim\" y \"consumo\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1771",
+    "input": "Todas estas palavras \"susto\", \"degradação\", \"ouro\", \"furacão\" y \"preto\" representam um tipo de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1773",
+    "input": "Todas estas palavras \"câmera\", \"banheiro\", \"benefício\", \"tsunami\" y \"lábio\" representam um tipo de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1777",
+    "input": "Todas estas palavras \"clube\", \"setor\", \"empresa\", \"tarifa\" y \"segunda-feira\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1789",
+    "input": "Todas estas palavras \"porco\", \"senhora\", \"braço\", \"quadril\" y \"determinante\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1790",
+    "input": "Todas estas palavras \"óculos\", \"grau\", \"biblioteca\", \"monte\" y \"cenoura\" representam um tipo de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1791",
+    "input": "Todas estas palavras \"biquíni\", \"ônibus\", \"raiva\", \"entrada\" y \"criatura\" representam um tipo de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1793",
+    "input": "Todas estas palavras \"drama\", \"óculos\", \"pousada\", \"fase\" y \"boliche\" representam um tipo de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1798",
+    "input": "Todas estas palavras \"restaurante\", \"prefeitura\", \"menino\", \"degradação\" y \"montanha\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1800",
+    "input": "Todas estas palavras \"hotel\", \"cueca\", \"tema\", \"astronauta\" y \"minoria\" representam um tipo de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1808",
+    "input": "Todas estas palavras \"menino\", \"objeto\", \"objetivo\", \"lula\" y \"lapela\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1810",
+    "input": "Todas estas palavras \"berinjela\", \"ditadura\", \"cansaço\", \"adjetivo\" y \"pepino\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1817",
+    "input": "Todas estas palavras \"camisa\", \"trem\", \"escalada\", \"problema\" y \"metal\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1820",
+    "input": "Todas estas palavras \"peso\", \"inundação\", \"cinza\", \"cadeira\" y \"livraria\" representam um tipo de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1824",
+    "input": "Todas estas palavras \"conjunção\", \"boca\", \"governo\", \"bilhete\" y \"sunga\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1837",
+    "input": "Todas estas palavras \"gravata\", \"água\", \"dinheiro\", \"cachorro\" y \"dentista\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1843",
+    "input": "Todas estas palavras \"rabanete\", \"psicólogo\", \"legging\", \"nome\" y \"patinete\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1849",
+    "input": "Todas estas palavras \"padaria\", \"reprodução\", \"estrutura\", \"couve-flor\" y \"namorada\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1865",
+    "input": "Todas estas palavras \"benefício\", \"violino\", \"cadeira\", \"anarquia\" y \"vermelho\" representam um tipo de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1878",
+    "input": "Todas estas palavras \"humano\", \"cotovelo\", \"acelga\", \"livraria\" y \"coxa\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1880",
+    "input": "Todas estas palavras \"mecânico\", \"retrocesso\", \"halterofilismo\", \"biquíni\" y \"sal\" representam um tipo de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1892",
+    "input": "Todas estas palavras \"homem\", \"estação\", \"couve-flor\", \"espinafre\" y \"dor\" representam um tipo de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1896",
+    "input": "Todas estas palavras \"tigre\", \"romance\", \"situação\", \"bisavô\" y \"manga\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1897",
+    "input": "Todas estas palavras \"martelo\", \"mercado\", \"floresta\", \"milímetro\" y \"retrocesso\" representam um tipo de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1903",
+    "input": "Todas estas palavras \"demanda\", \"cachorro\", \"preto\", \"quarta-feira\" y \"exemplo\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1910",
+    "input": "Todas estas palavras \"meta\", \"probabilidade\", \"advérbio\", \"boxe\" y \"endereço\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1912",
+    "input": "Todas estas palavras \"nome\", \"carro\", \"metal\", \"borboleta\" y \"atletismo\" representam um tipo de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1918",
+    "input": "Todas estas palavras \"minoria\", \"barro\", \"amarelo\", \"prima\" y \"segredo\" representam um tipo de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1921",
+    "input": "Todas estas palavras \"ginástica\", \"sunga\", \"quarta-feira\", \"cebola\" y \"bicicleta\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1922",
+    "input": "Todas estas palavras \"personalidade\", \"gelo\", \"bigode\", \"causa\" y \"substantivo\" representam um tipo de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1923",
+    "input": "Todas estas palavras \"associação\", \"humano\", \"canoagem\", \"possibilidade\" y \"elefante\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1925",
+    "input": "Todas estas palavras \"fígado\", \"juiz\", \"patinete\", \"mosca\" y \"táxi\" representam um tipo de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1929",
+    "input": "Todas estas palavras \"necessidade\", \"olho\", \"ratazana\", \"rota\" y \"guerra\" representam um tipo de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1935",
+    "input": "Todas estas palavras \"peixaria\", \"praia\", \"brócolis\", \"vida\" y \"mãe\" representam um tipo de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1940",
+    "input": "Todas estas palavras \"bonde\", \"político\", \"idosa\", \"atividade\" y \"dinheiro\" representam um tipo de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1941",
+    "input": "Todas estas palavras \"monte\", \"campo\", \"peito\", \"confiança\" y \"rã\" representam um tipo de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1943",
+    "input": "Todas estas palavras \"governo\", \"lagarto\", \"patins\", \"entrada\" y \"avó\" representam um tipo de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1945",
+    "input": "Todas estas palavras \"chumbo\", \"delegacia\", \"roupa\", \"programa\" y \"porta\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1950",
+    "input": "Todas estas palavras \"terror\", \"sinuca\", \"pasto\", \"valor\" y \"função\" representam um tipo de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1960",
+    "input": "Todas estas palavras \"casaco\", \"patins\", \"floricultura\", \"alho-poró\" y \"onça\" representam um tipo de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1966",
+    "input": "Todas estas palavras \"pousada\", \"tela\", \"cor\", \"músculo\" y \"terça-feira\" representam um tipo de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1970",
+    "input": "Todas estas palavras \"neto\", \"mililitro\", \"berinjela\", \"macaco\" y \"corda\" representam um tipo de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "1992",
+    "input": "Todas estas palavras \"interrupção\", \"diretor\", \"neto\", \"professor\" y \"casaco\" representam um tipo de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "2003",
+    "input": "A seguinte lista [\"nacemento\", \"reprodución\", \"ser\", \"especie\", \"vida\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2009",
+    "input": "A seguinte lista [\"rúa\", \"camiño\", \"bicicleta\", \"neta\", \"ferrocarril\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2013",
+    "input": "A seguinte lista [\"bebé\", \"balonmán\", \"cabaleiro\", \"neno\", \"nena\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2014",
+    "input": "A seguinte lista [\"azul\", \"laranxa\", \"branco\", \"verde\", \"gris\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2016",
+    "input": "A seguinte lista [\"luns\", \"carnizaría\", \"mércores\", \"venres\", \"xoves\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2020",
+    "input": "A seguinte lista [\"morado\", \"azul\", \"amarillo\", \"marrón\", \"vermello\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2021",
+    "input": "A seguinte lista [\"ascensor\", \"avenida\", \"construcción\", \"panel\", \"fogar\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2022",
+    "input": "A seguinte lista [\"construcción\", \"comisión\", \"departamento\", \"congreso\", \"norma\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2024",
+    "input": "A seguinte lista [\"cafetaría\", \"charcutaría\", \"hotel\", \"carnizaría\", \"estanco\"] contén só lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2031",
+    "input": "A seguinte lista [\"substantivo\", \"pronombre\", \"verbo\", \"billete\", \"adverbio\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2032",
+    "input": "A seguinte lista [\"venres\", \"xoves\", \"luns\", \"sábado\", \"martes\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2033",
+    "input": "A seguinte lista [\"atletismo\", \"fogar\", \"construcción\", \"porta\", \"casa\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2035",
+    "input": "A seguinte lista [\"ruta\", \"coche\", \"tren\", \"estación\", \"aeroporto\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2036",
+    "input": "A seguinte lista [\"vila\", \"empresa\", \"obriga\", \"autoridade\", \"poboación\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2037",
+    "input": "A seguinte lista [\"lugar\", \"posición\", \"maioría\", \"movemento\", \"fondo\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2038",
+    "input": "A seguinte lista [\"peche\", \"campaña\", \"país\", \"poboación\", \"dereito\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2039",
+    "input": "A seguinte lista [\"ravo\", \"espinacas\", \"patacas\", \"repolo\", \"cenorias\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2040",
+    "input": "A seguinte lista [\"democracia\", \"ditadura\", \"poboación\", \"fontaneira\", \"municipio\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2042",
+    "input": "A seguinte lista [\"suspense\", \"terror\", \"fantasía\", \"comedia\", \"bisneta\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2043",
+    "input": "A seguinte lista [\"atletismo\", \"golf\", \"gimnasia\", \"esquí\", \"waterpolo\"] contén só deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2046",
+    "input": "A seguinte lista [\"incendio\", \"inundación\", \"terremoto\", \"tornado\", \"avalancha\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2047",
+    "input": "A seguinte lista [\"morado\", \"rosa\", \"xornalista\", \"laranxa\", \"marrón\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2049",
+    "input": "A seguinte lista [\"tsunami\", \"terremoto\", \"tornado\", \"huracán\", \"inundación\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2056",
+    "input": "A seguinte lista [\"lentes\", \"sentido\", \"vaqueiros\", \"prenda\", \"bolso\"] contén só roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2058",
+    "input": "A seguinte lista [\"cargo\", \"oficina\", \"escola\", \"biblioteca\", \"bar\"] contén só lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2066",
+    "input": "A seguinte lista [\"auga\", \"lume\", \"ouro\", \"ferro\", \"barro\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2068",
+    "input": "A seguinte lista [\"sal\", \"aire\", \"ollo\", \"prata\", \"ferro\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2069",
+    "input": "A seguinte lista [\"cadeira\", \"diñeiro\", \"produción\", \"consumo\", \"mercado\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2070",
+    "input": "A seguinte lista [\"sábado\", \"venres\", \"domingo\", \"luns\", \"martes\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2071",
+    "input": "A seguinte lista [\"batería\", \"violín\", \"frauta\", \"maioría\", \"clarinete\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2074",
+    "input": "A seguinte lista [\"terror\", \"vida\", \"suspense\", \"drama\", \"comedia\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2078",
+    "input": "A seguinte lista [\"formalidade\", \"escritorio\", \"edificio\", \"construcción\", \"habitación\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2084",
+    "input": "A seguinte lista [\"constitución\", \"empresa\", \"comisión\", \"ditadura\", \"norma\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2087",
+    "input": "A seguinte lista [\"aparato\", \"cordel\", \"corda\", \"cámara\", \"chave\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2088",
+    "input": "A seguinte lista [\"medida\", \"mililitro\", \"peso\", \"gramo\", \"total\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2089",
+    "input": "A seguinte lista [\"chumbo\", \"auga\", \"xeo\", \"gas\", \"ferro\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2090",
+    "input": "A seguinte lista [\"muller\", \"pai\", \"nai\", \"familia\", \"coñecido\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2094",
+    "input": "A seguinte lista [\"xirafa\", \"paxaro\", \"ovella\", \"lagarto\", \"rata\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2095",
+    "input": "A seguinte lista [\"avalancha\", \"inundación\", \"terremoto\", \"incendio\", \"seca\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2096",
+    "input": "A seguinte lista [\"medida\", \"gramo\", \"litro\", \"cantidade\", \"total\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2099",
+    "input": "A seguinte lista [\"valor\", \"natación\", \"billete\", \"produto\", \"consumo\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2102",
+    "input": "A seguinte lista [\"lugar\", \"largo\", \"brócoli\", \"fondo\", \"tamaño\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2106",
+    "input": "A seguinte lista [\"verbo\", \"adxectivo\", \"autoescola\", \"determinante\", \"substantivo\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2110",
+    "input": "A seguinte lista [\"rúa\", \"mentira\", \"tráfico\", \"barco\", \"bicicleta\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2116",
+    "input": "A seguinte lista [\"oso\", \"codo\", \"ombreiro\", \"fígado\", \"lombo\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2120",
+    "input": "A seguinte lista [\"adxectivo\", \"determinante\", \"substantivo\", \"verbo\", \"preposición\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2128",
+    "input": "A seguinte lista [\"curmán\", \"adxectivo\", \"adverbio\", \"determinante\", \"preposición\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2132",
+    "input": "A seguinte lista [\"substantivo\", \"pronombre\", \"conxunción\", \"determinante\", \"adxectivo\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2134",
+    "input": "A seguinte lista [\"lagarto\", \"señor\", \"don\", \"cabaleiro\", \"adolescente\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2139",
+    "input": "A seguinte lista [\"morado\", \"amarillo\", \"celeste\", \"laranxa\", \"rosa\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2141",
+    "input": "A seguinte lista [\"produción\", \"valor\", \"agulla\", \"diñeiro\", \"prezo\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2144",
+    "input": "A seguinte lista [\"camiño\", \"tornado\", \"tsunami\", \"incendio\", \"inundación\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2157",
+    "input": "A seguinte lista [\"compañía\", \"produción\", \"billete\", \"mercado\", \"economía\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2159",
+    "input": "A seguinte lista [\"carácter\", \"pasado\", \"aburrimento\", \"galiña\", \"oído\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2160",
+    "input": "A seguinte lista [\"servizo\", \"diñeiro\", \"prezo\", \"comercio\", \"valor\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2162",
+    "input": "A seguinte lista [\"cabelo\", \"uña\", \"xeonllo\", \"lombo\", \"barba\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2165",
+    "input": "A seguinte lista [\"cabaleiro\", \"adulto\", \"persoa\", \"ancián\", \"humanidade\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2169",
+    "input": "A seguinte lista [\"departamento\", \"estado\", \"capital\", \"cama\", \"liberdade\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2170",
+    "input": "A seguinte lista [\"chumbo\", \"meta\", \"ouro\", \"auga\", \"vapor\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2179",
+    "input": "A seguinte lista [\"adxectivo\", \"preposición\", \"adverbio\", \"pronombre\", \"conxunción\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2187",
+    "input": "A seguinte lista [\"botón\", \"drama\", \"comedia\", \"musical\", \"terror\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2188",
+    "input": "A seguinte lista [\"ser\", \"especie\", \"morte\", \"criatura\", \"vida\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2197",
+    "input": "A seguinte lista [\"produción\", \"demanda\", \"diñeiro\", \"tarifa\", \"produto\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2198",
+    "input": "A seguinte lista [\"criatura\", \"morte\", \"nacemento\", \"reprodución\", \"gas\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2200",
+    "input": "A seguinte lista [\"casa\", \"construcción\", \"escritorio\", \"habitación\", \"dormitorio\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2203",
+    "input": "A seguinte lista [\"taxi\", \"automóbil\", \"parada\", \"estación\", \"empresario\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2210",
+    "input": "A seguinte lista [\"sardiña\", \"porco\", \"bolboreta\", \"aguia\", \"corvo\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2220",
+    "input": "A seguinte lista [\"provincia\", \"organización\", \"poboación\", \"vila\", \"política\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2224",
+    "input": "A seguinte lista [\"director\", \"médica\", \"policía\", \"quilo\", \"carpinteira\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2226",
+    "input": "A seguinte lista [\"xuíz\", \"empresario\", \"actor\", \"deputada\", \"profesor\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2228",
+    "input": "A seguinte lista [\"bolsa\", \"aparato\", \"agulla\", \"chave\", \"cordel\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2233",
+    "input": "A seguinte lista [\"valor\", \"billete\", \"transacción\", \"consumo\", \"camarón\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2236",
+    "input": "A seguinte lista [\"espinacas\", \"domingo\", \"chícharos\", \"coliflor\", \"berenxena\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2238",
+    "input": "A seguinte lista [\"costa\", \"xungla\", \"terremoto\", \"monte\", \"selva\"] contén só xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2249",
+    "input": "A seguinte lista [\"escritorio\", \"escalera\", \"porta\", \"ascensor\", \"cama\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2251",
+    "input": "A seguinte lista [\"diñeiro\", \"tarifa\", \"demanda\", \"berenxena\", \"servizo\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2259",
+    "input": "A seguinte lista [\"ancho\", \"babosa\", \"velocidade\", \"fondo\", \"aceleración\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2260",
+    "input": "A seguinte lista [\"humanidade\", \"adulta\", \"persoa\", \"dama\", \"muller\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2268",
+    "input": "A seguinte lista [\"chumbo\", \"gas\", \"tranvía\", \"ferro\", \"auga\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2272",
+    "input": "A seguinte lista [\"fase\", \"espiña\", \"boneca\", \"codo\", \"pé\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2273",
+    "input": "A seguinte lista [\"aburrimento\", \"gramo\", \"mililitro\", \"cantidade\", \"peso\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2276",
+    "input": "A seguinte lista [\"oso\", \"bosque\", \"selva\", \"océano\", \"xungla\"] contén só xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2278",
+    "input": "A seguinte lista [\"lodo\", \"chumbo\", \"ferro\", \"prata\", \"vapor\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2280",
+    "input": "A seguinte lista [\"filla\", \"coñecido\", \"coñecida\", \"curmá\", \"neto\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2283",
+    "input": "A seguinte lista [\"gramo\", \"litro\", \"milímetro\", \"quilo\", \"centímetro\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2286",
+    "input": "A seguinte lista [\"martes\", \"babosa\", \"venres\", \"luns\", \"mércores\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2289",
+    "input": "A seguinte lista [\"carniceira\", \"cadeira\", \"edificio\", \"habitación\", \"dormitorio\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2292",
+    "input": "A seguinte lista [\"cabaleiro\", \"nena\", \"xente\", \"individuo\", \"humanidade\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2300",
+    "input": "A seguinte lista [\"mililitro\", \"peso\", \"peixe\", \"quilo\", \"cantidade\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2305",
+    "input": "A seguinte lista [\"empresa\", \"liberdade\", \"provincia\", \"aceleración\", \"municipio\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2307",
+    "input": "A seguinte lista [\"guitarra\", \"batería\", \"frauta\", \"trompeta\", \"clarinete\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2308",
+    "input": "A seguinte lista [\"mércores\", \"luns\", \"sábado\", \"domingo\", \"venres\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2309",
+    "input": "A seguinte lista [\"piano\", \"batería\", \"frauta\", \"preposición\", \"guitarra\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2310",
+    "input": "A seguinte lista [\"dirección\", \"minoría\", \"lonxitude\", \"aceleración\", \"alto\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2311",
+    "input": "A seguinte lista [\"cordón\", \"corda\", \"cámara\", \"espárrago\", \"chave\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2312",
+    "input": "A seguinte lista [\"camiño\", \"autobús\", \"barco\", \"tráfico\", \"avión\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2313",
+    "input": "A seguinte lista [\"luns\", \"xoves\", \"venres\", \"martes\", \"trompeta\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2315",
+    "input": "A seguinte lista [\"auga\", \"lume\", \"metal\", \"dor\", \"aire\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2321",
+    "input": "A seguinte lista [\"suspense\", \"terror\", \"drama\", \"musical\", \"causa\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2327",
+    "input": "A seguinte lista [\"roupa\", \"patíns\", \"moto\", \"estrada\", \"estación\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2331",
+    "input": "A seguinte lista [\"lei\", \"club\", \"vila\", \"constitución\", \"administración\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2338",
+    "input": "A seguinte lista [\"tornado\", \"uña\", \"tsunami\", \"terremoto\", \"inundación\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2342",
+    "input": "A seguinte lista [\"avalancha\", \"terremoto\", \"inundación\", \"tsunami\", \"tornado\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2347",
+    "input": "A seguinte lista [\"comedia\", \"terremoto\", \"musical\", \"drama\", \"fantasía\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2351",
+    "input": "A seguinte lista [\"amiga\", \"bisneta\", \"irmá\", \"coñecido\", \"avó\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2356",
+    "input": "A seguinte lista [\"falcón\", \"insecto\", \"camarón\", \"corvo\", \"cabalo\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2357",
+    "input": "A seguinte lista [\"agulla\", \"corda\", \"cordel\", \"pai\", \"fío\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2358",
+    "input": "A seguinte lista [\"terror\", \"musical\", \"fantasía\", \"drama\", \"suspense\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2361",
+    "input": "A seguinte lista [\"camiño\", \"violín\", \"saxofón\", \"trompeta\", \"guitarra\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2362",
+    "input": "A seguinte lista [\"estado\", \"boca\", \"dente\", \"uña\", \"coxa\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2366",
+    "input": "A seguinte lista [\"negro\", \"rosa\", \"amarillo\", \"branco\", \"color\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2368",
+    "input": "A seguinte lista [\"incendio\", \"biblioteca\", \"concello\", \"libraría\", \"hotel\"] contén só lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2370",
+    "input": "A seguinte lista [\"bisabuelo\", \"irmán\", \"bar\", \"fillo\", \"curmá\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2373",
+    "input": "A seguinte lista [\"verbo\", \"preposición\", \"conxunción\", \"determinante\", \"gobernadora\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2375",
+    "input": "A seguinte lista [\"ciclismo\", \"código\", \"experiencia\", \"característica\", \"tema\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2382",
+    "input": "A seguinte lista [\"incendio\", \"avalancha\", \"huracán\", \"inundación\", \"tsunami\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2385",
+    "input": "A seguinte lista [\"tornado\", \"tsunami\", \"fase\", \"seca\", \"incendio\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2387",
+    "input": "A seguinte lista [\"prezo\", \"morte\", \"vida\", \"especie\", \"criatura\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2391",
+    "input": "A seguinte lista [\"espiña\", \"bigote\", \"man\", \"boneca\", \"orella\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2395",
+    "input": "A seguinte lista [\"cordón\", \"corda\", \"crecemento\", \"chave\", \"fío\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2396",
+    "input": "A seguinte lista [\"caixeira\", \"avó\", \"neto\", \"avoa\", \"esposa\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2403",
+    "input": "A seguinte lista [\"terremoto\", \"avalancha\", \"tornado\", \"inundación\", \"seca\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2405",
+    "input": "A seguinte lista [\"mercado\", \"valor\", \"tarifa\", \"prezo\", \"billete\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2410",
+    "input": "A seguinte lista [\"pai\", \"curmá\", \"bisneta\", \"avó\", \"parella\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2415",
+    "input": "A seguinte lista [\"gramo\", \"bombeira\", \"centímetro\", \"medida\", \"milímetro\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2416",
+    "input": "A seguinte lista [\"frauta\", \"saxofón\", \"violín\", \"trompeta\", \"piano\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2420",
+    "input": "A seguinte lista [\"inundación\", \"huracán\", \"terremoto\", \"tornado\", \"avalancha\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2421",
+    "input": "A seguinte lista [\"conxunción\", \"programador\", \"pronombre\", \"adxectivo\", \"determinante\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2431",
+    "input": "A seguinte lista [\"gris\", \"branco\", \"pomo\", \"laranxa\", \"marrón\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2435",
+    "input": "A seguinte lista [\"peiteador\", \"senador\", \"gobernadora\", \"gasolineira\", \"panadeiro\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2436",
+    "input": "A seguinte lista [\"vaca\", \"lentes\", \"lagosta\", \"galiña\", \"polbo\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2437",
+    "input": "A seguinte lista [\"fogar\", \"ascensor\", \"panel\", \"apartamento\", \"adverbio\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2442",
+    "input": "A seguinte lista [\"parella\", \"esposo\", \"bisneto\", \"curmán\", \"nai\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2445",
+    "input": "A seguinte lista [\"gramo\", \"medida\", \"quilo\", \"lume\", \"litro\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2451",
+    "input": "A seguinte lista [\"xoves\", \"venres\", \"domingo\", \"sobriño\", \"martes\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2461",
+    "input": "A seguinte lista [\"críquet\", \"natación\", \"bádminton\", \"senderismo\", \"balonmán\"] contén só deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2462",
+    "input": "A seguinte lista [\"huracán\", \"avalancha\", \"terremoto\", \"incendio\", \"inundación\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2463",
+    "input": "A seguinte lista [\"corda\", \"agulla\", \"fío\", \"cordón\", \"bolsa\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2464",
+    "input": "A seguinte lista [\"acerto\", \"vía\", \"estación\", \"tranvía\", \"autoestrada\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2470",
+    "input": "A seguinte lista [\"constitución\", \"equipo\", \"saxofón\", \"estrutura\", \"prohibición\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2473",
+    "input": "A seguinte lista [\"entrada\", \"apartamento\", \"edificio\", \"panel\", \"porta\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2474",
+    "input": "A seguinte lista [\"director\", \"fotógrafo\", \"programador\", \"carpinteira\", \"carteiro\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2478",
+    "input": "A seguinte lista [\"xente\", \"muller\", \"home\", \"adulto\", \"dama\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2479",
+    "input": "A seguinte lista [\"saxofón\", \"frauta\", \"piano\", \"clarinete\", \"besta\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2483",
+    "input": "A seguinte lista [\"avoa\", \"amiga\", \"sobriño\", \"tío\", \"matrimonio\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2485",
+    "input": "A seguinte lista [\"atún\", \"besta\", \"peixe\", \"bolboreta\", \"lagosta\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2488",
+    "input": "A seguinte lista [\"edificio\", \"construcción\", \"panel\", \"habitación\", \"casa\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2493",
+    "input": "A seguinte lista [\"baloncesto\", \"voleibol\", \"esgrima\", \"piragüismo\", \"reprodución\"] contén só deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2495",
+    "input": "A seguinte lista [\"frauta\", \"batería\", \"trompeta\", \"guitarra\", \"saxofón\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2498",
+    "input": "A seguinte lista [\"bolsa\", \"agulla\", \"cravo\", \"cordel\", \"corda\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2499",
+    "input": "A seguinte lista [\"branco\", \"amarillo\", \"demanda\", \"negro\", \"azul\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2501",
+    "input": "A seguinte lista [\"anciá\", \"adolescente\", \"persoa\", \"neno\", \"home\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2505",
+    "input": "A seguinte lista [\"comercio\", \"valor\", \"mercado\", \"supermercado\", \"tarifa\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2507",
+    "input": "A seguinte lista [\"don\", \"muller\", \"largo\", \"home\", \"humano\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2517",
+    "input": "A seguinte lista [\"mércores\", \"luns\", \"xoves\", \"domingo\", \"martes\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2520",
+    "input": "A seguinte lista [\"xeonllo\", \"cu\", \"lombo\", \"defensa\", \"dente\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2528",
+    "input": "A seguinte lista [\"nacemento\", \"vida\", \"criatura\", \"ser\", \"biólogo\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2530",
+    "input": "A seguinte lista [\"transporte\", \"bicicleta\", \"tranvía\", \"tren\", \"vía\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2531",
+    "input": "A seguinte lista [\"pronombre\", \"adxectivo\", \"determinante\", \"conxunción\", \"adverbio\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2532",
+    "input": "A seguinte lista [\"zapato\", \"vaqueiros\", \"suxeitador\", \"traxe de baño\", \"pantalón\"] contén só roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2535",
+    "input": "A seguinte lista [\"río\", \"selva\", \"xungla\", \"deserto\", \"lago\"] contén só xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2537",
+    "input": "A seguinte lista [\"alto\", \"ancho\", \"altura\", \"tamaño\", \"redución\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2542",
+    "input": "A seguinte lista [\"luns\", \"venres\", \"domingo\", \"martes\", \"xoves\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2543",
+    "input": "A seguinte lista [\"equipo\", \"encontro\", \"club\", \"posición\", \"dereito\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2545",
+    "input": "A seguinte lista [\"golf\", \"waterpolo\", \"bolsa\", \"esquí\", \"baloncesto\"] contén só deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2548",
+    "input": "A seguinte lista [\"acerto\", \"frauta\", \"clarinete\", \"violín\", \"batería\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2549",
+    "input": "A seguinte lista [\"pantalla\", \"bolsa\", \"cámara\", \"estómago\", \"cordel\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2551",
+    "input": "A seguinte lista [\"substantivo\", \"preposición\", \"pronombre\", \"conxunción\", \"verbo\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2552",
+    "input": "A seguinte lista [\"arma\", \"agulla\", \"cordel\", \"forza\", \"pantalla\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2554",
+    "input": "A seguinte lista [\"carniceira\", \"peiteador\", \"médica\", \"director\", \"programa\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2556",
+    "input": "A seguinte lista [\"arma\", \"aparato\", \"agulla\", \"corda\", \"cordel\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2557",
+    "input": "A seguinte lista [\"gramo\", \"produto\", \"servizo\", \"billete\", \"transacción\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2558",
+    "input": "A seguinte lista [\"camareiro\", \"dereito\", \"cargo\", \"lei\", \"empresa\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2567",
+    "input": "A seguinte lista [\"milímetro\", \"cantidade\", \"litro\", \"peso\", \"programa\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2568",
+    "input": "A seguinte lista [\"vida\", \"criatura\", \"reprodución\", \"especie\", \"morte\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2570",
+    "input": "A seguinte lista [\"mercado\", \"prezo\", \"xeonllo\", \"compañía\", \"valor\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2573",
+    "input": "A seguinte lista [\"piragüismo\", \"cabaza\", \"cogombro\", \"cenorias\", \"porro\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2579",
+    "input": "A seguinte lista [\"coñecida\", \"desexo\", \"irmá\", \"filla\", \"esposo\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2590",
+    "input": "A seguinte lista [\"necesidade\", \"obxecto\", \"diferenza\", \"susto\", \"fin\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2591",
+    "input": "A seguinte lista [\"marrón\", \"rosa\", \"branco\", \"gris\", \"azul\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2592",
+    "input": "A seguinte lista [\"lago\", \"natureza\", \"campo\", \"océano\", \"xungla\"] contén só xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2593",
+    "input": "A seguinte lista [\"tsunami\", \"tornado\", \"avalancha\", \"inundación\", \"terremoto\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2594",
+    "input": "A seguinte lista [\"batería\", \"clarinete\", \"piano\", \"guitarra\", \"trompeta\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2598",
+    "input": "A seguinte lista [\"secuencia\", \"verbo\", \"conxunción\", \"adxectivo\", \"substantivo\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2605",
+    "input": "A seguinte lista [\"preposición\", \"adverbio\", \"conxunción\", \"verbo\", \"adxectivo\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2610",
+    "input": "A seguinte lista [\"bebé\", \"xente\", \"humanidade\", \"adulto\", \"home\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2613",
+    "input": "A seguinte lista [\"rosa\", \"celeste\", \"branco\", \"azul\", \"xirafa\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2615",
+    "input": "A seguinte lista [\"bolsa\", \"cordel\", \"corda\", \"cordón\", \"cravo\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2619",
+    "input": "A seguinte lista [\"crecemento\", \"dirección\", \"ombreiro\", \"aumento\", \"lonxitude\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2625",
+    "input": "A seguinte lista [\"incendio\", \"terremoto\", \"cama\", \"tornado\", \"huracán\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2626",
+    "input": "A seguinte lista [\"aire\", \"terra\", \"prata\", \"vapor\", \"contido\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2628",
+    "input": "A seguinte lista [\"compañía\", \"servizo\", \"oído\", \"billete\", \"prezo\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2630",
+    "input": "A seguinte lista [\"martes\", \"xoves\", \"venres\", \"mércores\", \"domingo\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2632",
+    "input": "A seguinte lista [\"irmán\", \"matrimonio\", \"pai\", \"familia\", \"lume\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2634",
+    "input": "A seguinte lista [\"transacción\", \"mercado\", \"produción\", \"tarifa\", \"diñeiro\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2635",
+    "input": "A seguinte lista [\"xeo\", \"ouro\", \"metal\", \"barro\", \"terra\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2641",
+    "input": "A seguinte lista [\"señora\", \"adulta\", \"adulto\", \"laranxa\", \"muller\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2643",
+    "input": "A seguinte lista [\"estado\", \"berenxena\", \"goberno\", \"ditadura\", \"cidade\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2650",
+    "input": "A seguinte lista [\"organización\", \"capital\", \"diñeiro\", \"congreso\", \"comisión\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2655",
+    "input": "A seguinte lista [\"chumbo\", \"terra\", \"ferro\", \"gas\", \"barro\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2656",
+    "input": "A seguinte lista [\"produto\", \"ser\", \"criatura\", \"especie\", \"reprodución\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2658",
+    "input": "A seguinte lista [\"código\", \"crocodilo\", \"porco\", \"cervo\", \"lombriz\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2659",
+    "input": "A seguinte lista [\"verde\", \"tren\", \"color\", \"branco\", \"morado\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2662",
+    "input": "A seguinte lista [\"trompeta\", \"violín\", \"guitarra\", \"piano\", \"autoestrada\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2666",
+    "input": "A seguinte lista [\"barco\", \"avenida\", \"skate\", \"estación\", \"ruta\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2667",
+    "input": "A seguinte lista [\"chave\", \"cámara\", \"agulla\", \"cordón\", \"bolsa\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2668",
+    "input": "A seguinte lista [\"dona\", \"cabaleiro\", \"anciá\", \"muller\", \"adulta\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2670",
+    "input": "A seguinte lista [\"concello\", \"farmacia\", \"hotel\", \"restaurante\", \"estanco\"] contén só lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2674",
+    "input": "A seguinte lista [\"corda\", \"gravata\", \"bolsa\", \"cordel\", \"cámara\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2680",
+    "input": "A seguinte lista [\"programa\", \"sorpresa\", \"desenvolvemento\", \"dama\", \"carácter\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2688",
+    "input": "A seguinte lista [\"gorrión\", \"atún\", \"can\", \"mosca\", \"lagosta\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2689",
+    "input": "A seguinte lista [\"barco\", \"tren\", \"estación\", \"tranvía\", \"autobús\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2690",
+    "input": "A seguinte lista [\"drama\", \"comedia\", \"terror\", \"fantasía\", \"suspense\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2696",
+    "input": "A seguinte lista [\"parella\", \"pai\", \"insecto\", \"bisabuelo\", \"nai\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2702",
+    "input": "A seguinte lista [\"porta\", \"escritorio\", \"escalera\", \"fogar\", \"cama\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2703",
+    "input": "A seguinte lista [\"cabaza\", \"problema\", \"cogombro\", \"fabas\", \"cabaciñas\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2706",
+    "input": "A seguinte lista [\"batería\", \"violín\", \"trompeta\", \"frauta\", \"clarinete\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2707",
+    "input": "A seguinte lista [\"repolo\", \"col\", \"patacas\", \"apio\", \"lura\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2709",
+    "input": "A seguinte lista [\"pé\", \"xeonllo\", \"músculo\", \"cabeza\", \"corazón\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2712",
+    "input": "A seguinte lista [\"congreso\", \"estado\", \"nación\", \"administración\", \"empresa\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2715",
+    "input": "A seguinte lista [\"apartamento\", \"fogar\", \"dormitorio\", \"edificio\", \"ascensor\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2719",
+    "input": "A seguinte lista [\"porro\", \"pracer\", \"obxectivo\", \"avance\", \"fin\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2727",
+    "input": "A seguinte lista [\"curmá\", \"familia\", \"tío\", \"irmán\", \"neto\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2729",
+    "input": "A seguinte lista [\"luns\", \"cogombro\", \"xoves\", \"domingo\", \"martes\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2730",
+    "input": "A seguinte lista [\"cabaleiro\", \"dama\", \"vista\", \"anciá\", \"don\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2735",
+    "input": "A seguinte lista [\"vapor\", \"barro\", \"gas\", \"xeo\", \"ferro\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2743",
+    "input": "A seguinte lista [\"prezo\", \"nacemento\", \"comercio\", \"tarifa\", \"valor\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2750",
+    "input": "A seguinte lista [\"característica\", \"pai\", \"curmá\", \"filla\", \"fillo\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2754",
+    "input": "A seguinte lista [\"suspense\", \"musical\", \"fantasía\", \"terror\", \"drama\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2755",
+    "input": "A seguinte lista [\"pomo\", \"patinete\", \"parada\", \"avión\", \"taxi\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2756",
+    "input": "A seguinte lista [\"cravo\", \"aeroporto\", \"ruta\", \"autoestrada\", \"tren\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2758",
+    "input": "A seguinte lista [\"lume\", \"prata\", \"barro\", \"sal\", \"ferro\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2763",
+    "input": "A seguinte lista [\"esposo\", \"avoa\", \"gasolineira\", \"irmán\", \"esposa\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2770",
+    "input": "A seguinte lista [\"abrigo\", \"bufanda\", \"botón\", \"vaqueiros\", \"pescozo\"] contén só roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2772",
+    "input": "A seguinte lista [\"trompeta\", \"clarinete\", \"saxofón\", \"piano\", \"batería\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2774",
+    "input": "A seguinte lista [\"tamaño\", \"solución\", \"progreso\", \"imaxe\", \"paso\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2776",
+    "input": "A seguinte lista [\"caso\", \"vista\", \"sorpresa\", \"falta\", \"necesidade\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2778",
+    "input": "A seguinte lista [\"cinto\", \"irmá\", \"zapato\", \"xersei\", \"vaqueiros\"] contén só roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2783",
+    "input": "A seguinte lista [\"mércores\", \"venres\", \"martes\", \"xoves\", \"domingo\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2790",
+    "input": "A seguinte lista [\"biblioteca\", \"paz\", \"charcutaría\", \"tenda\", \"froitaría\"] contén só lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2793",
+    "input": "A seguinte lista [\"col\", \"cabaciñas\", \"espinacas\", \"allo\", \"ravo\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2795",
+    "input": "A seguinte lista [\"amarillo\", \"verde\", \"rosa\", \"negro\", \"morado\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2796",
+    "input": "A seguinte lista [\"altura\", \"ancho\", \"crecemento\", \"minoría\", \"tamaño\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2798",
+    "input": "A seguinte lista [\"vapor\", \"barro\", \"ouro\", \"lume\", \"auga\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2805",
+    "input": "A seguinte lista [\"voleibol\", \"bádminton\", \"camiño\", \"piragüismo\", \"hockey\"] contén só deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2807",
+    "input": "A seguinte lista [\"incendio\", \"inundación\", \"tornado\", \"seca\", \"tsunami\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2808",
+    "input": "A seguinte lista [\"nacemento\", \"cousa\", \"criatura\", \"especie\", \"reprodución\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2810",
+    "input": "A seguinte lista [\"produción\", \"diñeiro\", \"obxectivo\", \"consumo\", \"prezo\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2812",
+    "input": "A seguinte lista [\"poboación\", \"autoridade\", \"administración\", \"estrutura\", \"equipo\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2814",
+    "input": "A seguinte lista [\"corda\", \"bolsa\", \"pomo\", \"cravo\", \"arma\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2818",
+    "input": "A seguinte lista [\"maioría\", \"humanidade\", \"dona\", \"xente\", \"anciá\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2819",
+    "input": "A seguinte lista [\"avenida\", \"aeroporto\", \"coche\", \"vía\", \"estrada\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2821",
+    "input": "A seguinte lista [\"avance\", \"inundación\", \"tsunami\", \"terremoto\", \"huracán\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2830",
+    "input": "A seguinte lista [\"pecho\", \"uña\", \"barba\", \"talón\", \"cabeza\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2831",
+    "input": "A seguinte lista [\"construcción\", \"fiestra\", \"apartamento\", \"ascensor\", \"edificio\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2834",
+    "input": "A seguinte lista [\"adolescente\", \"persoa\", \"señora\", \"dona\", \"dama\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2837",
+    "input": "A seguinte lista [\"perna\", \"palma\", \"natación\", \"pel\", \"cabelo\"] contén só corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2841",
+    "input": "A seguinte lista [\"bus\", \"estación\", \"tráfico\", \"coche\", \"automóbil\"] contén só transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2843",
+    "input": "A seguinte lista [\"cabaza\", \"porro\", \"allo\", \"apio\", \"río\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2847",
+    "input": "A seguinte lista [\"venres\", \"mércores\", \"martes\", \"luns\", \"sábado\"] contén só días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2850",
+    "input": "A seguinte lista [\"fígado\", \"administrativo\", \"xornalista\", \"fotógrafo\", \"enxeñeira\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2851",
+    "input": "A seguinte lista [\"vermello\", \"morado\", \"branco\", \"celeste\", \"verde\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2852",
+    "input": "A seguinte lista [\"adverbio\", \"pronombre\", \"preposición\", \"determinante\", \"conxunción\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2855",
+    "input": "A seguinte lista [\"restaurante\", \"aparato\", \"cravo\", \"cordón\", \"cámara\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2859",
+    "input": "A seguinte lista [\"prata\", \"gas\", \"lodo\", \"chumbo\", \"creación\"] contén só materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2862",
+    "input": "A seguinte lista [\"segredo\", \"imaxe\", \"interrupción\", \"defensa\", \"solución\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2863",
+    "input": "A seguinte lista [\"escalada\", \"birlo\", \"golf\", \"lagarto\", \"waterpolo\"] contén só deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2864",
+    "input": "A seguinte lista [\"nai\", \"coñecida\", \"avoa\", \"bisavoa\", \"irmá\"] contén só familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2866",
+    "input": "A seguinte lista [\"marrón\", \"color\", \"rosa\", \"azul\", \"celeste\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2867",
+    "input": "A seguinte lista [\"dirección\", \"maioría\", \"redución\", \"vela\", \"alto\"] contén só espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2868",
+    "input": "A seguinte lista [\"lura\", \"cama\", \"entrada\", \"cuarto\", \"mesa\"] contén só fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2869",
+    "input": "A seguinte lista [\"litro\", \"peso\", \"cantidade\", \"medida\", \"millo\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2881",
+    "input": "A seguinte lista [\"cebola\", \"allo\", \"berenxena\", \"diñeiro\", \"patacas\"] contén só verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2886",
+    "input": "A seguinte lista [\"tsunami\", \"xente\", \"señora\", \"bebé\", \"anciá\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2888",
+    "input": "A seguinte lista [\"electricista\", \"administrativo\", \"dentista\", \"luvas\", \"bombeira\"] contén só profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2889",
+    "input": "A seguinte lista [\"musical\", \"drama\", \"suspense\", \"fantasía\", \"comedia\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2894",
+    "input": "A seguinte lista [\"vida\", \"criatura\", \"especie\", \"reprodución\", \"morte\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2906",
+    "input": "A seguinte lista [\"praia\", \"laguna\", \"farmacia\", \"río\", \"selva\"] contén só xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2908",
+    "input": "A seguinte lista [\"celeste\", \"marrón\", \"laranxa\", \"beizo\", \"color\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2913",
+    "input": "A seguinte lista [\"capacidade\", \"función\", \"secuencia\", \"conflito\", \"galiña\"] contén só substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2916",
+    "input": "A seguinte lista [\"quilómetro\", \"mililitro\", \"cantidade\", \"litro\", \"fin\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2918",
+    "input": "A seguinte lista [\"medida\", \"milímetro\", \"araña\", \"cantidade\", \"centímetro\"] contén só medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2929",
+    "input": "A seguinte lista [\"vida\", \"reprodución\", \"rúa\", \"criatura\", \"morte\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2933",
+    "input": "A seguinte lista [\"incendio\", \"huracán\", \"avalancha\", \"terremoto\", \"tsunami\"] contén só catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2934",
+    "input": "A seguinte lista [\"nacemento\", \"morte\", \"ser\", \"vida\", \"especie\"] contén só vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2936",
+    "input": "A seguinte lista [\"individuo\", \"bebé\", \"don\", \"muller\", \"adulto\"] contén só xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2937",
+    "input": "A seguinte lista [\"vestido\", \"pantalón\", \"mochila\", \"camareiro\", \"cremalleira\"] contén só roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2938",
+    "input": "A seguinte lista [\"terror\", \"pescozo\", \"comedia\", \"musical\", \"fantasía\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2947",
+    "input": "A seguinte lista [\"verde\", \"branco\", \"color\", \"gris\", \"marrón\"] contén só cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2953",
+    "input": "A seguinte lista [\"diñeiro\", \"valor\", \"prezo\", \"compañía\", \"demanda\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2962",
+    "input": "A seguinte lista [\"fío\", \"chave\", \"pantalla\", \"pomo\", \"bolsa\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2965",
+    "input": "A seguinte lista [\"ditadura\", \"reunión\", \"cordón\", \"partido\", \"comunidade\"] contén só sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2966",
+    "input": "A seguinte lista [\"fío\", \"cordón\", \"bolsa\", \"chave\", \"cámara\"] contén só ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2967",
+    "input": "A seguinte lista [\"comisaría\", \"tenda\", \"oficina\", \"farmacia\", \"charcutaría\"] contén só lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2978",
+    "input": "A seguinte lista [\"comedia\", \"musical\", \"drama\", \"terror\", \"fantasía\"] contén só xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2984",
+    "input": "A seguinte lista [\"adverbio\", \"determinante\", \"substantivo\", \"verbo\", \"adxectivo\"] contén só categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2985",
+    "input": "A seguinte lista [\"taxi\", \"polbo\", \"tigre\", \"cervo\", \"gorrión\"] contén só animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2990",
+    "input": "A seguinte lista [\"cinto\", \"vaqueiros\", \"bragas\", \"pantalón\", \"zapatilla\"] contén só roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2997",
+    "input": "A seguinte lista [\"luvas\", \"billete\", \"consumo\", \"transacción\", \"economía\"] contén só economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2998",
+    "input": "A seguinte lista [\"clarinete\", \"piano\", \"autoescola\", \"guitarra\", \"frauta\"] contén só instrumentos? Responde \"si\" ou \"non\"."
+  }
+]

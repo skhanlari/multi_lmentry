@@ -1,0 +1,602 @@
+[
+  {
+    "id": "10",
+    "input": "Algunha destas palabras \"nivel\", \"director\", \"tenis\", \"atún\" e \"venres\" son do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "1000",
+    "input": "Algunha destas palabras \"ministra\", \"incendio\", \"porta\", \"dedo\" e \"tamaño\" son do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "103",
+    "input": "Algunha destas palabras \"hotel\", \"muller\", \"lodo\", \"posibilidade\" e \"cara\" son do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "108",
+    "input": "Algunha destas palabras \"consumo\", \"gas\", \"oficina\", \"administración\" e \"ollo\" son do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "11",
+    "input": "Algunha destas palabras \"gasolineira\", \"gorra\", \"neno\", \"sorpresa\" e \"cafetaría\" son do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "116",
+    "input": "Algunha destas palabras \"prohibición\", \"gorro\", \"paso\", \"proceso\" e \"contido\" son do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "120",
+    "input": "Algunha destas palabras \"montaña\", \"nariz\", \"vida\", \"empresa\" e \"gramo\" son do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "14",
+    "input": "Algunha destas palabras \"xersei\", \"camisola\", \"corvo\", \"imaxe\" e \"rúa\" son do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "140",
+    "input": "Algunha destas palabras \"salón de peiteado\", \"existencia\", \"barco\", \"costa\" e \"ascensor\" son do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "151",
+    "input": "Algunha destas palabras \"tipo\", \"peso\", \"altura\", \"ciclismo\" e \"bisneta\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "194",
+    "input": "Algunha destas palabras \"autoescola\", \"avelaiña\", \"drama\", \"serie\" e \"autobús\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "22",
+    "input": "Algunha destas palabras \"perna\", \"acerto\", \"policía\", \"provincia\" e \"estrutura\" son do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "221",
+    "input": "Algunha destas palabras \"calidade\", \"tía\", \"camiño\", \"seca\" e \"mellora\" son do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "222",
+    "input": "Algunha destas palabras \"sal\", \"dona\", \"programador\", \"liberdade\" e \"largo\" son do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "223",
+    "input": "Algunha destas palabras \"cámara\", \"terror\", \"corte\", \"cabelo\" e \"críquet\" son do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "228",
+    "input": "Algunha destas palabras \"bigote\", \"dormitorio\", \"bisabuelo\", \"pai\" e \"músculo\" son do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "232",
+    "input": "Algunha destas palabras \"autobús\", \"xornalista\", \"bisneto\", \"cociñeira\" e \"cu\" son do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "239",
+    "input": "Algunha destas palabras \"rata\", \"frauta\", \"lura\", \"atención\" e \"total\" son do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "245",
+    "input": "Algunha destas palabras \"chave\", \"acordo\", \"tranvía\", \"ancián\" e \"colega\" son do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "256",
+    "input": "Algunha destas palabras \"edificio\", \"domingo\", \"prohibición\", \"obxectivo\" e \"marrón\" son do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "257",
+    "input": "Algunha destas palabras \"froitaría\", \"espinacas\", \"irmán\", \"incendio\" e \"ancho\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "27",
+    "input": "Algunha destas palabras \"automóbil\", \"bosque\", \"norma\", \"brazo\" e \"país\" son do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "271",
+    "input": "Algunha destas palabras \"adverbio\", \"estanco\", \"litro\", \"caracol\" e \"ombreiro\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "272",
+    "input": "Algunha destas palabras \"baloncesto\", \"xoves\", \"cervo\", \"fillo\" e \"cara\" son do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "28",
+    "input": "Algunha destas palabras \"deserto\", \"servizo\", \"manga\", \"mililitro\" e \"cabalo\" son do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "280",
+    "input": "Algunha destas palabras \"panadería\", \"roupa\", \"construcción\", \"lagosta\" e \"condición\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "292",
+    "input": "Algunha destas palabras \"presenza\", \"mosquito\", \"avenida\", \"violín\" e \"prexuízo\" son do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "295",
+    "input": "Algunha destas palabras \"polbo\", \"pintora\", \"diferenza\", \"lugar\" e \"color\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "296",
+    "input": "Algunha destas palabras \"actriz\", \"crecemento\", \"lapela\", \"camareiro\" e \"insecto\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "300",
+    "input": "Algunha destas palabras \"destrución\", \"acto\", \"moto\", \"monte\" e \"lagarto\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "304",
+    "input": "Algunha destas palabras \"tema\", \"programador\", \"xungla\", \"cousa\" e \"espárrago\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "314",
+    "input": "Algunha destas palabras \"profesor\", \"caso\", \"carácter\", \"corvo\" e \"avalancha\" son do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "321",
+    "input": "Algunha destas palabras \"drama\", \"tsunami\", \"prexuízo\", \"ruta\" e \"determinante\" son do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "33",
+    "input": "Algunha destas palabras \"deterioración\", \"total\", \"oficina\", \"coxa\" e \"largo\" son do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "331",
+    "input": "Algunha destas palabras \"costa\", \"suspense\", \"rato\", \"paxaro\" e \"metal\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "335",
+    "input": "Algunha destas palabras \"seguridade\", \"atención\", \"océano\", \"dentista\" e \"xirafa\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "336",
+    "input": "Algunha destas palabras \"atletismo\", \"democracia\", \"crecemento\", \"mililitro\" e \"musical\" son do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "352",
+    "input": "Algunha destas palabras \"escola\", \"nación\", \"laranxa\", \"cebola\" e \"metal\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "355",
+    "input": "Algunha destas palabras \"encontro\", \"herboristaría\", \"médica\", \"arma\" e \"organización\" son do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "36",
+    "input": "Algunha destas palabras \"alcalde\", \"corte\", \"crise\", \"conflito\" e \"cabalo\" son do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "372",
+    "input": "Algunha destas palabras \"humanidade\", \"manga\", \"vida\", \"produto\" e \"atención\" son do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "373",
+    "input": "Algunha destas palabras \"aceleración\", \"agulla\", \"avance\", \"zapato\" e \"criatura\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "377",
+    "input": "Algunha destas palabras \"autoridade\", \"sábado\", \"prenda\", \"gramo\" e \"escritorio\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "379",
+    "input": "Algunha destas palabras \"demanda\", \"intento\", \"substantivo\", \"veo\" e \"científico\" son do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "387",
+    "input": "Algunha destas palabras \"carácter\", \"alcachofa\", \"ataque\", \"froitaría\" e \"avogada\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "388",
+    "input": "Algunha destas palabras \"libraría\", \"cabelo\", \"automóbil\", \"cogombro\" e \"ancián\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "408",
+    "input": "Algunha destas palabras \"determinante\", \"confianza\", \"bar\", \"comercio\" e \"waterpolo\" son do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "416",
+    "input": "Algunha destas palabras \"reprodución\", \"elefante\", \"remolacha\", \"transporte\" e \"economía\" son do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "420",
+    "input": "Algunha destas palabras \"costa\", \"gato\", \"porro\", \"esquí\" e \"comedia\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "448",
+    "input": "Algunha destas palabras \"trompeta\", \"botón\", \"coello\", \"escola\" e \"autoestrada\" son do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "451",
+    "input": "Algunha destas palabras \"mililitro\", \"chaqueta\", \"escritorio\", \"cravo\" e \"metal\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "461",
+    "input": "Algunha destas palabras \"lagosta\", \"mosquito\", \"posición\", \"peixaría\" e \"capacidade\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "463",
+    "input": "Algunha destas palabras \"tránsito\", \"drama\", \"empatía\", \"lura\" e \"vez\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "465",
+    "input": "Algunha destas palabras \"prenda\", \"serpe\", \"lapela\", \"enxeñeira\" e \"comedia\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "47",
+    "input": "Algunha destas palabras \"mentira\", \"gris\", \"gorra\", \"individuo\" e \"sobriño\" son do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "471",
+    "input": "Algunha destas palabras \"campaña\", \"ocasión\", \"parella\", \"insecto\" e \"abrigo\" son do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "481",
+    "input": "Algunha destas palabras \"crecemento\", \"suspense\", \"profesor\", \"estrada\" e \"prata\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "482",
+    "input": "Algunha destas palabras \"camareiro\", \"ser\", \"cabeza\", \"waterpolo\" e \"individuo\" son do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "484",
+    "input": "Algunha destas palabras \"coñecido\", \"mellora\", \"ditadura\", \"caracol\" e \"bisabuelo\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "485",
+    "input": "Algunha destas palabras \"goberno\", \"escalera\", \"acordo\", \"paxaro\" e \"empresario\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "488",
+    "input": "Algunha destas palabras \"vermello\", \"contido\", \"marrón\", \"hospital\" e \"espinacas\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "492",
+    "input": "Algunha destas palabras \"bisneta\", \"tornado\", \"gorra\", \"elefante\" e \"surf\" son do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "494",
+    "input": "Algunha destas palabras \"bolsa\", \"adulta\", \"humano\", \"interese\" e \"serie\" son do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "496",
+    "input": "Algunha destas palabras \"espiña\", \"solución\", \"coñecida\", \"xuíz\" e \"corda\" son do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "497",
+    "input": "Algunha destas palabras \"cara\", \"cafetaría\", \"remolacha\", \"don\" e \"color\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "503",
+    "input": "Algunha destas palabras \"pé\", \"ataque\", \"consumo\", \"cenorias\" e \"clarinete\" son do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "504",
+    "input": "Algunha destas palabras \"congresista\", \"besta\", \"política\", \"perna\" e \"estación\" son do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "505",
+    "input": "Algunha destas palabras \"rosa\", \"amor\", \"mono\", \"camareiro\" e \"permiso\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "508",
+    "input": "Algunha destas palabras \"marrón\", \"determinante\", \"remolacha\", \"traxe de baño\" e \"berenxena\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "512",
+    "input": "Algunha destas palabras \"venres\", \"desenvolvemento\", \"encontro\", \"ministra\" e \"ascensor\" son do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "515",
+    "input": "Algunha destas palabras \"mércores\", \"cintura\", \"mercado\", \"amor\" e \"congreso\" son do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "519",
+    "input": "Algunha destas palabras \"sal\", \"partido\", \"pescozo\", \"ferrocarril\" e \"pé\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "520",
+    "input": "Algunha destas palabras \"color\", \"fin\", \"parlamentario\", \"frauta\" e \"paso\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "521",
+    "input": "Algunha destas palabras \"preposición\", \"rugby\", \"manga\", \"ancián\" e \"autoestrada\" son do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "523",
+    "input": "Algunha destas palabras \"compañía\", \"actor\", \"violín\", \"sector\" e \"tamaño\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "531",
+    "input": "Algunha destas palabras \"calzón\", \"violín\", \"conxunto\", \"restaurante\" e \"baloncesto\" son do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "543",
+    "input": "Algunha destas palabras \"proceso\", \"país\", \"rúa\", \"martes\" e \"terremoto\" son do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "544",
+    "input": "Algunha destas palabras \"mércores\", \"tren\", \"interese\", \"profesor\" e \"vista\" son do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "552",
+    "input": "Algunha destas palabras \"millo\", \"galiña\", \"inundación\", \"tenda\" e \"avance\" son do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "559",
+    "input": "Algunha destas palabras \"tenda\", \"seca\", \"contido\", \"presente\" e \"vila\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "562",
+    "input": "Algunha destas palabras \"terra\", \"cabaleiro\", \"deserto\", \"charcutaría\" e \"nariz\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "566",
+    "input": "Algunha destas palabras \"xirafa\", \"gorro\", \"tenda\", \"xersei\" e \"casa\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "569",
+    "input": "Algunha destas palabras \"babosa\", \"xoves\", \"municipio\", \"campo\" e \"conciencia\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "576",
+    "input": "Algunha destas palabras \"gas\", \"obriga\", \"desenvolvemento\", \"hotel\" e \"economía\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "578",
+    "input": "Algunha destas palabras \"aspecto\", \"comedia\", \"senderismo\", \"estanco\" e \"campo\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "582",
+    "input": "Algunha destas palabras \"transacción\", \"experiencia\", \"béisbol\", \"país\" e \"personalidade\" son do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "588",
+    "input": "Algunha destas palabras \"proceso\", \"autoridade\", \"barro\", \"venres\" e \"frauta\" son do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "602",
+    "input": "Algunha destas palabras \"pronombre\", \"peche\", \"gimnasia\", \"barco\" e \"comedia\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "603",
+    "input": "Algunha destas palabras \"señor\", \"quilómetro\", \"berenxena\", \"uña\" e \"especie\" son do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "628",
+    "input": "Algunha destas palabras \"deputada\", \"azul\", \"resultado\", \"pomo\" e \"acerto\" son do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "633",
+    "input": "Algunha destas palabras \"críquet\", \"progreso\", \"lagarto\", \"drama\" e \"asociación\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "64",
+    "input": "Algunha destas palabras \"verde\", \"lura\", \"cansazo\", \"irmán\" e \"home\" son do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "643",
+    "input": "Algunha destas palabras \"traxe de baño\", \"trompeta\", \"mar\", \"bisneto\" e \"bicho\" son do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "651",
+    "input": "Algunha destas palabras \"susto\", \"panadeiro\", \"repolo\", \"mililitro\" e \"patinaxe\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "661",
+    "input": "Algunha destas palabras \"esquí\", \"lombriz\", \"saia\", \"chícharos\" e \"peixe\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "663",
+    "input": "Algunha destas palabras \"estado\", \"mercado\", \"caso\", \"ancián\" e \"administración\" son do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "664",
+    "input": "Algunha destas palabras \"centímetro\", \"maioría\", \"chave\", \"lombriz\" e \"terror\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "687",
+    "input": "Algunha destas palabras \"ancián\", \"cargo\", \"tío\", \"consecuencia\" e \"vestido\" son do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "711",
+    "input": "Algunha destas palabras \"necesidade\", \"domingo\", \"prexuízo\", \"neta\" e \"lugar\" son do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "721",
+    "input": "Algunha destas palabras \"violín\", \"waterpolo\", \"bigote\", \"compañía\" e \"cargo\" son do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "727",
+    "input": "Algunha destas palabras \"escritorio\", \"peso\", \"capacidade\", \"transacción\" e \"parlamentario\" son do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "729",
+    "input": "Algunha destas palabras \"vapor\", \"individuo\", \"verde\", \"billete\" e \"cravo\" son do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "730",
+    "input": "Algunha destas palabras \"olfacto\", \"hotel\", \"diferenza\", \"autoescola\" e \"departamento\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "738",
+    "input": "Algunha destas palabras \"redución\", \"futuro\", \"gato\", \"deserto\" e \"verbo\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "742",
+    "input": "Algunha destas palabras \"musical\", \"cintura\", \"político\", \"avelaiña\" e \"campo\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "747",
+    "input": "Algunha destas palabras \"irmá\", \"acordo\", \"fabas\", \"memoria\" e \"lago\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "748",
+    "input": "Algunha destas palabras \"concello\", \"encontro\", \"vista\", \"lodo\" e \"lago\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "765",
+    "input": "Algunha destas palabras \"vermello\", \"cabaleiro\", \"contido\", \"xungla\" e \"mércores\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "769",
+    "input": "Algunha destas palabras \"pronombre\", \"tipo\", \"astronauta\", \"ravo\" e \"rúa\" son do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "77",
+    "input": "Algunha destas palabras \"saltón\", \"incendio\", \"asociación\", \"ferro\" e \"irmá\" son do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "772",
+    "input": "Algunha destas palabras \"acelgas\", \"mentira\", \"comisaría\", \"seca\" e \"negro\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "779",
+    "input": "Algunha destas palabras \"transcurso\", \"brócoli\", \"carácter\", \"sorpresa\" e \"prenda\" son do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "786",
+    "input": "Algunha destas palabras \"tema\", \"diñeiro\", \"comedia\", \"pé\" e \"batería\" son do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "790",
+    "input": "Algunha destas palabras \"creación\", \"bosque\", \"porco\", \"total\" e \"carteiro\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "793",
+    "input": "Algunha destas palabras \"habitación\", \"drama\", \"fígado\", \"fútbol\" e \"seguridade\" son do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "805",
+    "input": "Algunha destas palabras \"total\", \"aparato\", \"lugar\", \"país\" e \"seguridade\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "806",
+    "input": "Algunha destas palabras \"posición\", \"billar\", \"cabaza\", \"bar\" e \"experiencia\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "809",
+    "input": "Algunha destas palabras \"dereito\", \"oficina\", \"progreso\", \"forza\" e \"polbo\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "810",
+    "input": "Algunha destas palabras \"abdome\", \"adverbio\", \"mércores\", \"branco\" e \"significado\" son do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "812",
+    "input": "Algunha destas palabras \"escalera\", \"carnizaría\", \"programador\", \"cabaciñas\" e \"proxecto\" son do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "819",
+    "input": "Algunha destas palabras \"aguia\", \"solución\", \"camisola\", \"significado\" e \"surf\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "828",
+    "input": "Algunha destas palabras \"huracán\", \"percepción\", \"exemplo\", \"talón\" e \"encontro\" son do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "832",
+    "input": "Algunha destas palabras \"autoridade\", \"existencia\", \"consumo\", \"vestido\" e \"administrativo\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "839",
+    "input": "Algunha destas palabras \"porta\", \"transporte\", \"nai\", \"porro\" e \"gris\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "84",
+    "input": "Algunha destas palabras \"actitude\", \"adulta\", \"saxofón\", \"confianza\" e \"fantasía\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "844",
+    "input": "Algunha destas palabras \"adulta\", \"vila\", \"zapato\", \"solución\" e \"montaña\" son do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "847",
+    "input": "Algunha destas palabras \"vela\", \"necesidade\", \"vía\", \"lonxitude\" e \"concepto\" son do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "859",
+    "input": "Algunha destas palabras \"atletismo\", \"pracer\", \"fantasía\", \"familia\" e \"situación\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "860",
+    "input": "Algunha destas palabras \"vaca\", \"pantalón\", \"inundación\", \"fondo\" e \"programa\" son do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "868",
+    "input": "Algunha destas palabras \"parlamentario\", \"comisión\", \"seca\", \"tigre\" e \"xersei\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "879",
+    "input": "Algunha destas palabras \"morte\", \"atención\", \"adulto\", \"dirección\" e \"gramo\" son do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "886",
+    "input": "Algunha destas palabras \"comedia\", \"porro\", \"produción\", \"deputada\" e \"actitude\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "887",
+    "input": "Algunha destas palabras \"norma\", \"velocidade\", \"saia\", \"frauta\" e \"futuro\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "888",
+    "input": "Algunha destas palabras \"pecho\", \"política\", \"restaurante\", \"causa\" e \"científico\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "896",
+    "input": "Algunha destas palabras \"total\", \"trompeta\", \"cabaza\", \"dereito\" e \"cordón\" son do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "9",
+    "input": "Algunha destas palabras \"balonmán\", \"nai\", \"escalada\", \"lonxitude\" e \"bicho\" son do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "904",
+    "input": "Algunha destas palabras \"costa\", \"xoves\", \"amor\", \"pasado\" e \"enxeñeira\" son do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "912",
+    "input": "Algunha destas palabras \"cravo\", \"centímetro\", \"municipio\", \"forza\" e \"cremalleira\" son do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "919",
+    "input": "Algunha destas palabras \"obriga\", \"billar\", \"marrón\", \"farmacia\" e \"familia\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "922",
+    "input": "Algunha destas palabras \"democracia\", \"concello\", \"can\", \"mochila\" e \"esgrima\" son do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "933",
+    "input": "Algunha destas palabras \"fotógrafo\", \"carnizaría\", \"gravata\", \"tenda\" e \"significado\" son do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "939",
+    "input": "Algunha destas palabras \"especie\", \"irmá\", \"berenxena\", \"avance\" e \"consumo\" son do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "947",
+    "input": "Algunha destas palabras \"gobernadora\", \"berenxena\", \"serpe\", \"cu\" e \"cenorias\" son do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "95",
+    "input": "Algunha destas palabras \"biólogo\", \"fantasía\", \"natación\", \"ravo\" e \"escritorio\" son do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "952",
+    "input": "Algunha destas palabras \"bar\", \"musical\", \"cantidade\", \"barba\" e \"conxunción\" son do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "961",
+    "input": "Algunha destas palabras \"permiso\", \"político\", \"aeroporto\", \"arma\" e \"senador\" son do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "972",
+    "input": "Algunha destas palabras \"pé\", \"congresista\", \"camarón\", \"futuro\" e \"porta\" son do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "976",
+    "input": "Algunha destas palabras \"astronauta\", \"movemento\", \"piano\", \"etapa\" e \"amiga\" son do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "98",
+    "input": "Algunha destas palabras \"gris\", \"interrupción\", \"avance\", \"consecuencia\" e \"escalera\" son do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "981",
+    "input": "Algunha destas palabras \"neno\", \"cidade\", \"enxeñeira\", \"ataque\" e \"autobús\" son do tipo profesións? Responde \"si\" ou \"non\"."
+  }
+]

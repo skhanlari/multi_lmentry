@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "2",
+    "input": "\"itsaso\", \"mendi\", \"ekitaldi\", \"zurgin\" eta \"bizkar\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "5",
+    "input": "\"musker\", \"eskola\", \"sabai\", \"zirkulazio\" eta \"harategi\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "6",
+    "input": "\"preposizio\", \"eskumutur\", \"zure\", \"senar\" eta \"aditz\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "9",
+    "input": "\"hanka\", \"biloba\", \"hegazkin\", \"auto\" eta \"izen\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "11",
+    "input": "\"farmazia\", \"leku\", \"eskrima\", \"bizar\" eta \"urdaitegi\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "13",
+    "input": "\"jirafa\", \"ukimen\", \"emakume\", \"adberbio\" eta \"igel\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "14",
+    "input": "\"jaun\", \"harakin\", \"lehengusina\", \"zaldi\" eta \"margolari\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "15",
+    "input": "\"ahur\", \"bitxi-denda\", \"kilometro\", \"bolumen\" eta \"haien\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "17",
+    "input": "\"maila\", \"elkarte\", \"motxila\", \"administrazio\" eta \"lokarriak\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "18",
+    "input": "\"hezur\", \"gure\", \"kongresu\", \"sardina\" eta \"nire\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "19",
+    "input": "\"baldintza\", \"abendu\", \"more\", \"zainzuri\" eta \"otsail\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "21",
+    "input": "\"eskubaloi\", \"orratz\", \"egoera\", \"beisbol\" eta \"helduleku\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "23",
+    "input": "\"tronpeta\", \"ostegun\", \"osaba\", \"irudi\" eta \"piano\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "24",
+    "input": "\"gatazka\", \"ibilgailu\", \"astelehen\", \"larunbat\" eta \"kolore\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "25",
+    "input": "\"norbanako\", \"aurrerapen\", \"arrakasta\", \"soineko\" eta \"gizon\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "27",
+    "input": "\"mediku\", \"irristailuak\", \"motxila\", \"argiketari\" eta \"galtzerdiak\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "29",
+    "input": "\"eskalada\", \"astearte\", \"gramo\", \"asteazken\" eta \"izaera\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "30",
+    "input": "\"gehiengo\", \"margolari\", \"bulego\", \"soka\" eta \"urdaitegi\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "32",
+    "input": "\"ur\", \"diputatu\", \"burdin\", \"izaera\" eta \"ekoizpen\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "34",
+    "input": "\"bularretako\", \"presentzia\", \"panel\", \"galtza\" eta \"arkitekto\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "35",
+    "input": "\"farmazia\", \"haien\", \"konpainia\", \"nire\" eta \"sabelalde\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "36",
+    "input": "\"pisu\", \"fase\", \"basamortu\", \"bolumen\" eta \"helmuga\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "37",
+    "input": "\"izenondo\", \"ile-apaintzaile\", \"postposizio\", \"patatak\" eta \"alaba\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "38",
+    "input": "\"aita\", \"espezie\", \"lagun\", \"ugalketa\" eta \"baimen\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "39",
+    "input": "\"urtarril\", \"apiril\", \"sumindura\", \"alderdi\" eta \"trafiko\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "40",
+    "input": "\"umeki\", \"heriotza\", \"kutxazain\", \"boxeo\" eta \"aitona\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "42",
+    "input": "\"tornado\", \"elur-jausi\", \"nortasun\", \"asteazken\" eta \"txolarre\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "43",
+    "input": "\"musikal\", \"txolarre\", \"beldur\", \"misterio\" eta \"neskato\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "44",
+    "input": "\"zuri\", \"urdin\", \"aita\", \"pertsona\" eta \"probintzia\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "46",
+    "input": "\"bizitza\", \"gizateri\", \"boleibol\", \"guda\" eta \"kriket\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "48",
+    "input": "\"komisaria\", \"gorri\", \"ile\", \"berde\" eta \"burdin\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "50",
+    "input": "\"iltze\", \"mutiko\", \"tapauka\", \"abiadura\" eta \"beroki\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "51",
+    "input": "\"gobernadore\", \"supermerkatu\", \"ur\", \"hortz\" eta \"su\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "53",
+    "input": "\"asmatze\", \"supermerkatu\", \"arto\", \"gris\" eta \"berde\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "54",
+    "input": "\"nortasun\", \"ohe\", \"etxe\", \"loradenda\" eta \"erregai-sailtzaile\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "55",
+    "input": "\"txirula\", \"ipurdi\", \"pertsona\", \"sorbalda\" eta \"kode\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "57",
+    "input": "\"tranbia\", \"hotel\", \"loradenda\", \"tristura\" eta \"motor\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "62",
+    "input": "\"arrandegi\", \"politikari\", \"tamaina\", \"fruta-denda\" eta \"errefau\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "64",
+    "input": "\"krokodilo\", \"lankide\", \"ministro\", \"beldur\" eta \"iturgin\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "65",
+    "input": "\"lokarri\", \"betaurreko\", \"pantaila\", \"kale\" eta \"igeriketa\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "67",
+    "input": "\"juntagailu\", \"astelehen\", \"birraitona\", \"ostegun\" eta \"aitona\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "69",
+    "input": "\"astelehen\", \"zerbitzari\", \"astearte\", \"intsektu\" eta \"poz\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "76",
+    "input": "\"alderdi\", \"tranbia\", \"biolin\", \"azaro\" eta \"bateria\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "77",
+    "input": "\"musikal\", \"dekretu\", \"lehengusina\", \"aulki\" eta \"historia\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "79",
+    "input": "\"gela\", \"iltze\", \"porru\", \"gaitasun\" eta \"lokarri\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "80",
+    "input": "\"murriztapen\", \"biolin\", \"departamendu\", \"sakonera\" eta \"baso\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "85",
+    "input": "\"marroi\", \"gorri\", \"objektu\", \"hazkunde\" eta \"piper\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "86",
+    "input": "\"gela\", \"txirula\", \"aulki\", \"gai\" eta \"abiadura\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "87",
+    "input": "\"brokoli\", \"zuen\", \"segida\", \"nire\" eta \"mendi\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "89",
+    "input": "\"berde\", \"gona\", \"espinaka\", \"more\" eta \"eskailera\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "91",
+    "input": "\"uholde\", \"logela\", \"lokarriak\", \"armiarma\" eta \"tornado\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "92",
+    "input": "\"zerbitzu\", \"igande\", \"azenario\", \"oroimen\" eta \"arto\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "93",
+    "input": "\"betebehar\", \"udalerri\", \"gai\", \"arazo\" eta \"tipula\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "98",
+    "input": "\"luzera\", \"janzki\", \"bizkar\", \"dekretu\" eta \"oin\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "99",
+    "input": "\"senar\", \"mililitro\", \"zentimetro\", \"neskato\" eta \"suge\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "102",
+    "input": "\"topaketa\", \"iturgin\", \"misterio\", \"musikal\" eta \"itxaronaldi\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "103",
+    "input": "\"abokatu\", \"konstituzio\", \"estatu\", \"saltzaile\" eta \"gramo\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "106",
+    "input": "\"itsasalde\", \"soka\", \"lehorte\", \"emaitza\" eta \"urakan\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "107",
+    "input": "\"suspense\", \"okin\", \"diputatu\", \"drama\" eta \"eraikin\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "108",
+    "input": "\"bulego\", \"otsail\", \"apiril\", \"transakzio\" eta \"aginte\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "110",
+    "input": "\"eskalada\", \"altuera\", \"ohe\", \"logela\" eta \"argazkilari\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "111",
+    "input": "\"eraikuntza\", \"herri\", \"jatetxe\", \"biolin\" eta \"ate\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "114",
+    "input": "\"kontzientzia\", \"geraleku\", \"urre\", \"liburu-denda\" eta \"ibilgailu\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "116",
+    "input": "\"bizikleta\", \"arau\", \"urakan\", \"tornado\" eta \"tronpeta\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "117",
+    "input": "\"krisi\", \"antzekotasun\", \"misterio\", \"multzo\" eta \"fantasia\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "119",
+    "input": "\"loba\", \"kasketa\", \"leiho\", \"tapauka\" eta \"dekretu\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "120",
+    "input": "\"oilo\", \"hutsegite\", \"kazetari\", \"erraztatzaile\" eta \"klub\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "121",
+    "input": "\"xendazaletasun\", \"urdin\", \"golf\", \"marroi\" eta \"sarrera\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "122",
+    "input": "\"kale\", \"etorbide\", \"konpainia\", \"poltsa\" eta \"hiribildu\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "125",
+    "input": "\"aza\", \"gerriko\", \"komunitate\", \"su\" eta \"batzorde\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "126",
+    "input": "\"baratxuri\", \"boleibol\", \"xendazaletasun\", \"mililitro\" eta \"liburu-denda\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "127",
+    "input": "\"labezomorro\", \"suspense\", \"irudi\", \"txori\" eta \"urakan\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "130",
+    "input": "\"etorbide\", \"poltsa\", \"bolumen\", \"geraleku\" eta \"metal\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "131",
+    "input": "\"multzo\", \"loradenda\", \"gure\", \"haien\" eta \"zurgin\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "133",
+    "input": "\"hiriburu\", \"zilar\", \"izotz\", \"udaletxe\" eta \"familia\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "134",
+    "input": "\"gizaki\", \"sagu\", \"euli\", \"aita\" eta \"waterpolo\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "137",
+    "input": "\"hori\", \"beltz\", \"alberjinia\", \"loba\" eta \"abendu\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "138",
+    "input": "\"izenordain\", \"konstituzio\", \"luzoker\", \"izenondo\" eta \"musikal\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "139",
+    "input": "\"piano\", \"lokarriak\", \"auto\", \"arratoi\" eta \"klarinete\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "140",
+    "input": "\"dama\", \"prozesu\", \"janzki\", \"kontseilu\" eta \"zapatila\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "141",
+    "input": "\"liburutegi\", \"saiakera\", \"kopuru\", \"behor\" eta \"kopia-denda\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "145",
+    "input": "\"poltsa\", \"gihar\", \"komisaria\", \"izter\" eta \"kontsumo\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "146",
+    "input": "\"eskari\", \"altuera\", \"tipula\", \"ahizpa\" eta \"ama\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "148",
+    "input": "\"jaka\", \"zuen\", \"gure\", \"ibai\" eta \"marroi\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "149",
+    "input": "\"bolumen\", \"erremolatxa\", \"gizon\", \"talde\" eta \"pisu\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "150",
+    "input": "\"ohe\", \"leku\", \"eskari\", \"salneurri\" eta \"gobernadore\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "151",
+    "input": "\"belar-denda\", \"gure\", \"bake\", \"saiakera\" eta \"zure\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "152",
+    "input": "\"orainaldi\", \"lurrikara\", \"izaera\", \"urakan\" eta \"jarrera\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "153",
+    "input": "\"postari\", \"harridura\", \"trenbide\", \"gatazka\" eta \"geltoki\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "154",
+    "input": "\"musker\", \"atso\", \"armiarma\", \"milimetro\" eta \"jertse\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "155",
+    "input": "\"kalte\", \"garun\", \"urdail\", \"topaketa\" eta \"uholde\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "156",
+    "input": "\"bus\", \"badminton\", \"iragan\", \"futbol\" eta \"haurtxo\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "158",
+    "input": "\"loradenda\", \"etorbide\", \"leku\", \"ur\" eta \"bitxi-denda\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "161",
+    "input": "\"amona\", \"debeku\", \"boleibol\", \"izenordain\" eta \"gizarte\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "163",
+    "input": "\"enpresa\", \"txakur\", \"gutxiengo\", \"sakonera\" eta \"galtzontzilloak\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "165",
+    "input": "\"geltoki\", \"heriotza\", \"erraztatzaile\", \"bizikleta\" eta \"irakasle\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "172",
+    "input": "\"arrano\", \"lepo\", \"urri\", \"etenaldi\" eta \"uztail\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "173",
+    "input": "\"lepo\", \"motor\", \"orpo\", \"arrain\" eta \"gerriko\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "174",
+    "input": "\"dentista\", \"lehengusu\", \"autoeskola\", \"itxigailu\" eta \"parlamentari\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "175",
+    "input": "\"egia\", \"sekretu\", \"izaera\", \"golf\" eta \"badminton\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "177",
+    "input": "\"garraio\", \"automobil\", \"porrot\", \"hitz\" eta \"gatazka\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "178",
+    "input": "\"sardina\", \"komunitate\", \"jirafa\", \"herri\" eta \"zelai\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "179",
+    "input": "\"bukaera\", \"litro\", \"geraleku\", \"birraitona\" eta \"zirkulazio\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "180",
+    "input": "\"kopia-denda\", \"gas\", \"lurrun\", \"futbol\" eta \"onura\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "181",
+    "input": "\"aginte\", \"ekain\", \"urtarril\", \"probintzia\" eta \"transakzio\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "182",
+    "input": "\"liburutegi\", \"topaketa\", \"bateria\", \"piano\" eta \"sarrera\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "184",
+    "input": "\"preposizio\", \"zilar\", \"marroi\", \"berde\" eta \"eskari\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "185",
+    "input": "\"baldintza\", \"ile\", \"tximino\", \"orpo\" eta \"bularretako\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "186",
+    "input": "\"garraio\", \"zuen\", \"demokrazia\", \"substantibo\" eta \"izenlagun\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "187",
+    "input": "\"izaki\", \"billar\", \"erregai-sailtzaile\", \"ugalketa\" eta \"transakzio\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "189",
+    "input": "\"autobide\", \"galtzontzilloak\", \"bizikleta\", \"sudur\" eta \"suspense\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "190",
+    "input": "\"aulki\", \"logela\", \"gure\", \"dentista\" eta \"kremailera\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "192",
+    "input": "\"loba\", \"saltzaile\", \"bizitza\", \"umeki\" eta \"konstituzio\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "193",
+    "input": "\"boxeo\", \"prozesu\", \"ur\", \"dentista\" eta \"nortasun\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "194",
+    "input": "\"fantasia\", \"kasu\", \"gihar\", \"gorputz\" eta \"behor\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "196",
+    "input": "\"kilometro\", \"motxila\", \"olagarro\", \"etxe\" eta \"neurri\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "198",
+    "input": "\"urre\", \"betebehar\", \"eskaintza\", \"aireportu\" eta \"lurrun\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "199",
+    "input": "\"gizarte\", \"belar-denda\", \"bulego\", \"izeba\" eta \"logela\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "200",
+    "input": "\"logela\", \"produktu\", \"autobus\", \"piano\" eta \"gitarra\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "201",
+    "input": "\"sits\", \"izter\", \"elur-jausi\", \"zizare\" eta \"ugalketa\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "202",
+    "input": "\"beldur\", \"ibai\", \"elur-jausi\", \"uholde\" eta \"bide\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "203",
+    "input": "\"bilera\", \"ibai\", \"gai\", \"basamortu\" eta \"autoeskola\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "205",
+    "input": "\"aukera\", \"erakunde\", \"kasu\", \"oihan\" eta \"ibai\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "207",
+    "input": "\"astronauta\", \"etorbide\", \"uraza\", \"su\" eta \"motor\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "208",
+    "input": "\"gutxiengo\", \"sute\", \"sumindura\", \"tamaina\" eta \"kamera\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "209",
+    "input": "\"jarrera\", \"izaki\", \"espezie\", \"hiriburu\" eta \"panel\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "211",
+    "input": "\"tapauka\", \"gizateri\", \"galtzontzilloak\", \"tabako-denda\" eta \"igogailu\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "212",
+    "input": "\"etxebizitza\", \"astearte\", \"igande\", \"pisu\" eta \"porrot\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "213",
+    "input": "\"beso\", \"berun\", \"gatz\", \"bilera\" eta \"dentista\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "214",
+    "input": "\"senar\", \"hondartza\", \"berde\", \"birramona\" eta \"oinetako\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "216",
+    "input": "\"saiakera\", \"orpo\", \"bizitza\", \"begi\" eta \"izaki\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "222",
+    "input": "\"arto\", \"batzarkide\", \"okindegi\", \"hotel\" eta \"onura\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "227",
+    "input": "\"komedia\", \"suspense\", \"oilo\", \"mutiko\" eta \"automobil\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "228",
+    "input": "\"determinatzaile\", \"norabide\", \"brokoli\", \"batzarkide\" eta \"ministro\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "230",
+    "input": "\"eraikin\", \"euli\", \"jatorri\", \"posibilitate\" eta \"postposizio\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "232",
+    "input": "\"dekretu\", \"askatasun\", \"biolin\", \"lepo\" eta \"umeki\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "233",
+    "input": "\"urmael\", \"poz\", \"seme\", \"lehengusu\" eta \"izenlagun\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "237",
+    "input": "\"beltz\", \"laranja\", \"postposizio\", \"ohe\" eta \"eskubaloi\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "238",
+    "input": "\"porru\", \"determinatzaile\", \"jaiotza\", \"bernazaki\" eta \"espezie\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "240",
+    "input": "\"ingeniari\", \"izotz\", \"diputatu\", \"birramona\" eta \"matxinsalto\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "242",
+    "input": "\"ukondo\", \"abiadura\", \"gutxiengo\", \"tren\" eta \"betaurreko\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "248",
+    "input": "\"beisbol\", \"kontseilu\", \"beso\", \"helmuga\" eta \"krisi\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "250",
+    "input": "\"urre\", \"salneurri\", \"eski\", \"eskaintza\" eta \"fantasia\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "252",
+    "input": "\"kordel\", \"produktu\", \"tamaina\", \"altuera\" eta \"izeba\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "257",
+    "input": "\"entzumen\", \"birbiloba\", \"birramona\", \"enpresaburu\" eta \"egitura\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "259",
+    "input": "\"neskato\", \"gorputz\", \"zerbitzu\", \"mota\" eta \"transakzio\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "260",
+    "input": "\"izter\", \"pisu\", \"erraztatzaile\", \"irtenbide\" eta \"iragan\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "261",
+    "input": "\"berun\", \"gris\", \"ama\", \"kolore\" eta \"etxebizitza\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "262",
+    "input": "\"logela\", \"igande\", \"helmuga\", \"txirrindularitza\" eta \"boxeo\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "263",
+    "input": "\"kilo\", \"guda\", \"hazkunde\", \"bularretako\" eta \"tamaina\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "264",
+    "input": "\"hazkunde\", \"mililitro\", \"bolumen\", \"diktadura\" eta \"amona\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "265",
+    "input": "\"marroi\", \"txano\", \"saskibaloi\", \"astelehen\" eta \"larunbat\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "266",
+    "input": "\"hori\", \"saxofoi\", \"oihan\", \"izotz\" eta \"gorri\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "267",
+    "input": "\"gona\", \"ate\", \"udaletxe\", \"denda\" eta \"tsunami\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "269",
+    "input": "\"izenordain\", \"orratz\", \"bular\", \"tsunami\" eta \"substantibo\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "273",
+    "input": "\"patinete\", \"auto\", \"saltzaile\", \"zurgin\" eta \"bele\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "276",
+    "input": "\"irristailuak\", \"aitona\", \"birbiloba\", \"gradu\" eta \"kontsumo\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "278",
+    "input": "\"nire\", \"ur\", \"epaile\", \"baso\" eta \"oihan\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "279",
+    "input": "\"zilar\", \"dentista\", \"metal\", \"autobus\" eta \"kutxazain\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "280",
+    "input": "\"harridura\", \"abiadura\", \"ibilbide\", \"tren\" eta \"otarrain\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "281",
+    "input": "\"txakur\", \"jende\", \"dama\", \"zure\" eta \"waterpolo\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "283",
+    "input": "\"andre\", \"polizia\", \"udaletxe\", \"ahur\" eta \"dentista\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "284",
+    "input": "\"gutxiengo\", \"total\", \"bolumen\", \"bibote\" eta \"bikote\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "287",
+    "input": "\"azenario\", \"zabalera\", \"interes\", \"ilarrak\" eta \"lanabes\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "288",
+    "input": "\"lehengusina\", \"badminton\", \"birbiloba\", \"saiakera\" eta \"azazkal\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "289",
+    "input": "\"atso\", \"indar\", \"lorpen\", \"administrari\" eta \"batzorde\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "290",
+    "input": "\"zure\", \"zorro\", \"errefau\", \"gure\" eta \"gogoeta\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "291",
+    "input": "\"umeki\", \"bolumen\", \"buru\", \"brokoli\" eta \"izaki\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "292",
+    "input": "\"bukaera\", \"aurrerabide\", \"drama\", \"taxi\" eta \"komedia\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "294",
+    "input": "\"gehiengo\", \"gaitasun\", \"posizio\", \"heriotza\" eta \"eskola\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "295",
+    "input": "\"enpresa\", \"trafiko\", \"trenbide\", \"aldi\" eta \"gezur\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "296",
+    "input": "\"gimnastika\", \"igande\", \"astelehen\", \"eskola\" eta \"osaba\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "298",
+    "input": "\"urdail\", \"ardi\", \"biolin\", \"egoera\" eta \"klarinete\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "299",
+    "input": "\"arrandegi\", \"plazer\", \"hotel\", \"talde\" eta \"uztail\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "300",
+    "input": "\"boxeo\", \"neurri\", \"eski\", \"determinatzaile\" eta \"pantaila\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "302",
+    "input": "\"fantasia\", \"txano\", \"baimen\", \"misterio\" eta \"bizikleta\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "303",
+    "input": "\"giltza\", \"posizio\", \"bikote\", \"gehiengo\" eta \"gas\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "305",
+    "input": "\"eulitxo\", \"helmuga\", \"murriztapen\", \"hazkunde\" eta \"biolin\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "307",
+    "input": "\"errepide\", \"historia\", \"fruta-denda\", \"ostegun\" eta \"komedia\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "309",
+    "input": "\"kremailera\", \"babak\", \"urre\", \"lokatz\" eta \"lokarriak\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "310",
+    "input": "\"usaimen\", \"zentimetro\", \"litro\", \"nazio\" eta \"sagu\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "311",
+    "input": "\"urdail\", \"lokarri\", \"eskola\", \"loba\" eta \"orratz\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "312",
+    "input": "\"izotz\", \"janzki\", \"bularretako\", \"guda\" eta \"kopia-denda\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "313",
+    "input": "\"tsunami\", \"janzki\", \"txolarre\", \"zerbitzu\" eta \"lurrikara\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "314",
+    "input": "\"gauza\", \"aginte\", \"enpresa\", \"sumindura\" eta \"motor\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "316",
+    "input": "\"sardina\", \"sagu\", \"drama\", \"tamaina\" eta \"kongresu\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "317",
+    "input": "\"hutsegite\", \"esku\", \"gure\", \"saxofoi\" eta \"zure\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "318",
+    "input": "\"adberbio\", \"ugalketa\", \"azalore\", \"piper\" eta \"alderdi\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "319",
+    "input": "\"garapen\", \"gabezia\", \"ostegun\", \"larunbat\" eta \"waterpolo\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "321",
+    "input": "\"biolin\", \"urri\", \"arreta\", \"ekain\" eta \"geltoki\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "325",
+    "input": "\"motor\", \"komisaria\", \"giltza\", \"hiri\" eta \"aireportu\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "326",
+    "input": "\"harategi\", \"burdin\", \"atal\", \"tsunami\" eta \"kafetegi\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "327",
+    "input": "\"banku\", \"etorkizun\", \"alkandora\", \"ministro\" eta \"botoi\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "328",
+    "input": "\"egitasmo\", \"galtza\", \"mahuka\", \"kale\" eta \"ohe\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "329",
+    "input": "\"batzarkide\", \"espezie\", \"izaki\", \"kazetari\" eta \"biloba\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "330",
+    "input": "\"aza\", \"liburutegi\", \"bizitza\", \"aurrerapen\" eta \"ugalketa\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "331",
+    "input": "\"bateria\", \"hazkunde\", \"igel\", \"gutxiengo\" eta \"komisaria\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "334",
+    "input": "\"gabezia\", \"bele\", \"olagarro\", \"lankide\" eta \"familia\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "335",
+    "input": "\"ukimen\", \"askatasun\", \"fase\", \"izotz\" eta \"metal\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "336",
+    "input": "\"harategi\", \"tarifa\", \"senar\", \"ile-apaintzaile\" eta \"arrandegi\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "337",
+    "input": "\"hondartza\", \"basamortu\", \"gorputz\", \"bateria\" eta \"ahur\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "338",
+    "input": "\"ibilbide\", \"bake\", \"aukera\", \"jertse\" eta \"ozeano\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "340",
+    "input": "\"automobil\", \"porrot\", \"trafiko\", \"lehoi\" eta \"iragan\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "341",
+    "input": "\"altuera\", \"ibilbide\", \"aginte\", \"autobide\" eta \"klarinete\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "342",
+    "input": "\"abokatu\", \"intsektu\", \"barraskilo\", \"biloba\" eta \"suntsiketa\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "343",
+    "input": "\"biolin\", \"autobide\", \"bateria\", \"leiho\" eta \"oilo\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "344",
+    "input": "\"bizkar\", \"talde\", \"berde\", \"determinatzaile\" eta \"aho\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "346",
+    "input": "\"galtza\", \"beisbol\", \"iragan\", \"gezur\" eta \"patinaje\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "350",
+    "input": "\"astearte\", \"ospitale\", \"urmael\", \"ostegun\" eta \"kongresu\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "351",
+    "input": "\"abagune\", \"eskumutur\", \"urmael\", \"zorro\" eta \"mahuka\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "352",
+    "input": "\"geltoki\", \"izaera\", \"urakan\", \"zizare\" eta \"tornado\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "354",
+    "input": "\"biolin\", \"kontzeptu\", \"txirula\", \"udalerri\" eta \"errefau\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "355",
+    "input": "\"gogoeta\", \"gerriko\", \"bele\", \"gizaki\" eta \"haurtxo\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "356",
+    "input": "\"su\", \"merkataritza\", \"izotz\", \"ile\" eta \"sumindura\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "357",
+    "input": "\"urtarril\", \"otsail\", \"plazer\", \"tsunami\" eta \"fruta-denda\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "358",
+    "input": "\"tipula\", \"ibilbide\", \"ipurdi\", \"orburu\" eta \"ministro\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "359",
+    "input": "\"determinatzaile\", \"adberbio\", \"helmuga\", \"aita\" eta \"mozketa\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "360",
+    "input": "\"tronpeta\", \"klarinete\", \"astearte\", \"behar\" eta \"basamortu\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "361",
+    "input": "\"haien\", \"haren\", \"senatari\", \"gai\" eta \"gerriko\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "362",
+    "input": "\"sail\", \"bulego\", \"haien\", \"beso\" eta \"zuen\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "365",
+    "input": "\"hari\", \"poz\", \"neskato\", \"labezomorro\" eta \"kamera\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "366",
+    "input": "\"mekanikari\", \"probintzia\", \"oin\", \"kasu\" eta \"ingeniari\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "367",
+    "input": "\"astronauta\", \"margolari\", \"zentimetro\", \"adberbio\" eta \"bitxi-denda\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "369",
+    "input": "\"konstituzio\", \"orratz\", \"larunbat\", \"ospitale\" eta \"asteazken\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "370",
+    "input": "\"lur\", \"behor\", \"arrain\", \"adibide\" eta \"belo\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "373",
+    "input": "\"aurrerabide\", \"ozeano\", \"itsaso\", \"katu\" eta \"eraikuntza\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "375",
+    "input": "\"autoeskola\", \"sardina\", \"mutiko\", \"automobil\" eta \"trenbide\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "376",
+    "input": "\"elur-jausi\", \"tsunami\", \"erregai-sailtzaile\", \"kargu\" eta \"orratz\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "377",
+    "input": "\"etorbide\", \"historia\", \"suspense\", \"garai\" eta \"biolin\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "378",
+    "input": "\"izenlagun\", \"esanahi\", \"aldaka\", \"haien\" eta \"nire\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "379",
+    "input": "\"liburu-denda\", \"txirula\", \"soineko\", \"kasu\" eta \"biolin\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "381",
+    "input": "\"postposizio\", \"izenordain\", \"matxinsalto\", \"gabezia\" eta \"parlamentari\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "382",
+    "input": "\"soka\", \"heriotza\", \"bateria\", \"ekoizpen\" eta \"diru\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "384",
+    "input": "\"familia\", \"eskumutur\", \"ezagun\", \"errepide\" eta \"komisaria\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "385",
+    "input": "\"gas\", \"kasu\", \"aire\", \"talde\" eta \"dama\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "386",
+    "input": "\"lokarriak\", \"emakume\", \"aukera\", \"bularretako\" eta \"more\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "387",
+    "input": "\"taberna\", \"ostegun\", \"ostiral\", \"gure\" eta \"aho\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "392",
+    "input": "\"multzo\", \"abentura\", \"jatetxe\", \"lege\" eta \"gezur\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "393",
+    "input": "\"gradu\", \"bitxi-denda\", \"komedia\", \"musikal\" eta \"bola-joko\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "394",
+    "input": "\"astelehen\", \"sabelalde\", \"ostiral\", \"milimetro\" eta \"iturgin\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "396",
+    "input": "\"krokodilo\", \"oilo\", \"klarinete\", \"udalerri\" eta \"automobil\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "397",
+    "input": "\"dama\", \"oihan\", \"nerabe\", \"kremailera\" eta \"esanahi\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "398",
+    "input": "\"bolumen\", \"lagun\", \"kopuru\", \"ohe\" eta \"postari\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "399",
+    "input": "\"arropa\", \"batzorde\", \"saskibaloi\", \"golf\" eta \"ondorio\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "401",
+    "input": "\"dama\", \"gizateri\", \"poz\", \"zerbitzu\" eta \"arkitekto\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "402",
+    "input": "\"urrats\", \"izotz\", \"diktadura\", \"ur\" eta \"formalitate\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "403",
+    "input": "\"egoera\", \"alkate\", \"lagun\", \"txirula\" eta \"saxofoi\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "404",
+    "input": "\"ardi\", \"zelai\", \"leku\", \"departamendu\" eta \"sakonera\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "405",
+    "input": "\"eginkizun\", \"gatz\", \"ministro\", \"misterio\" eta \"suspense\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "407",
+    "input": "\"euli\", \"belaun\", \"eskaintza\", \"bernazaki\" eta \"txakur\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "408",
+    "input": "\"aintzira\", \"basamortu\", \"bilera\", \"gatazka\" eta \"kode\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "410",
+    "input": "\"urtarril\", \"kopuru\", \"arrazoi\", \"ekain\" eta \"posibilitate\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "412",
+    "input": "\"ezusteko\", \"mililitro\", \"aho\", \"azal\" eta \"trenbide\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "415",
+    "input": "\"ekoizpen\", \"atzamar\", \"bilete\", \"txirula\" eta \"erregai-sailtzaile\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "416",
+    "input": "\"narriadura\", \"itsasalde\", \"biolin\", \"departamendu\" eta \"saxofoi\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "418",
+    "input": "\"izotz\", \"mugimendu\", \"baratxuri\", \"eskularruak\" eta \"patatak\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "419",
+    "input": "\"denda\", \"biologo\", \"ostegun\", \"xede\" eta \"desberdintasun\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "420",
+    "input": "\"astronauta\", \"abentura\", \"emakume\", \"lorpen\" eta \"fantasia\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "422",
+    "input": "\"etxebizitza\", \"eskailera\", \"gezur\", \"orratz\" eta \"jirafa\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "423",
+    "input": "\"garun\", \"osaba\", \"jatetxe\", \"gizaki\" eta \"oin\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "424",
+    "input": "\"belo\", \"asteazken\", \"helduleku\", \"galtzerdiak\" eta \"marroi\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "425",
+    "input": "\"argiketari\", \"ministro\", \"izenlagun\", \"adberbio\" eta \"aurrerabide\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "426",
+    "input": "\"bihotz\", \"etorkizun\", \"garun\", \"garapen\" eta \"gehiengo\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "427",
+    "input": "\"leku\", \"jarrera\", \"zerba\", \"mutiko\" eta \"sekretu\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "428",
+    "input": "\"klarinete\", \"motxila\", \"astelehen\", \"mendi\" eta \"piano\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "429",
+    "input": "\"aitona\", \"su\", \"abokatu\", \"ingeniari\" eta \"demokrazia\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "431",
+    "input": "\"argiketari\", \"natura\", \"salneurri\", \"atzamar\" eta \"hondartza\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "432",
+    "input": "\"postari\", \"gas\", \"ezpain\", \"izotz\" eta \"kafetegi\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "435",
+    "input": "\"komunitate\", \"abentura\", \"bukaera\", \"misterio\" eta \"gela\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "436",
+    "input": "\"belar-denda\", \"patatak\", \"autoeskola\", \"kontzeptu\" eta \"jertse\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "437",
+    "input": "\"abagune\", \"natura\", \"hazkunde\", \"gehiengo\" eta \"lehorte\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "438",
+    "input": "\"errugbi\", \"zuen\", \"luzera\", \"haien\" eta \"gizarte\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "440",
+    "input": "\"larunbat\", \"farmazia\", \"igande\", \"izen\" eta \"lagun\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "441",
+    "input": "\"arreta\", \"bola-joko\", \"atso\", \"loradenda\" eta \"onura\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "443",
+    "input": "\"kontseilu\", \"panel\", \"ohe\", \"kriket\" eta \"otsail\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "444",
+    "input": "\"atal\", \"ahalmen\", \"dekretu\", \"sarrera\" eta \"gorputz\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "445",
+    "input": "\"piano\", \"saxofoi\", \"bainujantzi\", \"salneurri\" eta \"kutxazain\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "447",
+    "input": "\"arrain\", \"atletismo\", \"administrazio\", \"matxinsalto\" eta \"azazkal\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "448",
+    "input": "\"izotz\", \"leku\", \"pantaila\", \"pisu\" eta \"total\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "450",
+    "input": "\"tsunami\", \"ahalmen\", \"su\", \"izotz\" eta \"tenis\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "451",
+    "input": "\"merkatu\", \"ibai\", \"kontsumo\", \"lehengusina\" eta \"parlamentari\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "452",
+    "input": "\"jende\", \"bular\", \"hortz\", \"kongresu\" eta \"astelehen\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "453",
+    "input": "\"irail\", \"tapauka\", \"oihan\", \"itxigailu\" eta \"merkatu\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "455",
+    "input": "\"su\", \"lur\", \"papar-hegal\", \"mahai\" eta \"lurrikara\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "456",
+    "input": "\"gure\", \"helmuga\", \"zerbitzu\", \"garapen\" eta \"gimnastika\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "457",
+    "input": "\"erregai-sailtzaile\", \"hortz\", \"lehorte\", \"kargu\" eta \"tornado\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "458",
+    "input": "\"garraio\", \"patinete\", \"oilo\", \"atso\" eta \"gizateri\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "459",
+    "input": "\"kamera\", \"hiriburu\", \"alaba\", \"motor\" eta \"birraitona\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "461",
+    "input": "\"ugalketa\", \"zure\", \"eski\", \"bizitza\" eta \"orburu\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "462",
+    "input": "\"ama\", \"heriotza\", \"jaiotza\", \"urri\" eta \"okin\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "464",
+    "input": "\"segurtasun\", \"katu\", \"izenondo\", \"determinatzaile\" eta \"arma\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "467",
+    "input": "\"waterpolo\", \"gerri\", \"desberdintasun\", \"abendu\" eta \"atzamar\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "468",
+    "input": "\"gizateri\", \"bulego\", \"senatari\", \"gizaki\" eta \"ile-apaindegi\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "472",
+    "input": "\"tapauka\", \"patinete\", \"arratoi\", \"autobide\" eta \"katu\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "473",
+    "input": "\"sakonera\", \"juntagailu\", \"pertsona\", \"sute\" eta \"uholde\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "475",
+    "input": "\"igel\", \"eskalada\", \"oilo\", \"adostasun\" eta \"gatz\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "476",
+    "input": "\"irail\", \"azazkal\", \"uztail\", \"mililitro\" eta \"udaletxe\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "477",
+    "input": "\"eskalada\", \"enpatia\", \"asperdura\", \"gorri\" eta \"gimnastika\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "478",
+    "input": "\"loba\", \"belaun\", \"azaro\", \"abuztu\" eta \"hotel\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "481",
+    "input": "\"osaba\", \"errepide\", \"pertsona\", \"dama\" eta \"sektore\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "482",
+    "input": "\"etxe\", \"aditz\", \"zerbitzu\", \"komedia\" eta \"kontsumo\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "483",
+    "input": "\"abuztu\", \"handipen\", \"urri\", \"lohi\" eta \"aireportu\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "484",
+    "input": "\"arrano\", \"zure\", \"betebehar\", \"haien\" eta \"altuera\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "486",
+    "input": "\"egitarau\", \"beltz\", \"eginkizun\", \"helduleku\" eta \"kordel\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "488",
+    "input": "\"metal\", \"lehorte\", \"bus\", \"tornado\" eta \"politikari\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "490",
+    "input": "\"liburutegi\", \"garai\", \"komisaria\", \"orainaldi\" eta \"sabelalde\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "491",
+    "input": "\"izaki\", \"gatz\", \"sekretu\", \"espezie\" eta \"drama\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "492",
+    "input": "\"birbiloba\", \"belaun\", \"antzekotasun\", \"kolore\" eta \"urdin\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "494",
+    "input": "\"espezie\", \"kalte\", \"heriotza\", \"betaurreko\" eta \"irudi\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "495",
+    "input": "\"biolin\", \"bularretako\", \"suge\", \"jertse\" eta \"tronpeta\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "496",
+    "input": "\"hiriburu\", \"jatetxe\", \"ile-apaindegi\", \"jaiotza\" eta \"mota\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "497",
+    "input": "\"kamiseta\", \"uraza\", \"departamendu\", \"izenordain\" eta \"adberbio\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "500",
+    "input": "\"komedia\", \"ukimen\", \"eraikin\", \"drama\" eta \"murriztapen\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "502",
+    "input": "\"saxofoi\", \"indar\", \"txirula\", \"eraikin\" eta \"arazo\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "503",
+    "input": "\"lurrun\", \"osaba\", \"iltze\", \"ezagun\" eta \"gabezia\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "504",
+    "input": "\"xendazaletasun\", \"mililitro\", \"kilo\", \"batzorde\" eta \"lohi\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "505",
+    "input": "\"lokatz\", \"biologo\", \"garraio\", \"izter\" eta \"aldaka\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "507",
+    "input": "\"tamaina\", \"bateria\", \"baso\", \"piano\" eta \"ikusmen\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "508",
+    "input": "\"oihan\", \"adostasun\", \"anai\", \"senatari\" eta \"epaile\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "509",
+    "input": "\"lehorte\", \"soineko\", \"farmazia\", \"lurrikara\" eta \"tximeleta\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "510",
+    "input": "\"hobekuntza\", \"urre\", \"agure\", \"hazkunde\" eta \"lur\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "511",
+    "input": "\"txano\", \"tranbia\", \"transakzio\", \"substantibo\" eta \"juntagailu\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "514",
+    "input": "\"metal\", \"okin\", \"zizare\", \"seme\" eta \"argazkilari\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "516",
+    "input": "\"zerba\", \"azalore\", \"lagun\", \"automobil\" eta \"emakume\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "517",
+    "input": "\"dama\", \"kriket\", \"posibilitate\", \"biolin\" eta \"bateria\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "519",
+    "input": "\"izaki\", \"probintzia\", \"abendu\", \"zorro\" eta \"ekain\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "523",
+    "input": "\"idazmahai\", \"gizateri\", \"mililitro\", \"krokodilo\" eta \"jaun\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "524",
+    "input": "\"aireportu\", \"gona\", \"banku\", \"ospitale\" eta \"urmael\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "525",
+    "input": "\"igeriketa\", \"zorro\", \"behi\", \"txerri\" eta \"diktadura\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "526",
+    "input": "\"sentsazio\", \"supermerkatu\", \"komisaria\", \"arrosa\" eta \"zelai\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "528",
+    "input": "\"piraguismo\", \"astelehen\", \"orpo\", \"sumindura\" eta \"astearte\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "529",
+    "input": "\"biloba\", \"zerbitzari\", \"idazmahai\", \"zerba\" eta \"sarrera\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "531",
+    "input": "\"helduleku\", \"ozeano\", \"aire\", \"kordel\" eta \"jarrera\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "532",
+    "input": "\"golf\", \"intsektu\", \"sudur\", \"abendu\" eta \"surf\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "533",
+    "input": "\"sakonera\", \"bus\", \"hautemate\", \"automobil\" eta \"apio\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "534",
+    "input": "\"konfiantza\", \"tranbia\", \"ibilbide\", \"arrakasta\" eta \"otarrain\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "535",
+    "input": "\"igel\", \"eskaintza\", \"amona\", \"ukondo\" eta \"belaun\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "537",
+    "input": "\"emakume\", \"ospitale\", \"desberdintasun\", \"bulego\" eta \"esku\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "538",
+    "input": "\"diktadura\", \"suhiltzaile\", \"norabide\", \"mugimendu\" eta \"motor\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "539",
+    "input": "\"lokatz\", \"betebehar\", \"brokoli\", \"elkarte\" eta \"buru\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "540",
+    "input": "\"biolin\", \"tronpeta\", \"bizikleta\", \"historia\" eta \"jarrera\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "543",
+    "input": "\"mugimendu\", \"bizkar\", \"azal\", \"lehengusu\" eta \"autoeskola\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "545",
+    "input": "\"urri\", \"tornado\", \"atzerakada\", \"oin\" eta \"lehorte\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "548",
+    "input": "\"mutiko\", \"zurgin\", \"astelehen\", \"zuri\" eta \"larunbat\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "549",
+    "input": "\"saltzaile\", \"tipula\", \"ondorio\", \"izenondo\" eta \"porru\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "551",
+    "input": "\"tximeleta\", \"badminton\", \"lohi\", \"gas\" eta \"bernazaki\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "555",
+    "input": "\"sute\", \"ile-apaindegi\", \"betebehar\", \"hori\" eta \"tsunami\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "557",
+    "input": "\"beldur\", \"zirkulazio\", \"patinete\", \"ezaugarri\" eta \"udaletxe\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "558",
+    "input": "\"enpresa\", \"arrazoi\", \"piano\", \"txirula\" eta \"helburu\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "560",
+    "input": "\"nire\", \"zorro\", \"hezur\", \"ukondo\" eta \"harategi\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "561",
+    "input": "\"komunitate\", \"musikal\", \"komedia\", \"panel\" eta \"bizkar\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "562",
+    "input": "\"taxi\", \"udalerri\", \"diputatu\", \"begi\" eta \"ezpain\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "565",
+    "input": "\"automobil\", \"gatz\", \"su\", \"gerri\" eta \"hegaluze\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "569",
+    "input": "\"programatzaile\", \"abiadura\", \"fantasia\", \"kode\" eta \"drama\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "572",
+    "input": "\"askatasun\", \"komisaria\", \"garun\", \"motxila\" eta \"nazio\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "573",
+    "input": "\"sumindura\", \"objektu\", \"sits\", \"ahur\" eta \"txori\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "574",
+    "input": "\"txano\", \"eskrima\", \"igeriketa\", \"arkitekto\" eta \"ile-apaindegi\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "576",
+    "input": "\"merkatu\", \"bide\", \"arrazoi\", \"babes\" eta \"zerbitzu\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "577",
+    "input": "\"arrosa\", \"gibel\", \"helburu\", \"tsunami\" eta \"sute\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "578",
+    "input": "\"topaketa\", \"asperdura\", \"batzorde\", \"leku\" eta \"helmuga\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "580",
+    "input": "\"izenordain\", \"jaiotza\", \"gibel\", \"beroki\" eta \"bizitza\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "582",
+    "input": "\"galtza\", \"saskibaloi\", \"tapauka\", \"hiribildu\" eta \"kilo\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "583",
+    "input": "\"kordel\", \"estatu\", \"tsunami\", \"soka\" eta \"bola-joko\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "586",
+    "input": "\"komunitate\", \"ile\", \"topaketa\", \"eskailera\" eta \"desberdintasun\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "587",
+    "input": "\"gorputz\", \"liburu-denda\", \"azal\", \"konpainia\" eta \"astronauta\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "588",
+    "input": "\"otarrain\", \"onura\", \"gerri\", \"ostiral\" eta \"igande\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "589",
+    "input": "\"metal\", \"irail\", \"zuri\", \"saltzaile\" eta \"uztail\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "590",
+    "input": "\"arazo\", \"klub\", \"oinetako\", \"kongresu\" eta \"kasketa\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "595",
+    "input": "\"debeku\", \"tipula\", \"urrats\", \"irtenbide\" eta \"politika\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "596",
+    "input": "\"jaun\", \"uztail\", \"adberbio\", \"urri\" eta \"dama\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "597",
+    "input": "\"urmael\", \"laranja\", \"ilarrak\", \"berde\" eta \"jaiotza\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "600",
+    "input": "\"suspense\", \"etxe\", \"azenario\", \"komedia\" eta \"kuiatxo\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "601",
+    "input": "\"itxigailu\", \"aire\", \"bide\", \"taxi\" eta \"espezie\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "602",
+    "input": "\"merkataritza\", \"matxinsalto\", \"bilete\", \"bularretako\" eta \"beltz\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "606",
+    "input": "\"komedia\", \"soka\", \"ospitale\", \"trafiko\" eta \"suspense\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "607",
+    "input": "\"auto\", \"astronauta\", \"autobide\", \"bola-joko\" eta \"bukaera\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "608",
+    "input": "\"suge\", \"laranja\", \"panel\", \"berde\" eta \"mendi\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "612",
+    "input": "\"zapatila\", \"litro\", \"tenis\", \"botoi\" eta \"betebehar\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "613",
+    "input": "\"alkate\", \"galtzerdiak\", \"mota\", \"lokarriak\" eta \"waterpolo\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "615",
+    "input": "\"aireportu\", \"eskaintza\", \"zainzuri\", \"kazetari\" eta \"margolari\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "616",
+    "input": "\"azenario\", \"urrats\", \"kuiatxo\", \"trenbide\" eta \"bizar\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "618",
+    "input": "\"mozketa\", \"pantaila\", \"zuri\", \"more\" eta \"lurrikara\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "620",
+    "input": "\"ospitale\", \"porru\", \"gatz\", \"alberjinia\" eta \"klub\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "621",
+    "input": "\"gutxiengo\", \"handipen\", \"aktore\", \"jertse\" eta \"orburu\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "623",
+    "input": "\"ozeano\", \"debeku\", \"urdin\", \"beltz\" eta \"garai\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "625",
+    "input": "\"sagu\", \"arazo\", \"hegaluze\", \"tornado\" eta \"pisu\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "626",
+    "input": "\"sorbalda\", \"aire\", \"lehorte\", \"zomorro\" eta \"gatz\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "627",
+    "input": "\"autobide\", \"autobus\", \"garapen\", \"ekonomia\" eta \"tarifa\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "628",
+    "input": "\"preposizio\", \"herri\", \"berde\", \"ardi\" eta \"arrosa\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "629",
+    "input": "\"topaketa\", \"aukera\", \"elkarte\", \"trenbide\" eta \"abokatu\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "630",
+    "input": "\"gatazka\", \"administrari\", \"azelerazio\", \"iltze\" eta \"poltsa\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "631",
+    "input": "\"irail\", \"departamendu\", \"ministro\", \"margolari\" eta \"azaro\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "632",
+    "input": "\"bateria\", \"nerabe\", \"zelai\", \"ahizpa\" eta \"mendi\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "633",
+    "input": "\"nire\", \"luzera\", \"ardi\", \"aza\" eta \"gure\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "635",
+    "input": "\"liburutegi\", \"kordel\", \"giltza\", \"konfiantza\" eta \"ama\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "636",
+    "input": "\"haien\", \"zuen\", \"grina\", \"loba\" eta \"urdail\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "637",
+    "input": "\"iragan\", \"bilete\", \"komisaria\", \"txerri\" eta \"transakzio\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "638",
+    "input": "\"galtzerdiak\", \"birraitona\", \"arropa\", \"bus\" eta \"bernazaki\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "639",
+    "input": "\"enpresaburu\", \"parlamentari\", \"eraikuntza\", \"labezomorro\" eta \"krokodilo\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "640",
+    "input": "\"askatasun\", \"ahizpa\", \"egitura\", \"aita\" eta \"itxigailu\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "645",
+    "input": "\"itxaronaldi\", \"suhiltzaile\", \"gatz\", \"agure\" eta \"gizon\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "646",
+    "input": "\"zentimetro\", \"urtarril\", \"gizarte\", \"fantasia\" eta \"mililitro\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "648",
+    "input": "\"astelehen\", \"asteazken\", \"txolarre\", \"existentzia\" eta \"sorkuntza\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "649",
+    "input": "\"bukaera\", \"udaletxe\", \"zilar\", \"tronpeta\" eta \"txirula\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "650",
+    "input": "\"txirula\", \"bateria\", \"jaun\", \"arau\" eta \"biloba\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "652",
+    "input": "\"klarinete\", \"ostiral\", \"urdaitegi\", \"astelehen\" eta \"gabezia\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "653",
+    "input": "\"tristura\", \"izaki\", \"gradu\", \"espezie\" eta \"trenbide\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "654",
+    "input": "\"galtzontzilloak\", \"zapatila\", \"demokrazia\", \"asmatze\" eta \"gehiengo\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "658",
+    "input": "\"irakasle\", \"bela\", \"saltzaile\", \"boleibol\" eta \"betaurreko\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "660",
+    "input": "\"gehiengo\", \"nire\", \"haren\", \"nazio\" eta \"badminton\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "661",
+    "input": "\"zizare\", \"poltsa\", \"soka\", \"drama\" eta \"abentura\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "663",
+    "input": "\"sute\", \"gizarte\", \"mendi\", \"administrazio\" eta \"saxofoi\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "665",
+    "input": "\"egia\", \"marroi\", \"izkira\", \"fruta-denda\" eta \"gorri\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "667",
+    "input": "\"marroi\", \"berun\", \"izaki\", \"autobide\" eta \"espezie\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "669",
+    "input": "\"txano\", \"suge\", \"txirrindularitza\", \"kalte\" eta \"bularretako\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "671",
+    "input": "\"ikusmen\", \"nire\", \"sumindura\", \"haien\" eta \"larunbat\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "674",
+    "input": "\"nortasun\", \"drama\", \"komedia\", \"lanabes\" eta \"hiri\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "677",
+    "input": "\"bukaera\", \"euli\", \"zabalera\", \"jaiotza\" eta \"ugalketa\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "679",
+    "input": "\"izaera\", \"eraikuntza\", \"neurri\", \"astelehen\" eta \"igande\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "680",
+    "input": "\"bizar\", \"helmuga\", \"giltza\", \"balio\" eta \"azal\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "681",
+    "input": "\"urre\", \"urdail\", \"brokoli\", \"bizar\" eta \"errefau\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "682",
+    "input": "\"gerriko\", \"posizio\", \"errepide\", \"tren\" eta \"motxila\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "683",
+    "input": "\"kilometro\", \"esanahi\", \"irudi\", \"birramona\" eta \"kopuru\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "684",
+    "input": "\"beldur\", \"total\", \"hondartza\", \"mililitro\" eta \"biologo\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "685",
+    "input": "\"senatari\", \"haren\", \"jatetxe\", \"jaka\" eta \"gure\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "689",
+    "input": "\"diru\", \"balio\", \"zuri\", \"milimetro\" eta \"gris\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "691",
+    "input": "\"jaiotza\", \"denda\", \"izaki\", \"supermerkatu\" eta \"soka\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "694",
+    "input": "\"irtenbide\", \"laranja\", \"gramo\", \"ukondo\" eta \"bihotz\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "695",
+    "input": "\"nortasun\", \"bolumen\", \"eskola\", \"kopia-denda\" eta \"hazkunde\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "696",
+    "input": "\"bernazaki\", \"autobus\", \"ezaugarri\", \"auto\" eta \"etxebizitza\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "698",
+    "input": "\"drama\", \"aireportu\", \"kuleroak\", \"komedia\" eta \"atzerakada\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "701",
+    "input": "\"sorkuntza\", \"futbol\", \"hori\", \"atletismo\" eta \"uztail\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "703",
+    "input": "\"adostasun\", \"txirula\", \"bele\", \"bizkar\" eta \"gitarra\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "704",
+    "input": "\"botoi\", \"hari\", \"tapauka\", \"tsunami\" eta \"lehorte\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "708",
+    "input": "\"errefau\", \"preposizio\", \"uztail\", \"baldintza\" eta \"postposizio\" hitzetako baten bat da kategoria gramatikal bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "709",
+    "input": "\"zilar\", \"eskubaloi\", \"su\", \"itsasontzi\" eta \"fase\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "711",
+    "input": "\"kafetegi\", \"aireportu\", \"berun\", \"porru\" eta \"automobil\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "712",
+    "input": "\"merkatu\", \"eskubide\", \"kontsumo\", \"porrot\" eta \"okindegi\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "713",
+    "input": "\"zainzuri\", \"brokoli\", \"etorkizun\", \"txipiroi\" eta \"zizare\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "714",
+    "input": "\"posizio\", \"gabezia\", \"abagune\", \"hazkunde\" eta \"suge\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "720",
+    "input": "\"aurrerapen\", \"baimen\", \"errugbi\", \"elkarte\" eta \"argazkilari\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "721",
+    "input": "\"ostegun\", \"hiriburu\", \"igande\", \"produktu\" eta \"jaun\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "723",
+    "input": "\"lehoi\", \"txakur\", \"zuzendari\", \"posibilitate\" eta \"gibel\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "727",
+    "input": "\"lur\", \"zientzialari\", \"ibai\", \"aintzira\" eta \"izotz\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "728",
+    "input": "\"lohi\", \"ezusteko\", \"berun\", \"ahizpa\" eta \"egitarau\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "730",
+    "input": "\"tarifa\", \"belatz\", \"lagun\", \"gatazka\" eta \"produktu\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "732",
+    "input": "\"narriadura\", \"ondorio\", \"murriztapen\", \"fruta-denda\" eta \"kargu\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "733",
+    "input": "\"baimen\", \"gobernu\", \"aire\", \"patinaje\" eta \"igeriketa\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "738",
+    "input": "\"mendi\", \"pertsona\", \"lehorte\", \"belarri\" eta \"gizateri\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "741",
+    "input": "\"kilo\", \"txori\", \"onura\", \"kopuru\" eta \"barraskilo\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "742",
+    "input": "\"harategi\", \"bulego\", \"aurrerabide\", \"ibilbide\" eta \"hasiera\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "743",
+    "input": "\"zizare\", \"eulitxo\", \"alaba\", \"urdin\" eta \"arrandegi\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "744",
+    "input": "\"errugbi\", \"etorkizun\", \"errepide\", \"surf\" eta \"poz\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "745",
+    "input": "\"iltze\", \"balio\", \"anai\", \"lanabes\" eta \"hegaluze\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "746",
+    "input": "\"marroi\", \"misterio\", \"musikal\", \"armiarma\" eta \"oilo\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "749",
+    "input": "\"lanabes\", \"handipen\", \"usaimen\", \"tximino\" eta \"tamaina\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "751",
+    "input": "\"ondorio\", \"birramona\", \"birbiloba\", \"segida\" eta \"mekanikari\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "753",
+    "input": "\"arto\", \"izen\", \"egoera\", \"piper\" eta \"beldur\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "757",
+    "input": "\"estatu\", \"sentsazio\", \"arma\", \"kordel\" eta \"birbiloba\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "758",
+    "input": "\"ikusmen\", \"transakzio\", \"kalitate\", \"haren\" eta \"zure\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "761",
+    "input": "\"xendazaletasun\", \"saxofoi\", \"klarinete\", \"eskalada\" eta \"urdail\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "762",
+    "input": "\"gabezia\", \"arma\", \"topaketa\", \"iltze\" eta \"orpo\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "764",
+    "input": "\"ospitale\", \"udaletxe\", \"interes\", \"senar\" eta \"demokrazia\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "766",
+    "input": "\"boxeo\", \"luzera\", \"zuen\", \"nire\" eta \"iturgin\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "770",
+    "input": "\"desberdintasun\", \"udalerri\", \"olagarro\", \"gehiengo\" eta \"fase\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "771",
+    "input": "\"jende\", \"irail\", \"gerri\", \"lanabes\" eta \"orratz\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "772",
+    "input": "\"lehorte\", \"urakan\", \"hanka\", \"katu\" eta \"agure\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "773",
+    "input": "\"otsail\", \"oin\", \"abentura\", \"herrialde\" eta \"urtarril\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "775",
+    "input": "\"eskailera\", \"hiriburu\", \"garraio\", \"betebehar\" eta \"piper\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "776",
+    "input": "\"gehiengo\", \"garun\", \"hazkunde\", \"hiribildu\" eta \"zerba\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "777",
+    "input": "\"supermerkatu\", \"misterio\", \"lege\", \"poltsa\" eta \"abentura\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "779",
+    "input": "\"uholde\", \"eskailera\", \"more\", \"ezaugarri\" eta \"zuri\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "780",
+    "input": "\"sits\", \"lehengusu\", \"sudur\", \"izeba\" eta \"ardi\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "783",
+    "input": "\"saiakera\", \"beisbol\", \"zure\", \"hanka\" eta \"bihotz\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "786",
+    "input": "\"dama\", \"itsasontzi\", \"gihar\", \"geraleku\" eta \"neskato\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "789",
+    "input": "\"bake\", \"abokatu\", \"azelerazio\", \"giltza\" eta \"gehiengo\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "790",
+    "input": "\"gure\", \"mililitro\", \"asperdura\", \"gerriko\" eta \"nire\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "791",
+    "input": "\"waterpolo\", \"kalitate\", \"kontseilu\", \"billar\" eta \"helburu\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "793",
+    "input": "\"murriztapen\", \"lur\", \"zilar\", \"zentzu\" eta \"emakume\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "794",
+    "input": "\"gorbata\", \"askatasun\", \"lepo\", \"leku\" eta \"norabide\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "796",
+    "input": "\"gure\", \"harakin\", \"multzo\", \"hezur\" eta \"nire\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "798",
+    "input": "\"bela\", \"sarrera\", \"orratz\", \"tristura\" eta \"lokarri\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "800",
+    "input": "\"abokatu\", \"postari\", \"izaera\", \"idazmahai\" eta \"etxe\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "801",
+    "input": "\"ekonomia\", \"futbol\", \"alkandora\", \"errugbi\" eta \"konpainia\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "802",
+    "input": "\"zabalera\", \"izenlagun\", \"beroki\", \"garun\" eta \"hazkunde\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "803",
+    "input": "\"gobernu\", \"aldaka\", \"herri\", \"misterio\" eta \"liburu-denda\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "804",
+    "input": "\"norbanako\", \"apio\", \"zerba\", \"liburutegi\" eta \"ohe\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "805",
+    "input": "\"suntsiketa\", \"ukondo\", \"kale\", \"ipurdi\" eta \"trafiko\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "807",
+    "input": "\"botoi\", \"elur-jausi\", \"gris\", \"tsunami\" eta \"errefau\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "808",
+    "input": "\"birbiloba\", \"suhiltzaile\", \"zure\", \"haien\" eta \"osaba\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "810",
+    "input": "\"autoeskola\", \"kilo\", \"klarinete\", \"porru\" eta \"biolin\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "811",
+    "input": "\"ahalmen\", \"jaun\", \"otarrain\", \"azaro\" eta \"uztail\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "813",
+    "input": "\"aireportu\", \"bilete\", \"zerbitzu\", \"kopia-denda\" eta \"sorkuntza\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "814",
+    "input": "\"gizarte\", \"herri\", \"buru\", \"sumindura\" eta \"aulki\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "816",
+    "input": "\"zainzuri\", \"zentzu\", \"bitxi-denda\", \"azalore\" eta \"jatetxe\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "817",
+    "input": "\"erraztatzaile\", \"aparatu\", \"kazetari\", \"taxi\" eta \"iltze\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "818",
+    "input": "\"kasu\", \"lohi\", \"ospitale\", \"ile-apaindegi\" eta \"zuri\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "819",
+    "input": "\"banku\", \"aparatu\", \"orburu\", \"administrari\" eta \"orratz\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "820",
+    "input": "\"herrialde\", \"liburutegi\", \"mahuka\", \"azelerazio\" eta \"norabide\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "821",
+    "input": "\"diputatu\", \"lehengusu\", \"bikote\", \"kasketa\" eta \"orainaldi\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "822",
+    "input": "\"saltzaile\", \"ekain\", \"alkate\", \"babak\" eta \"trenbide\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "823",
+    "input": "\"hasiera\", \"emakume\", \"futbol\", \"arau\" eta \"patinaje\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "824",
+    "input": "\"kale\", \"hondartza\", \"errealitate\", \"itsasalde\" eta \"desberdintasun\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "833",
+    "input": "\"kontzeptu\", \"dama\", \"ile\", \"norbanako\" eta \"erregai-sailtzaile\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "834",
+    "input": "\"eskola\", \"ingeniari\", \"banku\", \"aurpegi\" eta \"basamortu\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "836",
+    "input": "\"bikote\", \"zaldi\", \"mililitro\", \"emakume\" eta \"zentimetro\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "837",
+    "input": "\"uztail\", \"kilo\", \"suhiltzaile\", \"segida\" eta \"kopuru\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "839",
+    "input": "\"gris\", \"mahai\", \"sarrera\", \"supermerkatu\" eta \"zilar\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "840",
+    "input": "\"debeku\", \"brokoli\", \"baso\", \"auto\" eta \"itsasalde\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "841",
+    "input": "\"elefante\", \"azalore\", \"otarrain\", \"sukaldari\" eta \"poltsa\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "843",
+    "input": "\"mozketa\", \"txirula\", \"xendazaletasun\", \"tronpeta\" eta \"pantaila\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "844",
+    "input": "\"harridura\", \"hanka\", \"aza\", \"gibel\" eta \"klarinete\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "847",
+    "input": "\"hitz\", \"berde\", \"gorri\", \"bide\" eta \"altuera\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "849",
+    "input": "\"motxila\", \"ostegun\", \"automobil\", \"urmael\" eta \"basamortu\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "851",
+    "input": "\"kopuru\", \"mahuka\", \"saskibaloi\", \"itsasontzi\" eta \"bolumen\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "852",
+    "input": "\"izkira\", \"metal\", \"nerabe\", \"urre\" eta \"zapatila\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "853",
+    "input": "\"aitona\", \"errugbi\", \"zirkulazio\", \"errepide\" eta \"matxinsalto\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "857",
+    "input": "\"birramona\", \"loba\", \"leiho\", \"egitasmo\" eta \"uholde\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "859",
+    "input": "\"otsail\", \"aditz\", \"maiatz\", \"harakin\" eta \"oroipen\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "861",
+    "input": "\"autoeskola\", \"hazkunde\", \"gure\", \"saltzaile\" eta \"belar-denda\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "862",
+    "input": "\"irakasle\", \"bikote\", \"orratz\", \"lankide\" eta \"kilometro\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "863",
+    "input": "\"ondorio\", \"autobide\", \"luzoker\", \"aurpegi\" eta \"begi\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "865",
+    "input": "\"porru\", \"nortasun\", \"azenario\", \"helburu\" eta \"tornado\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "869",
+    "input": "\"sagu\", \"sardina\", \"arrosa\", \"drama\" eta \"komedia\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "872",
+    "input": "\"ilarrak\", \"suspense\", \"supermerkatu\", \"babak\" eta \"tapauka\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "874",
+    "input": "\"norabide\", \"gitarra\", \"gehiengo\", \"irail\" eta \"segida\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "878",
+    "input": "\"lokatz\", \"idazmahai\", \"txano\", \"arrosa\" eta \"eraikuntza\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "879",
+    "input": "\"sudur\", \"ur\", \"gatz\", \"suspense\" eta \"kilo\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "880",
+    "input": "\"egitasmo\", \"ostegun\", \"astearte\", \"txakur\" eta \"lorpen\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "881",
+    "input": "\"tamaina\", \"aktore\", \"guda\", \"herri\" eta \"egitasmo\" hitzetako baten bat da izen abstraktu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "884",
+    "input": "\"enpresa\", \"kanpaina\", \"txirrindularitza\", \"beisbol\" eta \"jertse\" hitzetako baten bat da kirol bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "886",
+    "input": "\"harreman\", \"bainujantzi\", \"aita\", \"espezie\" eta \"alaba\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "889",
+    "input": "\"ate\", \"adostasun\", \"uztail\", \"apiril\" eta \"askatasun\" hitzetako baten bat da hilabete bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "890",
+    "input": "\"lokarri\", \"zorro\", \"dentista\", \"tren\" eta \"giltza\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "892",
+    "input": "\"gihar\", \"bukaera\", \"galtzontzilloak\", \"aintzira\" eta \"oihan\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "893",
+    "input": "\"kontzeptu\", \"etxe\", \"mahai\", \"lehengusina\" eta \"futbol\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "894",
+    "input": "\"arrandegi\", \"jirafa\", \"igel\", \"gerriko\" eta \"farmazia\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "896",
+    "input": "\"nortasun\", \"beltz\", \"kolore\", \"intsektu\" eta \"gatz\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "897",
+    "input": "\"kilometro\", \"kopuru\", \"komisaria\", \"apio\" eta \"urri\" hitzetako baten bat da neurri bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "899",
+    "input": "\"arrazoi\", \"oihan\", \"tximeleta\", \"zelai\" eta \"kolore\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "901",
+    "input": "\"ugalketa\", \"komedia\", \"hutsegite\", \"drama\" eta \"amona\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "902",
+    "input": "\"ministro\", \"pantaila\", \"izen\", \"lanabes\" eta \"loradenda\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "903",
+    "input": "\"autobus\", \"piano\", \"igel\", \"biolin\" eta \"bide\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "904",
+    "input": "\"eraikuntza\", \"gona\", \"politika\", \"kopia-denda\" eta \"kasketa\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "905",
+    "input": "\"garun\", \"tarifa\", \"ekonomia\", \"probintzia\" eta \"astelehen\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "906",
+    "input": "\"uholde\", \"tornado\", \"laranja\", \"okindegi\" eta \"txirula\" hitzetako baten bat da hondamendi natural bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "910",
+    "input": "\"irristailuak\", \"hegaluze\", \"denda\", \"arrakasta\" eta \"orein\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "911",
+    "input": "\"erregai-sailtzaile\", \"uholde\", \"igogailu\", \"eskularruak\" eta \"logela\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "912",
+    "input": "\"bake\", \"fantasia\", \"suspense\", \"erraztatzaile\" eta \"garai\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "915",
+    "input": "\"sudur\", \"konpainia\", \"izenordain\", \"bernazaki\" eta \"sail\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "916",
+    "input": "\"historia\", \"kordel\", \"ile-apaintzaile\", \"laranja\" eta \"suspense\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "917",
+    "input": "\"historia\", \"suspense\", \"lehorte\", \"tximeleta\" eta \"haurtxo\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "918",
+    "input": "\"arratoi\", \"aire\", \"bola-joko\", \"zaldi\" eta \"irristailuak\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "919",
+    "input": "\"arrano\", \"gizaki\", \"bikote\", \"baldintza\" eta \"gizon\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "920",
+    "input": "\"helburu\", \"hegazkin\", \"sarrera\", \"autobide\" eta \"sukaldari\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "921",
+    "input": "\"eskubaloi\", \"azal\", \"ostegun\", \"astearte\" eta \"egoera\" hitzetako baten bat da asteko egun bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "922",
+    "input": "\"larunbat\", \"ahizpa\", \"ingeniari\", \"orein\" eta \"txori\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "923",
+    "input": "\"hiri\", \"astronauta\", \"ekain\", \"otsail\" eta \"alkate\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "925",
+    "input": "\"liburu-denda\", \"azalore\", \"bainujantzi\", \"gobernu\" eta \"brokoli\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "927",
+    "input": "\"komedia\", \"behar\", \"belar-denda\", \"liburu-denda\" eta \"txori\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "928",
+    "input": "\"balio\", \"martxo\", \"ekoizpen\", \"sumindura\" eta \"zelai\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "929",
+    "input": "\"gitarra\", \"norbanako\", \"milimetro\", \"saxofoi\" eta \"gerriko\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "930",
+    "input": "\"abagune\", \"gatazka\", \"andre\", \"mutiko\" eta \"gorri\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "933",
+    "input": "\"diru\", \"salneurri\", \"bularretako\", \"egitura\" eta \"beisbol\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "935",
+    "input": "\"orburu\", \"jaka\", \"beldur\", \"autobide\" eta \"belo\" hitzetako baten bat da jantzi bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "936",
+    "input": "\"seme\", \"ostegun\", \"topaketa\", \"hasiera\" eta \"herrialde\" hitzetako baten bat da gizartearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "938",
+    "input": "\"harakin\", \"batzorde\", \"gehiengo\", \"suhiltzaile\" eta \"kordel\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "940",
+    "input": "\"ibai\", \"zabalera\", \"hazkunde\", \"plazer\" eta \"adibide\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "941",
+    "input": "\"beltz\", \"zizare\", \"etxe\", \"saxofoi\" eta \"piano\" hitzetako baten bat da instrumentu bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "942",
+    "input": "\"aza\", \"komisaria\", \"sits\", \"harategi\" eta \"ekoizpen\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "943",
+    "input": "\"txakur\", \"bizar\", \"aurpegi\", \"jirafa\" eta \"heriotza\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "944",
+    "input": "\"parlamentari\", \"zizare\", \"burdin\", \"aire\" eta \"hiribildu\" hitzetako baten bat da material bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "945",
+    "input": "\"salneurri\", \"ate\", \"hezur\", \"gihar\" eta \"etxe\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "946",
+    "input": "\"lehoi\", \"zurgin\", \"sagu\", \"administrazio\" eta \"urmael\" hitzetako baten bat da animalia bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "949",
+    "input": "\"gris\", \"belar-denda\", \"zorro\", \"ur\" eta \"tabako-denda\" hitzetako baten bat da lantoki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "950",
+    "input": "\"arma\", \"sumindura\", \"andre\", \"babes\" eta \"jaun\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "951",
+    "input": "\"lokatz\", \"irakasle\", \"orburu\", \"postposizio\" eta \"arto\" hitzetako baten bat da barazki bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "953",
+    "input": "\"martxo\", \"tapauka\", \"elur-jausi\", \"poltsa\" eta \"kamera\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "954",
+    "input": "\"arreta\", \"zuen\", \"nire\", \"begi\" eta \"narriadura\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "958",
+    "input": "\"topaketa\", \"familia\", \"seme\", \"auto\" eta \"saiakera\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "960",
+    "input": "\"arreta\", \"autoeskola\", \"izen\", \"ekoizpen\" eta \"transakzio\" hitzetako baten bat da ekonomiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "961",
+    "input": "\"lorpen\", \"garapen\", \"norabide\", \"musikal\" eta \"misterio\" hitzetako baten bat da zinema genero bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "962",
+    "input": "\"esanahi\", \"autobide\", \"irristailuak\", \"heriotza\" eta \"komedia\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "963",
+    "input": "\"onura\", \"haren\", \"haien\", \"gerriko\" eta \"eulitxo\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "966",
+    "input": "\"jaiotza\", \"baldintza\", \"su\", \"bizitza\" eta \"eskola\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "970",
+    "input": "\"kamera\", \"poz\", \"esanahi\", \"haren\" eta \"haien\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "973",
+    "input": "\"gehiengo\", \"xendazaletasun\", \"kamiseta\", \"gorputz\" eta \"ipurdi\" hitzetako baten bat da giza gorputzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "976",
+    "input": "\"apio\", \"neskato\", \"tigre\", \"emakume\" eta \"garai\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "977",
+    "input": "\"mahai\", \"mozketa\", \"musker\", \"logela\" eta \"belarri\" hitzetako baten bat da etxearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "978",
+    "input": "\"kausa\", \"neke\", \"zentzu\", \"zure\" eta \"zuen\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "980",
+    "input": "\"laranja\", \"more\", \"irudi\", \"arratoi\" eta \"patinaje\" hitzetako baten bat da kolore bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "982",
+    "input": "\"tapauka\", \"haien\", \"haren\", \"aza\" eta \"auto\" hitzetako baten bat da izenordain genitibo bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "985",
+    "input": "\"loba\", \"alaba\", \"kamiseta\", \"motor\" eta \"bele\" hitzetako baten bat da familiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "986",
+    "input": "\"zentzu\", \"haurtxo\", \"gizaki\", \"nire\" eta \"ostiral\" hitzetako baten bat da jendearekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "988",
+    "input": "\"hazkunde\", \"agure\", \"gorbata\", \"sakonera\" eta \"kordel\" hitzetako baten bat da espazio edo kopuru bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "992",
+    "input": "\"itxaronaldi\", \"umeki\", \"kontzeptu\", \"ugalketa\" eta \"kasu\" hitzetako baten bat da bizitzarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "994",
+    "input": "\"mediku\", \"berde\", \"giltza\", \"gure\" eta \"kamera\" hitzetako baten bat da tresna bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "996",
+    "input": "\"astronauta\", \"trafiko\", \"arazo\", \"zapatila\" eta \"senatari\" hitzetako baten bat da ogibide bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "997",
+    "input": "\"trafiko\", \"ohe\", \"irristailuak\", \"arropa\" eta \"prozesu\" hitzetako baten bat da garraioarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "998",
+    "input": "\"hondartza\", \"zirkulazio\", \"panel\", \"gehiengo\" eta \"itsasalde\" hitzetako baten bat da geografiarekin zerikusia duen hitz bat? Erantzun \"bai\" edo \"ez\"."
+  }
+]

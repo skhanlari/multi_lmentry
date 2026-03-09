@@ -1,0 +1,722 @@
+[
+  {
+    "id": "103",
+    "input": "De las palabras \"ayuntamiento\", \"farmacia\", \"biblioteca\", \"charcutería\" y \"conjunción\", ¿cuál es la palabra menos asociada con \"lugar de trabajo\"?"
+  },
+  {
+    "id": "108",
+    "input": "De las palabras \"bragas\", \"solapa\", \"mochila\", \"existir\" y \"abrigo\", ¿cuál es la palabra menos asociada con \"ropa\"?"
+  },
+  {
+    "id": "116",
+    "input": "De las palabras \"sentir\", \"tocar\", \"oír\", \"percibir\" y \"martes\", ¿cuál es la palabra menos asociada con \"verbos sensaciones\"?"
+  },
+  {
+    "id": "118",
+    "input": "De las palabras \"muy\", \"menos\", \"demasiado\", \"algo\" y \"oveja\", ¿cuál es la palabra menos asociada con \"adverbios de cantidad\"?"
+  },
+  {
+    "id": "119",
+    "input": "De las palabras \"consolar\", \"alegrarse\", \"reír\", \"parada\" y \"aburrirse\", ¿cuál es la palabra menos asociada con \"verbos emociones\"?"
+  },
+  {
+    "id": "12",
+    "input": "De las palabras \"mientras\", \"astronauta\", \"aún\", \"ya\" y \"mañana\", ¿cuál es la palabra menos asociada con \"adverbios temporales\"?"
+  },
+  {
+    "id": "126",
+    "input": "De las palabras \"demasiado\", \"algo\", \"más\", \"justo\" y \"opuesto\", ¿cuál es la palabra menos asociada con \"adverbios de cantidad\"?"
+  },
+  {
+    "id": "13",
+    "input": "De las palabras \"desaparecer\", \"seguramente\", \"siempre\", \"nunca\" y \"quizás\", ¿cuál es la palabra menos asociada con \"adverbios de posibilidad\"?"
+  },
+  {
+    "id": "134",
+    "input": "De las palabras \"histórico\", \"musical\", \"suspense\", \"automóvil\" y \"romántico\", ¿cuál es la palabra menos asociada con \"género de películas\"?"
+  },
+  {
+    "id": "136",
+    "input": "De las palabras \"mejor\", \"asimismo\", \"faltar\", \"regular\" y \"adrede\", ¿cuál es la palabra menos asociada con \"adverbios de calidad\"?"
+  },
+  {
+    "id": "138",
+    "input": "De las palabras \"existir\", \"mayo\", \"marzo\", \"octubre\" y \"junio\", ¿cuál es la palabra menos asociada con \"meses del año\"?"
+  },
+  {
+    "id": "14",
+    "input": "De las palabras \"avalancha\", \"huracán\", \"inundación\", \"cuatro\" y \"terremoto\", ¿cuál es la palabra menos asociada con \"catástrofe natural\"?"
+  },
+  {
+    "id": "143",
+    "input": "De las palabras \"gorro\", \"quinto\", \"último\", \"penúltimo\" y \"millonésimo\", ¿cuál es la palabra menos asociada con \"adjetivos ordinales\"?"
+  },
+  {
+    "id": "155",
+    "input": "De las palabras \"último\", \"centésimo\", \"primero\", \"ni\" y \"quinto\", ¿cuál es la palabra menos asociada con \"adjetivos ordinales\"?"
+  },
+  {
+    "id": "163",
+    "input": "De las palabras \"amarillo\", \"último\", \"quinto\", \"penúltimo\" y \"centésimo\", ¿cuál es la palabra menos asociada con \"adjetivos ordinales\"?"
+  },
+  {
+    "id": "165",
+    "input": "De las palabras \"horrible\", \"lejano\", \"cargo\", \"picante\" y \"siguiente\", ¿cuál es la palabra menos asociada con \"adjetivos sensoriales\"?"
+  },
+  {
+    "id": "167",
+    "input": "De las palabras \"cinco\", \"crecer\", \"uno\", \"tres\" y \"cuatro\", ¿cuál es la palabra menos asociada con \"números\"?"
+  },
+  {
+    "id": "177",
+    "input": "De las palabras \"cansado\", \"interesado\", \"asustado\", \"pintora\" y \"calmo\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "18",
+    "input": "De las palabras \"kilo\", \"marzo\", \"peso\", \"gramo\" y \"mililitro\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "183",
+    "input": "De las palabras \"tornado\", \"avalancha\", \"terremoto\", \"sequía\" y \"política\", ¿cuál es la palabra menos asociada con \"catástrofe natural\"?"
+  },
+  {
+    "id": "191",
+    "input": "De las palabras \"ancho\", \"décimo\", \"millonésimo\", \"quinto\" y \"segundo\", ¿cuál es la palabra menos asociada con \"adjetivos ordinales\"?"
+  },
+  {
+    "id": "199",
+    "input": "De las palabras \"demanda\", \"primo\", \"mercado\", \"precio\" y \"tarifa\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la economía\"?"
+  },
+  {
+    "id": "201",
+    "input": "De las palabras \"tenis\", \"críquet\", \"béisbol\", \"patatas\" y \"vela\", ¿cuál es la palabra menos asociada con \"deporte\"?"
+  },
+  {
+    "id": "204",
+    "input": "De las palabras \"carácter\", \"conciencia\", \"labio\", \"dolor\" y \"interrupción\", ¿cuál es la palabra menos asociada con \"sustantivo abstracto\"?"
+  },
+  {
+    "id": "22",
+    "input": "De las palabras \"entonces\", \"llegar\", \"coger\", \"agarrar\" y \"tomar\", ¿cuál es la palabra menos asociada con \"verbos movimiento\"?"
+  },
+  {
+    "id": "23",
+    "input": "De las palabras \"clavo\", \"aparato\", \"cordel\", \"llave\" y \"grande\", ¿cuál es la palabra menos asociada con \"herramienta\"?"
+  },
+  {
+    "id": "235",
+    "input": "De las palabras \"escalera\", \"ascensor\", \"entrada\", \"rojo\" y \"casa\", ¿cuál es la palabra menos asociada con \"palabra relacionada con el hogar\"?"
+  },
+  {
+    "id": "239",
+    "input": "De las palabras \"finalmente\", \"kilómetro\", \"centímetro\", \"total\" y \"gramo\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "244",
+    "input": "De las palabras \"mayo\", \"diciembre\", \"nacimiento\", \"junio\" y \"febrero\", ¿cuál es la palabra menos asociada con \"meses del año\"?"
+  },
+  {
+    "id": "246",
+    "input": "De las palabras \"marrón\", \"amarillo\", \"negro\", \"azul\" y \"débil\", ¿cuál es la palabra menos asociada con \"color\"?"
+  },
+  {
+    "id": "248",
+    "input": "De las palabras \"batería\", \"violín\", \"clarinete\", \"razón\" y \"piano\", ¿cuál es la palabra menos asociada con \"instrumento musical\"?"
+  },
+  {
+    "id": "249",
+    "input": "De las palabras \"total\", \"kilómetro\", \"milímetro\", \"playa\" y \"cantidad\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "255",
+    "input": "De las palabras \"gas\", \"barro\", \"encima\", \"metal\" y \"sal\", ¿cuál es la palabra menos asociada con \"material\"?"
+  },
+  {
+    "id": "258",
+    "input": "De las palabras \"hígado\", \"actualmente\", \"cerebro\", \"hombro\" y \"mano\", ¿cuál es la palabra menos asociada con \"parte del cuerpo humano\"?"
+  },
+  {
+    "id": "262",
+    "input": "De las palabras \"criatura\", \"hospital\", \"vida\", \"especie\" y \"reproducción\", ¿cuál es la palabra menos asociada con \"vida\"?"
+  },
+  {
+    "id": "264",
+    "input": "De las palabras \"valor\", \"celeste\", \"transacción\", \"mercado\" y \"compañía\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la economía\"?"
+  },
+  {
+    "id": "266",
+    "input": "De las palabras \"ya\", \"tarde\", \"dinero\", \"luego\" y \"todavía\", ¿cuál es la palabra menos asociada con \"adverbios temporales\"?"
+  },
+  {
+    "id": "272",
+    "input": "De las palabras \"restaurante\", \"autoescuela\", \"peluquería\", \"frutería\" y \"algo\", ¿cuál es la palabra menos asociada con \"lugar de trabajo\"?"
+  },
+  {
+    "id": "274",
+    "input": "De las palabras \"desaparecer\", \"crecer\", \"estanco\", \"existir\" y \"aparecer\", ¿cuál es la palabra menos asociada con \"verbos existencia\"?"
+  },
+  {
+    "id": "278",
+    "input": "De las palabras \"lunes\", \"romántico\", \"drama\", \"histórico\" y \"suspense\", ¿cuál es la palabra menos asociada con \"género de películas\"?"
+  },
+  {
+    "id": "288",
+    "input": "De las palabras \"hombro\", \"cara\", \"talón\", \"rodilla\" y \"penúltimo\", ¿cuál es la palabra menos asociada con \"parte del cuerpo humano\"?"
+  },
+  {
+    "id": "292",
+    "input": "De las palabras \"lanzar\", \"coger\", \"golpear\", \"ir\" y \"antes\", ¿cuál es la palabra menos asociada con \"verbos movimiento\"?"
+  },
+  {
+    "id": "295",
+    "input": "De las palabras \"mililitro\", \"total\", \"cantidad\", \"grueso\" y \"kilo\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "296",
+    "input": "De las palabras \"científico\", \"diputada\", \"abril\", \"barrendera\" y \"actriz\", ¿cuál es la palabra menos asociada con \"profesion\"?"
+  },
+  {
+    "id": "3",
+    "input": "De las palabras \"servicio\", \"comisión\", \"billete\", \"consumo\" y \"valor\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la economía\"?"
+  },
+  {
+    "id": "308",
+    "input": "De las palabras \"amplio\", \"grande\", \"sino\", \"angosto\" y \"gran\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "32",
+    "input": "De las palabras \"desierto\", \"repollo\", \"remolacha\", \"apio\" y \"espárrago\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "323",
+    "input": "De las palabras \"octubre\", \"agosto\", \"abril\", \"vestido\" y \"enero\", ¿cuál es la palabra menos asociada con \"meses del año\"?"
+  },
+  {
+    "id": "324",
+    "input": "De las palabras \"esposo\", \"jueves\", \"bisnieto\", \"matrimonio\" y \"madre\", ¿cuál es la palabra menos asociada con \"relación familiar\"?"
+  },
+  {
+    "id": "334",
+    "input": "De las palabras \"abril\", \"cargo\", \"estado\", \"dictadura\" y \"empresa\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la sociedad\"?"
+  },
+  {
+    "id": "345",
+    "input": "De las palabras \"bisnieta\", \"pimiento\", \"esposo\", \"nieta\" y \"primo\", ¿cuál es la palabra menos asociada con \"relación familiar\"?"
+  },
+  {
+    "id": "353",
+    "input": "De las palabras \"bosque\", \"negro\", \"campo\", \"playa\" y \"montaña\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la geografía\"?"
+  },
+  {
+    "id": "354",
+    "input": "De las palabras \"considerar\", \"dormitorio\", \"entrada\", \"mesa\" y \"puerta\", ¿cuál es la palabra menos asociada con \"palabra relacionada con el hogar\"?"
+  },
+  {
+    "id": "355",
+    "input": "De las palabras \"esgrima\", \"balonmano\", \"jamás\", \"patinaje\" y \"atletismo\", ¿cuál es la palabra menos asociada con \"deporte\"?"
+  },
+  {
+    "id": "356",
+    "input": "De las palabras \"segundo\", \"quinto\", \"último\", \"grueso\" y \"millonésimo\", ¿cuál es la palabra menos asociada con \"adjetivos ordinales\"?"
+  },
+  {
+    "id": "362",
+    "input": "De las palabras \"aquí\", \"lejos\", \"admirar\", \"ahí\" y \"medio\", ¿cuál es la palabra menos asociada con \"adverbios de ubicación\"?"
+  },
+  {
+    "id": "363",
+    "input": "De las palabras \"patatas\", \"maíz\", \"jueves\", \"ajo\" y \"col\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "365",
+    "input": "De las palabras \"brócoli\", \"berenjena\", \"cebolla\", \"nunca\" y \"pepino\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "366",
+    "input": "De las palabras \"histórico\", \"suspense\", \"romántico\", \"musical\" y \"tercero\", ¿cuál es la palabra menos asociada con \"género de películas\"?"
+  },
+  {
+    "id": "367",
+    "input": "De las palabras \"sobrina\", \"abuelo\", \"flauta\", \"hermana\" y \"bisnieta\", ¿cuál es la palabra menos asociada con \"relación familiar\"?"
+  },
+  {
+    "id": "370",
+    "input": "De las palabras \"julio\", \"noviembre\", \"diciembre\", \"calle\" y \"mayo\", ¿cuál es la palabra menos asociada con \"meses del año\"?"
+  },
+  {
+    "id": "376",
+    "input": "De las palabras \"panel\", \"gimnasia\", \"entrada\", \"hogar\" y \"edificio\", ¿cuál es la palabra menos asociada con \"palabra relacionada con el hogar\"?"
+  },
+  {
+    "id": "392",
+    "input": "De las palabras \"flauta\", \"enfadado\", \"tranquilo\", \"cansado\" y \"feliz\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "394",
+    "input": "De las palabras \"cordel\", \"enfadado\", \"triste\", \"tranquilo\" y \"feliz\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "40",
+    "input": "De las palabras \"coger\", \"largo\", \"alto\", \"aceleración\" y \"dirección\", ¿cuál es la palabra menos asociada con \"palabra relacionada con espacio y cantidad\"?"
+  },
+  {
+    "id": "404",
+    "input": "De las palabras \"asociación\", \"tanto\", \"democracia\", \"administración\" y \"decreto\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la sociedad\"?"
+  },
+  {
+    "id": "413",
+    "input": "De las palabras \"selva\", \"vela\", \"hockey\", \"escalada\" y \"béisbol\", ¿cuál es la palabra menos asociada con \"deporte\"?"
+  },
+  {
+    "id": "415",
+    "input": "De las palabras \"saxofón\", \"clarinete\", \"senador\", \"violín\" y \"batería\", ¿cuál es la palabra menos asociada con \"instrumento musical\"?"
+  },
+  {
+    "id": "42",
+    "input": "De las palabras \"pimiento\", \"zanahoria\", \"adverbio\", \"apio\" y \"brócoli\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "426",
+    "input": "De las palabras \"tras\", \"contra\", \"sin\", \"según\" y \"raro\", ¿cuál es la palabra menos asociada con \"preposiciones\"?"
+  },
+  {
+    "id": "429",
+    "input": "De las palabras \"policía\", \"astronauta\", \"terror\", \"barrendera\" y \"abogada\", ¿cuál es la palabra menos asociada con \"profesion\"?"
+  },
+  {
+    "id": "433",
+    "input": "De las palabras \"habitación\", \"comercio\", \"mercado\", \"producto\" y \"producción\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la economía\"?"
+  },
+  {
+    "id": "440",
+    "input": "De las palabras \"alegrarse\", \"desear\", \"interesarse\", \"diciembre\" y \"odiar\", ¿cuál es la palabra menos asociada con \"verbos emociones\"?"
+  },
+  {
+    "id": "441",
+    "input": "De las palabras \"octubre\", \"acto\", \"progreso\", \"probabilidad\" y \"acuerdo\", ¿cuál es la palabra menos asociada con \"sustantivo abstracto\"?"
+  },
+  {
+    "id": "447",
+    "input": "De las palabras \"mar\", \"delgado\", \"océano\", \"jungla\" y \"bosque\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la geografía\"?"
+  },
+  {
+    "id": "448",
+    "input": "De las palabras \"tía\", \"nieta\", \"tío\", \"mercado\" y \"hija\", ¿cuál es la palabra menos asociada con \"relación familiar\"?"
+  },
+  {
+    "id": "456",
+    "input": "De las palabras \"tampoco\", \"nunca\", \"jamás\", \"cultural\" y \"fácilmente\", ¿cuál es la palabra menos asociada con \"adverbios de posibilidad\"?"
+  },
+  {
+    "id": "458",
+    "input": "De las palabras \"venir\", \"angosto\", \"grande\", \"delgado\" y \"gran\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "462",
+    "input": "De las palabras \"ancho\", \"reducción\", \"crecimiento\", \"salvo\" y \"largo\", ¿cuál es la palabra menos asociada con \"palabra relacionada con espacio y cantidad\"?"
+  },
+  {
+    "id": "47",
+    "input": "De las palabras \"alto\", \"musical\", \"histórico\", \"romántico\" y \"suspense\", ¿cuál es la palabra menos asociada con \"género de películas\"?"
+  },
+  {
+    "id": "474",
+    "input": "De las palabras \"demanda\", \"faltar\", \"despertar\", \"conocer\" y \"jugar\", ¿cuál es la palabra menos asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "480",
+    "input": "De las palabras \"minoría\", \"longitud\", \"crecimiento\", \"altura\" y \"pomo\", ¿cuál es la palabra menos asociada con \"palabra relacionada con espacio y cantidad\"?"
+  },
+  {
+    "id": "483",
+    "input": "De las palabras \"proceso\", \"crisis\", \"hierro\", \"corte\" y \"miedo\", ¿cuál es la palabra menos asociada con \"sustantivo abstracto\"?"
+  },
+  {
+    "id": "487",
+    "input": "De las palabras \"servicio\", \"críquet\", \"consumo\", \"producción\" y \"transacción\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la economía\"?"
+  },
+  {
+    "id": "495",
+    "input": "De las palabras \"aumento\", \"porque\", \"excepto\", \"pues\" y \"entonces\", ¿cuál es la palabra menos asociada con \"conjunciones\"?"
+  },
+  {
+    "id": "50",
+    "input": "De las palabras \"precio\", \"comercio\", \"vía\", \"billete\" y \"producto\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la economía\"?"
+  },
+  {
+    "id": "519",
+    "input": "De las palabras \"sorprendido\", \"tranquilo\", \"entonces\", \"contento\" y \"ansioso\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "522",
+    "input": "De las palabras \"aumento\", \"falso\", \"central\", \"mayor\" y \"bueno\", ¿cuál es la palabra menos asociada con \"adjetivos de calidad\"?"
+  },
+  {
+    "id": "523",
+    "input": "De las palabras \"nación\", \"libertad\", \"angosto\", \"consejo\" y \"comisión\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la sociedad\"?"
+  },
+  {
+    "id": "527",
+    "input": "De las palabras \"bus\", \"estación\", \"terror\", \"tráfico\" y \"barco\", ¿cuál es la palabra menos asociada con \"palabra relacionada con el transporte\"?"
+  },
+  {
+    "id": "54",
+    "input": "De las palabras \"ver\", \"sentir\", \"percibir\", \"bufanda\" y \"oír\", ¿cuál es la palabra menos asociada con \"verbos sensaciones\"?"
+  },
+  {
+    "id": "543",
+    "input": "De las palabras \"arma\", \"cordón\", \"pantalla\", \"asustarse\" y \"aparato\", ¿cuál es la palabra menos asociada con \"herramienta\"?"
+  },
+  {
+    "id": "544",
+    "input": "De las palabras \"hockey\", \"diferencia\", \"capacidad\", \"realidad\" y \"posibilidad\", ¿cuál es la palabra menos asociada con \"sustantivo abstracto\"?"
+  },
+  {
+    "id": "550",
+    "input": "De las palabras \"cinco\", \"añadir\", \"analizar\", \"acompañar\" y \"apuñalar\", ¿cuál es la palabra menos asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "551",
+    "input": "De las palabras \"romántico\", \"musical\", \"fantasía\", \"pareja\" y \"histórico\", ¿cuál es la palabra menos asociada con \"género de películas\"?"
+  },
+  {
+    "id": "556",
+    "input": "De las palabras \"viernes\", \"miércoles\", \"lunes\", \"jueves\" y \"barro\", ¿cuál es la palabra menos asociada con \"día de la semana\"?"
+  },
+  {
+    "id": "559",
+    "input": "De las palabras \"duro\", \"delicioso\", \"desaparecer\", \"ligero\" y \"separado\", ¿cuál es la palabra menos asociada con \"adjetivos sensoriales\"?"
+  },
+  {
+    "id": "561",
+    "input": "De las palabras \"milímetro\", \"cámara\", \"pomo\", \"hilo\" y \"llave\", ¿cuál es la palabra menos asociada con \"herramienta\"?"
+  },
+  {
+    "id": "563",
+    "input": "De las palabras \"boxeo\", \"tarde\", \"recién\", \"inmediatamente\" y \"aún\", ¿cuál es la palabra menos asociada con \"adverbios temporales\"?"
+  },
+  {
+    "id": "571",
+    "input": "De las palabras \"millonésimo\", \"quinto\", \"décimo\", \"centésimo\" y \"amplio\", ¿cuál es la palabra menos asociada con \"adjetivos ordinales\"?"
+  },
+  {
+    "id": "575",
+    "input": "De las palabras \"río\", \"sobrina\", \"costa\", \"lago\" y \"mar\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la geografía\"?"
+  },
+  {
+    "id": "576",
+    "input": "De las palabras \"billar\", \"flauta\", \"trompeta\", \"clarinete\" y \"piano\", ¿cuál es la palabra menos asociada con \"instrumento musical\"?"
+  },
+  {
+    "id": "578",
+    "input": "De las palabras \"desaparecer\", \"inundación\", \"sequía\", \"terremoto\" y \"tsunami\", ¿cuál es la palabra menos asociada con \"catástrofe natural\"?"
+  },
+  {
+    "id": "58",
+    "input": "De las palabras \"casi\", \"menos\", \"reproducción\", \"justo\" y \"muy\", ¿cuál es la palabra menos asociada con \"adverbios de cantidad\"?"
+  },
+  {
+    "id": "595",
+    "input": "De las palabras \"parecido\", \"copistería\", \"cafetería\", \"banco\" y \"autoescuela\", ¿cuál es la palabra menos asociada con \"lugar de trabajo\"?"
+  },
+  {
+    "id": "596",
+    "input": "De las palabras \"aceleración\", \"delgado\", \"gran\", \"grueso\" y \"amplio\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "60",
+    "input": "De las palabras \"montaña\", \"especie\", \"bosque\", \"naturaleza\" y \"río\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la geografía\"?"
+  },
+  {
+    "id": "606",
+    "input": "De las palabras \"patines\", \"estación\", \"ajo\", \"avión\" y \"vehículo\", ¿cuál es la palabra menos asociada con \"palabra relacionada con el transporte\"?"
+  },
+  {
+    "id": "607",
+    "input": "De las palabras \"nueve\", \"tercero\", \"siete\", \"dos\" y \"diez\", ¿cuál es la palabra menos asociada con \"números\"?"
+  },
+  {
+    "id": "610",
+    "input": "De las palabras \"aumento\", \"fondo\", \"pimiento\", \"largo\" y \"posición\", ¿cuál es la palabra menos asociada con \"palabra relacionada con espacio y cantidad\"?"
+  },
+  {
+    "id": "613",
+    "input": "De las palabras \"barro\", \"lodo\", \"hierro\", \"sábado\" y \"oro\", ¿cuál es la palabra menos asociada con \"material\"?"
+  },
+  {
+    "id": "625",
+    "input": "De las palabras \"hacia\", \"carnicera\", \"abogada\", \"cocinera\" y \"astronauta\", ¿cuál es la palabra menos asociada con \"profesion\"?"
+  },
+  {
+    "id": "626",
+    "input": "De las palabras \"desierto\", \"costa\", \"laguna\", \"criatura\" y \"campo\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la geografía\"?"
+  },
+  {
+    "id": "633",
+    "input": "De las palabras \"sal\", \"fuego\", \"metal\", \"naranja\" y \"plata\", ¿cuál es la palabra menos asociada con \"material\"?"
+  },
+  {
+    "id": "636",
+    "input": "De las palabras \"universal\", \"central\", \"privado\", \"regional\" y \"suspense\", ¿cuál es la palabra menos asociada con \"adjetivos de calidad\"?"
+  },
+  {
+    "id": "639",
+    "input": "De las palabras \"oler\", \"sentir\", \"caracol\", \"oír\" y \"tocar\", ¿cuál es la palabra menos asociada con \"verbos sensaciones\"?"
+  },
+  {
+    "id": "641",
+    "input": "De las palabras \"total\", \"centímetro\", \"kilómetro\", \"campo\" y \"milímetro\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "651",
+    "input": "De las palabras \"rosa\", \"gris\", \"celeste\", \"perjuicio\" y \"amarillo\", ¿cuál es la palabra menos asociada con \"color\"?"
+  },
+  {
+    "id": "663",
+    "input": "De las palabras \"jirafa\", \"lodo\", \"vapor\", \"sal\" y \"barro\", ¿cuál es la palabra menos asociada con \"material\"?"
+  },
+  {
+    "id": "675",
+    "input": "De las palabras \"dinero\", \"balonmano\", \"tenis\", \"surf\" y \"waterpolo\", ¿cuál es la palabra menos asociada con \"deporte\"?"
+  },
+  {
+    "id": "684",
+    "input": "De las palabras \"cinco\", \"tres\", \"dos\", \"uno\" y \"debajo\", ¿cuál es la palabra menos asociada con \"números\"?"
+  },
+  {
+    "id": "686",
+    "input": "De las palabras \"cebolla\", \"calabacines\", \"patatas\", \"verbo\" y \"guisantes\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "697",
+    "input": "De las palabras \"nacimiento\", \"reproducción\", \"especie\", \"muerte\" y \"alegrarse\", ¿cuál es la palabra menos asociada con \"vida\"?"
+  },
+  {
+    "id": "705",
+    "input": "De las palabras \"dictadura\", \"admirar\", \"sorprenderse\", \"asustarse\" y \"enfadarse\", ¿cuál es la palabra menos asociada con \"verbos emociones\"?"
+  },
+  {
+    "id": "710",
+    "input": "De las palabras \"encima\", \"dentro\", \"querer\", \"alrededor\" y \"lejos\", ¿cuál es la palabra menos asociada con \"adverbios de ubicación\"?"
+  },
+  {
+    "id": "713",
+    "input": "De las palabras \"actualmente\", \"inmediatamente\", \"anoche\", \"ahora\" y \"gramo\", ¿cuál es la palabra menos asociada con \"adverbios temporales\"?"
+  },
+  {
+    "id": "714",
+    "input": "De las palabras \"adjetivo\", \"preposición\", \"sustantivo\", \"determinante\" y \"incendio\", ¿cuál es la palabra menos asociada con \"categoría gramatical\"?"
+  },
+  {
+    "id": "724",
+    "input": "De las palabras \"gato\", \"alrededor\", \"león\", \"mono\" y \"cocodrilo\", ¿cuál es la palabra menos asociada con \"animal\"?"
+  },
+  {
+    "id": "730",
+    "input": "De las palabras \"cansarse\", \"pequeño\", \"amplio\", \"delgado\" y \"grueso\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "740",
+    "input": "De las palabras \"cuerda\", \"pulpo\", \"aguja\", \"pomo\" y \"hilo\", ¿cuál es la palabra menos asociada con \"herramienta\"?"
+  },
+  {
+    "id": "743",
+    "input": "De las palabras \"pegar\", \"volver\", \"sacar\", \"levantar\" y \"minoría\", ¿cuál es la palabra menos asociada con \"verbos movimiento\"?"
+  },
+  {
+    "id": "746",
+    "input": "De las palabras \"entonces\", \"si\", \"litro\", \"que\" y \"aunque\", ¿cuál es la palabra menos asociada con \"conjunciones\"?"
+  },
+  {
+    "id": "754",
+    "input": "De las palabras \"posible\", \"local\", \"igual\", \"opuesto\" y \"cuerda\", ¿cuál es la palabra menos asociada con \"adjetivos de calidad\"?"
+  },
+  {
+    "id": "756",
+    "input": "De las palabras \"vender\", \"llevar puesto\", \"evaluar\", \"tratar\" y \"bisnieto\", ¿cuál es la palabra menos asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "765",
+    "input": "De las palabras \"arma\", \"clavo\", \"cordel\", \"cordón\" y \"posición\", ¿cuál es la palabra menos asociada con \"herramienta\"?"
+  },
+  {
+    "id": "767",
+    "input": "De las palabras \"lunes\", \"nueve\", \"miércoles\", \"sábado\" y \"viernes\", ¿cuál es la palabra menos asociada con \"día de la semana\"?"
+  },
+  {
+    "id": "784",
+    "input": "De las palabras \"atún\", \"cuerda\", \"cordón\", \"arma\" y \"aparato\", ¿cuál es la palabra menos asociada con \"herramienta\"?"
+  },
+  {
+    "id": "786",
+    "input": "De las palabras \"romántico\", \"mañana\", \"ayer\", \"mientras\" y \"todavía\", ¿cuál es la palabra menos asociada con \"adverbios temporales\"?"
+  },
+  {
+    "id": "791",
+    "input": "De las palabras \"deterioro\", \"espera\", \"cansancio\", \"naranja\" y \"pasado\", ¿cuál es la palabra menos asociada con \"sustantivo abstracto\"?"
+  },
+  {
+    "id": "792",
+    "input": "De las palabras \"verbo\", \"adverbio\", \"pronombre\", \"hermana\" y \"adjetivo\", ¿cuál es la palabra menos asociada con \"categoría gramatical\"?"
+  },
+  {
+    "id": "795",
+    "input": "De las palabras \"kilo\", \"araña\", \"litro\", \"medida\" y \"kilómetro\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "798",
+    "input": "De las palabras \"gran\", \"grueso\", \"amplio\", \"sentir\" y \"delgado\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "799",
+    "input": "De las palabras \"vuestro\", \"tu\", \"próximamente\", \"nuestro\" y \"mi\", ¿cuál es la palabra menos asociada con \"adjetivos posesivos\"?"
+  },
+  {
+    "id": "8",
+    "input": "De las palabras \"consolar\", \"saltamontes\", \"alegrarse\", \"odiar\" y \"interesarse\", ¿cuál es la palabra menos asociada con \"verbos emociones\"?"
+  },
+  {
+    "id": "801",
+    "input": "De las palabras \"panadería\", \"hospital\", \"oficina\", \"cafetería\" y \"guisantes\", ¿cuál es la palabra menos asociada con \"lugar de trabajo\"?"
+  },
+  {
+    "id": "802",
+    "input": "De las palabras \"criatura\", \"reproducción\", \"angosto\", \"nacimiento\" y \"vida\", ¿cuál es la palabra menos asociada con \"vida\"?"
+  },
+  {
+    "id": "803",
+    "input": "De las palabras \"gris\", \"celeste\", \"encantarse\", \"negro\" y \"marrón\", ¿cuál es la palabra menos asociada con \"color\"?"
+  },
+  {
+    "id": "807",
+    "input": "De las palabras \"patinaje\", \"angosto\", \"gran\", \"pequeño\" y \"amplio\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "814",
+    "input": "De las palabras \"guisantes\", \"apio\", \"maíz\", \"vuestro\" y \"pimiento\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "825",
+    "input": "De las palabras \"playa\", \"además\", \"incluso\", \"inclusive\" y \"deprisa\", ¿cuál es la palabra menos asociada con \"adverbios de calidad\"?"
+  },
+  {
+    "id": "828",
+    "input": "De las palabras \"apestoso\", \"triste\", \"sorprendido\", \"ansioso\" y \"suave\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "829",
+    "input": "De las palabras \"sobre\", \"tras\", \"por\", \"culo\" y \"durante\", ¿cuál es la palabra menos asociada con \"preposiciones\"?"
+  },
+  {
+    "id": "83",
+    "input": "De las palabras \"librería\", \"percibir\", \"bar\", \"tienda\" y \"floristería\", ¿cuál es la palabra menos asociada con \"lugar de trabajo\"?"
+  },
+  {
+    "id": "834",
+    "input": "De las palabras \"entristecerse\", \"peluquería\", \"frutería\", \"tienda\" y \"ayuntamiento\", ¿cuál es la palabra menos asociada con \"lugar de trabajo\"?"
+  },
+  {
+    "id": "84",
+    "input": "De las palabras \"violín\", \"batería\", \"piano\", \"morado\" y \"trompeta\", ¿cuál es la palabra menos asociada con \"instrumento musical\"?"
+  },
+  {
+    "id": "847",
+    "input": "De las palabras \"nuestro\", \"tu\", \"vuestro\", \"desaparecer\" y \"su\", ¿cuál es la palabra menos asociada con \"adjetivos posesivos\"?"
+  },
+  {
+    "id": "851",
+    "input": "De las palabras \"administración\", \"estado\", \"organización\", \"actor\" y \"congreso\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la sociedad\"?"
+  },
+  {
+    "id": "853",
+    "input": "De las palabras \"sustantivo\", \"sorprendido\", \"ansioso\", \"asustado\" y \"triste\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "855",
+    "input": "De las palabras \"actual\", \"improbable\", \"cultural\", \"frontal\" y \"grande\", ¿cuál es la palabra menos asociada con \"adjetivos de calidad\"?"
+  },
+  {
+    "id": "858",
+    "input": "De las palabras \"solamente\", \"sin\", \"justo\", \"poco\" y \"bastante\", ¿cuál es la palabra menos asociada con \"adverbios de cantidad\"?"
+  },
+  {
+    "id": "870",
+    "input": "De las palabras \"asustado\", \"contento\", \"triste\", \"compacto\" y \"encantado\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "875",
+    "input": "De las palabras \"naranja\", \"blanco\", \"asociación\", \"morado\" y \"celeste\", ¿cuál es la palabra menos asociada con \"color\"?"
+  },
+  {
+    "id": "885",
+    "input": "De las palabras \"guitarra\", \"saxofón\", \"trompeta\", \"adrede\" y \"batería\", ¿cuál es la palabra menos asociada con \"instrumento musical\"?"
+  },
+  {
+    "id": "903",
+    "input": "De las palabras \"organización\", \"cabello\", \"villa\", \"democracia\" y \"equipo\", ¿cuál es la palabra menos asociada con \"palabra relacionada con la sociedad\"?"
+  },
+  {
+    "id": "904",
+    "input": "De las palabras \"gramo\", \"total\", \"peso\", \"querer\" y \"kilo\", ¿cuál es la palabra menos asociada con \"medida\"?"
+  },
+  {
+    "id": "905",
+    "input": "De las palabras \"piano\", \"violín\", \"empezar\", \"guitarra\" y \"saxofón\", ¿cuál es la palabra menos asociada con \"instrumento musical\"?"
+  },
+  {
+    "id": "906",
+    "input": "De las palabras \"sardina\", \"araña\", \"serpiente\", \"cordel\" y \"pájaro\", ¿cuál es la palabra menos asociada con \"animal\"?"
+  },
+  {
+    "id": "91",
+    "input": "De las palabras \"ayuntamiento\", \"feliz\", \"triste\", \"tranquilo\" y \"calmo\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "912",
+    "input": "De las palabras \"crecimiento\", \"sentir\", \"longitud\", \"fondo\" y \"alto\", ¿cuál es la palabra menos asociada con \"palabra relacionada con espacio y cantidad\"?"
+  },
+  {
+    "id": "918",
+    "input": "De las palabras \"nacer\", \"agua\", \"existir\", \"morir\" y \"desaparecer\", ¿cuál es la palabra menos asociada con \"verbos existencia\"?"
+  },
+  {
+    "id": "925",
+    "input": "De las palabras \"silla\", \"hogar\", \"oler\", \"mesa\" y \"panel\", ¿cuál es la palabra menos asociada con \"palabra relacionada con el hogar\"?"
+  },
+  {
+    "id": "927",
+    "input": "De las palabras \"oro\", \"barro\", \"aire\", \"metal\" y \"selva\", ¿cuál es la palabra menos asociada con \"material\"?"
+  },
+  {
+    "id": "961",
+    "input": "De las palabras \"espinilla\", \"tocar\", \"oír\", \"escuchar\" y \"percibir\", ¿cuál es la palabra menos asociada con \"verbos sensaciones\"?"
+  },
+  {
+    "id": "964",
+    "input": "De las palabras \"nuevo\", \"fantasía\", \"absoluto\", \"diferente\" y \"particular\", ¿cuál es la palabra menos asociada con \"adjetivos de calidad\"?"
+  },
+  {
+    "id": "965",
+    "input": "De las palabras \"doloroso\", \"aburrido\", \"contento\", \"inundación\" y \"feliz\", ¿cuál es la palabra menos asociada con \"adjetivos de sentimientos y sensaciones\"?"
+  },
+  {
+    "id": "976",
+    "input": "De las palabras \"nieta\", \"hermano\", \"quizás\", \"padre\" y \"prima\", ¿cuál es la palabra menos asociada con \"relación familiar\"?"
+  },
+  {
+    "id": "981",
+    "input": "De las palabras \"manual\", \"gran\", \"falso\", \"usual\" y \"fácil\", ¿cuál es la palabra menos asociada con \"adjetivos de calidad\"?"
+  },
+  {
+    "id": "988",
+    "input": "De las palabras \"amplio\", \"delgado\", \"angosto\", \"grande\" y \"hierro\", ¿cuál es la palabra menos asociada con \"adjetivos de forma\"?"
+  },
+  {
+    "id": "990",
+    "input": "De las palabras \"coliflor\", \"repollo\", \"administración\", \"acelgas\" y \"col\", ¿cuál es la palabra menos asociada con \"verdura\"?"
+  },
+  {
+    "id": "994",
+    "input": "De las palabras \"voleibol\", \"sardina\", \"pulpo\", \"serpiente\" y \"lagarto\", ¿cuál es la palabra menos asociada con \"animal\"?"
+  }
+]
