@@ -566,6 +566,82 @@ def select_best_overall(
     return best
 
 
+def compute_mse_list(a: Dict[str, float], b: Dict[str, float]) -> float:
+    vals = [
+        (a[m] - b[m]) ** 2
+        for m in a
+        if m in b and not (np.isnan(a[m]) or np.isnan(b[m]))
+    ]
+    return float(np.mean(vals)) if vals else np.nan
+
+
+def compute_mse_single(a: float, b: float) -> float:
+    if np.isnan(a) or np.isnan(b):
+        return np.nan
+    return float((a - b) ** 2)
+
+
+def build_ratio_curve_from_technique_result(
+    task_dir: Path,
+    train_models: List[str],
+    test_model: str,
+    template_ids: List[str],
+    full_scores_train: Dict[str, float],
+    full_test: float,
+    technique_result,
+    selected_seed: int = 42,
+) -> Dict[str, dict]:
+    """
+    Build ratio-wise train/test metrics using one fixed seed (default=42).
+    """
+    ratio_curve = {}
+
+    for ratio, ratio_result in sorted(technique_result.ratio_results.items()):
+        if selected_seed not in ratio_result.seeds:
+            logger.warning(
+                f"Seed {selected_seed} not found for ratio={ratio}. "
+                f"Available seeds: {list(ratio_result.seeds.keys())}"
+            )
+            continue
+
+        selected_ids = ratio_result.seeds[selected_seed]
+
+        # TRAIN metrics on the 18 train models
+        subset_scores_train = {}
+        for m in train_models:
+            pred_path = task_dir / f"{m}.json"
+            if not pred_path.exists():
+                subset_scores_train[m] = np.nan
+                continue
+            preds = load_predictions(str(pred_path))
+            subset_scores_train[m] = compute_model_accuracy(preds, selected_ids)
+
+        train_mse = compute_mse_list(subset_scores_train, full_scores_train)
+
+        # TEST metric on the held-out model
+        pred_path = task_dir / f"{test_model}.json"
+        if not pred_path.exists():
+            subset_test = np.nan
+        else:
+            preds = load_predictions(str(pred_path))
+            subset_test = compute_model_accuracy(preds, selected_ids)
+
+        test_mse = compute_mse_single(subset_test, full_test)
+
+        ratio_curve[str(ratio)] = {
+            "subset_size": len(selected_ids),
+            "selected_seed": selected_seed,
+            "train_spearman": ratio_result.spearman_per_seed.get(selected_seed, np.nan),
+            "train_pearson": ratio_result.pearson_per_seed.get(selected_seed, np.nan),
+            "train_spearman_aggregated": ratio_result.spearman_aggregated,
+            "train_pearson_aggregated": ratio_result.pearson_aggregated,
+            "train_mse": train_mse,
+            "test_mse": test_mse,
+        }
+
+    return ratio_curve
+
+
 def run_adaptive_sampling(cfg: CompressionConfig) -> Path:
 
     cfg.output_dir.mkdir(parents=True, exist_ok=True)
