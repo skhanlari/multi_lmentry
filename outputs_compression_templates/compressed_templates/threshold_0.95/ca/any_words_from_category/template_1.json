@@ -1,0 +1,802 @@
+[
+  {
+    "id": "2",
+    "input": "Algunes de les paraules \"policia\", \"alegria\", \"farmàcia\", \"gent\" i \"societat\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "17",
+    "input": "Algunes de les paraules \"elefant\", \"cocodril\", \"nació\", \"cotxe\" i \"surf\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "19",
+    "input": "Algunes de les paraules \"senderisme\", \"bàdminton\", \"criatura\", \"fil\" i \"habitació\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "25",
+    "input": "Algunes de les paraules \"transport\", \"mecànica\", \"cap\", \"llimac\" i \"patins\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "27",
+    "input": "Algunes de les paraules \"trànsit\", \"benzinera\", \"calçotet\", \"orella\" i \"transport\" són professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "29",
+    "input": "Algunes de les paraules \"calçotet\", \"producte\", \"reproducció\", \"encert\" i \"estació\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "34",
+    "input": "Algunes de les paraules \"conjunció\", \"carbassons\", \"acte\", \"servei\" i \"gallina\" són parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "35",
+    "input": "Algunes de les paraules \"espinacs\", \"cosa\", \"municipi\", \"govern\" i \"cavall\" són verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "39",
+    "input": "Algunes de les paraules \"ciutat\", \"memòria\", \"ferro\", \"determinant\" i \"ull\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "50",
+    "input": "Algunes de les paraules \"defensa\", \"cabell\", \"tigre\", \"motxilla\" i \"blau\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "51",
+    "input": "Algunes de les paraules \"ceba\", \"blanc\", \"corb\", \"destinació\" i \"construcció\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "54",
+    "input": "Algunes de les paraules \"comissió\", \"inundació\", \"carter\", \"via\" i \"èxit\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "57",
+    "input": "Algunes de les paraules \"peça\", \"moto\", \"fil\", \"agulla\" i \"mecànica\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "67",
+    "input": "Algunes de les paraules \"cuinera\", \"clarinet\", \"finestra\", \"departament\" i \"dissabte\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "77",
+    "input": "Algunes de les paraules \"carbassa\", \"bufanda\", \"pell\", \"constitució\" i \"mercat\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "86",
+    "input": "Algunes de les paraules \"estanc\", \"avi\", \"àvia\", \"avió\" i \"ocasió\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "89",
+    "input": "Algunes de les paraules \"defensa\", \"polític\", \"boca\", \"destinació\" i \"agulla\" són professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "93",
+    "input": "Algunes de les paraules \"besàvia\", \"espinacs\", \"esgrima\", \"groc\" i \"encert\" són colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "114",
+    "input": "Algunes de les paraules \"bròquil\", \"codi\", \"ratolí\", \"clau\" i \"benefici\" són animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "130",
+    "input": "Algunes de les paraules \"guitarra\", \"decret\", \"ajuntament\", \"cansament\" i \"província\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "137",
+    "input": "Algunes de les paraules \"conegut\", \"atenció\", \"incendi\", \"camp\" i \"sabata\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "150",
+    "input": "Algunes de les paraules \"girafa\", \"humanitat\", \"aigua\", \"texans\" i \"cama\" són parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "151",
+    "input": "Algunes de les paraules \"rosa\", \"actriu\", \"confiança\", \"lloc\" i \"dona\" són peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "158",
+    "input": "Algunes de les paraules \"oficina\", \"farmàcia\", \"plata\", \"mercat\" i \"clarinet\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "175",
+    "input": "Algunes de les paraules \"adult\", \"dolor\", \"minoria\", \"cinturó\" i \"producte\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "178",
+    "input": "Algunes de les paraules \"empatia\", \"democràcia\", \"hotel\", \"congrés\" i \"espècie\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "179",
+    "input": "Algunes de les paraules \"càmera\", \"cordó\", \"servei\", \"alegria\" i \"biòleg\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "185",
+    "input": "Algunes de les paraules \"arna\", \"ésser\", \"creació\", \"raó\" i \"rugbi\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "186",
+    "input": "Algunes de les paraules \"ceba\", \"carretera\", \"os\", \"prohibició\" i \"avinguda\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "189",
+    "input": "Algunes de les paraules \"guitarra\", \"basquetbol\", \"serp\", \"bitlles\" i \"producció\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "190",
+    "input": "Algunes de les paraules \"carretera\", \"all\", \"personalitat\", \"tipus\" i \"diumenge\" són verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "196",
+    "input": "Algunes de les paraules \"bitllet\", \"desig\", \"ulleres\", \"empresa\" i \"amic\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "199",
+    "input": "Algunes de les paraules \"musical\", \"parella\", \"natació\", \"nació\" i \"terror\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "Algunes de les paraules \"pardal\", \"benefici\", \"característica\", \"platja\" i \"naturalesa\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "203",
+    "input": "Algunes de les paraules \"bledes\", \"intent\", \"passat\", \"via\" i \"jungla\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "211",
+    "input": "Algunes de les paraules \"existència\", \"conjunt\", \"carbassons\", \"perruquer\" i \"substantiu\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "212",
+    "input": "Algunes de les paraules \"associació\", \"esquí\", \"genoll\", \"record\" i \"palmell\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "222",
+    "input": "Algunes de les paraules \"calçotet\", \"avorriment\", \"dentista\", \"llibertat\" i \"conflicte\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "230",
+    "input": "Algunes de les paraules \"acord\", \"jersei\", \"finestra\", \"família\" i \"calçotet\" són verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "242",
+    "input": "Algunes de les paraules \"mà\", \"verd\", \"fracàs\", \"matrimoni\" i \"dimecres\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "248",
+    "input": "Algunes de les paraules \"dependent\", \"quilo\", \"estómac\", \"herboristeria\" i \"significat\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "252",
+    "input": "Algunes de les paraules \"amic\", \"genoll\", \"llit\", \"associació\" i \"ciutat\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "257",
+    "input": "Algunes de les paraules \"sector\", \"direcció\", \"capital\", \"govern\" i \"mosquit\" són conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "265",
+    "input": "Algunes de les paraules \"autopista\", \"bròquil\", \"marit\", \"conflicte\" i \"democràcia\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "283",
+    "input": "Algunes de les paraules \"congressista\", \"ull\", \"nivell\", \"carnisseria\" i \"benzinera\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "Algunes de les paraules \"astronauta\", \"dimarts\", \"coll\", \"persona\" i \"casa\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "291",
+    "input": "Algunes de les paraules \"comèdia\", \"aigua\", \"germà\", \"rata\" i \"vista\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "294",
+    "input": "Algunes de les paraules \"construcció\", \"actitud\", \"aeroport\", \"desert\" i \"peu\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "299",
+    "input": "Algunes de les paraules \"arquitecta\", \"estanc\", \"terror\", \"marró\" i \"billar\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "300",
+    "input": "Algunes de les paraules \"dret\", \"país\", \"nom\", \"corb\" i \"allau\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "309",
+    "input": "Algunes de les paraules \"conegut\", \"empresa\", \"condició\", \"panerola\" i \"taronja\" són colors? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "312",
+    "input": "Algunes de les paraules \"automòbil\", \"ciutat\", \"plaer\", \"mosquit\" i \"oficina\" són materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "317",
+    "input": "Algunes de les paraules \"creació\", \"carnissera\", \"confiança\", \"alt\" i \"fil\" són eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "326",
+    "input": "Algunes de les paraules \"finestra\", \"foc\", \"lampista\", \"benzinera\" i \"comèdia\" són eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "328",
+    "input": "Algunes de les paraules \"gambeta\", \"api\", \"aranya\", \"pronom\" i \"all\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "331",
+    "input": "Algunes de les paraules \"espècie\", \"blau\", \"arna\", \"centímetre\" i \"hotel\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "335",
+    "input": "Algunes de les paraules \"arquitecta\", \"transcurs\", \"divendres\", \"remolatxa\" i \"cérvol\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "337",
+    "input": "Algunes de les paraules \"saltamartí\", \"ocell\", \"cara\", \"avinguda\" i \"clau\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "343",
+    "input": "Algunes de les paraules \"jungla\", \"tristesa\", \"actor\", \"enuig\" i \"api\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "350",
+    "input": "Algunes de les paraules \"genoll\", \"perruqueria\", \"diners\", \"relació\" i \"bròquil\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "351",
+    "input": "Algunes de les paraules \"bitllet\", \"pell\", \"ministra\", \"moviment\" i \"piragüisme\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "355",
+    "input": "Algunes de les paraules \"efecte\", \"cérvol\", \"periodista\", \"dormitori\" i \"carbassons\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "356",
+    "input": "Algunes de les paraules \"cotxe\", \"condició\", \"empresari\", \"metall\" i \"destrucció\" són materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "360",
+    "input": "Algunes de les paraules \"carxofa\", \"relació\", \"copisteria\", \"equivocació\" i \"tennis\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "362",
+    "input": "Algunes de les paraules \"defensa\", \"bledes\", \"gel\", \"patins\" i \"congressista\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "365",
+    "input": "Algunes de les paraules \"autoescola\", \"resultat\", \"esgrima\", \"casa\" i \"cabell\" són parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "Algunes de les paraules \"democràcia\", \"parada\", \"espatlla\", \"oncle\" i \"vila\" són eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "370",
+    "input": "Algunes de les paraules \"contingut\", \"avorriment\", \"llei\", \"musical\" i \"construcció\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "375",
+    "input": "Algunes de les paraules \"mentida\", \"mosca\", \"acte\", \"seqüència\" i \"avió\" són animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "376",
+    "input": "Algunes de les paraules \"sorpresa\", \"fill\", \"carrer\", \"dissabte\" i \"riu\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "382",
+    "input": "Algunes de les paraules \"calces\", \"retrocés\", \"piragüisme\", \"coll\" i \"tsunami\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "387",
+    "input": "Algunes de les paraules \"trànsit\", \"espàrrec\", \"por\", \"diputada\" i \"cocodril\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "393",
+    "input": "Algunes de les paraules \"botiga\", \"cosina\", \"carbassons\", \"futur\" i \"adjectiu\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "394",
+    "input": "Algunes de les paraules \"rata\", \"restaurant\", \"ulleres\", \"moviment\" i \"llot\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "397",
+    "input": "Algunes de les paraules \"dama\", \"camí\", \"constitució\", \"condició\" i \"dormitori\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "399",
+    "input": "Algunes de les paraules \"fruiteria\", \"llibertat\", \"transport\", \"èxit\" i \"panerola\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "402",
+    "input": "Algunes de les paraules \"fill\", \"desig\", \"pes\", \"acceleració\" i \"os\" són conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "415",
+    "input": "Algunes de les paraules \"ocasió\", \"existència\", \"bitlles\", \"espàrrec\" i \"mort\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "418",
+    "input": "Algunes de les paraules \"mosquit\", \"consciència\", \"moviment\", \"marit\" i \"cinturó\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "419",
+    "input": "Algunes de les paraules \"camp\", \"pell\", \"paraula\", \"suspens\" i \"bosc\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "425",
+    "input": "Algunes de les paraules \"morat\", \"economia\", \"raó\", \"gimnàstica\" i \"trànsit\" són conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "427",
+    "input": "Algunes de les paraules \"dolor\", \"pebrot\", \"samarreta\", \"dentista\" i \"conill\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "429",
+    "input": "Algunes de les paraules \"golf\", \"adulta\", \"guitarra\", \"col·lega\" i \"govern\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "437",
+    "input": "Algunes de les paraules \"falta\", \"cavaller\", \"exemple\", \"canyella\" i \"pas\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "451",
+    "input": "Algunes de les paraules \"beisbol\", \"gris\", \"pau\", \"fruiteria\" i \"passat\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "452",
+    "input": "Algunes de les paraules \"tennis\", \"bicicleta\", \"os\", \"fotògraf\" i \"sequera\" són conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "462",
+    "input": "Algunes de les paraules \"direcció\", \"nen\", \"escalada\", \"criatura\" i \"tennis\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "464",
+    "input": "Algunes de les paraules \"verb\", \"senderisme\", \"fantasia\", \"tigre\" i \"ocasió\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "467",
+    "input": "Algunes de les paraules \"papallona\", \"rave\", \"esposa\", \"hoquei\" i \"cama\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "468",
+    "input": "Algunes de les paraules \"samarreta\", \"huracà\", \"pintora\", \"nas\" i \"basquetbol\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "475",
+    "input": "Algunes de les paraules \"diumenge\", \"adolescent\", \"porro\", \"espècie\" i \"llagosta\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "476",
+    "input": "Algunes de les paraules \"adulta\", \"ruta\", \"tarifa\", \"canell\" i \"marit\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "Algunes de les paraules \"aeroport\", \"corda\", \"llacuna\", \"botó\" i \"bateria\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "484",
+    "input": "Algunes de les paraules \"botiga\", \"seqüència\", \"llit\", \"bus\" i \"periodista\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "490",
+    "input": "Algunes de les paraules \"millora\", \"cosí\", \"capacitat\", \"forner\" i \"gambeta\" són conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "491",
+    "input": "Algunes de les paraules \"clarinet\", \"lleó\", \"corb\", \"falta\" i \"perjudici\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "494",
+    "input": "Algunes de les paraules \"centímetre\", \"canell\", \"rata\", \"empresa\" i \"autoescola\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "497",
+    "input": "Algunes de les paraules \"texans\", \"saltamartí\", \"calces\", \"trompeta\" i \"pau\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "500",
+    "input": "Algunes de les paraules \"basquetbol\", \"nadó\", \"policia\", \"mil·lilitre\" i \"autobús\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "502",
+    "input": "Algunes de les paraules \"fantasia\", \"dret\", \"astronauta\", \"trànsit\" i \"mar\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "507",
+    "input": "Algunes de les paraules \"joieria\", \"guitarra\", \"concepte\", \"mort\" i \"serp\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "508",
+    "input": "Algunes de les paraules \"escalada\", \"inundació\", \"gent\", \"mare\" i \"comunitat\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "509",
+    "input": "Algunes de les paraules \"companyia\", \"surf\", \"mar\", \"saltamartí\" i \"obligació\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "516",
+    "input": "Algunes de les paraules \"conflicte\", \"orella\", \"fetge\", \"patates\" i \"seqüència\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "517",
+    "input": "Algunes de les paraules \"solució\", \"jaqueta\", \"veritat\", \"fantasia\" i \"terratrèmol\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "523",
+    "input": "Algunes de les paraules \"alt\", \"adjectiu\", \"significat\", \"relació\" i \"ocell\" són professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "524",
+    "input": "Algunes de les paraules \"taló\", \"voleibol\", \"pantalons\", \"ensurt\" i \"àvia\" són peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "528",
+    "input": "Algunes de les paraules \"conjunt\", \"estació\", \"mort\", \"hospital\" i \"rata\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "529",
+    "input": "Algunes de les paraules \"conseqüència\", \"fleca\", \"gallina\", \"escalada\" i \"roba\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "539",
+    "input": "Algunes de les paraules \"pop\", \"dimecres\", \"nació\", \"fase\" i \"llit\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "555",
+    "input": "Algunes de les paraules \"realitat\", \"autopista\", \"vehicle\", \"consum\" i \"llei\" són conceptes d'economia? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "561",
+    "input": "Algunes de les paraules \"gambeta\", \"divendres\", \"via\", \"governadora\" i \"carretera\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "578",
+    "input": "Algunes de les paraules \"edifici\", \"quilo\", \"besàvia\", \"fetge\" i \"província\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "582",
+    "input": "Algunes de les paraules \"api\", \"supermercat\", \"atenció\", \"gallina\" i \"botó\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "586",
+    "input": "Algunes de les paraules \"fetge\", \"plom\", \"família\", \"senderisme\" i \"resultat\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "587",
+    "input": "Algunes de les paraules \"cama\", \"esgrima\", \"secret\", \"llit\" i \"roba\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "590",
+    "input": "Algunes de les paraules \"transport\", \"cafeteria\", \"persona\", \"cul\" i \"vista\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "595",
+    "input": "Algunes de les paraules \"agulla\", \"administratiu\", \"camí\", \"sal\" i \"criquet\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "597",
+    "input": "Algunes de les paraules \"solució\", \"adolescent\", \"campanya\", \"cérvol\" i \"conflicte\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "607",
+    "input": "Algunes de les paraules \"lleó\", \"metall\", \"carbassa\", \"gram\" i \"característica\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "608",
+    "input": "Algunes de les paraules \"roba\", \"cavaller\", \"cérvol\", \"taxi\" i \"fustera\" són peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "613",
+    "input": "Algunes de les paraules \"benzinera\", \"altura\", \"biòleg\", \"quantitat\" i \"ciutat\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "615",
+    "input": "Algunes de les paraules \"partit\", \"plaer\", \"bateria\", \"sostenidor\" i \"formalitat\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "616",
+    "input": "Algunes de les paraules \"espècie\", \"escola\", \"longitud\", \"gallina\" i \"rave\" són conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "618",
+    "input": "Algunes de les paraules \"peix\", \"falta\", \"esquí\", \"esquena\" i \"besnét\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "623",
+    "input": "Algunes de les paraules \"quantitat\", \"fleca\", \"cinturó\", \"reducció\" i \"samarreta\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "631",
+    "input": "Algunes de les paraules \"cotxe\", \"reunió\", \"principi\", \"nas\" i \"faves\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "632",
+    "input": "Algunes de les paraules \"musical\", \"potència\", \"cap\", \"companyia\" i \"realitat\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "638",
+    "input": "Algunes de les paraules \"estació\", \"funció\", \"perjudici\", \"carrer\" i \"trompeta\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "639",
+    "input": "Algunes de les paraules \"fetge\", \"comunitat\", \"destrucció\", \"resultat\" i \"relació\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "654",
+    "input": "Algunes de les paraules \"cremallera\", \"diputada\", \"raó\", \"vegada\" i \"plom\" són peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "661",
+    "input": "Algunes de les paraules \"capital\", \"comissaria\", \"floristeria\", \"senderisme\" i \"estació\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "667",
+    "input": "Algunes de les paraules \"fracàs\", \"economia\", \"surf\", \"riu\" i \"política\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "669",
+    "input": "Algunes de les paraules \"pebrot\", \"metgessa\", \"flauta\", \"destrucció\" i \"mar\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "671",
+    "input": "Algunes de les paraules \"cocodril\", \"corbata\", \"congrés\", \"fleca\" i \"cas\" són peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "681",
+    "input": "Algunes de les paraules \"nom\", \"nebot\", \"programa\", \"remolatxa\" i \"vila\" són materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "683",
+    "input": "Algunes de les paraules \"cremallera\", \"banc\", \"assoliment\", \"amor\" i \"producció\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "689",
+    "input": "Algunes de les paraules \"rave\", \"persona\", \"espècie\", \"banc\" i \"alt\" són verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "694",
+    "input": "Algunes de les paraules \"negre\", \"basquetbol\", \"porta\", \"jaqueta\" i \"adverbi\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "695",
+    "input": "Algunes de les paraules \"comunitat\", \"dilluns\", \"fetge\", \"autoritat\" i \"ocell\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "698",
+    "input": "Algunes de les paraules \"dona\", \"habitació\", \"producte\", \"gimnàstica\" i \"rave\" són verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "703",
+    "input": "Algunes de les paraules \"camp\", \"valor\", \"defensa\", \"cavall\" i \"autopista\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "714",
+    "input": "Algunes de les paraules \"estructura\", \"gel\", \"decret\", \"jaqueta\" i \"tramvia\" són dies de la setmana? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "721",
+    "input": "Algunes de les paraules \"nadó\", \"rugbi\", \"preposició\", \"conseqüència\" i \"cas\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "728",
+    "input": "Algunes de les paraules \"retrocés\", \"filla\", \"home\", \"futur\" i \"taló\" són eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "732",
+    "input": "Algunes de les paraules \"múscul\", \"ésser\", \"senador\", \"nas\" i \"adolescent\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "733",
+    "input": "Algunes de les paraules \"alegria\", \"porro\", \"progrés\", \"dictadura\" i \"estació\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "741",
+    "input": "Algunes de les paraules \"euga\", \"parella\", \"ensurt\", \"trànsit\" i \"abric\" són animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "742",
+    "input": "Algunes de les paraules \"casa\", \"nét\", \"tancament\", \"cambrer\" i \"desig\" són peces de roba? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "745",
+    "input": "Algunes de les paraules \"peu\", \"riu\", \"nas\", \"peix\" i \"filla\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "751",
+    "input": "Algunes de les paraules \"pas\", \"nena\", \"càmera\", \"olfacte\" i \"llibertat\" són parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "761",
+    "input": "Algunes de les paraules \"nació\", \"espècie\", \"aranya\", \"col·lega\" i \"individu\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "764",
+    "input": "Algunes de les paraules \"dilluns\", \"oceà\", \"centímetre\", \"sèrie\" i \"èxit\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "766",
+    "input": "Algunes de les paraules \"corbata\", \"pensament\", \"força\", \"aire\" i \"mida\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "770",
+    "input": "Algunes de les paraules \"fantasia\", \"quantitat\", \"dictadura\", \"espinacs\" i \"neboda\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "771",
+    "input": "Algunes de les paraules \"dimecres\", \"fang\", \"club\", \"estació\" i \"naixement\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "773",
+    "input": "Algunes de les paraules \"posició\", \"boxa\", \"pastanaga\", \"aeroport\" i \"entrada\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "777",
+    "input": "Algunes de les paraules \"caràcter\", \"llavi\", \"biblioteca\", \"hospital\" i \"oficina\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "789",
+    "input": "Algunes de les paraules \"problema\", \"vela\", \"preu\", \"riu\" i \"pit\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "790",
+    "input": "Algunes de les paraules \"ruta\", \"perruquer\", \"problema\", \"mà\" i \"sardina\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "791",
+    "input": "Algunes de les paraules \"jaqueta\", \"banyador\", \"corb\", \"blanc\" i \"vella\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "793",
+    "input": "Algunes de les paraules \"empresari\", \"personalitat\", \"amiga\", \"mecànica\" i \"drama\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "798",
+    "input": "Algunes de les paraules \"política\", \"mil·límetre\", \"os\", \"seqüència\" i \"pas\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "800",
+    "input": "Algunes de les paraules \"potència\", \"dormitori\", \"interrupció\", \"mort\" i \"negre\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "808",
+    "input": "Algunes de les paraules \"producte\", \"estómac\", \"producció\", \"capell\" i \"aparell\" són esports? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "810",
+    "input": "Algunes de les paraules \"sector\", \"fleca\", \"centímetre\", \"cuinera\" i \"suspens\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "817",
+    "input": "Algunes de les paraules \"patinet\", \"costa\", \"partit\", \"polític\" i \"nadó\" són persones i gent? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "820",
+    "input": "Algunes de les paraules \"nas\", \"allau\", \"departament\", \"canyella\" i \"sal\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "824",
+    "input": "Algunes de les paraules \"equip\", \"porta\", \"humanitat\", \"gent\" i \"poble\" són professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "837",
+    "input": "Algunes de les paraules \"llibertat\", \"cremallera\", \"rugbi\", \"campanya\" i \"benefici\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "Algunes de les paraules \"bestiola\", \"consell\", \"blau\", \"futbol\" i \"individu\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "849",
+    "input": "Algunes de les paraules \"adult\", \"força\", \"incendi\", \"longitud\" i \"arma\" són eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "851",
+    "input": "Algunes de les paraules \"moto\", \"futbol\", \"ajuntament\", \"diferència\" i \"or\" són membres de la família? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "865",
+    "input": "Algunes de les paraules \"taxi\", \"huracà\", \"transport\", \"quilo\" i \"congressista\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "878",
+    "input": "Algunes de les paraules \"adverbi\", \"cuinera\", \"àvia\", \"ministra\" i \"alegria\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "880",
+    "input": "Algunes de les paraules \"elefant\", \"piano\", \"efecte\", \"carnisseria\" i \"albergínia\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "892",
+    "input": "Algunes de les paraules \"aparell\", \"arna\", \"cambra\", \"equivocació\" i \"consum\" són eines? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "893",
+    "input": "Algunes de les paraules \"espàrrec\", \"tsunami\", \"carnisseria\", \"granota\" i \"benzinera\" són catàstrofes naturals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "896",
+    "input": "Algunes de les paraules \"criatura\", \"negre\", \"adult\", \"governadora\" i \"guants\" són conceptes del cicle vital? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "897",
+    "input": "Algunes de les paraules \"imatge\", \"adverbi\", \"sèrie\", \"terra\" i \"palmell\" són instruments? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "903",
+    "input": "Algunes de les paraules \"companyia\", \"mosquit\", \"biblioteca\", \"fang\" i \"skate\" són materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "910",
+    "input": "Algunes de les paraules \"departament\", \"intent\", \"adolescent\", \"programador\" i \"muntanya\" són materials? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "912",
+    "input": "Algunes de les paraules \"cama\", \"director\", \"bosc\", \"província\" i \"permís\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "918",
+    "input": "Algunes de les paraules \"musical\", \"fons\", \"bitllet\", \"mitjons\" i \"espàrrec\" són conceptes d'espai i quantitat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "921",
+    "input": "Algunes de les paraules \"cotxe\", \"consell\", \"esquena\", \"api\" i \"finestra\" són professions? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "922",
+    "input": "Algunes de les paraules \"sensació\", \"avinguda\", \"terror\", \"electricista\" i \"tancament\" són gèneres de pel·lícules? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "923",
+    "input": "Algunes de les paraules \"veritat\", \"ceba\", \"amic\", \"saltamartí\" i \"dentista\" són verdures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "925",
+    "input": "Algunes de les paraules \"clarinet\", \"èxit\", \"capacitat\", \"gallina\" i \"pintora\" són parts del cos humà? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "929",
+    "input": "Algunes de les paraules \"intent\", \"edifici\", \"conflicte\", \"corbata\" i \"col·lega\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "935",
+    "input": "Algunes de les paraules \"sensació\", \"cuixa\", \"dijous\", \"entrada\" i \"mosquit\" són animals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "Algunes de les paraules \"calamar\", \"diners\", \"acte\", \"llangardaix\" i \"fi\" són conceptes de societat? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "941",
+    "input": "Algunes de les paraules \"corb\", \"ovella\", \"boca\", \"cas\" i \"programa\" són llocs de treball? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "943",
+    "input": "Algunes de les paraules \"cinturó\", \"pit\", \"biòleg\", \"conflicte\" i \"allau\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "945",
+    "input": "Algunes de les paraules \"ferrocarril\", \"realitat\", \"cap\", \"comissió\" i \"jutge\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "950",
+    "input": "Algunes de les paraules \"ungla\", \"tarifa\", \"pau\", \"naturalesa\" i \"nom\" són conceptes geogràfics? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "960",
+    "input": "Algunes de les paraules \"guants\", \"pintora\", \"nét\", \"joieria\" i \"parlamentari\" són substantius abstractes? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "966",
+    "input": "Algunes de les paraules \"faldilla\", \"estómac\", \"posició\", \"substantiu\" i \"destinació\" són categories gramaticals? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "970",
+    "input": "Algunes de les paraules \"existència\", \"diferència\", \"diners\", \"fotògraf\" i \"cocodril\" són components de la llar? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "982",
+    "input": "Algunes de les paraules \"perruqueria\", \"cérvol\", \"humà\", \"drama\" i \"trompeta\" són mesures? Contesta exactament \"sí\" o \"no\"."
+  },
+  {
+    "id": "992",
+    "input": "Algunes de les paraules \"dictadura\", \"basquetbol\", \"falcó\", \"record\" i \"mecànica\" són conceptes de transport? Contesta exactament \"sí\" o \"no\"."
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "1",
+    "input": "Are any of the words \"peach\", \"couch\", \"coat\", \"truck\", and \"shirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "2",
+    "input": "Are any of the words \"pants\", \"pear\", \"mango\", \"dog\", and \"train\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "3",
+    "input": "Are any of the words \"skirt\", \"bed\", \"shorts\", \"armchair\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "4",
+    "input": "Are any of the words \"skirt\", \"sweater\", \"shirt\", \"cat\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "5",
+    "input": "Are any of the words \"jacket\", \"watermelon\", \"dress\", \"train\", and \"bookcase\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "6",
+    "input": "Are any of the words \"peach\", \"truck\", \"shorts\", \"bed\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "7",
+    "input": "Are any of the words \"banana\", \"peach\", \"pants\", \"car\", and \"train\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "8",
+    "input": "Are any of the words \"mango\", \"pineapple\", \"melon\", \"socks\", and \"duck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "9",
+    "input": "Are any of the words \"tractor\", \"mango\", \"lemon\", \"table\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "10",
+    "input": "Are any of the words \"peach\", \"cat\", \"armchair\", \"tractor\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "11",
+    "input": "Are any of the words \"lemon\", \"cow\", \"banana\", \"dress\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "12",
+    "input": "Are any of the words \"sweater\", \"skirt\", \"mango\", \"truck\", and \"sofa\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "13",
+    "input": "Are any of the words \"chicken\", \"train\", \"motorcycle\", \"pants\", and \"truck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "14",
+    "input": "Are any of the words \"tractor\", \"jacket\", \"train\", \"goat\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "15",
+    "input": "Are any of the words \"couch\", \"shirt\", \"chair\", \"watermelon\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "16",
+    "input": "Are any of the words \"coat\", \"armchair\", \"strawberry\", \"fish\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "17",
+    "input": "Are any of the words \"tractor\", \"motorcycle\", \"chair\", \"mango\", and \"banana\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "18",
+    "input": "Are any of the words \"motorcycle\", \"shorts\", \"tram\", \"bookcase\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "19",
+    "input": "Are any of the words \"chair\", \"cat\", \"bed\", \"rabbit\", and \"strawberry\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "20",
+    "input": "Are any of the words \"armchair\", \"socks\", \"lemon\", \"banana\", and \"strawberry\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "21",
+    "input": "Are any of the words \"train\", \"truck\", \"pig\", \"pineapple\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "22",
+    "input": "Are any of the words \"mouse\", \"bookcase\", \"tractor\", \"pig\", and \"chair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "23",
+    "input": "Are any of the words \"shorts\", \"apple\", \"cow\", \"desk\", and \"melon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "24",
+    "input": "Are any of the words \"goat\", \"bookcase\", \"shorts\", \"sofa\", and \"shirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "25",
+    "input": "Are any of the words \"shorts\", \"armchair\", \"rabbit\", \"bed\", and \"cat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "26",
+    "input": "Are any of the words \"socks\", \"shorts\", \"pear\", \"melon\", and \"cat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "27",
+    "input": "Are any of the words \"couch\", \"skirt\", \"truck\", \"pear\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "28",
+    "input": "Are any of the words \"jeans\", \"goat\", \"table\", \"chicken\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "29",
+    "input": "Are any of the words \"bed\", \"train\", \"skirt\", \"pig\", and \"chair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "30",
+    "input": "Are any of the words \"melon\", \"socks\", \"skirt\", \"pear\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "31",
+    "input": "Are any of the words \"sweater\", \"truck\", \"train\", \"duck\", and \"car\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "32",
+    "input": "Are any of the words \"cow\", \"tram\", \"couch\", \"strawberry\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "33",
+    "input": "Are any of the words \"train\", \"strawberry\", \"pineapple\", \"pig\", and \"cat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "34",
+    "input": "Are any of the words \"jacket\", \"rabbit\", \"melon\", \"chicken\", and \"pear\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "35",
+    "input": "Are any of the words \"tractor\", \"table\", \"duck\", \"bookcase\", and \"skirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "36",
+    "input": "Are any of the words \"table\", \"van\", \"watermelon\", \"jeans\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "37",
+    "input": "Are any of the words \"dog\", \"sofa\", \"melon\", \"watermelon\", and \"dress\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "38",
+    "input": "Are any of the words \"tram\", \"mango\", \"truck\", \"cow\", and \"armchair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "39",
+    "input": "Are any of the words \"dress\", \"melon\", \"couch\", \"skirt\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "40",
+    "input": "Are any of the words \"peach\", \"mouse\", \"strawberry\", \"desk\", and \"dog\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "41",
+    "input": "Are any of the words \"cat\", \"mouse\", \"tram\", \"shirt\", and \"strawberry\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "42",
+    "input": "Are any of the words \"train\", \"duck\", \"chair\", \"mango\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "43",
+    "input": "Are any of the words \"shirt\", \"apple\", \"motorcycle\", \"skirt\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "44",
+    "input": "Are any of the words \"bookcase\", \"coat\", \"lemon\", \"pants\", and \"shirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "45",
+    "input": "Are any of the words \"tractor\", \"dress\", \"mango\", \"peach\", and \"cow\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "46",
+    "input": "Are any of the words \"bed\", \"fish\", \"cat\", \"peach\", and \"duck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "47",
+    "input": "Are any of the words \"van\", \"dog\", \"chicken\", \"watermelon\", and \"table\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "48",
+    "input": "Are any of the words \"sweater\", \"van\", \"chair\", \"pig\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "49",
+    "input": "Are any of the words \"shorts\", \"pants\", \"strawberry\", \"table\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "50",
+    "input": "Are any of the words \"banana\", \"bus\", \"sofa\", \"bed\", and \"peach\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "51",
+    "input": "Are any of the words \"dog\", \"pig\", \"pants\", \"pear\", and \"pineapple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "52",
+    "input": "Are any of the words \"tram\", \"armchair\", \"bed\", \"jacket\", and \"dog\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "53",
+    "input": "Are any of the words \"desk\", \"bus\", \"train\", \"coat\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "54",
+    "input": "Are any of the words \"bookcase\", \"jeans\", \"chair\", \"desk\", and \"dress\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "55",
+    "input": "Are any of the words \"cat\", \"dog\", \"sofa\", \"shorts\", and \"pear\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "56",
+    "input": "Are any of the words \"pineapple\", \"motorcycle\", \"fish\", \"train\", and \"cat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "57",
+    "input": "Are any of the words \"lemon\", \"tractor\", \"socks\", \"rabbit\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "58",
+    "input": "Are any of the words \"tram\", \"shorts\", \"lemon\", \"train\", and \"van\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "59",
+    "input": "Are any of the words \"apple\", \"dog\", \"pig\", \"peach\", and \"bed\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "60",
+    "input": "Are any of the words \"skirt\", \"watermelon\", \"dress\", \"dog\", and \"truck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "61",
+    "input": "Are any of the words \"pants\", \"pear\", \"pineapple\", \"cat\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "62",
+    "input": "Are any of the words \"table\", \"mouse\", \"dog\", \"armchair\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "63",
+    "input": "Are any of the words \"coat\", \"truck\", \"pants\", \"mango\", and \"tram\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "64",
+    "input": "Are any of the words \"bus\", \"sofa\", \"dress\", \"fish\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "65",
+    "input": "Are any of the words \"watermelon\", \"tram\", \"jeans\", \"socks\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "66",
+    "input": "Are any of the words \"train\", \"mango\", \"motorcycle\", \"melon\", and \"socks\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "67",
+    "input": "Are any of the words \"mouse\", \"dog\", \"truck\", \"car\", and \"jeans\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "68",
+    "input": "Are any of the words \"bus\", \"tram\", \"lemon\", \"jeans\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "69",
+    "input": "Are any of the words \"coat\", \"pear\", \"mouse\", \"strawberry\", and \"tram\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "70",
+    "input": "Are any of the words \"bed\", \"bookcase\", \"sweater\", \"motorcycle\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "71",
+    "input": "Are any of the words \"truck\", \"pig\", \"mango\", \"shirt\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "72",
+    "input": "Are any of the words \"table\", \"skirt\", \"jacket\", \"sweater\", and \"couch\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "73",
+    "input": "Are any of the words \"dog\", \"train\", \"sofa\", \"melon\", and \"bookcase\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "74",
+    "input": "Are any of the words \"sweater\", \"sofa\", \"mouse\", \"table\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "75",
+    "input": "Are any of the words \"armchair\", \"car\", \"watermelon\", \"cat\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "76",
+    "input": "Are any of the words \"cat\", \"mouse\", \"watermelon\", \"chair\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "77",
+    "input": "Are any of the words \"couch\", \"mango\", \"tram\", \"chair\", and \"banana\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "78",
+    "input": "Are any of the words \"bed\", \"tram\", \"jeans\", \"tractor\", and \"sofa\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "79",
+    "input": "Are any of the words \"tram\", \"tractor\", \"coat\", \"pig\", and \"skirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "80",
+    "input": "Are any of the words \"chicken\", \"shirt\", \"sofa\", \"pineapple\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "81",
+    "input": "Are any of the words \"mango\", \"chair\", \"fish\", \"couch\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "82",
+    "input": "Are any of the words \"sweater\", \"goat\", \"tractor\", \"shorts\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "83",
+    "input": "Are any of the words \"mouse\", \"train\", \"shirt\", \"cow\", and \"couch\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "84",
+    "input": "Are any of the words \"dress\", \"bed\", \"cow\", \"pants\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "85",
+    "input": "Are any of the words \"armchair\", \"duck\", \"train\", \"shirt\", and \"chair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "86",
+    "input": "Are any of the words \"lemon\", \"sweater\", \"truck\", \"goat\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "87",
+    "input": "Are any of the words \"rabbit\", \"watermelon\", \"goat\", \"truck\", and \"duck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "88",
+    "input": "Are any of the words \"apple\", \"pear\", \"bus\", \"chair\", and \"pants\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "89",
+    "input": "Are any of the words \"tram\", \"van\", \"peach\", \"table\", and \"sweater\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "90",
+    "input": "Are any of the words \"skirt\", \"pig\", \"desk\", \"melon\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "91",
+    "input": "Are any of the words \"bus\", \"chair\", \"pineapple\", \"lemon\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "92",
+    "input": "Are any of the words \"dress\", \"pear\", \"skirt\", \"socks\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "93",
+    "input": "Are any of the words \"armchair\", \"rabbit\", \"couch\", \"apple\", and \"cat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "94",
+    "input": "Are any of the words \"truck\", \"armchair\", \"jeans\", \"chicken\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "95",
+    "input": "Are any of the words \"watermelon\", \"goat\", \"chicken\", \"motorcycle\", and \"peach\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "96",
+    "input": "Are any of the words \"tractor\", \"motorcycle\", \"car\", \"mouse\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "97",
+    "input": "Are any of the words \"fish\", \"pants\", \"tractor\", \"sweater\", and \"skirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "98",
+    "input": "Are any of the words \"rabbit\", \"cow\", \"shirt\", \"bus\", and \"watermelon\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "99",
+    "input": "Are any of the words \"fish\", \"pineapple\", \"chicken\", \"pants\", and \"dog\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "100",
+    "input": "Are any of the words \"truck\", \"tram\", \"chicken\", \"skirt\", and \"van\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "101",
+    "input": "Are any of the words \"shirt\", \"mango\", \"banana\", \"strawberry\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "102",
+    "input": "Are any of the words \"pig\", \"chicken\", \"truck\", \"jeans\", and \"mouse\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "103",
+    "input": "Are any of the words \"skirt\", \"mango\", \"duck\", \"lemon\", and \"melon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "104",
+    "input": "Are any of the words \"watermelon\", \"melon\", \"apple\", \"chair\", and \"sofa\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "105",
+    "input": "Are any of the words \"motorcycle\", \"shorts\", \"pig\", \"sofa\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "106",
+    "input": "Are any of the words \"tractor\", \"armchair\", \"fish\", \"jeans\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "107",
+    "input": "Are any of the words \"bus\", \"melon\", \"chair\", \"pear\", and \"goat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "108",
+    "input": "Are any of the words \"melon\", \"jacket\", \"bus\", \"coat\", and \"banana\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "109",
+    "input": "Are any of the words \"skirt\", \"car\", \"bookcase\", \"lemon\", and \"van\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "110",
+    "input": "Are any of the words \"car\", \"melon\", \"dog\", \"van\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "111",
+    "input": "Are any of the words \"chicken\", \"tram\", \"jeans\", \"pineapple\", and \"sofa\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "112",
+    "input": "Are any of the words \"shirt\", \"car\", \"banana\", \"train\", and \"cat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "113",
+    "input": "Are any of the words \"jacket\", \"jeans\", \"peach\", \"strawberry\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "114",
+    "input": "Are any of the words \"tram\", \"train\", \"sweater\", \"peach\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "115",
+    "input": "Are any of the words \"shorts\", \"desk\", \"tractor\", \"goat\", and \"fish\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "116",
+    "input": "Are any of the words \"skirt\", \"fish\", \"goat\", \"dog\", and \"apple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "117",
+    "input": "Are any of the words \"fish\", \"rabbit\", \"duck\", \"jacket\", and \"banana\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "118",
+    "input": "Are any of the words \"lemon\", \"bed\", \"sweater\", \"duck\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "119",
+    "input": "Are any of the words \"fish\", \"goat\", \"train\", \"cow\", and \"pear\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "120",
+    "input": "Are any of the words \"tractor\", \"chair\", \"melon\", \"table\", and \"couch\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "121",
+    "input": "Are any of the words \"skirt\", \"socks\", \"shorts\", \"rabbit\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "122",
+    "input": "Are any of the words \"pants\", \"van\", \"sofa\", \"tram\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "123",
+    "input": "Are any of the words \"socks\", \"sweater\", \"jacket\", \"shirt\", and \"duck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "124",
+    "input": "Are any of the words \"apple\", \"rabbit\", \"melon\", \"shirt\", and \"pants\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "125",
+    "input": "Are any of the words \"goat\", \"tram\", \"peach\", \"tractor\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "126",
+    "input": "Are any of the words \"truck\", \"coat\", \"skirt\", \"sofa\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "127",
+    "input": "Are any of the words \"melon\", \"tram\", \"cat\", \"rabbit\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "128",
+    "input": "Are any of the words \"duck\", \"mouse\", \"van\", \"armchair\", and \"chair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "129",
+    "input": "Are any of the words \"shirt\", \"couch\", \"bed\", \"desk\", and \"sweater\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "130",
+    "input": "Are any of the words \"shorts\", \"car\", \"watermelon\", \"pineapple\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "131",
+    "input": "Are any of the words \"pig\", \"skirt\", \"socks\", \"truck\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "132",
+    "input": "Are any of the words \"goat\", \"motorcycle\", \"train\", \"peach\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "133",
+    "input": "Are any of the words \"dress\", \"coat\", \"pants\", \"truck\", and \"chicken\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "134",
+    "input": "Are any of the words \"tram\", \"car\", \"pear\", \"bed\", and \"train\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "135",
+    "input": "Are any of the words \"bookcase\", \"pants\", \"cow\", \"apple\", and \"van\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "136",
+    "input": "Are any of the words \"pants\", \"bookcase\", \"apple\", \"jeans\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "137",
+    "input": "Are any of the words \"couch\", \"apple\", \"lemon\", \"chair\", and \"coat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "138",
+    "input": "Are any of the words \"truck\", \"sweater\", \"pear\", \"strawberry\", and \"jacket\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "139",
+    "input": "Are any of the words \"train\", \"socks\", \"coat\", \"banana\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "140",
+    "input": "Are any of the words \"apple\", \"truck\", \"armchair\", \"skirt\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "141",
+    "input": "Are any of the words \"cat\", \"banana\", \"pineapple\", \"bookcase\", and \"coat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "142",
+    "input": "Are any of the words \"duck\", \"banana\", \"couch\", \"rabbit\", and \"pants\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "143",
+    "input": "Are any of the words \"table\", \"pineapple\", \"jacket\", \"desk\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "144",
+    "input": "Are any of the words \"shirt\", \"pear\", \"bus\", \"sweater\", and \"truck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "145",
+    "input": "Are any of the words \"skirt\", \"bus\", \"sofa\", \"cow\", and \"goat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "146",
+    "input": "Are any of the words \"bus\", \"motorcycle\", \"truck\", \"fish\", and \"cow\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "147",
+    "input": "Are any of the words \"desk\", \"goat\", \"apple\", \"chair\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "148",
+    "input": "Are any of the words \"goat\", \"bed\", \"mouse\", \"shorts\", and \"peach\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "149",
+    "input": "Are any of the words \"cow\", \"motorcycle\", \"melon\", \"bookcase\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "150",
+    "input": "Are any of the words \"sofa\", \"fish\", \"banana\", \"mango\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "151",
+    "input": "Are any of the words \"truck\", \"jeans\", \"banana\", \"socks\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "152",
+    "input": "Are any of the words \"pear\", \"cow\", \"rabbit\", \"tractor\", and \"table\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "153",
+    "input": "Are any of the words \"pineapple\", \"chair\", \"table\", \"car\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "154",
+    "input": "Are any of the words \"cow\", \"skirt\", \"apple\", \"armchair\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "155",
+    "input": "Are any of the words \"banana\", \"rabbit\", \"bus\", \"chicken\", and \"coat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "156",
+    "input": "Are any of the words \"cow\", \"melon\", \"shirt\", \"chicken\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "157",
+    "input": "Are any of the words \"coat\", \"banana\", \"motorcycle\", \"socks\", and \"bookcase\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "158",
+    "input": "Are any of the words \"pig\", \"skirt\", \"bus\", \"car\", and \"peach\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "159",
+    "input": "Are any of the words \"chicken\", \"rabbit\", \"table\", \"dress\", and \"tram\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "160",
+    "input": "Are any of the words \"fish\", \"bus\", \"jacket\", \"melon\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "161",
+    "input": "Are any of the words \"peach\", \"bus\", \"watermelon\", \"melon\", and \"train\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "162",
+    "input": "Are any of the words \"shirt\", \"sweater\", \"banana\", \"cow\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "163",
+    "input": "Are any of the words \"sweater\", \"shirt\", \"apple\", \"goat\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "164",
+    "input": "Are any of the words \"strawberry\", \"chicken\", \"car\", \"shorts\", and \"skirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "165",
+    "input": "Are any of the words \"bookcase\", \"sofa\", \"skirt\", \"lemon\", and \"couch\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "166",
+    "input": "Are any of the words \"dress\", \"sweater\", \"shirt\", \"mouse\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "167",
+    "input": "Are any of the words \"duck\", \"couch\", \"pig\", \"desk\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "168",
+    "input": "Are any of the words \"dog\", \"watermelon\", \"motorcycle\", \"pig\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "169",
+    "input": "Are any of the words \"melon\", \"mouse\", \"jeans\", \"pig\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "170",
+    "input": "Are any of the words \"jacket\", \"train\", \"watermelon\", \"socks\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "171",
+    "input": "Are any of the words \"jacket\", \"fish\", \"armchair\", \"skirt\", and \"car\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "172",
+    "input": "Are any of the words \"pants\", \"cow\", \"lemon\", \"apple\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "173",
+    "input": "Are any of the words \"couch\", \"peach\", \"shorts\", \"dress\", and \"socks\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "174",
+    "input": "Are any of the words \"strawberry\", \"shorts\", \"pear\", \"bus\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "175",
+    "input": "Are any of the words \"coat\", \"couch\", \"pear\", \"cat\", and \"socks\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "176",
+    "input": "Are any of the words \"chicken\", \"melon\", \"car\", \"dog\", and \"shorts\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "177",
+    "input": "Are any of the words \"socks\", \"cat\", \"pineapple\", \"car\", and \"shorts\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "178",
+    "input": "Are any of the words \"sofa\", \"goat\", \"shorts\", \"watermelon\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "179",
+    "input": "Are any of the words \"van\", \"cat\", \"coat\", \"bus\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "180",
+    "input": "Are any of the words \"jeans\", \"cat\", \"couch\", \"train\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "181",
+    "input": "Are any of the words \"apple\", \"chicken\", \"watermelon\", \"strawberry\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "182",
+    "input": "Are any of the words \"peach\", \"shirt\", \"apple\", \"fish\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "183",
+    "input": "Are any of the words \"bookcase\", \"socks\", \"chair\", \"train\", and \"pear\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "184",
+    "input": "Are any of the words \"apple\", \"couch\", \"bus\", \"cat\", and \"watermelon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "185",
+    "input": "Are any of the words \"van\", \"shorts\", \"sofa\", \"lemon\", and \"watermelon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "186",
+    "input": "Are any of the words \"shorts\", \"mouse\", \"car\", \"pineapple\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "187",
+    "input": "Are any of the words \"sofa\", \"shirt\", \"sweater\", \"lemon\", and \"armchair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "188",
+    "input": "Are any of the words \"table\", \"mouse\", \"peach\", \"jeans\", and \"dog\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "189",
+    "input": "Are any of the words \"bookcase\", \"van\", \"shirt\", \"chair\", and \"goat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "190",
+    "input": "Are any of the words \"desk\", \"truck\", \"train\", \"rabbit\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "191",
+    "input": "Are any of the words \"van\", \"bus\", \"strawberry\", \"truck\", and \"chair\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "192",
+    "input": "Are any of the words \"rabbit\", \"sofa\", \"mango\", \"chicken\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "193",
+    "input": "Are any of the words \"skirt\", \"cow\", \"couch\", \"goat\", and \"bus\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "194",
+    "input": "Are any of the words \"melon\", \"shirt\", \"tram\", \"chair\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "195",
+    "input": "Are any of the words \"van\", \"cat\", \"table\", \"apple\", and \"melon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "196",
+    "input": "Are any of the words \"truck\", \"strawberry\", \"bookcase\", \"tram\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "197",
+    "input": "Are any of the words \"jeans\", \"jacket\", \"banana\", \"mouse\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "198",
+    "input": "Are any of the words \"duck\", \"pig\", \"chicken\", \"sofa\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "199",
+    "input": "Are any of the words \"dog\", \"watermelon\", \"socks\", \"banana\", and \"pear\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "200",
+    "input": "Are any of the words \"mango\", \"train\", \"sweater\", \"fish\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "Are any of the words \"pineapple\", \"armchair\", \"cat\", \"couch\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "202",
+    "input": "Are any of the words \"banana\", \"apple\", \"dress\", \"sofa\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "203",
+    "input": "Are any of the words \"shorts\", \"pineapple\", \"dress\", \"pants\", and \"mouse\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "204",
+    "input": "Are any of the words \"tractor\", \"bookcase\", \"mango\", \"sweater\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "205",
+    "input": "Are any of the words \"banana\", \"cow\", \"dress\", \"mouse\", and \"train\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "206",
+    "input": "Are any of the words \"pig\", \"cow\", \"sofa\", \"bus\", and \"car\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "207",
+    "input": "Are any of the words \"chicken\", \"melon\", \"table\", \"cow\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "208",
+    "input": "Are any of the words \"dog\", \"car\", \"mouse\", \"apple\", and \"jacket\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "209",
+    "input": "Are any of the words \"van\", \"bed\", \"table\", \"tractor\", and \"fish\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "210",
+    "input": "Are any of the words \"jeans\", \"apple\", \"desk\", \"pear\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "211",
+    "input": "Are any of the words \"socks\", \"truck\", \"dress\", \"couch\", and \"shorts\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "212",
+    "input": "Are any of the words \"socks\", \"chicken\", \"rabbit\", \"cow\", and \"bed\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "213",
+    "input": "Are any of the words \"desk\", \"train\", \"fish\", \"bus\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "214",
+    "input": "Are any of the words \"dog\", \"apple\", \"cow\", \"table\", and \"tractor\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "215",
+    "input": "Are any of the words \"car\", \"melon\", \"dress\", \"shorts\", and \"socks\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "216",
+    "input": "Are any of the words \"dress\", \"car\", \"desk\", \"skirt\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "217",
+    "input": "Are any of the words \"strawberry\", \"dress\", \"melon\", \"coat\", and \"pants\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "218",
+    "input": "Are any of the words \"bus\", \"sofa\", \"watermelon\", \"truck\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "219",
+    "input": "Are any of the words \"rabbit\", \"banana\", \"chair\", \"goat\", and \"bookcase\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "220",
+    "input": "Are any of the words \"tram\", \"bed\", \"melon\", \"shorts\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "221",
+    "input": "Are any of the words \"van\", \"socks\", \"shorts\", \"mouse\", and \"coat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "222",
+    "input": "Are any of the words \"shorts\", \"desk\", \"tractor\", \"skirt\", and \"rabbit\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "223",
+    "input": "Are any of the words \"dress\", \"rabbit\", \"van\", \"pear\", and \"duck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "224",
+    "input": "Are any of the words \"car\", \"tram\", \"jeans\", \"bookcase\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "225",
+    "input": "Are any of the words \"sweater\", \"train\", \"car\", \"melon\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "226",
+    "input": "Are any of the words \"chair\", \"table\", \"bed\", \"sofa\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "227",
+    "input": "Are any of the words \"dog\", \"skirt\", \"pants\", \"shirt\", and \"couch\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "228",
+    "input": "Are any of the words \"sweater\", \"motorcycle\", \"watermelon\", \"lemon\", and \"couch\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "229",
+    "input": "Are any of the words \"bus\", \"peach\", \"couch\", \"tractor\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "230",
+    "input": "Are any of the words \"coat\", \"couch\", \"mouse\", \"pear\", and \"lemon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "231",
+    "input": "Are any of the words \"motorcycle\", \"pants\", \"shorts\", \"pig\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "232",
+    "input": "Are any of the words \"pants\", \"sofa\", \"cat\", \"shirt\", and \"apple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "233",
+    "input": "Are any of the words \"fish\", \"watermelon\", \"train\", \"peach\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "234",
+    "input": "Are any of the words \"jeans\", \"socks\", \"mango\", \"melon\", and \"motorcycle\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "235",
+    "input": "Are any of the words \"sweater\", \"pig\", \"desk\", \"shirt\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "236",
+    "input": "Are any of the words \"coat\", \"watermelon\", \"pants\", \"pig\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "237",
+    "input": "Are any of the words \"peach\", \"goat\", \"pineapple\", \"truck\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "238",
+    "input": "Are any of the words \"tractor\", \"table\", \"tram\", \"cat\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "239",
+    "input": "Are any of the words \"chair\", \"tractor\", \"car\", \"shorts\", and \"dress\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "240",
+    "input": "Are any of the words \"bed\", \"cat\", \"shirt\", \"strawberry\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "241",
+    "input": "Are any of the words \"pants\", \"cat\", \"dress\", \"pineapple\", and \"pear\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "242",
+    "input": "Are any of the words \"goat\", \"bookcase\", \"shirt\", \"apple\", and \"duck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "243",
+    "input": "Are any of the words \"jacket\", \"shorts\", \"desk\", \"duck\", and \"shirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "244",
+    "input": "Are any of the words \"fish\", \"tram\", \"bookcase\", \"mango\", and \"duck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "245",
+    "input": "Are any of the words \"chair\", \"jacket\", \"armchair\", \"couch\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "246",
+    "input": "Are any of the words \"watermelon\", \"bookcase\", \"fish\", \"tram\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "247",
+    "input": "Are any of the words \"motorcycle\", \"car\", \"chicken\", \"table\", and \"fish\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "248",
+    "input": "Are any of the words \"strawberry\", \"bookcase\", \"lemon\", \"train\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "249",
+    "input": "Are any of the words \"desk\", \"shirt\", \"banana\", \"couch\", and \"socks\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "250",
+    "input": "Are any of the words \"sweater\", \"jeans\", \"goat\", \"lemon\", and \"tractor\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "251",
+    "input": "Are any of the words \"strawberry\", \"lemon\", \"desk\", \"fish\", and \"duck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "252",
+    "input": "Are any of the words \"mango\", \"apple\", \"jacket\", \"watermelon\", and \"desk\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "253",
+    "input": "Are any of the words \"train\", \"armchair\", \"shirt\", \"jeans\", and \"shorts\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "254",
+    "input": "Are any of the words \"sweater\", \"coat\", \"chair\", \"apple\", and \"pig\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "255",
+    "input": "Are any of the words \"tractor\", \"coat\", \"motorcycle\", \"bus\", and \"sofa\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "256",
+    "input": "Are any of the words \"mango\", \"strawberry\", \"cat\", \"melon\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "257",
+    "input": "Are any of the words \"lemon\", \"bus\", \"motorcycle\", \"pants\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "258",
+    "input": "Are any of the words \"mango\", \"jeans\", \"banana\", \"desk\", and \"cow\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "259",
+    "input": "Are any of the words \"desk\", \"van\", \"duck\", \"peach\", and \"coat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "260",
+    "input": "Are any of the words \"melon\", \"skirt\", \"armchair\", \"peach\", and \"mango\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "261",
+    "input": "Are any of the words \"bus\", \"jeans\", \"tram\", \"bookcase\", and \"couch\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "262",
+    "input": "Are any of the words \"cat\", \"bookcase\", \"apple\", \"cow\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "263",
+    "input": "Are any of the words \"jacket\", \"desk\", \"strawberry\", \"car\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "264",
+    "input": "Are any of the words \"mouse\", \"chicken\", \"car\", \"mango\", and \"apple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "265",
+    "input": "Are any of the words \"mango\", \"fish\", \"motorcycle\", \"socks\", and \"apple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "266",
+    "input": "Are any of the words \"bookcase\", \"strawberry\", \"pear\", \"pig\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "267",
+    "input": "Are any of the words \"duck\", \"pear\", \"coat\", \"apple\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "268",
+    "input": "Are any of the words \"train\", \"tractor\", \"table\", \"sofa\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "269",
+    "input": "Are any of the words \"skirt\", \"bus\", \"watermelon\", \"chair\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "270",
+    "input": "Are any of the words \"goat\", \"mango\", \"pineapple\", \"fish\", and \"shirt\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "271",
+    "input": "Are any of the words \"chair\", \"goat\", \"socks\", \"couch\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "272",
+    "input": "Are any of the words \"pants\", \"armchair\", \"jeans\", \"strawberry\", and \"banana\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "273",
+    "input": "Are any of the words \"peach\", \"strawberry\", \"banana\", \"cat\", and \"tram\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "274",
+    "input": "Are any of the words \"sweater\", \"desk\", \"goat\", \"chair\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "275",
+    "input": "Are any of the words \"sweater\", \"melon\", \"watermelon\", \"bed\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "276",
+    "input": "Are any of the words \"apple\", \"lemon\", \"train\", \"bed\", and \"shorts\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "277",
+    "input": "Are any of the words \"skirt\", \"watermelon\", \"tram\", \"melon\", and \"chair\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "278",
+    "input": "Are any of the words \"shirt\", \"table\", \"banana\", \"couch\", and \"fish\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "279",
+    "input": "Are any of the words \"fish\", \"banana\", \"armchair\", \"bus\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "280",
+    "input": "Are any of the words \"train\", \"cat\", \"pig\", \"sweater\", and \"peach\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "281",
+    "input": "Are any of the words \"pear\", \"peach\", \"pineapple\", \"chicken\", and \"armchair\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "282",
+    "input": "Are any of the words \"dress\", \"mango\", \"desk\", \"rabbit\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "283",
+    "input": "Are any of the words \"skirt\", \"pear\", \"train\", \"van\", and \"bed\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "284",
+    "input": "Are any of the words \"strawberry\", \"tractor\", \"sweater\", \"rabbit\", and \"duck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "285",
+    "input": "Are any of the words \"train\", \"car\", \"rabbit\", \"couch\", and \"bed\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "286",
+    "input": "Are any of the words \"banana\", \"apple\", \"pineapple\", \"strawberry\", and \"bed\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "287",
+    "input": "Are any of the words \"armchair\", \"motorcycle\", \"coat\", \"dog\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "Are any of the words \"tractor\", \"pear\", \"bed\", \"truck\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "289",
+    "input": "Are any of the words \"desk\", \"car\", \"cow\", \"motorcycle\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "290",
+    "input": "Are any of the words \"armchair\", \"shorts\", \"couch\", \"pants\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "291",
+    "input": "Are any of the words \"shorts\", \"pear\", \"van\", \"socks\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "292",
+    "input": "Are any of the words \"truck\", \"shirt\", \"cow\", \"melon\", and \"cat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "293",
+    "input": "Are any of the words \"motorcycle\", \"bus\", \"duck\", \"chair\", and \"couch\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "294",
+    "input": "Are any of the words \"pig\", \"van\", \"motorcycle\", \"train\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "295",
+    "input": "Are any of the words \"strawberry\", \"duck\", \"van\", \"pear\", and \"bed\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "296",
+    "input": "Are any of the words \"pineapple\", \"pants\", \"cat\", \"chicken\", and \"skirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "297",
+    "input": "Are any of the words \"banana\", \"table\", \"sofa\", \"apple\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "298",
+    "input": "Are any of the words \"melon\", \"sofa\", \"coat\", \"mango\", and \"socks\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "299",
+    "input": "Are any of the words \"melon\", \"apple\", \"pants\", \"bus\", and \"socks\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "300",
+    "input": "Are any of the words \"coat\", \"jeans\", \"strawberry\", \"desk\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "301",
+    "input": "Are any of the words \"apple\", \"desk\", \"truck\", \"tram\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "302",
+    "input": "Are any of the words \"fish\", \"skirt\", \"rabbit\", \"goat\", and \"van\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "303",
+    "input": "Are any of the words \"chair\", \"socks\", \"pants\", \"car\", and \"banana\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "304",
+    "input": "Are any of the words \"armchair\", \"chair\", \"pear\", \"watermelon\", and \"bed\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "305",
+    "input": "Are any of the words \"cow\", \"pants\", \"apple\", \"pineapple\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "306",
+    "input": "Are any of the words \"jacket\", \"chicken\", \"cow\", \"dog\", and \"fish\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "307",
+    "input": "Are any of the words \"pig\", \"car\", \"skirt\", \"socks\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "308",
+    "input": "Are any of the words \"desk\", \"dress\", \"tram\", \"mango\", and \"truck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "309",
+    "input": "Are any of the words \"rabbit\", \"duck\", \"cow\", \"motorcycle\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "310",
+    "input": "Are any of the words \"truck\", \"train\", \"desk\", \"skirt\", and \"bus\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "311",
+    "input": "Are any of the words \"rabbit\", \"cow\", \"jeans\", \"van\", and \"bookcase\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "312",
+    "input": "Are any of the words \"sofa\", \"melon\", \"cow\", \"fish\", and \"desk\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "313",
+    "input": "Are any of the words \"socks\", \"train\", \"shorts\", \"jeans\", and \"pig\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "314",
+    "input": "Are any of the words \"table\", \"desk\", \"banana\", \"tractor\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "315",
+    "input": "Are any of the words \"pants\", \"melon\", \"tram\", \"desk\", and \"skirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "316",
+    "input": "Are any of the words \"fish\", \"cat\", \"armchair\", \"couch\", and \"jeans\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "317",
+    "input": "Are any of the words \"strawberry\", \"cat\", \"peach\", \"fish\", and \"desk\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "318",
+    "input": "Are any of the words \"watermelon\", \"chair\", \"dress\", \"truck\", and \"duck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "319",
+    "input": "Are any of the words \"cat\", \"chair\", \"socks\", \"banana\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "320",
+    "input": "Are any of the words \"sofa\", \"jeans\", \"table\", \"rabbit\", and \"peach\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "321",
+    "input": "Are any of the words \"peach\", \"table\", \"coat\", \"chair\", and \"tram\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "322",
+    "input": "Are any of the words \"pants\", \"jacket\", \"shirt\", \"coat\", and \"skirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "323",
+    "input": "Are any of the words \"motorcycle\", \"watermelon\", \"car\", \"chair\", and \"armchair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "324",
+    "input": "Are any of the words \"couch\", \"bed\", \"cat\", \"armchair\", and \"van\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "325",
+    "input": "Are any of the words \"desk\", \"banana\", \"train\", \"tram\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "326",
+    "input": "Are any of the words \"rabbit\", \"banana\", \"lemon\", \"socks\", and \"cow\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "327",
+    "input": "Are any of the words \"pineapple\", \"rabbit\", \"dog\", \"mango\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "328",
+    "input": "Are any of the words \"rabbit\", \"couch\", \"banana\", \"watermelon\", and \"sweater\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "329",
+    "input": "Are any of the words \"banana\", \"rabbit\", \"coat\", \"mango\", and \"van\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "330",
+    "input": "Are any of the words \"train\", \"pineapple\", \"bed\", \"melon\", and \"pear\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "331",
+    "input": "Are any of the words \"armchair\", \"chair\", \"duck\", \"pineapple\", and \"train\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "332",
+    "input": "Are any of the words \"sofa\", \"car\", \"jacket\", \"mango\", and \"tram\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "333",
+    "input": "Are any of the words \"watermelon\", \"van\", \"banana\", \"rabbit\", and \"pineapple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "334",
+    "input": "Are any of the words \"motorcycle\", \"jacket\", \"watermelon\", \"banana\", and \"sofa\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "335",
+    "input": "Are any of the words \"armchair\", \"bed\", \"dress\", \"socks\", and \"melon\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "336",
+    "input": "Are any of the words \"bus\", \"couch\", \"pineapple\", \"cow\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "337",
+    "input": "Are any of the words \"chicken\", \"apple\", \"sweater\", \"bed\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "338",
+    "input": "Are any of the words \"tractor\", \"watermelon\", \"mouse\", \"chair\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "339",
+    "input": "Are any of the words \"bookcase\", \"sweater\", \"pineapple\", \"table\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "340",
+    "input": "Are any of the words \"bookcase\", \"fish\", \"watermelon\", \"chicken\", and \"mango\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "341",
+    "input": "Are any of the words \"pants\", \"peach\", \"bus\", \"pig\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "342",
+    "input": "Are any of the words \"sofa\", \"goat\", \"mango\", \"table\", and \"train\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "343",
+    "input": "Are any of the words \"shirt\", \"peach\", \"bus\", \"chair\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "344",
+    "input": "Are any of the words \"mango\", \"pear\", \"motorcycle\", \"watermelon\", and \"chicken\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "345",
+    "input": "Are any of the words \"coat\", \"skirt\", \"table\", \"socks\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "346",
+    "input": "Are any of the words \"strawberry\", \"apple\", \"pineapple\", \"skirt\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "347",
+    "input": "Are any of the words \"melon\", \"cow\", \"strawberry\", \"chicken\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "348",
+    "input": "Are any of the words \"van\", \"cat\", \"dog\", \"strawberry\", and \"watermelon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "349",
+    "input": "Are any of the words \"car\", \"coat\", \"mango\", \"lemon\", and \"pear\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "350",
+    "input": "Are any of the words \"truck\", \"pineapple\", \"desk\", \"dress\", and \"mouse\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "351",
+    "input": "Are any of the words \"armchair\", \"tractor\", \"shorts\", \"pear\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "352",
+    "input": "Are any of the words \"lemon\", \"sofa\", \"bus\", \"jacket\", and \"mango\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "353",
+    "input": "Are any of the words \"pants\", \"skirt\", \"sofa\", \"cat\", and \"duck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "354",
+    "input": "Are any of the words \"truck\", \"bus\", \"lemon\", \"fish\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "355",
+    "input": "Are any of the words \"jeans\", \"peach\", \"pants\", \"rabbit\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "356",
+    "input": "Are any of the words \"fish\", \"jeans\", \"goat\", \"socks\", and \"tractor\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "357",
+    "input": "Are any of the words \"jacket\", \"mouse\", \"chair\", \"coat\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "358",
+    "input": "Are any of the words \"dress\", \"strawberry\", \"sofa\", \"jeans\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "359",
+    "input": "Are any of the words \"pineapple\", \"banana\", \"shirt\", \"chair\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "360",
+    "input": "Are any of the words \"car\", \"strawberry\", \"jacket\", \"sweater\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "361",
+    "input": "Are any of the words \"van\", \"truck\", \"bed\", \"cow\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "362",
+    "input": "Are any of the words \"tractor\", \"table\", \"van\", \"lemon\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "363",
+    "input": "Are any of the words \"chicken\", \"pig\", \"truck\", \"lemon\", and \"dog\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "364",
+    "input": "Are any of the words \"chicken\", \"pineapple\", \"skirt\", \"armchair\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "365",
+    "input": "Are any of the words \"pineapple\", \"goat\", \"cat\", \"table\", and \"couch\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "Are any of the words \"socks\", \"pineapple\", \"table\", \"jacket\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "367",
+    "input": "Are any of the words \"strawberry\", \"desk\", \"sofa\", \"cow\", and \"truck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "368",
+    "input": "Are any of the words \"fish\", \"goat\", \"watermelon\", \"bookcase\", and \"van\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "369",
+    "input": "Are any of the words \"melon\", \"chicken\", \"truck\", \"shirt\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "370",
+    "input": "Are any of the words \"bed\", \"peach\", \"armchair\", \"chicken\", and \"cat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "371",
+    "input": "Are any of the words \"mouse\", \"armchair\", \"dress\", \"motorcycle\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "372",
+    "input": "Are any of the words \"pear\", \"train\", \"banana\", \"bus\", and \"tractor\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "373",
+    "input": "Are any of the words \"rabbit\", \"tram\", \"van\", \"chair\", and \"peach\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "374",
+    "input": "Are any of the words \"bookcase\", \"mango\", \"tram\", \"goat\", and \"armchair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "375",
+    "input": "Are any of the words \"pig\", \"fish\", \"pear\", \"skirt\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "376",
+    "input": "Are any of the words \"chicken\", \"watermelon\", \"shorts\", \"jeans\", and \"socks\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "377",
+    "input": "Are any of the words \"jeans\", \"sofa\", \"tram\", \"motorcycle\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "378",
+    "input": "Are any of the words \"sofa\", \"motorcycle\", \"bookcase\", \"tractor\", and \"pear\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "379",
+    "input": "Are any of the words \"dress\", \"bookcase\", \"jacket\", \"pineapple\", and \"motorcycle\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "380",
+    "input": "Are any of the words \"apple\", \"watermelon\", \"pig\", \"pear\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "381",
+    "input": "Are any of the words \"rabbit\", \"coat\", \"sweater\", \"pants\", and \"car\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "382",
+    "input": "Are any of the words \"fish\", \"goat\", \"watermelon\", \"melon\", and \"cat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "383",
+    "input": "Are any of the words \"coat\", \"chair\", \"peach\", \"motorcycle\", and \"tractor\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "384",
+    "input": "Are any of the words \"dress\", \"bookcase\", \"pants\", \"bed\", and \"desk\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "385",
+    "input": "Are any of the words \"apple\", \"bookcase\", \"van\", \"banana\", and \"mango\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "386",
+    "input": "Are any of the words \"skirt\", \"coat\", \"shirt\", \"rabbit\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "387",
+    "input": "Are any of the words \"truck\", \"coat\", \"fish\", \"van\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "388",
+    "input": "Are any of the words \"pants\", \"bus\", \"chair\", \"sweater\", and \"couch\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "389",
+    "input": "Are any of the words \"strawberry\", \"car\", \"train\", \"desk\", and \"tram\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "390",
+    "input": "Are any of the words \"skirt\", \"fish\", \"table\", \"cow\", and \"truck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "391",
+    "input": "Are any of the words \"table\", \"couch\", \"shirt\", \"truck\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "392",
+    "input": "Are any of the words \"table\", \"sofa\", \"pineapple\", \"watermelon\", and \"strawberry\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "393",
+    "input": "Are any of the words \"shirt\", \"dress\", \"fish\", \"train\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "394",
+    "input": "Are any of the words \"tractor\", \"skirt\", \"peach\", \"car\", and \"sofa\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "395",
+    "input": "Are any of the words \"pig\", \"peach\", \"armchair\", \"cat\", and \"bus\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "396",
+    "input": "Are any of the words \"shorts\", \"chicken\", \"tram\", \"van\", and \"pineapple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "397",
+    "input": "Are any of the words \"bus\", \"van\", \"apple\", \"fish\", and \"car\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "398",
+    "input": "Are any of the words \"apple\", \"pear\", \"pants\", \"strawberry\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "399",
+    "input": "Are any of the words \"truck\", \"tractor\", \"goat\", \"peach\", and \"van\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "400",
+    "input": "Are any of the words \"goat\", \"banana\", \"sweater\", \"bookcase\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "401",
+    "input": "Are any of the words \"strawberry\", \"watermelon\", \"skirt\", \"sofa\", and \"banana\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "402",
+    "input": "Are any of the words \"tram\", \"duck\", \"bus\", \"couch\", and \"banana\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "403",
+    "input": "Are any of the words \"goat\", \"pineapple\", \"tractor\", \"sofa\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "404",
+    "input": "Are any of the words \"watermelon\", \"mouse\", \"skirt\", \"tram\", and \"cow\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "405",
+    "input": "Are any of the words \"fish\", \"cow\", \"skirt\", \"coat\", and \"duck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "406",
+    "input": "Are any of the words \"duck\", \"lemon\", \"dress\", \"strawberry\", and \"truck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "407",
+    "input": "Are any of the words \"van\", \"jacket\", \"socks\", \"jeans\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "408",
+    "input": "Are any of the words \"truck\", \"pants\", \"duck\", \"train\", and \"pear\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "409",
+    "input": "Are any of the words \"strawberry\", \"van\", \"duck\", \"car\", and \"desk\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "410",
+    "input": "Are any of the words \"mouse\", \"tractor\", \"coat\", \"banana\", and \"shorts\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "411",
+    "input": "Are any of the words \"dog\", \"couch\", \"bed\", \"cow\", and \"chair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "412",
+    "input": "Are any of the words \"desk\", \"melon\", \"truck\", \"tram\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "413",
+    "input": "Are any of the words \"shorts\", \"dress\", \"sweater\", \"mouse\", and \"peach\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "414",
+    "input": "Are any of the words \"strawberry\", \"watermelon\", \"pineapple\", \"bed\", and \"tractor\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "415",
+    "input": "Are any of the words \"jeans\", \"coat\", \"strawberry\", \"bed\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "416",
+    "input": "Are any of the words \"dog\", \"strawberry\", \"peach\", \"jeans\", and \"cat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "417",
+    "input": "Are any of the words \"cat\", \"shorts\", \"pants\", \"melon\", and \"armchair\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "418",
+    "input": "Are any of the words \"truck\", \"socks\", \"armchair\", \"tractor\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "419",
+    "input": "Are any of the words \"coat\", \"jeans\", \"lemon\", \"peach\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "420",
+    "input": "Are any of the words \"pig\", \"couch\", \"mouse\", \"duck\", and \"truck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "421",
+    "input": "Are any of the words \"jacket\", \"tram\", \"apple\", \"table\", and \"socks\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "422",
+    "input": "Are any of the words \"car\", \"jeans\", \"skirt\", \"couch\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "423",
+    "input": "Are any of the words \"pear\", \"peach\", \"cat\", \"couch\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "424",
+    "input": "Are any of the words \"bed\", \"fish\", \"cat\", \"rabbit\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "425",
+    "input": "Are any of the words \"armchair\", \"peach\", \"pear\", \"chair\", and \"car\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "426",
+    "input": "Are any of the words \"dress\", \"shirt\", \"tram\", \"desk\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "427",
+    "input": "Are any of the words \"tram\", \"jeans\", \"lemon\", \"dress\", and \"chicken\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "428",
+    "input": "Are any of the words \"bus\", \"banana\", \"van\", \"socks\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "429",
+    "input": "Are any of the words \"lemon\", \"rabbit\", \"van\", \"bed\", and \"peach\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "430",
+    "input": "Are any of the words \"socks\", \"table\", \"bookcase\", \"sweater\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "431",
+    "input": "Are any of the words \"rabbit\", \"melon\", \"coat\", \"dress\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "432",
+    "input": "Are any of the words \"skirt\", \"sofa\", \"car\", \"train\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "433",
+    "input": "Are any of the words \"dog\", \"apple\", \"peach\", \"cat\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "434",
+    "input": "Are any of the words \"apple\", \"desk\", \"armchair\", \"bus\", and \"sofa\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "435",
+    "input": "Are any of the words \"armchair\", \"train\", \"watermelon\", \"rabbit\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "436",
+    "input": "Are any of the words \"coat\", \"duck\", \"bed\", \"mango\", and \"van\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "437",
+    "input": "Are any of the words \"apple\", \"couch\", \"bookcase\", \"pants\", and \"mouse\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "438",
+    "input": "Are any of the words \"mouse\", \"tractor\", \"fish\", \"melon\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "439",
+    "input": "Are any of the words \"goat\", \"jacket\", \"apple\", \"tractor\", and \"shorts\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "440",
+    "input": "Are any of the words \"apple\", \"skirt\", \"dog\", \"shirt\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "441",
+    "input": "Are any of the words \"bus\", \"duck\", \"dress\", \"sweater\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "442",
+    "input": "Are any of the words \"pants\", \"peach\", \"sofa\", \"shirt\", and \"car\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "443",
+    "input": "Are any of the words \"sofa\", \"tractor\", \"jacket\", \"shirt\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "444",
+    "input": "Are any of the words \"chicken\", \"sweater\", \"apple\", \"armchair\", and \"table\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "445",
+    "input": "Are any of the words \"peach\", \"jacket\", \"melon\", \"chair\", and \"duck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "446",
+    "input": "Are any of the words \"goat\", \"chicken\", \"peach\", \"motorcycle\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "447",
+    "input": "Are any of the words \"duck\", \"bus\", \"dress\", \"van\", and \"melon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "448",
+    "input": "Are any of the words \"banana\", \"cat\", \"peach\", \"duck\", and \"van\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "449",
+    "input": "Are any of the words \"banana\", \"coat\", \"strawberry\", \"desk\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "450",
+    "input": "Are any of the words \"pig\", \"melon\", \"dog\", \"chicken\", and \"tram\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "451",
+    "input": "Are any of the words \"goat\", \"couch\", \"rabbit\", \"dog\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "452",
+    "input": "Are any of the words \"pineapple\", \"train\", \"strawberry\", \"tractor\", and \"mango\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "453",
+    "input": "Are any of the words \"chair\", \"shorts\", \"dress\", \"jeans\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "454",
+    "input": "Are any of the words \"shorts\", \"jacket\", \"tram\", \"bookcase\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "455",
+    "input": "Are any of the words \"mango\", \"motorcycle\", \"rabbit\", \"couch\", and \"bed\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "456",
+    "input": "Are any of the words \"armchair\", \"jacket\", \"pear\", \"bookcase\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "457",
+    "input": "Are any of the words \"shorts\", \"van\", \"car\", \"shirt\", and \"skirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "458",
+    "input": "Are any of the words \"chair\", \"lemon\", \"sofa\", \"motorcycle\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "459",
+    "input": "Are any of the words \"watermelon\", \"desk\", \"car\", \"apple\", and \"couch\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "460",
+    "input": "Are any of the words \"pear\", \"truck\", \"peach\", \"pineapple\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "461",
+    "input": "Are any of the words \"peach\", \"bus\", \"duck\", \"couch\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "462",
+    "input": "Are any of the words \"motorcycle\", \"cat\", \"armchair\", \"melon\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "463",
+    "input": "Are any of the words \"truck\", \"tractor\", \"armchair\", \"fish\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "464",
+    "input": "Are any of the words \"peach\", \"shorts\", \"motorcycle\", \"chicken\", and \"banana\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "465",
+    "input": "Are any of the words \"truck\", \"table\", \"banana\", \"mouse\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "466",
+    "input": "Are any of the words \"sofa\", \"pineapple\", \"fish\", \"tractor\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "467",
+    "input": "Are any of the words \"shorts\", \"bookcase\", \"bed\", \"jacket\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "468",
+    "input": "Are any of the words \"dog\", \"jacket\", \"shirt\", \"pineapple\", and \"apple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "469",
+    "input": "Are any of the words \"tractor\", \"socks\", \"van\", \"sofa\", and \"peach\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "470",
+    "input": "Are any of the words \"pig\", \"mouse\", \"couch\", \"car\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "471",
+    "input": "Are any of the words \"dog\", \"duck\", \"bed\", \"jeans\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "472",
+    "input": "Are any of the words \"pants\", \"lemon\", \"banana\", \"strawberry\", and \"shirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "473",
+    "input": "Are any of the words \"duck\", \"apple\", \"van\", \"pants\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "474",
+    "input": "Are any of the words \"duck\", \"socks\", \"mouse\", \"couch\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "475",
+    "input": "Are any of the words \"rabbit\", \"bus\", \"shorts\", \"dog\", and \"socks\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "476",
+    "input": "Are any of the words \"dress\", \"strawberry\", \"jacket\", \"dog\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "Are any of the words \"rabbit\", \"shorts\", \"bookcase\", \"jacket\", and \"desk\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "478",
+    "input": "Are any of the words \"train\", \"rabbit\", \"armchair\", \"van\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "479",
+    "input": "Are any of the words \"car\", \"cow\", \"mouse\", \"jacket\", and \"fish\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "480",
+    "input": "Are any of the words \"bus\", \"bed\", \"tram\", \"armchair\", and \"melon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "481",
+    "input": "Are any of the words \"bookcase\", \"pig\", \"lemon\", \"table\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "482",
+    "input": "Are any of the words \"jeans\", \"duck\", \"tram\", \"motorcycle\", and \"pear\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "483",
+    "input": "Are any of the words \"truck\", \"lemon\", \"watermelon\", \"tractor\", and \"goat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "484",
+    "input": "Are any of the words \"pants\", \"desk\", \"chicken\", \"car\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "485",
+    "input": "Are any of the words \"truck\", \"mouse\", \"banana\", \"pig\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "486",
+    "input": "Are any of the words \"pig\", \"chair\", \"pineapple\", \"desk\", and \"shorts\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "487",
+    "input": "Are any of the words \"mango\", \"sweater\", \"jacket\", \"train\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "488",
+    "input": "Are any of the words \"desk\", \"apple\", \"pants\", \"banana\", and \"truck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "489",
+    "input": "Are any of the words \"tram\", \"chair\", \"van\", \"mouse\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "490",
+    "input": "Are any of the words \"fish\", \"chair\", \"van\", \"armchair\", and \"mango\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "491",
+    "input": "Are any of the words \"chair\", \"mouse\", \"lemon\", \"pig\", and \"pants\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "492",
+    "input": "Are any of the words \"watermelon\", \"cat\", \"bus\", \"desk\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "493",
+    "input": "Are any of the words \"chicken\", \"bookcase\", \"mango\", \"strawberry\", and \"watermelon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "494",
+    "input": "Are any of the words \"fish\", \"pants\", \"armchair\", \"pear\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "495",
+    "input": "Are any of the words \"fish\", \"chair\", \"lemon\", \"truck\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "496",
+    "input": "Are any of the words \"pineapple\", \"train\", \"table\", \"dress\", and \"shorts\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "497",
+    "input": "Are any of the words \"couch\", \"banana\", \"van\", \"pear\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "498",
+    "input": "Are any of the words \"duck\", \"skirt\", \"strawberry\", \"pig\", and \"goat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "499",
+    "input": "Are any of the words \"socks\", \"car\", \"peach\", \"dress\", and \"fish\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "500",
+    "input": "Are any of the words \"car\", \"tram\", \"sofa\", \"pig\", and \"van\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "501",
+    "input": "Are any of the words \"jeans\", \"watermelon\", \"pig\", \"shirt\", and \"lemon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "502",
+    "input": "Are any of the words \"skirt\", \"cat\", \"chair\", \"rabbit\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "503",
+    "input": "Are any of the words \"cat\", \"lemon\", \"banana\", \"pants\", and \"tractor\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "504",
+    "input": "Are any of the words \"goat\", \"bus\", \"pineapple\", \"sofa\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "505",
+    "input": "Are any of the words \"motorcycle\", \"van\", \"pants\", \"melon\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "506",
+    "input": "Are any of the words \"duck\", \"van\", \"armchair\", \"mango\", and \"melon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "507",
+    "input": "Are any of the words \"tram\", \"motorcycle\", \"jacket\", \"sweater\", and \"desk\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "508",
+    "input": "Are any of the words \"peach\", \"motorcycle\", \"jeans\", \"table\", and \"skirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "509",
+    "input": "Are any of the words \"apple\", \"couch\", \"coat\", \"cow\", and \"pants\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "510",
+    "input": "Are any of the words \"chicken\", \"melon\", \"tram\", \"apple\", and \"lemon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "511",
+    "input": "Are any of the words \"jacket\", \"fish\", \"watermelon\", \"sofa\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "512",
+    "input": "Are any of the words \"truck\", \"motorcycle\", \"rabbit\", \"bed\", and \"strawberry\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "513",
+    "input": "Are any of the words \"sofa\", \"mouse\", \"van\", \"duck\", and \"pineapple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "514",
+    "input": "Are any of the words \"melon\", \"pig\", \"van\", \"cow\", and \"desk\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "515",
+    "input": "Are any of the words \"coat\", \"apple\", \"jacket\", \"banana\", and \"pear\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "516",
+    "input": "Are any of the words \"goat\", \"pants\", \"banana\", \"couch\", and \"motorcycle\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "517",
+    "input": "Are any of the words \"rabbit\", \"chicken\", \"chair\", \"mouse\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "518",
+    "input": "Are any of the words \"melon\", \"truck\", \"skirt\", \"socks\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "519",
+    "input": "Are any of the words \"peach\", \"tractor\", \"shirt\", \"banana\", and \"desk\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "520",
+    "input": "Are any of the words \"skirt\", \"mouse\", \"cow\", \"truck\", and \"desk\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "521",
+    "input": "Are any of the words \"chicken\", \"cat\", \"fish\", \"peach\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "522",
+    "input": "Are any of the words \"dog\", \"mouse\", \"desk\", \"strawberry\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "523",
+    "input": "Are any of the words \"train\", \"mouse\", \"car\", \"chair\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "524",
+    "input": "Are any of the words \"coat\", \"train\", \"van\", \"rabbit\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "525",
+    "input": "Are any of the words \"chair\", \"duck\", \"strawberry\", \"train\", and \"shirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "526",
+    "input": "Are any of the words \"melon\", \"truck\", \"desk\", \"tram\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "527",
+    "input": "Are any of the words \"skirt\", \"train\", \"lemon\", \"couch\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "528",
+    "input": "Are any of the words \"van\", \"train\", \"bus\", \"coat\", and \"sweater\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "529",
+    "input": "Are any of the words \"shirt\", \"rabbit\", \"dog\", \"train\", and \"pants\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "530",
+    "input": "Are any of the words \"pants\", \"desk\", \"pear\", \"car\", and \"jacket\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "531",
+    "input": "Are any of the words \"shirt\", \"sofa\", \"coat\", \"strawberry\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "532",
+    "input": "Are any of the words \"rabbit\", \"bed\", \"strawberry\", \"van\", and \"lemon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "533",
+    "input": "Are any of the words \"watermelon\", \"cow\", \"sofa\", \"banana\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "534",
+    "input": "Are any of the words \"lemon\", \"mouse\", \"bus\", \"desk\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "535",
+    "input": "Are any of the words \"pants\", \"socks\", \"table\", \"goat\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "536",
+    "input": "Are any of the words \"dog\", \"pear\", \"couch\", \"chair\", and \"truck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "537",
+    "input": "Are any of the words \"socks\", \"car\", \"cow\", \"couch\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "538",
+    "input": "Are any of the words \"chair\", \"couch\", \"sofa\", \"banana\", and \"cat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "539",
+    "input": "Are any of the words \"bed\", \"bookcase\", \"shorts\", \"apple\", and \"goat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "540",
+    "input": "Are any of the words \"truck\", \"van\", \"pants\", \"armchair\", and \"cat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "541",
+    "input": "Are any of the words \"melon\", \"pear\", \"desk\", \"bus\", and \"shirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "542",
+    "input": "Are any of the words \"skirt\", \"coat\", \"shirt\", \"truck\", and \"cat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "543",
+    "input": "Are any of the words \"sweater\", \"tram\", \"chair\", \"jeans\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "544",
+    "input": "Are any of the words \"table\", \"goat\", \"pig\", \"socks\", and \"melon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "545",
+    "input": "Are any of the words \"tractor\", \"bed\", \"duck\", \"strawberry\", and \"goat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "546",
+    "input": "Are any of the words \"chicken\", \"tractor\", \"desk\", \"banana\", and \"truck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "547",
+    "input": "Are any of the words \"tram\", \"melon\", \"apple\", \"armchair\", and \"skirt\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "548",
+    "input": "Are any of the words \"table\", \"chicken\", \"van\", \"sofa\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "549",
+    "input": "Are any of the words \"tram\", \"truck\", \"chair\", \"bed\", and \"peach\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "550",
+    "input": "Are any of the words \"bus\", \"pineapple\", \"pants\", \"melon\", and \"cat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "551",
+    "input": "Are any of the words \"bed\", \"skirt\", \"shorts\", \"desk\", and \"tram\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "552",
+    "input": "Are any of the words \"coat\", \"dog\", \"desk\", \"cat\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "553",
+    "input": "Are any of the words \"melon\", \"pear\", \"couch\", \"banana\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "554",
+    "input": "Are any of the words \"pig\", \"apple\", \"peach\", \"chicken\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "555",
+    "input": "Are any of the words \"watermelon\", \"bus\", \"skirt\", \"shorts\", and \"peach\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "556",
+    "input": "Are any of the words \"sweater\", \"duck\", \"pig\", \"desk\", and \"socks\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "557",
+    "input": "Are any of the words \"strawberry\", \"pants\", \"shirt\", \"jacket\", and \"tractor\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "558",
+    "input": "Are any of the words \"motorcycle\", \"goat\", \"sweater\", \"bus\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "559",
+    "input": "Are any of the words \"tram\", \"dog\", \"watermelon\", \"rabbit\", and \"table\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "560",
+    "input": "Are any of the words \"watermelon\", \"chicken\", \"car\", \"goat\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "561",
+    "input": "Are any of the words \"motorcycle\", \"cow\", \"couch\", \"jacket\", and \"strawberry\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "562",
+    "input": "Are any of the words \"dress\", \"shorts\", \"lemon\", \"fish\", and \"tractor\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "563",
+    "input": "Are any of the words \"car\", \"dog\", \"melon\", \"mouse\", and \"tram\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "564",
+    "input": "Are any of the words \"mouse\", \"watermelon\", \"dress\", \"desk\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "565",
+    "input": "Are any of the words \"duck\", \"strawberry\", \"tram\", \"mango\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "566",
+    "input": "Are any of the words \"mouse\", \"lemon\", \"strawberry\", \"skirt\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "567",
+    "input": "Are any of the words \"table\", \"peach\", \"fish\", \"car\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "568",
+    "input": "Are any of the words \"dog\", \"tram\", \"motorcycle\", \"train\", and \"pants\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "569",
+    "input": "Are any of the words \"pineapple\", \"banana\", \"watermelon\", \"mouse\", and \"cat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "570",
+    "input": "Are any of the words \"goat\", \"chair\", \"bed\", \"mango\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "571",
+    "input": "Are any of the words \"train\", \"mango\", \"pig\", \"coat\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "572",
+    "input": "Are any of the words \"pig\", \"armchair\", \"apple\", \"shorts\", and \"lemon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "573",
+    "input": "Are any of the words \"lemon\", \"couch\", \"banana\", \"rabbit\", and \"pineapple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "574",
+    "input": "Are any of the words \"sofa\", \"cow\", \"pineapple\", \"chicken\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "575",
+    "input": "Are any of the words \"sofa\", \"truck\", \"shirt\", \"couch\", and \"bus\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "576",
+    "input": "Are any of the words \"shorts\", \"mango\", \"chicken\", \"tram\", and \"bed\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "577",
+    "input": "Are any of the words \"socks\", \"mouse\", \"coat\", \"melon\", and \"shirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "578",
+    "input": "Are any of the words \"sofa\", \"mango\", \"jeans\", \"dog\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "579",
+    "input": "Are any of the words \"truck\", \"strawberry\", \"tram\", \"dog\", and \"duck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "580",
+    "input": "Are any of the words \"mango\", \"bus\", \"van\", \"socks\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "581",
+    "input": "Are any of the words \"pig\", \"bookcase\", \"sweater\", \"duck\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "582",
+    "input": "Are any of the words \"watermelon\", \"cat\", \"sofa\", \"sweater\", and \"bookcase\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "583",
+    "input": "Are any of the words \"rabbit\", \"shorts\", \"motorcycle\", \"tractor\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "584",
+    "input": "Are any of the words \"couch\", \"apple\", \"tram\", \"chair\", and \"armchair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "585",
+    "input": "Are any of the words \"strawberry\", \"armchair\", \"cat\", \"car\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "586",
+    "input": "Are any of the words \"cat\", \"chair\", \"dress\", \"pear\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "587",
+    "input": "Are any of the words \"dog\", \"tram\", \"bookcase\", \"banana\", and \"coat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "588",
+    "input": "Are any of the words \"cat\", \"lemon\", \"tram\", \"mouse\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "589",
+    "input": "Are any of the words \"mouse\", \"armchair\", \"melon\", \"jacket\", and \"car\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "590",
+    "input": "Are any of the words \"fish\", \"skirt\", \"jacket\", \"chicken\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "591",
+    "input": "Are any of the words \"skirt\", \"sweater\", \"peach\", \"banana\", and \"shorts\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "592",
+    "input": "Are any of the words \"socks\", \"melon\", \"duck\", \"watermelon\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "593",
+    "input": "Are any of the words \"couch\", \"table\", \"chair\", \"sofa\", and \"cat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "594",
+    "input": "Are any of the words \"truck\", \"rabbit\", \"chicken\", \"tractor\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "595",
+    "input": "Are any of the words \"jeans\", \"melon\", \"fish\", \"train\", and \"lemon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "596",
+    "input": "Are any of the words \"car\", \"pants\", \"bus\", \"rabbit\", and \"bed\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "597",
+    "input": "Are any of the words \"strawberry\", \"watermelon\", \"table\", \"goat\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "598",
+    "input": "Are any of the words \"peach\", \"motorcycle\", \"pineapple\", \"desk\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "599",
+    "input": "Are any of the words \"bus\", \"peach\", \"pear\", \"duck\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "600",
+    "input": "Are any of the words \"pig\", \"truck\", \"shorts\", \"melon\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "601",
+    "input": "Are any of the words \"strawberry\", \"duck\", \"truck\", \"van\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "602",
+    "input": "Are any of the words \"table\", \"car\", \"goat\", \"pig\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "603",
+    "input": "Are any of the words \"cat\", \"lemon\", \"tractor\", \"bus\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "604",
+    "input": "Are any of the words \"shorts\", \"van\", \"shirt\", \"melon\", and \"armchair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "605",
+    "input": "Are any of the words \"tram\", \"rabbit\", \"train\", \"shorts\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "606",
+    "input": "Are any of the words \"watermelon\", \"skirt\", \"tractor\", \"pants\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "607",
+    "input": "Are any of the words \"jacket\", \"cat\", \"watermelon\", \"lemon\", and \"peach\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "608",
+    "input": "Are any of the words \"lemon\", \"truck\", \"chicken\", \"shorts\", and \"table\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "609",
+    "input": "Are any of the words \"sofa\", \"lemon\", \"jeans\", \"pineapple\", and \"tram\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "610",
+    "input": "Are any of the words \"banana\", \"couch\", \"bed\", \"lemon\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "611",
+    "input": "Are any of the words \"peach\", \"chair\", \"skirt\", \"chicken\", and \"apple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "612",
+    "input": "Are any of the words \"car\", \"jacket\", \"banana\", \"chicken\", and \"mouse\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "613",
+    "input": "Are any of the words \"jacket\", \"banana\", \"coat\", \"strawberry\", and \"goat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "614",
+    "input": "Are any of the words \"pineapple\", \"pig\", \"truck\", \"car\", and \"shirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "615",
+    "input": "Are any of the words \"banana\", \"pear\", \"dog\", \"chicken\", and \"tractor\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "616",
+    "input": "Are any of the words \"cow\", \"sweater\", \"truck\", \"train\", and \"tractor\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "617",
+    "input": "Are any of the words \"dress\", \"mango\", \"bus\", \"cat\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "618",
+    "input": "Are any of the words \"sweater\", \"couch\", \"dress\", \"watermelon\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "619",
+    "input": "Are any of the words \"banana\", \"bookcase\", \"socks\", \"train\", and \"bed\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "620",
+    "input": "Are any of the words \"apple\", \"cow\", \"motorcycle\", \"rabbit\", and \"banana\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "621",
+    "input": "Are any of the words \"strawberry\", \"dog\", \"desk\", \"pear\", and \"pineapple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "622",
+    "input": "Are any of the words \"tractor\", \"apple\", \"lemon\", \"coat\", and \"table\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "623",
+    "input": "Are any of the words \"bus\", \"banana\", \"bed\", \"goat\", and \"coat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "624",
+    "input": "Are any of the words \"motorcycle\", \"mouse\", \"dress\", \"pants\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "625",
+    "input": "Are any of the words \"duck\", \"apple\", \"tractor\", \"bus\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "626",
+    "input": "Are any of the words \"armchair\", \"pants\", \"bus\", \"jeans\", and \"truck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "627",
+    "input": "Are any of the words \"pig\", \"lemon\", \"jacket\", \"peach\", and \"bed\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "628",
+    "input": "Are any of the words \"strawberry\", \"socks\", \"goat\", \"couch\", and \"cow\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "629",
+    "input": "Are any of the words \"van\", \"bed\", \"pants\", \"fish\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "630",
+    "input": "Are any of the words \"socks\", \"bed\", \"bus\", \"pear\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "631",
+    "input": "Are any of the words \"jacket\", \"shorts\", \"coat\", \"tractor\", and \"chair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "632",
+    "input": "Are any of the words \"couch\", \"fish\", \"pineapple\", \"lemon\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "633",
+    "input": "Are any of the words \"dog\", \"sweater\", \"melon\", \"dress\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "634",
+    "input": "Are any of the words \"train\", \"watermelon\", \"couch\", \"strawberry\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "635",
+    "input": "Are any of the words \"motorcycle\", \"duck\", \"chicken\", \"mango\", and \"cat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "636",
+    "input": "Are any of the words \"bed\", \"car\", \"apple\", \"sofa\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "637",
+    "input": "Are any of the words \"strawberry\", \"jeans\", \"pineapple\", \"socks\", and \"bookcase\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "638",
+    "input": "Are any of the words \"peach\", \"mango\", \"watermelon\", \"chicken\", and \"socks\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "639",
+    "input": "Are any of the words \"strawberry\", \"lemon\", \"shorts\", \"pig\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "640",
+    "input": "Are any of the words \"desk\", \"goat\", \"dress\", \"mango\", and \"apple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "641",
+    "input": "Are any of the words \"bed\", \"dress\", \"car\", \"couch\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "642",
+    "input": "Are any of the words \"melon\", \"bed\", \"bookcase\", \"tram\", and \"tractor\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "643",
+    "input": "Are any of the words \"car\", \"bookcase\", \"skirt\", \"cat\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "644",
+    "input": "Are any of the words \"sweater\", \"coat\", \"lemon\", \"tram\", and \"pants\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "645",
+    "input": "Are any of the words \"bed\", \"melon\", \"train\", \"sofa\", and \"jacket\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "646",
+    "input": "Are any of the words \"rabbit\", \"table\", \"strawberry\", \"pants\", and \"shorts\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "647",
+    "input": "Are any of the words \"goat\", \"couch\", \"coat\", \"pants\", and \"armchair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "648",
+    "input": "Are any of the words \"coat\", \"melon\", \"sofa\", \"bookcase\", and \"apple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "649",
+    "input": "Are any of the words \"jacket\", \"shorts\", \"tram\", \"socks\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "650",
+    "input": "Are any of the words \"apple\", \"motorcycle\", \"jeans\", \"desk\", and \"shorts\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "651",
+    "input": "Are any of the words \"lemon\", \"bookcase\", \"tram\", \"mango\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "652",
+    "input": "Are any of the words \"tram\", \"banana\", \"mouse\", \"shorts\", and \"chair\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "653",
+    "input": "Are any of the words \"coat\", \"dress\", \"goat\", \"motorcycle\", and \"pants\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "654",
+    "input": "Are any of the words \"motorcycle\", \"chair\", \"bus\", \"pig\", and \"sofa\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "655",
+    "input": "Are any of the words \"apple\", \"van\", \"jeans\", \"desk\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "656",
+    "input": "Are any of the words \"lemon\", \"banana\", \"tractor\", \"car\", and \"rabbit\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "657",
+    "input": "Are any of the words \"bus\", \"duck\", \"pear\", \"armchair\", and \"dress\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "658",
+    "input": "Are any of the words \"tram\", \"duck\", \"strawberry\", \"truck\", and \"shorts\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "659",
+    "input": "Are any of the words \"fish\", \"watermelon\", \"sofa\", \"mouse\", and \"shorts\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "660",
+    "input": "Are any of the words \"table\", \"lemon\", \"pants\", \"armchair\", and \"tractor\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "661",
+    "input": "Are any of the words \"coat\", \"bed\", \"shorts\", \"dog\", and \"desk\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "662",
+    "input": "Are any of the words \"truck\", \"tractor\", \"sofa\", \"armchair\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "663",
+    "input": "Are any of the words \"mouse\", \"strawberry\", \"chair\", \"van\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "664",
+    "input": "Are any of the words \"mouse\", \"bed\", \"dog\", \"goat\", and \"chicken\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "665",
+    "input": "Are any of the words \"tram\", \"mouse\", \"banana\", \"fish\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "666",
+    "input": "Are any of the words \"melon\", \"armchair\", \"cow\", \"socks\", and \"bookcase\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "667",
+    "input": "Are any of the words \"motorcycle\", \"pineapple\", \"watermelon\", \"apple\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "668",
+    "input": "Are any of the words \"motorcycle\", \"armchair\", \"mango\", \"peach\", and \"sweater\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "669",
+    "input": "Are any of the words \"jacket\", \"bed\", \"mango\", \"shirt\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "670",
+    "input": "Are any of the words \"duck\", \"tram\", \"sofa\", \"fish\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "671",
+    "input": "Are any of the words \"chicken\", \"sweater\", \"car\", \"table\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "672",
+    "input": "Are any of the words \"sweater\", \"rabbit\", \"armchair\", \"cow\", and \"desk\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "673",
+    "input": "Are any of the words \"fish\", \"bus\", \"jacket\", \"strawberry\", and \"bookcase\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "674",
+    "input": "Are any of the words \"goat\", \"sofa\", \"peach\", \"dog\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "675",
+    "input": "Are any of the words \"dress\", \"dog\", \"car\", \"bus\", and \"mouse\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "676",
+    "input": "Are any of the words \"cow\", \"pear\", \"mouse\", \"fish\", and \"tram\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "677",
+    "input": "Are any of the words \"jacket\", \"shirt\", \"shorts\", \"duck\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "678",
+    "input": "Are any of the words \"motorcycle\", \"peach\", \"rabbit\", \"mouse\", and \"sofa\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "679",
+    "input": "Are any of the words \"shorts\", \"truck\", \"armchair\", \"strawberry\", and \"jacket\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "680",
+    "input": "Are any of the words \"duck\", \"fish\", \"pig\", \"truck\", and \"banana\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "681",
+    "input": "Are any of the words \"lemon\", \"couch\", \"mouse\", \"chair\", and \"sweater\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "682",
+    "input": "Are any of the words \"duck\", \"cow\", \"van\", \"table\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "683",
+    "input": "Are any of the words \"car\", \"socks\", \"strawberry\", \"shorts\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "684",
+    "input": "Are any of the words \"bus\", \"chair\", \"mouse\", \"duck\", and \"chicken\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "685",
+    "input": "Are any of the words \"armchair\", \"couch\", \"pig\", \"van\", and \"train\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "686",
+    "input": "Are any of the words \"chair\", \"fish\", \"pants\", \"cat\", and \"duck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "687",
+    "input": "Are any of the words \"duck\", \"bed\", \"skirt\", \"shirt\", and \"jacket\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "688",
+    "input": "Are any of the words \"banana\", \"pineapple\", \"pear\", \"bookcase\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "689",
+    "input": "Are any of the words \"jeans\", \"armchair\", \"strawberry\", \"shorts\", and \"skirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "690",
+    "input": "Are any of the words \"lemon\", \"pig\", \"desk\", \"fish\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "691",
+    "input": "Are any of the words \"desk\", \"pants\", \"tractor\", \"fish\", and \"chicken\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "692",
+    "input": "Are any of the words \"dog\", \"jeans\", \"van\", \"train\", and \"tractor\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "693",
+    "input": "Are any of the words \"bed\", \"table\", \"mango\", \"tractor\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "694",
+    "input": "Are any of the words \"coat\", \"banana\", \"duck\", \"rabbit\", and \"tractor\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "695",
+    "input": "Are any of the words \"duck\", \"mango\", \"bed\", \"tram\", and \"shorts\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "696",
+    "input": "Are any of the words \"tractor\", \"shirt\", \"strawberry\", \"jeans\", and \"duck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "697",
+    "input": "Are any of the words \"chicken\", \"fish\", \"jacket\", \"pants\", and \"melon\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "698",
+    "input": "Are any of the words \"pants\", \"fish\", \"chicken\", \"jacket\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "699",
+    "input": "Are any of the words \"motorcycle\", \"couch\", \"melon\", \"peach\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "700",
+    "input": "Are any of the words \"jeans\", \"mouse\", \"watermelon\", \"pear\", and \"banana\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "701",
+    "input": "Are any of the words \"apple\", \"bus\", \"coat\", \"strawberry\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "702",
+    "input": "Are any of the words \"mouse\", \"bed\", \"tram\", \"melon\", and \"mango\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "703",
+    "input": "Are any of the words \"bookcase\", \"van\", \"fish\", \"watermelon\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "704",
+    "input": "Are any of the words \"cat\", \"pineapple\", \"pear\", \"skirt\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "705",
+    "input": "Are any of the words \"lemon\", \"rabbit\", \"van\", \"cow\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "706",
+    "input": "Are any of the words \"bookcase\", \"dress\", \"truck\", \"tractor\", and \"dog\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "707",
+    "input": "Are any of the words \"shorts\", \"peach\", \"chicken\", \"dog\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "708",
+    "input": "Are any of the words \"tractor\", \"jeans\", \"tram\", \"strawberry\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "709",
+    "input": "Are any of the words \"mango\", \"peach\", \"fish\", \"dress\", and \"banana\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "710",
+    "input": "Are any of the words \"watermelon\", \"chicken\", \"truck\", \"strawberry\", and \"peach\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "711",
+    "input": "Are any of the words \"coat\", \"apple\", \"bookcase\", \"jeans\", and \"van\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "712",
+    "input": "Are any of the words \"tractor\", \"rabbit\", \"sofa\", \"pig\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "713",
+    "input": "Are any of the words \"chicken\", \"sofa\", \"pants\", \"bus\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "714",
+    "input": "Are any of the words \"socks\", \"jeans\", \"coat\", \"train\", and \"bed\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "715",
+    "input": "Are any of the words \"mouse\", \"shirt\", \"lemon\", \"train\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "716",
+    "input": "Are any of the words \"chair\", \"coat\", \"mouse\", \"chicken\", and \"dog\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "717",
+    "input": "Are any of the words \"tram\", \"train\", \"sweater\", \"rabbit\", and \"jeans\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "718",
+    "input": "Are any of the words \"car\", \"chicken\", \"armchair\", \"truck\", and \"apple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "719",
+    "input": "Are any of the words \"desk\", \"motorcycle\", \"dog\", \"goat\", and \"shirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "720",
+    "input": "Are any of the words \"strawberry\", \"pig\", \"truck\", \"mouse\", and \"car\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "721",
+    "input": "Are any of the words \"fish\", \"strawberry\", \"apple\", \"pineapple\", and \"bed\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "722",
+    "input": "Are any of the words \"melon\", \"motorcycle\", \"socks\", \"cow\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "723",
+    "input": "Are any of the words \"fish\", \"train\", \"bus\", \"pig\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "724",
+    "input": "Are any of the words \"goat\", \"jeans\", \"van\", \"pineapple\", and \"sweater\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "725",
+    "input": "Are any of the words \"melon\", \"shirt\", \"cow\", \"mouse\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "726",
+    "input": "Are any of the words \"motorcycle\", \"chicken\", \"car\", \"train\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "727",
+    "input": "Are any of the words \"goat\", \"watermelon\", \"motorcycle\", \"shirt\", and \"pear\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "728",
+    "input": "Are any of the words \"tractor\", \"socks\", \"motorcycle\", \"pig\", and \"bookcase\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "729",
+    "input": "Are any of the words \"tram\", \"jeans\", \"table\", \"melon\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "730",
+    "input": "Are any of the words \"melon\", \"bookcase\", \"truck\", \"strawberry\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "731",
+    "input": "Are any of the words \"couch\", \"motorcycle\", \"bus\", \"shorts\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "732",
+    "input": "Are any of the words \"dog\", \"car\", \"van\", \"sofa\", and \"sweater\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "733",
+    "input": "Are any of the words \"lemon\", \"bed\", \"rabbit\", \"chair\", and \"duck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "734",
+    "input": "Are any of the words \"watermelon\", \"truck\", \"coat\", \"rabbit\", and \"van\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "735",
+    "input": "Are any of the words \"chicken\", \"rabbit\", \"bed\", \"motorcycle\", and \"chair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "736",
+    "input": "Are any of the words \"pig\", \"motorcycle\", \"tram\", \"coat\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "737",
+    "input": "Are any of the words \"sofa\", \"coat\", \"desk\", \"armchair\", and \"cat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "738",
+    "input": "Are any of the words \"table\", \"duck\", \"sweater\", \"peach\", and \"dress\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "739",
+    "input": "Are any of the words \"chair\", \"watermelon\", \"table\", \"couch\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "740",
+    "input": "Are any of the words \"strawberry\", \"car\", \"sweater\", \"chair\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "741",
+    "input": "Are any of the words \"lemon\", \"couch\", \"desk\", \"chicken\", and \"dog\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "742",
+    "input": "Are any of the words \"tractor\", \"jacket\", \"skirt\", \"peach\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "743",
+    "input": "Are any of the words \"bed\", \"truck\", \"jacket\", \"pants\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "744",
+    "input": "Are any of the words \"cow\", \"shorts\", \"goat\", \"fish\", and \"watermelon\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "745",
+    "input": "Are any of the words \"jeans\", \"car\", \"pear\", \"dog\", and \"cat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "746",
+    "input": "Are any of the words \"strawberry\", \"chicken\", \"melon\", \"mango\", and \"truck\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "747",
+    "input": "Are any of the words \"van\", \"armchair\", \"pineapple\", \"banana\", and \"strawberry\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "748",
+    "input": "Are any of the words \"train\", \"bus\", \"tram\", \"desk\", and \"chicken\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "749",
+    "input": "Are any of the words \"watermelon\", \"pig\", \"mouse\", \"fish\", and \"coat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "750",
+    "input": "Are any of the words \"tram\", \"train\", \"jeans\", \"watermelon\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "751",
+    "input": "Are any of the words \"apple\", \"pineapple\", \"bus\", \"sweater\", and \"strawberry\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "752",
+    "input": "Are any of the words \"chair\", \"lemon\", \"pineapple\", \"goat\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "753",
+    "input": "Are any of the words \"bookcase\", \"skirt\", \"banana\", \"mango\", and \"tram\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "754",
+    "input": "Are any of the words \"jeans\", \"duck\", \"strawberry\", \"shirt\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "755",
+    "input": "Are any of the words \"rabbit\", \"couch\", \"pants\", \"bus\", and \"truck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "756",
+    "input": "Are any of the words \"couch\", \"tram\", \"van\", \"bus\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "757",
+    "input": "Are any of the words \"skirt\", \"tram\", \"duck\", \"lemon\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "758",
+    "input": "Are any of the words \"fish\", \"pig\", \"melon\", \"watermelon\", and \"banana\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "759",
+    "input": "Are any of the words \"bed\", \"chair\", \"fish\", \"cat\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "760",
+    "input": "Are any of the words \"cow\", \"truck\", \"table\", \"sofa\", and \"skirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "761",
+    "input": "Are any of the words \"jacket\", \"cat\", \"dress\", \"motorcycle\", and \"apple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "762",
+    "input": "Are any of the words \"chair\", \"dress\", \"strawberry\", \"apple\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "763",
+    "input": "Are any of the words \"desk\", \"chicken\", \"apple\", \"jacket\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "764",
+    "input": "Are any of the words \"pear\", \"armchair\", \"strawberry\", \"mango\", and \"pineapple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "765",
+    "input": "Are any of the words \"desk\", \"chair\", \"lemon\", \"coat\", and \"melon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "766",
+    "input": "Are any of the words \"coat\", \"desk\", \"pineapple\", \"armchair\", and \"lemon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "767",
+    "input": "Are any of the words \"mango\", \"tram\", \"pants\", \"pig\", and \"sofa\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "768",
+    "input": "Are any of the words \"table\", \"duck\", \"sweater\", \"sofa\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "769",
+    "input": "Are any of the words \"pear\", \"jeans\", \"watermelon\", \"truck\", and \"skirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "770",
+    "input": "Are any of the words \"jeans\", \"desk\", \"duck\", \"fish\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "771",
+    "input": "Are any of the words \"banana\", \"bed\", \"sofa\", \"chair\", and \"pineapple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "772",
+    "input": "Are any of the words \"sofa\", \"tram\", \"chair\", \"table\", and \"train\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "773",
+    "input": "Are any of the words \"tractor\", \"chicken\", \"rabbit\", \"dog\", and \"shorts\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "774",
+    "input": "Are any of the words \"sofa\", \"socks\", \"bus\", \"dog\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "775",
+    "input": "Are any of the words \"fish\", \"duck\", \"mouse\", \"mango\", and \"pig\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "776",
+    "input": "Are any of the words \"pineapple\", \"shirt\", \"lemon\", \"socks\", and \"pear\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "777",
+    "input": "Are any of the words \"sofa\", \"dog\", \"peach\", \"tractor\", and \"dress\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "778",
+    "input": "Are any of the words \"train\", \"dog\", \"shirt\", \"coat\", and \"pineapple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "779",
+    "input": "Are any of the words \"armchair\", \"shorts\", \"bookcase\", \"pig\", and \"cat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "780",
+    "input": "Are any of the words \"skirt\", \"apple\", \"lemon\", \"tractor\", and \"bed\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "781",
+    "input": "Are any of the words \"coat\", \"strawberry\", \"goat\", \"couch\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "782",
+    "input": "Are any of the words \"chicken\", \"armchair\", \"couch\", \"chair\", and \"jacket\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "783",
+    "input": "Are any of the words \"dress\", \"van\", \"motorcycle\", \"pear\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "784",
+    "input": "Are any of the words \"chicken\", \"armchair\", \"rabbit\", \"train\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "785",
+    "input": "Are any of the words \"pig\", \"desk\", \"skirt\", \"shorts\", and \"goat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "786",
+    "input": "Are any of the words \"pig\", \"jacket\", \"pineapple\", \"mango\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "787",
+    "input": "Are any of the words \"table\", \"pants\", \"desk\", \"car\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "788",
+    "input": "Are any of the words \"chicken\", \"train\", \"truck\", \"skirt\", and \"dog\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "789",
+    "input": "Are any of the words \"pear\", \"motorcycle\", \"lemon\", \"bus\", and \"socks\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "790",
+    "input": "Are any of the words \"sofa\", \"sweater\", \"cow\", \"car\", and \"pineapple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "791",
+    "input": "Are any of the words \"rabbit\", \"mouse\", \"mango\", \"fish\", and \"melon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "792",
+    "input": "Are any of the words \"coat\", \"peach\", \"cat\", \"mango\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "793",
+    "input": "Are any of the words \"cat\", \"peach\", \"tractor\", \"desk\", and \"banana\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "794",
+    "input": "Are any of the words \"tram\", \"jeans\", \"dog\", \"pig\", and \"watermelon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "795",
+    "input": "Are any of the words \"cow\", \"apple\", \"table\", \"skirt\", and \"strawberry\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "796",
+    "input": "Are any of the words \"dress\", \"shorts\", \"tractor\", \"socks\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "797",
+    "input": "Are any of the words \"socks\", \"watermelon\", \"table\", \"fish\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "798",
+    "input": "Are any of the words \"sofa\", \"mouse\", \"strawberry\", \"van\", and \"banana\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "799",
+    "input": "Are any of the words \"motorcycle\", \"truck\", \"melon\", \"bed\", and \"tractor\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "800",
+    "input": "Are any of the words \"table\", \"sweater\", \"apple\", \"shorts\", and \"goat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "801",
+    "input": "Are any of the words \"banana\", \"couch\", \"pig\", \"pear\", and \"cat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "802",
+    "input": "Are any of the words \"bus\", \"dog\", \"bed\", \"dress\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "803",
+    "input": "Are any of the words \"mouse\", \"sofa\", \"shirt\", \"table\", and \"chair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "804",
+    "input": "Are any of the words \"chicken\", \"tram\", \"desk\", \"sweater\", and \"sofa\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "805",
+    "input": "Are any of the words \"pig\", \"mouse\", \"bus\", \"jacket\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "806",
+    "input": "Are any of the words \"shirt\", \"desk\", \"truck\", \"dress\", and \"coat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "807",
+    "input": "Are any of the words \"motorcycle\", \"truck\", \"skirt\", \"shorts\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "808",
+    "input": "Are any of the words \"bed\", \"fish\", \"chair\", \"goat\", and \"apple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "809",
+    "input": "Are any of the words \"table\", \"melon\", \"cow\", \"tractor\", and \"dog\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "810",
+    "input": "Are any of the words \"strawberry\", \"chicken\", \"table\", \"dress\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "811",
+    "input": "Are any of the words \"apple\", \"pig\", \"train\", \"chair\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "812",
+    "input": "Are any of the words \"desk\", \"skirt\", \"jacket\", \"lemon\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "813",
+    "input": "Are any of the words \"bus\", \"pineapple\", \"table\", \"mouse\", and \"mango\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "814",
+    "input": "Are any of the words \"pear\", \"desk\", \"goat\", \"apple\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "815",
+    "input": "Are any of the words \"strawberry\", \"bookcase\", \"pear\", \"van\", and \"socks\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "816",
+    "input": "Are any of the words \"pig\", \"cat\", \"jeans\", \"jacket\", and \"pear\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "817",
+    "input": "Are any of the words \"car\", \"watermelon\", \"coat\", \"pants\", and \"couch\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "818",
+    "input": "Are any of the words \"van\", \"jacket\", \"goat\", \"mouse\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "819",
+    "input": "Are any of the words \"watermelon\", \"shorts\", \"bed\", \"dress\", and \"chicken\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "820",
+    "input": "Are any of the words \"motorcycle\", \"sweater\", \"van\", \"pineapple\", and \"dress\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "821",
+    "input": "Are any of the words \"sofa\", \"apple\", \"watermelon\", \"jacket\", and \"tractor\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "822",
+    "input": "Are any of the words \"train\", \"pig\", \"bookcase\", \"dog\", and \"strawberry\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "823",
+    "input": "Are any of the words \"peach\", \"tram\", \"mango\", \"motorcycle\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "824",
+    "input": "Are any of the words \"watermelon\", \"shorts\", \"strawberry\", \"mango\", and \"van\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "825",
+    "input": "Are any of the words \"tractor\", \"armchair\", \"banana\", \"lemon\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "826",
+    "input": "Are any of the words \"train\", \"strawberry\", \"socks\", \"pineapple\", and \"apple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "827",
+    "input": "Are any of the words \"skirt\", \"car\", \"rabbit\", \"jacket\", and \"sweater\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "828",
+    "input": "Are any of the words \"motorcycle\", \"desk\", \"car\", \"armchair\", and \"sweater\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "829",
+    "input": "Are any of the words \"lemon\", \"cat\", \"jacket\", \"bookcase\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "830",
+    "input": "Are any of the words \"sweater\", \"couch\", \"pig\", \"shirt\", and \"bus\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "831",
+    "input": "Are any of the words \"banana\", \"lemon\", \"van\", \"armchair\", and \"coat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "832",
+    "input": "Are any of the words \"strawberry\", \"coat\", \"jacket\", \"van\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "833",
+    "input": "Are any of the words \"jeans\", \"tram\", \"sofa\", \"coat\", and \"motorcycle\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "834",
+    "input": "Are any of the words \"truck\", \"mango\", \"lemon\", \"jacket\", and \"tram\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "835",
+    "input": "Are any of the words \"truck\", \"melon\", \"mouse\", \"tractor\", and \"bus\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "836",
+    "input": "Are any of the words \"cat\", \"apple\", \"cow\", \"sofa\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "837",
+    "input": "Are any of the words \"armchair\", \"pear\", \"rabbit\", \"chicken\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "838",
+    "input": "Are any of the words \"shirt\", \"table\", \"sweater\", \"strawberry\", and \"fish\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "839",
+    "input": "Are any of the words \"coat\", \"bookcase\", \"bus\", \"sweater\", and \"truck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "840",
+    "input": "Are any of the words \"melon\", \"dress\", \"pants\", \"banana\", and \"pineapple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "841",
+    "input": "Are any of the words \"armchair\", \"motorcycle\", \"socks\", \"train\", and \"bus\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "842",
+    "input": "Are any of the words \"jeans\", \"tractor\", \"socks\", \"chair\", and \"melon\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "Are any of the words \"shorts\", \"strawberry\", \"apple\", \"watermelon\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "844",
+    "input": "Are any of the words \"chair\", \"sofa\", \"mango\", \"socks\", and \"cat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "845",
+    "input": "Are any of the words \"car\", \"armchair\", \"truck\", \"cat\", and \"sweater\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "846",
+    "input": "Are any of the words \"motorcycle\", \"socks\", \"train\", \"shorts\", and \"goat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "847",
+    "input": "Are any of the words \"watermelon\", \"rabbit\", \"cat\", \"pear\", and \"couch\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "848",
+    "input": "Are any of the words \"banana\", \"shirt\", \"pineapple\", \"watermelon\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "849",
+    "input": "Are any of the words \"dress\", \"banana\", \"pants\", \"cat\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "850",
+    "input": "Are any of the words \"jacket\", \"shorts\", \"bed\", \"van\", and \"dress\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "851",
+    "input": "Are any of the words \"shirt\", \"motorcycle\", \"armchair\", \"cow\", and \"car\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "852",
+    "input": "Are any of the words \"pants\", \"van\", \"lemon\", \"shirt\", and \"strawberry\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "853",
+    "input": "Are any of the words \"sofa\", \"strawberry\", \"shirt\", \"skirt\", and \"melon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "854",
+    "input": "Are any of the words \"mango\", \"shirt\", \"pineapple\", \"strawberry\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "855",
+    "input": "Are any of the words \"mouse\", \"shirt\", \"train\", \"table\", and \"tram\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "856",
+    "input": "Are any of the words \"goat\", \"jacket\", \"mouse\", \"bus\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "857",
+    "input": "Are any of the words \"peach\", \"banana\", \"duck\", \"watermelon\", and \"jacket\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "858",
+    "input": "Are any of the words \"car\", \"cat\", \"watermelon\", \"strawberry\", and \"bookcase\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "859",
+    "input": "Are any of the words \"strawberry\", \"goat\", \"shirt\", \"banana\", and \"dress\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "860",
+    "input": "Are any of the words \"socks\", \"chair\", \"bookcase\", \"armchair\", and \"train\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "861",
+    "input": "Are any of the words \"bed\", \"melon\", \"chicken\", \"socks\", and \"tractor\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "862",
+    "input": "Are any of the words \"bed\", \"car\", \"strawberry\", \"rabbit\", and \"shorts\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "863",
+    "input": "Are any of the words \"lemon\", \"fish\", \"table\", \"rabbit\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "864",
+    "input": "Are any of the words \"fish\", \"duck\", \"dress\", \"van\", and \"couch\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "865",
+    "input": "Are any of the words \"coat\", \"motorcycle\", \"melon\", \"dress\", and \"sofa\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "866",
+    "input": "Are any of the words \"jacket\", \"tram\", \"pants\", \"watermelon\", and \"pineapple\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "867",
+    "input": "Are any of the words \"shorts\", \"desk\", \"tram\", \"strawberry\", and \"chicken\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "868",
+    "input": "Are any of the words \"lemon\", \"armchair\", \"mango\", \"skirt\", and \"motorcycle\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "869",
+    "input": "Are any of the words \"apple\", \"sweater\", \"motorcycle\", \"train\", and \"car\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "870",
+    "input": "Are any of the words \"pig\", \"van\", \"pineapple\", \"strawberry\", and \"armchair\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "871",
+    "input": "Are any of the words \"table\", \"sweater\", \"cow\", \"dog\", and \"pear\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "872",
+    "input": "Are any of the words \"apple\", \"mango\", \"motorcycle\", \"lemon\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "873",
+    "input": "Are any of the words \"table\", \"jacket\", \"coat\", \"tractor\", and \"shorts\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "874",
+    "input": "Are any of the words \"tractor\", \"motorcycle\", \"lemon\", \"bookcase\", and \"shirt\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "875",
+    "input": "Are any of the words \"train\", \"goat\", \"socks\", \"couch\", and \"pineapple\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "876",
+    "input": "Are any of the words \"truck\", \"chicken\", \"jeans\", \"tractor\", and \"cow\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "877",
+    "input": "Are any of the words \"coat\", \"chicken\", \"lemon\", \"desk\", and \"duck\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "878",
+    "input": "Are any of the words \"sweater\", \"sofa\", \"mango\", \"jacket\", and \"train\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "879",
+    "input": "Are any of the words \"bed\", \"fish\", \"socks\", \"mango\", and \"strawberry\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "880",
+    "input": "Are any of the words \"banana\", \"couch\", \"bookcase\", \"watermelon\", and \"armchair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "881",
+    "input": "Are any of the words \"motorcycle\", \"watermelon\", \"rabbit\", \"bookcase\", and \"chair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "882",
+    "input": "Are any of the words \"tram\", \"truck\", \"melon\", \"couch\", and \"mouse\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "883",
+    "input": "Are any of the words \"sweater\", \"tractor\", \"bookcase\", \"lemon\", and \"watermelon\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "884",
+    "input": "Are any of the words \"dog\", \"sweater\", \"pineapple\", \"fish\", and \"duck\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "885",
+    "input": "Are any of the words \"watermelon\", \"shorts\", \"truck\", \"chair\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "886",
+    "input": "Are any of the words \"table\", \"pear\", \"lemon\", \"apple\", and \"pants\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "887",
+    "input": "Are any of the words \"desk\", \"couch\", \"fish\", \"bus\", and \"table\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "888",
+    "input": "Are any of the words \"bed\", \"lemon\", \"truck\", \"shirt\", and \"rabbit\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "889",
+    "input": "Are any of the words \"tractor\", \"peach\", \"lemon\", \"pineapple\", and \"bus\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "890",
+    "input": "Are any of the words \"desk\", \"rabbit\", \"bus\", \"chicken\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "891",
+    "input": "Are any of the words \"fish\", \"pineapple\", \"van\", \"cow\", and \"lemon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "892",
+    "input": "Are any of the words \"tractor\", \"cow\", \"banana\", \"mouse\", and \"armchair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "893",
+    "input": "Are any of the words \"shirt\", \"tractor\", \"socks\", \"strawberry\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "894",
+    "input": "Are any of the words \"desk\", \"strawberry\", \"skirt\", \"bed\", and \"rabbit\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "895",
+    "input": "Are any of the words \"truck\", \"bed\", \"pineapple\", \"train\", and \"chair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "896",
+    "input": "Are any of the words \"bookcase\", \"car\", \"lemon\", \"motorcycle\", and \"rabbit\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "897",
+    "input": "Are any of the words \"apple\", \"melon\", \"skirt\", \"shorts\", and \"car\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "898",
+    "input": "Are any of the words \"pig\", \"couch\", \"jacket\", \"car\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "899",
+    "input": "Are any of the words \"sweater\", \"peach\", \"tram\", \"skirt\", and \"desk\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "900",
+    "input": "Are any of the words \"tractor\", \"pear\", \"motorcycle\", \"desk\", and \"chair\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "901",
+    "input": "Are any of the words \"watermelon\", \"cat\", \"dog\", \"van\", and \"jacket\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "902",
+    "input": "Are any of the words \"chair\", \"motorcycle\", \"rabbit\", \"jacket\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "903",
+    "input": "Are any of the words \"mango\", \"bed\", \"coat\", \"car\", and \"motorcycle\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "904",
+    "input": "Are any of the words \"bookcase\", \"apple\", \"chicken\", \"cat\", and \"pineapple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "905",
+    "input": "Are any of the words \"truck\", \"duck\", \"car\", \"mango\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "906",
+    "input": "Are any of the words \"pants\", \"apple\", \"mouse\", \"car\", and \"bookcase\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "907",
+    "input": "Are any of the words \"table\", \"jacket\", \"truck\", \"fish\", and \"bus\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "908",
+    "input": "Are any of the words \"pants\", \"strawberry\", \"rabbit\", \"goat\", and \"peach\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "909",
+    "input": "Are any of the words \"pear\", \"couch\", \"pig\", \"bus\", and \"shirt\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "910",
+    "input": "Are any of the words \"strawberry\", \"peach\", \"tram\", \"train\", and \"mouse\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "911",
+    "input": "Are any of the words \"bus\", \"strawberry\", \"jacket\", \"desk\", and \"shirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "912",
+    "input": "Are any of the words \"goat\", \"dog\", \"socks\", \"banana\", and \"car\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "913",
+    "input": "Are any of the words \"strawberry\", \"cow\", \"pineapple\", \"socks\", and \"bookcase\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "914",
+    "input": "Are any of the words \"bookcase\", \"pig\", \"dress\", \"cat\", and \"watermelon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "915",
+    "input": "Are any of the words \"desk\", \"sofa\", \"duck\", \"tram\", and \"banana\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "916",
+    "input": "Are any of the words \"coat\", \"car\", \"banana\", \"watermelon\", and \"cat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "917",
+    "input": "Are any of the words \"skirt\", \"shirt\", \"bookcase\", \"dress\", and \"armchair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "918",
+    "input": "Are any of the words \"mouse\", \"couch\", \"armchair\", \"duck\", and \"motorcycle\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "919",
+    "input": "Are any of the words \"cow\", \"dress\", \"chicken\", \"car\", and \"desk\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "920",
+    "input": "Are any of the words \"duck\", \"cat\", \"goat\", \"jacket\", and \"jeans\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "921",
+    "input": "Are any of the words \"skirt\", \"bus\", \"mango\", \"rabbit\", and \"van\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "922",
+    "input": "Are any of the words \"truck\", \"shorts\", \"socks\", \"skirt\", and \"pants\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "923",
+    "input": "Are any of the words \"motorcycle\", \"pig\", \"peach\", \"cow\", and \"chicken\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "924",
+    "input": "Are any of the words \"peach\", \"pants\", \"shorts\", \"socks\", and \"jeans\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "925",
+    "input": "Are any of the words \"melon\", \"armchair\", \"pants\", \"car\", and \"mango\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "926",
+    "input": "Are any of the words \"rabbit\", \"watermelon\", \"mouse\", \"coat\", and \"duck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "927",
+    "input": "Are any of the words \"shirt\", \"duck\", \"jacket\", \"dress\", and \"rabbit\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "928",
+    "input": "Are any of the words \"apple\", \"armchair\", \"rabbit\", \"pig\", and \"motorcycle\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "929",
+    "input": "Are any of the words \"van\", \"shorts\", \"banana\", \"chair\", and \"cat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "930",
+    "input": "Are any of the words \"dog\", \"dress\", \"tractor\", \"melon\", and \"sweater\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "931",
+    "input": "Are any of the words \"chicken\", \"tram\", \"lemon\", \"shorts\", and \"shirt\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "932",
+    "input": "Are any of the words \"pineapple\", \"train\", \"bed\", \"dog\", and \"pig\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "933",
+    "input": "Are any of the words \"bookcase\", \"duck\", \"bed\", \"bus\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "934",
+    "input": "Are any of the words \"motorcycle\", \"tractor\", \"sofa\", \"jacket\", and \"mango\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "935",
+    "input": "Are any of the words \"bookcase\", \"shorts\", \"cow\", \"chair\", and \"table\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "936",
+    "input": "Are any of the words \"shorts\", \"coat\", \"goat\", \"strawberry\", and \"watermelon\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "937",
+    "input": "Are any of the words \"watermelon\", \"mango\", \"mouse\", \"chair\", and \"pants\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "938",
+    "input": "Are any of the words \"table\", \"cow\", \"skirt\", \"pants\", and \"mouse\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "939",
+    "input": "Are any of the words \"duck\", \"pig\", \"train\", \"skirt\", and \"dress\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "Are any of the words \"banana\", \"mango\", \"motorcycle\", \"sweater\", and \"armchair\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "941",
+    "input": "Are any of the words \"bus\", \"bed\", \"chair\", \"tram\", and \"pear\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "942",
+    "input": "Are any of the words \"truck\", \"sofa\", \"pear\", \"strawberry\", and \"apple\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "943",
+    "input": "Are any of the words \"pineapple\", \"peach\", \"cat\", \"strawberry\", and \"rabbit\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "944",
+    "input": "Are any of the words \"sweater\", \"train\", \"lemon\", \"chicken\", and \"mango\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "945",
+    "input": "Are any of the words \"bookcase\", \"shorts\", \"strawberry\", \"mouse\", and \"jeans\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "946",
+    "input": "Are any of the words \"duck\", \"goat\", \"dog\", \"motorcycle\", and \"strawberry\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "947",
+    "input": "Are any of the words \"pig\", \"jacket\", \"chicken\", \"dress\", and \"van\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "948",
+    "input": "Are any of the words \"shirt\", \"sweater\", \"couch\", \"shorts\", and \"bed\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "949",
+    "input": "Are any of the words \"motorcycle\", \"rabbit\", \"chair\", \"armchair\", and \"skirt\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "950",
+    "input": "Are any of the words \"dress\", \"cat\", \"couch\", \"fish\", and \"chair\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "951",
+    "input": "Are any of the words \"banana\", \"car\", \"pants\", \"strawberry\", and \"truck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "952",
+    "input": "Are any of the words \"couch\", \"fish\", \"lemon\", \"shorts\", and \"skirt\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "953",
+    "input": "Are any of the words \"mouse\", \"cow\", \"table\", \"bed\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "954",
+    "input": "Are any of the words \"dog\", \"melon\", \"bus\", \"sofa\", and \"cow\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "955",
+    "input": "Are any of the words \"pear\", \"peach\", \"mouse\", \"cat\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "956",
+    "input": "Are any of the words \"bookcase\", \"car\", \"shorts\", \"tractor\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "957",
+    "input": "Are any of the words \"car\", \"couch\", \"chair\", \"pear\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "958",
+    "input": "Are any of the words \"cat\", \"strawberry\", \"rabbit\", \"apple\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "959",
+    "input": "Are any of the words \"tram\", \"armchair\", \"pig\", \"pineapple\", and \"coat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "960",
+    "input": "Are any of the words \"skirt\", \"train\", \"chair\", \"goat\", and \"watermelon\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "961",
+    "input": "Are any of the words \"tractor\", \"mouse\", \"strawberry\", \"train\", and \"goat\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "962",
+    "input": "Are any of the words \"bus\", \"dog\", \"socks\", \"bed\", and \"truck\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "963",
+    "input": "Are any of the words \"tram\", \"goat\", \"chicken\", \"truck\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "964",
+    "input": "Are any of the words \"bed\", \"skirt\", \"pig\", \"mouse\", and \"train\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "965",
+    "input": "Are any of the words \"tram\", \"dress\", \"apple\", \"pants\", and \"coat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "966",
+    "input": "Are any of the words \"bookcase\", \"jeans\", \"watermelon\", \"apple\", and \"pig\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "967",
+    "input": "Are any of the words \"motorcycle\", \"armchair\", \"desk\", \"strawberry\", and \"bookcase\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "968",
+    "input": "Are any of the words \"cow\", \"car\", \"pineapple\", \"train\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "969",
+    "input": "Are any of the words \"truck\", \"shorts\", \"dog\", \"strawberry\", and \"jacket\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "970",
+    "input": "Are any of the words \"armchair\", \"coat\", \"peach\", \"shirt\", and \"jeans\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "971",
+    "input": "Are any of the words \"bookcase\", \"sofa\", \"shorts\", \"dog\", and \"apple\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "972",
+    "input": "Are any of the words \"shirt\", \"tram\", \"train\", \"cat\", and \"dress\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "973",
+    "input": "Are any of the words \"armchair\", \"tram\", \"sofa\", \"bed\", and \"goat\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "974",
+    "input": "Are any of the words \"goat\", \"dress\", \"desk\", \"socks\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "975",
+    "input": "Are any of the words \"train\", \"tractor\", \"bus\", \"chicken\", and \"cat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "976",
+    "input": "Are any of the words \"shorts\", \"pear\", \"motorcycle\", \"tractor\", and \"pants\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "977",
+    "input": "Are any of the words \"bookcase\", \"cow\", \"fish\", \"bus\", and \"pineapple\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "978",
+    "input": "Are any of the words \"mango\", \"apple\", \"bed\", \"tractor\", and \"watermelon\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "979",
+    "input": "Are any of the words \"apple\", \"coat\", \"banana\", \"sweater\", and \"fish\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "980",
+    "input": "Are any of the words \"socks\", \"bookcase\", \"jacket\", \"van\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "981",
+    "input": "Are any of the words \"motorcycle\", \"table\", \"shorts\", \"strawberry\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "982",
+    "input": "Are any of the words \"van\", \"jeans\", \"pineapple\", \"dress\", and \"socks\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "983",
+    "input": "Are any of the words \"peach\", \"skirt\", \"socks\", \"shorts\", and \"jeans\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "984",
+    "input": "Are any of the words \"pig\", \"sweater\", \"melon\", \"banana\", and \"apple\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "985",
+    "input": "Are any of the words \"motorcycle\", \"bookcase\", \"van\", \"cow\", and \"melon\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "986",
+    "input": "Are any of the words \"van\", \"apple\", \"table\", \"chair\", and \"mouse\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "987",
+    "input": "Are any of the words \"sweater\", \"peach\", \"skirt\", \"bed\", and \"dress\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "988",
+    "input": "Are any of the words \"melon\", \"mango\", \"apple\", \"car\", and \"fish\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "989",
+    "input": "Are any of the words \"rabbit\", \"desk\", \"pants\", \"apple\", and \"goat\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "990",
+    "input": "Are any of the words \"dress\", \"bus\", \"armchair\", \"pineapple\", and \"goat\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "991",
+    "input": "Are any of the words \"apple\", \"bed\", \"watermelon\", \"fish\", and \"desk\" types of clothing? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "992",
+    "input": "Are any of the words \"rabbit\", \"desk\", \"truck\", \"goat\", and \"tram\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "993",
+    "input": "Are any of the words \"sweater\", \"fish\", \"mango\", \"armchair\", and \"cat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "994",
+    "input": "Are any of the words \"chair\", \"mouse\", \"pear\", \"car\", and \"truck\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "995",
+    "input": "Are any of the words \"goat\", \"strawberry\", \"jacket\", \"peach\", and \"fish\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "996",
+    "input": "Are any of the words \"car\", \"bed\", \"chicken\", \"sofa\", and \"goat\" types of vehicles? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "997",
+    "input": "Are any of the words \"pear\", \"jacket\", \"table\", \"chair\", and \"couch\" types of fruit? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "998",
+    "input": "Are any of the words \"coat\", \"tractor\", \"jacket\", \"pineapple\", and \"rabbit\" types of animals? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "999",
+    "input": "Are any of the words \"chicken\", \"banana\", \"skirt\", \"cow\", and \"table\" types of furniture? Answer either \"yes\" or \"no\"."
+  },
+  {
+    "id": "1000",
+    "input": "Are any of the words \"chicken\", \"bed\", \"watermelon\", \"desk\", and \"pig\" types of fruit? Answer either \"yes\" or \"no\"."
+  }
+]

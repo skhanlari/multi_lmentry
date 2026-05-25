@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "input": "Hauetako zeinek errimatzen du \"harreman\" hitzarekin: \"hauteman\" edo \"salneurri\"?"
+  },
+  {
+    "id": "22",
+    "input": "Hauetako zeinek errimatzen du \"ebaluatu\" hitzarekin: \"adibide\" edo \"pisatu\"?"
+  },
+  {
+    "id": "37",
+    "input": "Hauetako zeinek errimatzen du \"kasketa\" hitzarekin: \"urrutiko\" edo \"tximeleta\"?"
+  },
+  {
+    "id": "41",
+    "input": "Hauetako zeinek errimatzen du \"birramona\" hitzarekin: \"aginte\" edo \"gona\"?"
+  },
+  {
+    "id": "46",
+    "input": "Hauetako zeinek errimatzen du \"harategi\" hitzarekin: \"gehiegi\" edo \"otsail\"?"
+  },
+  {
+    "id": "65",
+    "input": "Hauetako zeinek errimatzen du \"bueltatu\" hitzarekin: \"kolpatu\" edo \"gobernadore\"?"
+  },
+  {
+    "id": "88",
+    "input": "Hauetako zeinek errimatzen du \"diru\" hitzarekin: \"antzeko\" edo \"hiru\"?"
+  },
+  {
+    "id": "105",
+    "input": "Hauetako zeinek errimatzen du \"moztu\" hitzarekin: \"nahiko\" edo \"poztu\"?"
+  },
+  {
+    "id": "161",
+    "input": "Hauetako zeinek errimatzen du \"fabrikatu\" hitzarekin: \"desiratu\" edo \"arratoi\"?"
+  },
+  {
+    "id": "183",
+    "input": "Hauetako zeinek errimatzen du \"suntsiketa\" hitzarekin: \"bizikleta\" edo \"zomorro\"?"
+  },
+  {
+    "id": "201",
+    "input": "Hauetako zeinek errimatzen du \"harakin\" hitzarekin: \"jakin\" edo \"publiko\"?"
+  },
+  {
+    "id": "244",
+    "input": "Hauetako zeinek errimatzen du \"barik\" hitzarekin: \"seguruenik\" edo \"belar-denda\"?"
+  },
+  {
+    "id": "252",
+    "input": "Hauetako zeinek errimatzen du \"ekarri\" hitzarekin: \"lokarri\" edo \"berun\"?"
+  },
+  {
+    "id": "266",
+    "input": "Hauetako zeinek errimatzen du \"izenlagun\" hitzarekin: \"behor\" edo \"ezagun\"?"
+  },
+  {
+    "id": "288",
+    "input": "Hauetako zeinek errimatzen du \"askatasun\" hitzarekin: \"ekonomia\" edo \"adostasun\"?"
+  },
+  {
+    "id": "320",
+    "input": "Hauetako zeinek errimatzen du \"ezik\" hitzarekin: \"kontinental\" edo \"oraindik\"?"
+  },
+  {
+    "id": "350",
+    "input": "Hauetako zeinek errimatzen du \"pisatu\" hitzarekin: \"edan\" edo \"tratatu\"?"
+  },
+  {
+    "id": "366",
+    "input": "Hauetako zeinek errimatzen du \"azkenik\" hitzarekin: \"barik\" edo \"berdin\"?"
+  },
+  {
+    "id": "367",
+    "input": "Hauetako zeinek errimatzen du \"eulitxo\" hitzarekin: \"kuiatxo\" edo \"konpondu\"?"
+  },
+  {
+    "id": "385",
+    "input": "Hauetako zeinek errimatzen du \"bitxi-denda\" hitzarekin: \"tabako-denda\" edo \"existitu\"?"
+  },
+  {
+    "id": "401",
+    "input": "Hauetako zeinek errimatzen du \"sardina\" hitzarekin: \"lehengusina\" edo \"arratoi\"?"
+  },
+  {
+    "id": "431",
+    "input": "Hauetako zeinek errimatzen du \"substantibo\" hitzarekin: \"erlatibo\" edo \"maila\"?"
+  },
+  {
+    "id": "447",
+    "input": "Hauetako zeinek errimatzen du \"geltoki\" hitzarekin: \"altuera\" edo \"beroki\"?"
+  },
+  {
+    "id": "477",
+    "input": "Hauetako zeinek errimatzen du \"estatu\" hitzarekin: \"herri\" edo \"fabrikatu\"?"
+  },
+  {
+    "id": "533",
+    "input": "Hauetako zeinek errimatzen du \"aintzira\" hitzarekin: \"ezeztatu\" edo \"izkira\"?"
+  },
+  {
+    "id": "535",
+    "input": "Hauetako zeinek errimatzen du \"bilera\" hitzarekin: \"hasiera\" edo \"ekain\"?"
+  },
+  {
+    "id": "538",
+    "input": "Hauetako zeinek errimatzen du \"mahai\" hitzarekin: \"erabateko\" edo \"lehoi\"?"
+  },
+  {
+    "id": "541",
+    "input": "Hauetako zeinek errimatzen du \"ukondo\" hitzarekin: \"izenondo\" edo \"pribatu\"?"
+  },
+  {
+    "id": "562",
+    "input": "Hauetako zeinek errimatzen du \"antzeman\" hitzarekin: \"atzitu\" edo \"hauteman\"?"
+  },
+  {
+    "id": "579",
+    "input": "Hauetako zeinek errimatzen du \"txiki\" hitzarekin: \"bi\" edo \"bereziki\"?"
+  },
+  {
+    "id": "594",
+    "input": "Hauetako zeinek errimatzen du \"merkatu\" hitzarekin: \"urrundu\" edo \"sastatu\"?"
+  },
+  {
+    "id": "596",
+    "input": "Hauetako zeinek errimatzen du \"itsaso\" hitzarekin: \"akaso\" edo \"janzki\"?"
+  },
+  {
+    "id": "610",
+    "input": "Hauetako zeinek errimatzen du \"ile-apaindegi\" hitzarekin: \"txipiroi\" edo \"begi\"?"
+  },
+  {
+    "id": "650",
+    "input": "Hauetako zeinek errimatzen du \"osaba\" hitzarekin: \"sail\" edo \"alaba\"?"
+  },
+  {
+    "id": "691",
+    "input": "Hauetako zeinek errimatzen du \"emaitza\" hitzarekin: \"xede\" edo \"sorkuntza\"?"
+  },
+  {
+    "id": "709",
+    "input": "Hauetako zeinek errimatzen du \"zentimetro\" hitzarekin: \"bada\" edo \"milimetro\"?"
+  },
+  {
+    "id": "724",
+    "input": "Hauetako zeinek errimatzen du \"jan\" hitzarekin: \"han\" edo \"pribatu\"?"
+  },
+  {
+    "id": "763",
+    "input": "Hauetako zeinek errimatzen du \"drama\" hitzarekin: \"politika\" edo \"dama\"?"
+  },
+  {
+    "id": "795",
+    "input": "Hauetako zeinek errimatzen du \"sabelalde\" hitzarekin: \"barrena\" edo \"itsasalde\"?"
+  },
+  {
+    "id": "827",
+    "input": "Hauetako zeinek errimatzen du \"gogoratu\" hitzarekin: \"lurrun\" edo \"sastatu\"?"
+  },
+  {
+    "id": "832",
+    "input": "Hauetako zeinek errimatzen du \"ziur\" hitzarekin: \"konpainia\" edo \"beldur\"?"
+  },
+  {
+    "id": "843",
+    "input": "Hauetako zeinek errimatzen du \"bakoitz\" hitzarekin: \"beltz\" edo \"norbanako\"?"
+  },
+  {
+    "id": "890",
+    "input": "Hauetako zeinek errimatzen du \"bizitza\" hitzarekin: \"txirrindularitza\" edo \"abokatu\"?"
+  },
+  {
+    "id": "940",
+    "input": "Hauetako zeinek errimatzen du \"liluratu\" hitzarekin: \"zortzi\" edo \"erkatu\"?"
+  },
+  {
+    "id": "958",
+    "input": "Hauetako zeinek errimatzen du \"prozesu\" hitzarekin: \"autobus\" edo \"pisu\"?"
+  },
+  {
+    "id": "967",
+    "input": "Hauetako zeinek errimatzen du \"hautemate\" hitzarekin: \"belaun\" edo \"formalitate\"?"
+  },
+  {
+    "id": "979",
+    "input": "Hauetako zeinek errimatzen du \"bitxi-denda\" hitzarekin: \"liburu-denda\" edo \"harakin\"?"
+  },
+  {
+    "id": "993",
+    "input": "Hauetako zeinek errimatzen du \"tristura\" hitzarekin: \"abentura\" edo \"urrundu\"?"
+  },
+  {
+    "id": "1022",
+    "input": "Hauetako zeinek du errima \"ebaluatu\" hitzarekin: \"adibide\" edo \"pisatu\"?"
+  },
+  {
+    "id": "1048",
+    "input": "Hauetako zeinek du errima \"komunikatu\" hitzarekin: \"sute\" edo \"estatu\"?"
+  },
+  {
+    "id": "1053",
+    "input": "Hauetako zeinek du errima \"sektore\" hitzarekin: \"gobernadore\" edo \"epaile\"?"
+  },
+  {
+    "id": "1055",
+    "input": "Hauetako zeinek du errima \"etxebizitza\" hitzarekin: \"senatari\" edo \"heriotza\"?"
+  },
+  {
+    "id": "1063",
+    "input": "Hauetako zeinek du errima \"argazkilari\" hitzarekin: \"zientzialari\" edo \"ikaratu\"?"
+  },
+  {
+    "id": "1072",
+    "input": "Hauetako zeinek du errima \"bosgarren\" hitzarekin: \"hamargarren\" edo \"kontzeptu\"?"
+  },
+  {
+    "id": "1108",
+    "input": "Hauetako zeinek du errima \"gain\" hitzarekin: \"oin\" edo \"begi\"?"
+  },
+  {
+    "id": "1135",
+    "input": "Hauetako zeinek du errima \"norbanako\" hitzarekin: \"astearte\" edo \"bertako\"?"
+  },
+  {
+    "id": "1148",
+    "input": "Hauetako zeinek du errima \"ziur\" hitzarekin: \"zendu\" edo \"hezur\"?"
+  },
+  {
+    "id": "1153",
+    "input": "Hauetako zeinek du errima \"postposizio\" hitzarekin: \"administrazio\" edo \"eulitxo\"?"
+  },
+  {
+    "id": "1205",
+    "input": "Hauetako zeinek du errima \"egotzi\" hitzarekin: \"idatzi\" edo \"gris\"?"
+  },
+  {
+    "id": "1210",
+    "input": "Hauetako zeinek du errima \"babak\" hitzarekin: \"irristailuak\" edo \"poztu\"?"
+  },
+  {
+    "id": "1232",
+    "input": "Hauetako zeinek du errima \"postposizio\" hitzarekin: \"asko\" edo \"nazio\"?"
+  },
+  {
+    "id": "1237",
+    "input": "Hauetako zeinek du errima \"kale\" hitzarekin: \"ospitale\" edo \"porrot\"?"
+  },
+  {
+    "id": "1259",
+    "input": "Hauetako zeinek du errima \"prozesu\" hitzarekin: \"pisu\" edo \"emaitza\"?"
+  },
+  {
+    "id": "1268",
+    "input": "Hauetako zeinek du errima \"abestu\" hitzarekin: \"mediku\" edo \"tolestu\"?"
+  },
+  {
+    "id": "1319",
+    "input": "Hauetako zeinek du errima \"lokarri\" hitzarekin: \"ekarri\" edo \"baso\"?"
+  },
+  {
+    "id": "1343",
+    "input": "Hauetako zeinek du errima \"azken-aurreko\" hitzarekin: \"nazioarteko\" edo \"idatzi\"?"
+  },
+  {
+    "id": "1384",
+    "input": "Hauetako zeinek du errima \"intsektu\" hitzarekin: \"bigarren\" edo \"objektu\"?"
+  },
+  {
+    "id": "1408",
+    "input": "Hauetako zeinek du errima \"izen\" hitzarekin: \"zuzen\" edo \"oso\"?"
+  },
+  {
+    "id": "1428",
+    "input": "Hauetako zeinek du errima \"gabezia\" hitzarekin: \"elkarrizketatu\" edo \"demokrazia\"?"
+  },
+  {
+    "id": "1437",
+    "input": "Hauetako zeinek du errima \"gerriko\" hitzarekin: \"trafiko\" edo \"automobil\"?"
+  },
+  {
+    "id": "1444",
+    "input": "Hauetako zeinek du errima \"automatiko\" hitzarekin: \"bizikleta\" edo \"erdiko\"?"
+  },
+  {
+    "id": "1450",
+    "input": "Hauetako zeinek du errima \"gutxi\" hitzarekin: \"itxi\" edo \"astiro\"?"
+  },
+  {
+    "id": "1462",
+    "input": "Hauetako zeinek du errima \"erantsi\" hitzarekin: \"apio\" edo \"eutsi\"?"
+  },
+  {
+    "id": "1470",
+    "input": "Hauetako zeinek du errima \"geratu\" hitzarekin: \"kolpatu\" edo \"gramo\"?"
+  },
+  {
+    "id": "1473",
+    "input": "Hauetako zeinek du errima \"estu\" hitzarekin: \"jolastu\" edo \"desiratu\"?"
+  },
+  {
+    "id": "1491",
+    "input": "Hauetako zeinek du errima \"kontzientzia\" hitzarekin: \"hegaluze\" edo \"existentzia\"?"
+  },
+  {
+    "id": "1501",
+    "input": "Hauetako zeinek du errima \"landu\" hitzarekin: \"berandu\" edo \"ezagutu\"?"
+  },
+  {
+    "id": "1503",
+    "input": "Hauetako zeinek du errima \"kuiatxo\" hitzarekin: \"okin\" edo \"eulitxo\"?"
+  },
+  {
+    "id": "1506",
+    "input": "Hauetako zeinek du errima \"leku\" hitzarekin: \"azken\" edo \"debeku\"?"
+  },
+  {
+    "id": "1519",
+    "input": "Hauetako zeinek du errima \"elkarte\" hitzarekin: \"astearte\" edo \"izenondo\"?"
+  },
+  {
+    "id": "1536",
+    "input": "Hauetako zeinek du errima \"zilar\" hitzarekin: \"bizar\" edo \"jatorri\"?"
+  },
+  {
+    "id": "1587",
+    "input": "Hauetako zeinek du errima \"natura\" hitzarekin: \"onura\" edo \"konpainia\"?"
+  },
+  {
+    "id": "1660",
+    "input": "Hauetako zeinek du errima \"oratu\" hitzarekin: \"jirafa\" edo \"nekatu\"?"
+  },
+  {
+    "id": "1677",
+    "input": "Hauetako zeinek du errima \"saldu\" hitzarekin: \"astearte\" edo \"azaldu\"?"
+  },
+  {
+    "id": "1728",
+    "input": "Hauetako zeinek du errima \"etorri\" hitzarekin: \"aldatu\" edo \"jatorri\"?"
+  },
+  {
+    "id": "1751",
+    "input": "Hauetako zeinek du errima \"atal\" hitzarekin: \"ostiral\" edo \"helmuga\"?"
+  },
+  {
+    "id": "1777",
+    "input": "Hauetako zeinek du errima \"samar\" hitzarekin: \"betebehar\" edo \"oinetako\"?"
+  },
+  {
+    "id": "1783",
+    "input": "Hauetako zeinek du errima \"gerriko\" hitzarekin: \"zerbitzu\" edo \"urrutiko\"?"
+  },
+  {
+    "id": "1793",
+    "input": "Hauetako zeinek du errima \"botoi\" hitzarekin: \"arratoi\" edo \"nire\"?"
+  },
+  {
+    "id": "1796",
+    "input": "Hauetako zeinek du errima \"formalitate\" hitzarekin: \"posibilitate\" edo \"larunbat\"?"
+  },
+  {
+    "id": "1819",
+    "input": "Hauetako zeinek du errima \"suhiltzaile\" hitzarekin: \"senar\" edo \"ile-apaintzaile\"?"
+  },
+  {
+    "id": "1832",
+    "input": "Hauetako zeinek du errima \"ziur\" hitzarekin: \"konpainia\" edo \"beldur\"?"
+  },
+  {
+    "id": "1875",
+    "input": "Hauetako zeinek du errima \"urrutiko\" hitzarekin: \"indar\" edo \"mutiko\"?"
+  },
+  {
+    "id": "1902",
+    "input": "Hauetako zeinek du errima \"gobernadore\" hitzarekin: \"eutsi\" edo \"aktore\"?"
+  },
+  {
+    "id": "1932",
+    "input": "Hauetako zeinek du errima \"gatz\" hitzarekin: \"gorputz\" edo \"papar-hegal\"?"
+  },
+  {
+    "id": "1942",
+    "input": "Hauetako zeinek du errima \"jarrera\" hitzarekin: \"apenas\" edo \"saiakera\"?"
+  },
+  {
+    "id": "1967",
+    "input": "Hauetako zeinek du errima \"hautemate\" hitzarekin: \"belaun\" edo \"formalitate\"?"
+  },
+  {
+    "id": "1971",
+    "input": "Hauetako zeinek du errima \"preposizio\" hitzarekin: \"fruta-denda\" edo \"sentsazio\"?"
+  },
+  {
+    "id": "1973",
+    "input": "Hauetako zeinek du errima \"isildu\" hitzarekin: \"bildu\" edo \"suhiltzaile\"?"
+  },
+  {
+    "id": "2005",
+    "input": "\"berezko\" eta \"formalitate\" hitzen artean, zeinek errimatzen du \"beharrezko\" hitzarekin?"
+  },
+  {
+    "id": "2043",
+    "input": "\"babak\" eta \"gai\" hitzen artean, zeinek errimatzen du \"kuleroak\" hitzarekin?"
+  },
+  {
+    "id": "2047",
+    "input": "\"lur\" eta \"ezaugarri\" hitzen artean, zeinek errimatzen du \"beldur\" hitzarekin?"
+  },
+  {
+    "id": "2048",
+    "input": "\"sute\" eta \"estatu\" hitzen artean, zeinek errimatzen du \"komunikatu\" hitzarekin?"
+  },
+  {
+    "id": "2057",
+    "input": "\"ezeztatu\" eta \"lokarriak\" hitzen artean, zeinek errimatzen du \"galtzontzilloak\" hitzarekin?"
+  },
+  {
+    "id": "2084",
+    "input": "\"ospitale\" eta \"diputatu\" hitzen artean, zeinek errimatzen du \"kale\" hitzarekin?"
+  },
+  {
+    "id": "2097",
+    "input": "\"usaimen\" eta \"saxofoi\" hitzen artean, zeinek errimatzen du \"oroimen\" hitzarekin?"
+  },
+  {
+    "id": "2098",
+    "input": "\"substantibo\" eta \"azalore\" hitzen artean, zeinek errimatzen du \"erlatibo\" hitzarekin?"
+  },
+  {
+    "id": "2133",
+    "input": "\"galtzontzilloak\" eta \"hori\" hitzen artean, zeinek errimatzen du \"patatak\" hitzarekin?"
+  },
+  {
+    "id": "2135",
+    "input": "\"astearte\" eta \"bertako\" hitzen artean, zeinek errimatzen du \"norbanako\" hitzarekin?"
+  },
+  {
+    "id": "2148",
+    "input": "\"zendu\" eta \"hezur\" hitzen artean, zeinek errimatzen du \"ziur\" hitzarekin?"
+  },
+  {
+    "id": "2157",
+    "input": "\"sentsazio\" eta \"adibide\" hitzen artean, zeinek errimatzen du \"azelerazio\" hitzarekin?"
+  },
+  {
+    "id": "2164",
+    "input": "\"mutiko\" eta \"izter\" hitzen artean, zeinek errimatzen du \"oker\" hitzarekin?"
+  },
+  {
+    "id": "2170",
+    "input": "\"hurbileko\" eta \"hiriburu\" hitzen artean, zeinek errimatzen du \"orburu\" hitzarekin?"
+  },
+  {
+    "id": "2238",
+    "input": "\"basamortu\" eta \"bizar\" hitzen artean, zeinek errimatzen du \"aireportu\" hitzarekin?"
+  },
+  {
+    "id": "2242",
+    "input": "\"jakin\" eta \"azalore\" hitzen artean, zeinek errimatzen du \"harakin\" hitzarekin?"
+  },
+  {
+    "id": "2274",
+    "input": "\"begi\" eta \"gertu\" hitzen artean, zeinek errimatzen du \"aspertu\" hitzarekin?"
+  },
+  {
+    "id": "2293",
+    "input": "\"more\" eta \"hiru\" hitzen artean, zeinek errimatzen du \"gobernadore\" hitzarekin?"
+  },
+  {
+    "id": "2301",
+    "input": "\"garapen\" eta \"oinetako\" hitzen artean, zeinek errimatzen du \"bertako\" hitzarekin?"
+  },
+  {
+    "id": "2306",
+    "input": "\"urmael\" eta \"ehungarren\" hitzen artean, zeinek errimatzen du \"gibel\" hitzarekin?"
+  },
+  {
+    "id": "2323",
+    "input": "\"erregai-sailtzaile\" eta \"baratxuri\" hitzen artean, zeinek errimatzen du \"zuri\" hitzarekin?"
+  },
+  {
+    "id": "2369",
+    "input": "\"postari\" eta \"elkarte\" hitzen artean, zeinek errimatzen du \"astearte\" hitzarekin?"
+  },
+  {
+    "id": "2396",
+    "input": "\"gela\" eta \"pertsona\" hitzen artean, zeinek errimatzen du \"aitona\" hitzarekin?"
+  },
+  {
+    "id": "2409",
+    "input": "\"publiko\" eta \"tigre\" hitzen artean, zeinek errimatzen du \"automatiko\" hitzarekin?"
+  },
+  {
+    "id": "2446",
+    "input": "\"klarinete\" eta \"ziur\" hitzen artean, zeinek errimatzen du \"bilete\" hitzarekin?"
+  },
+  {
+    "id": "2480",
+    "input": "\"ilarrak\" eta \"ordezkatu\" hitzen artean, zeinek errimatzen du \"baieztatu\" hitzarekin?"
+  },
+  {
+    "id": "2481",
+    "input": "\"zuzendari\" eta \"alboko\" hitzen artean, zeinek errimatzen du \"bola-joko\" hitzarekin?"
+  },
+  {
+    "id": "2500",
+    "input": "\"landatar\" eta \"bolumen\" hitzen artean, zeinek errimatzen du \"zahar\" hitzarekin?"
+  },
+  {
+    "id": "2502",
+    "input": "\"luzera\" eta \"asperdura\" hitzen artean, zeinek errimatzen du \"jarrera\" hitzarekin?"
+  },
+  {
+    "id": "2505",
+    "input": "\"konfiantza\" eta \"bizikleta\" hitzen artean, zeinek errimatzen du \"hondartza\" hitzarekin?"
+  },
+  {
+    "id": "2507",
+    "input": "\"garesti\" eta \"tristura\" hitzen artean, zeinek errimatzen du \"abiadura\" hitzarekin?"
+  },
+  {
+    "id": "2593",
+    "input": "\"gero\" eta \"bukatu\" hitzen artean, zeinek errimatzen du \"hozkatu\" hitzarekin?"
+  },
+  {
+    "id": "2597",
+    "input": "\"lankide\" eta \"txakur\" hitzen artean, zeinek errimatzen du \"hezur\" hitzarekin?"
+  },
+  {
+    "id": "2605",
+    "input": "\"urdin\" eta \"eutsi\" hitzen artean, zeinek errimatzen du \"erantsi\" hitzarekin?"
+  },
+  {
+    "id": "2612",
+    "input": "\"narriadura\" eta \"aise\" hitzen artean, zeinek errimatzen du \"abiadura\" hitzarekin?"
+  },
+  {
+    "id": "2640",
+    "input": "\"zilar\" eta \"zuri\" hitzen artean, zeinek errimatzen du \"baratxuri\" hitzarekin?"
+  },
+  {
+    "id": "2641",
+    "input": "\"lortu\" eta \"eulitxo\" hitzen artean, zeinek errimatzen du \"kuiatxo\" hitzarekin?"
+  },
+  {
+    "id": "2642",
+    "input": "\"xendazaletasun\" eta \"olagarro\" hitzen artean, zeinek errimatzen du \"desberdintasun\" hitzarekin?"
+  },
+  {
+    "id": "2650",
+    "input": "\"sail\" eta \"alaba\" hitzen artean, zeinek errimatzen du \"osaba\" hitzarekin?"
+  },
+  {
+    "id": "2678",
+    "input": "\"frogatu\" eta \"berun\" hitzen artean, zeinek errimatzen du \"bueltatu\" hitzarekin?"
+  },
+  {
+    "id": "2729",
+    "input": "\"lorpen\" eta \"batzarkide\" hitzen artean, zeinek errimatzen du \"trenbide\" hitzarekin?"
+  },
+  {
+    "id": "2732",
+    "input": "\"hezur\" eta \"gorrotatu\" hitzen artean, zeinek errimatzen du \"gezur\" hitzarekin?"
+  },
+  {
+    "id": "2757",
+    "input": "\"beso\" eta \"neurri\" hitzen artean, zeinek errimatzen du \"itsaso\" hitzarekin?"
+  },
+  {
+    "id": "2820",
+    "input": "\"on\" eta \"polizia\" hitzen artean, zeinek errimatzen du \"gabezia\" hitzarekin?"
+  },
+  {
+    "id": "2827",
+    "input": "\"lurrun\" eta \"sastatu\" hitzen artean, zeinek errimatzen du \"gogoratu\" hitzarekin?"
+  },
+  {
+    "id": "2843",
+    "input": "\"beltz\" eta \"norbanako\" hitzen artean, zeinek errimatzen du \"bakoitz\" hitzarekin?"
+  },
+  {
+    "id": "2850",
+    "input": "\"dentista\" eta \"elkarrizketatu\" hitzen artean, zeinek errimatzen du \"geratu\" hitzarekin?"
+  },
+  {
+    "id": "2865",
+    "input": "\"hutsegite\" eta \"ezik\" hitzen artean, zeinek errimatzen du \"ziurrenik\" hitzarekin?"
+  },
+  {
+    "id": "2889",
+    "input": "\"errealitate\" eta \"leun\" hitzen artean, zeinek errimatzen du \"kalitate\" hitzarekin?"
+  },
+  {
+    "id": "2916",
+    "input": "\"hautemate\" eta \"tabako-denda\" hitzen artean, zeinek errimatzen du \"loradenda\" hitzarekin?"
+  },
+  {
+    "id": "2930",
+    "input": "\"pribatu\" eta \"urmael\" hitzen artean, zeinek errimatzen du \"gibel\" hitzarekin?"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2",
+    "input": "Tutte le parole \"quinto\", \"quarto\", \"terzo\", \"decimo\" e \"centesimo\" sono tipi di aggettivi numerali ordinali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "17",
+    "input": "Tutte le parole \"martedì\", \"mercoledì\", \"giovedì\", \"venerdì\" e \"domenica\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "19",
+    "input": "Tutte le parole \"specie\", \"riproduzione\", \"essere\", \"morte\" e \"nascita\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "25",
+    "input": "Tutte le parole \"due\", \"cinque\", \"dieci\", \"sette\" e \"tre\" sono tipi di numeri? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "29",
+    "input": "Tutte le parole \"centimetro\", \"totale\", \"media\", \"litro\" e \"millilitro\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "34",
+    "input": "Tutte le parole \"motocicletta\", \"stazione\", \"superstrada\", \"corsia\" e \"motorino\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "35",
+    "input": "Tutte le parole \"annusare\", \"odorare\", \"fiutare\", \"ascoltare\" e \"sentire\" sono tipi di verbi di sensazione? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "39",
+    "input": "Tutte le parole \"sostantivo\", \"articolo\", \"preposizione\", \"aggettivo\" e \"pronome\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "50",
+    "input": "Tutte le parole \"serpente\", \"grillo\", \"corvo\", \"aquila\" e \"pesce\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "54",
+    "input": "Tutte le parole \"amica\", \"suocero\", \"nuora\", \"coppia\" e \"nipote\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "57",
+    "input": "Tutte le parole \"chiave\", \"cavo\", \"cucchiaino\", \"fune\" e \"corda\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "67",
+    "input": "Tutte le parole \"lunghezza\", \"altezza\", \"aumento\", \"dimensione\" e \"larghezza\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "77",
+    "input": "Tutte le parole \"uragano\", \"valanga\", \"incendio\", \"tsunami\" e \"tornado\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "86",
+    "input": "Tutte le parole \"legge\", \"governo\", \"popolazione\", \"struttura\" e \"commissione\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "114",
+    "input": "Tutte le parole \"vostro\", \"mio\", \"loro\", \"nostro\" e \"tuo\" sono tipi di aggettivi possessivi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "150",
+    "input": "Tutte le parole \"guardiano\", \"poliziotto\", \"maestro\", \"biologo\" e \"carabiniere\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "151",
+    "input": "Tutte le parole \"inondazione\", \"slavina\", \"maremoto\", \"siccità\" e \"tornado\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "175",
+    "input": "Tutte le parole \"violino\", \"chitarra\", \"clarinetto\", \"sassofono\" e \"flauto\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "178",
+    "input": "Tutte le parole \"scrivania\", \"stanza\", \"letto\", \"finestra\" e \"sedia\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "185",
+    "input": "Tutte le parole \"riproduzione\", \"specie\", \"nascita\", \"morte\" e \"essere\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "186",
+    "input": "Tutte le parole \"giornalista\", \"cassiere\", \"calzolaio\", \"amministratore\" e \"maestro\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "189",
+    "input": "Tutte le parole \"inondazione\", \"uragano\", \"tsunami\", \"valanga\" e \"siccità\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "190",
+    "input": "Tutte le parole \"settembre\", \"marzo\", \"maggio\", \"febbraio\" e \"giugno\" sono tipi di mesi dell'anno? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "199",
+    "input": "Tutte le parole \"scarpata\", \"ruscello\", \"monte\", \"laguna\" e \"collina\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "Tutte le parole \"piacevole\", \"cattivo\", \"duro\", \"fresco\" e \"amaro\" sono tipi di aggettivi sensoriali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "203",
+    "input": "Tutte le parole \"suo\", \"loro\", \"vostro\", \"tuo\" e \"nostro\" sono tipi di aggettivi possessivi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "211",
+    "input": "Tutte le parole \"fantascienza\", \"fantastico\", \"drammatico\", \"thriller\" e \"noir\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "222",
+    "input": "Tutte le parole \"piccolo\", \"ampio\", \"stretto\", \"sottile\" e \"compatto\" sono tipi di aggettivi per forme e figure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "230",
+    "input": "Tutte le parole \"migliore\", \"corretto\", \"scorretto\", \"necessario\" e \"rurale\" sono tipi di aggettivi qualificativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "242",
+    "input": "Tutte le parole \"meno\", \"altrettanto\", \"più\", \"quasi\" e \"alquanto\" sono tipi di avverbi di quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "248",
+    "input": "Tutte le parole \"danno\", \"relazione\", \"felicità\", \"fatica\" e \"parola\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "265",
+    "input": "Tutte le parole \"calamaro\", \"chiocciola\", \"insetto\", \"sardina\" e \"falco\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "283",
+    "input": "Tutte le parole \"inondazione\", \"frana\", \"uragano\", \"valanga\" e \"siccità\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "Tutte le parole \"tragedia\", \"drammatico\", \"storico\", \"orrore\" e \"romantico\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "291",
+    "input": "Tutte le parole \"riduzione\", \"altezza\", \"posizione\", \"decremento\" e \"lunghezza\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "294",
+    "input": "Tutte le parole \"crescere\", \"sparire\", \"morire\", \"vivere\" e \"nascere\" sono tipi di verbi di esistenza? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "299",
+    "input": "Tutte le parole \"orribile\", \"cattivo\", \"tenue\", \"piacevole\" e \"duro\" sono tipi di aggettivi sensoriali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "300",
+    "input": "Tutte le parole \"canale\", \"monte\", \"montagna\", \"oceano\" e \"collina\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "312",
+    "input": "Tutte le parole \"terzo\", \"quinto\", \"penultimo\", \"centesimo\" e \"decimo\" sono tipi di aggettivi numerali ordinali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "317",
+    "input": "Tutte le parole \"a\", \"verso\", \"in\", \"fino\" e \"per\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "326",
+    "input": "Tutte le parole \"idraulico\", \"ricercatore\", \"giardiniere\", \"cameriere\" e \"deputato\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "331",
+    "input": "Tutte le parole \"ultimo\", \"milionesimo\", \"penultimo\", \"centesimo\" e \"quinto\" sono tipi di aggettivi numerali ordinali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "335",
+    "input": "Tutte le parole \"lumaca\", \"topo\", \"ragno\", \"insetto\" e \"falco\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "337",
+    "input": "Tutte le parole \"biblioteca\", \"macelleria\", \"scuola\", \"farmacia\" e \"commissariato\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "351",
+    "input": "Tutte le parole \"preposizione\", \"sostantivo\", \"pronome\", \"avverbio\" e \"congiunzione\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "355",
+    "input": "Tutte le parole \"riduzione\", \"decremento\", \"lunghezza\", \"aumento\" e \"movimento\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "356",
+    "input": "Tutte le parole \"ghiaccio\", \"metallo\", \"sale\", \"piombo\" e \"fango\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "360",
+    "input": "Tutte le parole \"suo\", \"mio\", \"tuo\", \"vostro\" e \"nostro\" sono tipi di aggettivi possessivi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "365",
+    "input": "Tutte le parole \"esattamente\", \"appena\", \"alquanto\", \"tutto\" e \"affatto\" sono tipi di avverbi di quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "Tutte le parole \"avverbio\", \"preposizione\", \"aggettivo\", \"pronome\" e \"sostantivo\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "370",
+    "input": "Tutte le parole \"mai\", \"anche\", \"sicuramente\", \"probabilmente\" e \"possibilmente\" sono tipi di avverbi opinativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "375",
+    "input": "Tutte le parole \"minoranza\", \"ampiezza\", \"riduzione\", \"altitudine\" e \"decremento\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "387",
+    "input": "Tutte le parole \"lì\", \"là\", \"davanti\", \"intorno\" e \"sopra\" sono tipi di avverbi di luogo? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "394",
+    "input": "Tutte le parole \"costa\", \"giungla\", \"bosco\", \"scarpata\" e \"mare\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "397",
+    "input": "Tutte le parole \"orecchio\", \"mignolo\", \"bocca\", \"gomito\" e \"spalla\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "399",
+    "input": "Tutte le parole \"meglio\", \"gentilmente\", \"intenzionalmente\", \"lentamente\" e \"peggio\" sono tipi di avverbi qualificativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "415",
+    "input": "Tutte le parole \"otto\", \"dieci\", \"cinque\", \"due\" e \"tre\" sono tipi di numeri? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "418",
+    "input": "Tutte le parole \"direzione\", \"dimensione\", \"riduzione\", \"altezza\" e \"accelerazione\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "419",
+    "input": "Tutte le parole \"fermamente\", \"basso\", \"alto\", \"male\" e \"chiaramente\" sono tipi di avverbi qualificativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "425",
+    "input": "Tutte le parole \"cavolfiore\", \"bieta\", \"cavolo\", \"spinaci\" e \"broccoli\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "427",
+    "input": "Tutte le parole \"scherma\", \"nuoto\", \"padel\", \"pugilato\" e \"baseball\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "429",
+    "input": "Tutte le parole \"tonno\", \"gatto\", \"scoiattolo\", \"passero\" e \"scarabeo\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "437",
+    "input": "Tutte le parole \"porta\", \"scrivania\", \"stanza\", \"tavolo\" e \"ascensore\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "451",
+    "input": "Tutte le parole \"giovedì\", \"lunedì\", \"martedì\", \"sabato\" e \"venerdì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "464",
+    "input": "Tutte le parole \"senatrice\", \"banchiere\", \"guardiano\", \"medico\" e \"scienziato\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "467",
+    "input": "Tutte le parole \"orecchio\", \"sedere\", \"dito\", \"anca\" e \"piede\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "468",
+    "input": "Tutte le parole \"giovedì\", \"venerdì\", \"martedì\", \"domenica\" e \"sabato\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "Tutte le parole \"mare\", \"oceano\", \"monte\", \"collina\" e \"montagna\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "484",
+    "input": "Tutte le parole \"uomo\", \"signore\", \"donna\", \"bimbo\" e \"umanità\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "494",
+    "input": "Tutte le parole \"economico\", \"differente\", \"sociale\", \"rurale\" e \"artistico\" sono tipi di aggettivi qualificativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "497",
+    "input": "Tutte le parole \"percezione\", \"serie\", \"fallimento\", \"inizio\" e \"condizione\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "502",
+    "input": "Tutte le parole \"vite\", \"corda\", \"cavo\", \"filo\" e \"chiave\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "507",
+    "input": "Tutte le parole \"vite\", \"cucchiaino\", \"cucchiaio\", \"manopola\" e \"filo\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "508",
+    "input": "Tutte le parole \"bimba\", \"adulto\", \"signora\", \"signore\" e \"bambina\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "509",
+    "input": "Tutte le parole \"albergo\", \"panetteria\", \"macelleria\", \"banca\" e \"caserma\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "516",
+    "input": "Tutte le parole \"schiena\", \"anca\", \"baffi\", \"osso\" e \"fegato\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "517",
+    "input": "Tutte le parole \"sostituire\", \"conseguire\", \"allacciare\", \"evitare\" e \"migliorare\" sono tipi di verbi di attività? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "524",
+    "input": "Tutte le parole \"piccolo\", \"ampio\", \"sottile\", \"spesso\" e \"gran\" sono tipi di aggettivi per forme e figure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "528",
+    "input": "Tutte le parole \"tsunami\", \"maremoto\", \"incendio\", \"slavina\" e \"inondazione\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "529",
+    "input": "Tutte le parole \"berretto\", \"mutande\", \"giubbotto\", \"manica\" e \"lacci\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "539",
+    "input": "Tutte le parole \"spesso\", \"stretto\", \"compatto\", \"grande\" e \"sottile\" sono tipi di aggettivi per forme e figure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "555",
+    "input": "Tutte le parole \"subito\", \"ancora\", \"stanotte\", \"mentre\" e \"domani\" sono tipi di avverbi di tempo? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "561",
+    "input": "Tutte le parole \"grammo\", \"millilitro\", \"totale\", \"litro\" e \"millimetro\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "582",
+    "input": "Tutte le parole \"piombo\", \"bronzo\", \"oro\", \"gas\" e \"acqua\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "586",
+    "input": "Tutte le parole \"pentathlon\", \"pallamano\", \"rugby\", \"pattinaggio\" e \"arrampicata\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "587",
+    "input": "Tutte le parole \"consolare\", \"ridere\", \"amare\", \"odiare\" e \"ammirare\" sono tipi di verbi di emozione? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "590",
+    "input": "Tutte le parole \"da\", \"mediante\", \"verso\", \"con\" e \"di\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "595",
+    "input": "Tutte le parole \"giovane\", \"maggiore\", \"impossibile\", \"nazionale\" e \"uguale\" sono tipi di aggettivi qualificativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "597",
+    "input": "Tutte le parole \"cucchiaio\", \"cucchiaino\", \"fune\", \"cacciavite\" e \"vite\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "607",
+    "input": "Tutte le parole \"palmo\", \"naso\", \"corpo\", \"pollice\" e \"coscia\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "608",
+    "input": "Tutte le parole \"là\", \"qui\", \"intorno\", \"dentro\" e \"sopra\" sono tipi di avverbi di luogo? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "615",
+    "input": "Tutte le parole \"sebbene\", \"né\", \"benché\", \"e\" e \"quando\" sono tipi di congiunzioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "616",
+    "input": "Tutte le parole \"in\", \"da\", \"mediante\", \"fino\" e \"attraverso\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "623",
+    "input": "Tutte le parole \"cappotto\", \"camicia\", \"manica\", \"sciarpa\" e \"zip\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "631",
+    "input": "Tutte le parole \"aria\", \"acqua\", \"piombo\", \"bronzo\" e \"vapore\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "639",
+    "input": "Tutte le parole \"ultimo\", \"terzo\", \"centesimo\", \"primo\" e \"quinto\" sono tipi di aggettivi numerali ordinali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "661",
+    "input": "Tutte le parole \"per\", \"di\", \"in\", \"attraverso\" e \"mediante\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "667",
+    "input": "Tutte le parole \"ora\", \"prima\", \"dopo\", \"adesso\" e \"mentre\" sono tipi di avverbi di tempo? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "669",
+    "input": "Tutte le parole \"popolo\", \"provincia\", \"diritti\", \"dipartimento\" e \"dittatura\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "681",
+    "input": "Tutte le parole \"rimanere\", \"abbandonare\", \"ricevere\", \"sciogliere\" e \"utilizzare\" sono tipi di verbi di attività? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "683",
+    "input": "Tutte le parole \"attraverso\", \"da\", \"a\", \"verso\" e \"in\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "695",
+    "input": "Tutte le parole \"tromba\", \"flauto\", \"pianoforte\", \"sassofono\" e \"violino\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "703",
+    "input": "Tutte le parole \"piccolo\", \"compatto\", \"gran\", \"stretto\" e \"sottile\" sono tipi di aggettivi per forme e figure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "714",
+    "input": "Tutte le parole \"giacca\", \"sciarpa\", \"cravatta\", \"occhiali\" e \"scarpe\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "721",
+    "input": "Tutte le parole \"lì\", \"davanti\", \"dietro\", \"sopra\" e \"presso\" sono tipi di avverbi di luogo? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "728",
+    "input": "Tutte le parole \"cugina\", \"genitore\", \"coppia\", \"padre\" e \"bisnonno\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "732",
+    "input": "Tutte le parole \"loro\", \"vostro\", \"suo\", \"tuo\" e \"mio\" sono tipi di aggettivi possessivi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "733",
+    "input": "Tutte le parole \"togliere\", \"afferrare\", \"andare\", \"muovere\" e \"catturare\" sono tipi di verbi di movimento? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "742",
+    "input": "Tutte le parole \"inondazione\", \"valanga\", \"maremoto\", \"terremoto\" e \"slavina\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "751",
+    "input": "Tutte le parole \"spinaci\", \"broccoli\", \"fava\", \"melanzana\" e \"carciofo\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "761",
+    "input": "Tutte le parole \"commedia\", \"romantico\", \"musical\", \"storico\" e \"fantastico\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "764",
+    "input": "Tutte le parole \"ricercatore\", \"bancario\", \"ingegnere\", \"professore\" e \"parrucchiere\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "766",
+    "input": "Tutte le parole \"tariffa\", \"denaro\", \"azienda\", \"fatturazione\" e \"commercio\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "771",
+    "input": "Tutte le parole \"miglioramento\", \"pensiero\", \"occasione\", \"immagine\" e \"realtà\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "773",
+    "input": "Tutte le parole \"immediatamente\", \"dopo\", \"prima\", \"ancora\" e \"ora\" sono tipi di avverbi di tempo? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "777",
+    "input": "Tutte le parole \"peso\", \"millimetro\", \"chilo\", \"totale\" e \"quantità\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "789",
+    "input": "Tutte le parole \"amorosa\", \"ansioso\", \"inaspettato\", \"arrabbiato\" e \"calmo\" sono tipi di aggettivi per emozioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "790",
+    "input": "Tutte le parole \"elefante\", \"coniglio\", \"aragosta\", \"insetto\" e \"mosca\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "791",
+    "input": "Tutte le parole \"direzione\", \"larghezza\", \"dimensione\", \"ampiezza\" e \"accelerazione\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "793",
+    "input": "Tutte le parole \"programmatore\", \"bancario\", \"imprenditore\", \"pittore\" e \"netturbino\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "798",
+    "input": "Tutte le parole \"centimetro\", \"millilitro\", \"grammo\", \"chilo\" e \"chilometro\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "800",
+    "input": "Tutte le parole \"tra\", \"di\", \"durante\", \"verso\" e \"fra\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "808",
+    "input": "Tutte le parole \"tromba\", \"sassofono\", \"violino\", \"chitarra\" e \"flauto\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "810",
+    "input": "Tutte le parole \"riunirsi\", \"ordinare\", \"distinguere\", \"necessitare\" e \"procreare\" sono tipi di verbi di attività? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "820",
+    "input": "Tutte le parole \"avvicinare\", \"raggiungere\", \"allontanare\", \"appiccicare\" e \"arrivare\" sono tipi di verbi di movimento? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "824",
+    "input": "Tutte le parole \"siccità\", \"slavina\", \"incendio\", \"tornado\" e \"uragano\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "837",
+    "input": "Tutte le parole \"otto\", \"sei\", \"dieci\", \"uno\" e \"sette\" sono tipi di numeri? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "Tutte le parole \"cuore\", \"fegato\", \"capelli\", \"petto\" e \"braccio\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "849",
+    "input": "Tutte le parole \"produzione\", \"costo\", \"compagnia\", \"commercio\" e \"industria\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "865",
+    "input": "Tutte le parole \"adulto\", \"individuo\", \"bambina\", \"umanità\" e \"umano\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "878",
+    "input": "Tutte le parole \"andare\", \"tirare\", \"battere\", \"togliere\" e \"mettere\" sono tipi di verbi di movimento? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "880",
+    "input": "Tutte le parole \"cucina\", \"stanza\", \"salotto\", \"ingresso\" e \"porta\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "892",
+    "input": "Tutte le parole \"odorare\", \"sentire\", \"percepire\", \"ascoltare\" e \"toccare\" sono tipi di verbi di sensazione? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "896",
+    "input": "Tutte le parole \"terra\", \"ghiaccio\", \"oro\", \"acqua\" e \"bronzo\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "897",
+    "input": "Tutte le parole \"certamente\", \"sicuramente\", \"probabilmente\", \"possibilmente\" e \"mai\" sono tipi di avverbi opinativi? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "903",
+    "input": "Tutte le parole \"annoiarsi\", \"interessarsi\", \"consolare\", \"ammirare\" e \"infastidirsi\" sono tipi di verbi di emozione? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "910",
+    "input": "Tutte le parole \"scarpata\", \"paesaggio\", \"campo\", \"laguna\" e \"montagna\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "912",
+    "input": "Tutte le parole \"capacità\", \"oggetto\", \"cosa\", \"presente\" e \"attesa\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "921",
+    "input": "Tutte le parole \"triathlon\", \"padel\", \"pallavolo\", \"escursionismo\" e \"pugilato\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "923",
+    "input": "Tutte le parole \"freddo\", \"fresco\", \"morbido\", \"stabile\" e \"cattivo\" sono tipi di aggettivi sensoriali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "925",
+    "input": "Tutte le parole \"con\", \"in\", \"da\", \"di\" e \"durante\" sono tipi di preprosizioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "929",
+    "input": "Tutte le parole \"lattuga\", \"cetriolo\", \"patate\", \"cavolfiore\" e \"aglio\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "935",
+    "input": "Tutte le parole \"copisteria\", \"supermercato\", \"hotel\", \"barbiere\" e \"banca\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "Tutte le parole \"amministrazione\", \"paese\", \"città\", \"regole\" e \"diritti\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "941",
+    "input": "Tutte le parole \"bimba\", \"bambino\", \"individuo\", \"donna\" e \"adulto\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "943",
+    "input": "Tutte le parole \"corpo\", \"stinco\", \"palmo\", \"mano\" e \"occhio\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "945",
+    "input": "Tutte le parole \"intenso\", \"pesante\", \"flessibile\", \"delicato\" e \"fastidioso\" sono tipi di aggettivi sensoriali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "950",
+    "input": "Tutte le parole \"raggiungere\", \"alzare\", \"lanciare\", \"scalciare\" e \"portare\" sono tipi di verbi di movimento? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "960",
+    "input": "Tutte le parole \"sparire\", \"vivere\", \"apparire\", \"nascere\" e \"morire\" sono tipi di verbi di esistenza? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "966",
+    "input": "Tutte le parole \"testa\", \"stomaco\", \"gamba\", \"barba\" e \"capelli\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  }
+]

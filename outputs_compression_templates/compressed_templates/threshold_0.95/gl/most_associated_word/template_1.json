@@ -1,0 +1,722 @@
+[
+  {
+    "id": "2",
+    "input": "Das palabras \"desenvolvemento\", \"inicialmente\", \"situación\", \"enfado\" e \"tema\", cal é a palabra máis comunmente asociada con \"adverbios de calidade\"?"
+  },
+  {
+    "id": "17",
+    "input": "Das palabras \"mércores\", \"luns\", \"domingo\", \"total\" e \"martes\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "19",
+    "input": "Das palabras \"contento\", \"tranquilo\", \"fedorento\", \"aburrido\" e \"teu\", cal é a palabra máis comunmente asociada con \"adxectivos posesivos\"?"
+  },
+  {
+    "id": "25",
+    "input": "Das palabras \"probablemente\", \"salón de peiteado\", \"hospital\", \"xoiería\" e \"bar\", cal é a palabra máis comunmente asociada con \"adverbios de posibilidad\"?"
+  },
+  {
+    "id": "29",
+    "input": "Das palabras \"entre\", \"con\", \"dous\", \"contra\" e \"durante\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "34",
+    "input": "Das palabras \"último\", \"primeiro\", \"función\", \"décimo\" e \"quinto\", cal é a palabra máis comunmente asociada con \"substantivos abstractos\"?"
+  },
+  {
+    "id": "35",
+    "input": "Das palabras \"bolboreta\", \"mosquito\", \"cervo\", \"mono\" e \"coche\", cal é a palabra máis comunmente asociada con \"transporte\"?"
+  },
+  {
+    "id": "39",
+    "input": "Das palabras \"fantasía\", \"histórico\", \"comedia\", \"suspense\" e \"querer\", cal é a palabra máis comunmente asociada con \"verbos emocións\"?"
+  },
+  {
+    "id": "50",
+    "input": "Das palabras \"adolescente\", \"salón de peiteado\", \"estanco\", \"comisaría\" e \"herboristaría\", cal é a palabra máis comunmente asociada con \"xente\"?"
+  },
+  {
+    "id": "54",
+    "input": "Das palabras \"inclusive\", \"mal\", \"quinto\", \"ben\" e \"incluso\", cal é a palabra máis comunmente asociada con \"adxectivos ordinais\"?"
+  },
+  {
+    "id": "57",
+    "input": "Das palabras \"dedo\", \"varredora\", \"parlamentario\", \"gasolineira\" e \"científico\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "67",
+    "input": "Das palabras \"ancho\", \"movemento\", \"alto\", \"outubro\" e \"velocidade\", cal é a palabra máis comunmente asociada con \"meses do ano\"?"
+  },
+  {
+    "id": "77",
+    "input": "Das palabras \"curmán\", \"profesor\", \"nai\", \"familia\" e \"tía\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "86",
+    "input": "Das palabras \"para\", \"ante\", \"tras\", \"violín\" e \"en\", cal é a palabra máis comunmente asociada con \"instrumentos\"?"
+  },
+  {
+    "id": "93",
+    "input": "Das palabras \"varredora\", \"carteiro\", \"pintora\", \"adverbio\" e \"actriz\", cal é a palabra máis comunmente asociada con \"categorías gramaticais\"?"
+  },
+  {
+    "id": "114",
+    "input": "Das palabras \"substantivo\", \"centésimo\", \"adverbio\", \"adxectivo\" e \"conxunción\", cal é a palabra máis comunmente asociada con \"adxectivos ordinais\"?"
+  },
+  {
+    "id": "130",
+    "input": "Das palabras \"berenxena\", \"cogombro\", \"espárrago\", \"remolacha\" e \"histórico\", cal é a palabra máis comunmente asociada con \"xéneros de películas\"?"
+  },
+  {
+    "id": "150",
+    "input": "Das palabras \"musical\", \"terceiro\", \"décimo\", \"último\" e \"penúltimo\", cal é a palabra máis comunmente asociada con \"xéneros de películas\"?"
+  },
+  {
+    "id": "151",
+    "input": "Das palabras \"despois\", \"proximamente\", \"mentres\", \"cara\" e \"enseguida\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "158",
+    "input": "Das palabras \"espinacas\", \"electricista\", \"cenorias\", \"col\" e \"leituga\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "175",
+    "input": "Das palabras \"desaparecer\", \"nacer\", \"medrar\", \"fantasía\" e \"morrer\", cal é a palabra máis comunmente asociada con \"xéneros de películas\"?"
+  },
+  {
+    "id": "178",
+    "input": "Das palabras \"talón\", \"dous\", \"sete\", \"tres\" e \"nove\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "185",
+    "input": "Das palabras \"avión\", \"estrada\", \"ruta\", \"medrar\" e \"bicicleta\", cal é a palabra máis comunmente asociada con \"verbos existencia\"?"
+  },
+  {
+    "id": "186",
+    "input": "Das palabras \"grande\", \"delgado\", \"gran\", \"compacto\" e \"deputada\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "189",
+    "input": "Das palabras \"seu\", \"meu\", \"voso\", \"teu\" e \"sentir\", cal é a palabra máis comunmente asociada con \"verbos sensacións\"?"
+  },
+  {
+    "id": "190",
+    "input": "Das palabras \"cantidade\", \"besta\", \"falcón\", \"gorrión\" e \"vaca\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "196",
+    "input": "Das palabras \"estrada\", \"prata\", \"estación\", \"skate\" e \"bicicleta\", cal é a palabra máis comunmente asociada con \"materiais\"?"
+  },
+  {
+    "id": "199",
+    "input": "Das palabras \"prezo\", \"mércores\", \"tarifa\", \"billete\" e \"transacción\", cal é a palabra máis comunmente asociada con \"días da semana\"?"
+  },
+  {
+    "id": "201",
+    "input": "Das palabras \"xunto\", \"seguinte\", \"suspense\", \"fresco\" e \"quente\", cal é a palabra máis comunmente asociada con \"xéneros de películas\"?"
+  },
+  {
+    "id": "203",
+    "input": "Das palabras \"fantasía\", \"suspense\", \"drama\", \"comedia\" e \"curmá\", cal é a palabra máis comunmente asociada con \"familia\"?"
+  },
+  {
+    "id": "211",
+    "input": "Das palabras \"salgado\", \"delicioso\", \"brando\", \"primeiro\" e \"picante\", cal é a palabra máis comunmente asociada con \"adxectivos ordinais\"?"
+  },
+  {
+    "id": "222",
+    "input": "Das palabras \"encima\", \"firme\", \"flexible\", \"delicioso\" e \"lonxe\", cal é a palabra máis comunmente asociada con \"adverbios de ubicación\"?"
+  },
+  {
+    "id": "230",
+    "input": "Das palabras \"onte á noite\", \"esposa\", \"tío\", \"bisabuelo\" e \"curmán\", cal é a palabra máis comunmente asociada con \"adverbios temporais\"?"
+  },
+  {
+    "id": "242",
+    "input": "Das palabras \"colega\", \"bisavoa\", \"curmán\", \"tío\" e \"nin\", cal é a palabra máis comunmente asociada con \"conxuncións\"?"
+  },
+  {
+    "id": "248",
+    "input": "Das palabras \"un\", \"seis\", \"dous\", \"afastar\" e \"catro\", cal é a palabra máis comunmente asociada con \"verbos movemento\"?"
+  },
+  {
+    "id": "252",
+    "input": "Das palabras \"cama\", \"apio\", \"acelgas\", \"brócoli\" e \"ravo\", cal é a palabra máis comunmente asociada con \"fogar\"?"
+  },
+  {
+    "id": "257",
+    "input": "Das palabras \"proximamente\", \"familia\", \"pronto\", \"onte\" e \"enseguida\", cal é a palabra máis comunmente asociada con \"familia\"?"
+  },
+  {
+    "id": "265",
+    "input": "Das palabras \"aproximadamente\", \"enxeñeira\", \"fotógrafo\", \"parlamentario\" e \"ministra\", cal é a palabra máis comunmente asociada con \"adverbios de cantidade\"?"
+  },
+  {
+    "id": "283",
+    "input": "Das palabras \"sorprendido\", \"xunto\", \"caloroso\", \"pesado\" e \"doce\", cal é a palabra máis comunmente asociada con \"adxectivos de sentimentos e sensacións\"?"
+  },
+  {
+    "id": "288",
+    "input": "Das palabras \"groso\", \"delgado\", \"gas\", \"gran\" e \"angosto\", cal é a palabra máis comunmente asociada con \"materiais\"?"
+  },
+  {
+    "id": "291",
+    "input": "Das palabras \"morrer\", \"nacer\", \"sequera\", \"aparecer\" e \"vivir\", cal é a palabra máis comunmente asociada con \"adverbios de calidade\"?"
+  },
+  {
+    "id": "294",
+    "input": "Das palabras \"laranxa\", \"gris\", \"negro\", \"inundación\" e \"branco\", cal é a palabra máis comunmente asociada con \"catástrofe natural\"?"
+  },
+  {
+    "id": "299",
+    "input": "Das palabras \"demasiado\", \"rapidamente\", \"claro\", \"mellor\" e \"inicialmente\", cal é a palabra máis comunmente asociada con \"adverbios de cantidade\"?"
+  },
+  {
+    "id": "300",
+    "input": "Das palabras \"valor\", \"porque\", \"que\", \"salvo\" e \"excepto\", cal é a palabra máis comunmente asociada con \"economía\"?"
+  },
+  {
+    "id": "312",
+    "input": "Das palabras \"saxofón\", \"frauta\", \"trompeta\", \"vivir\" e \"clarinete\", cal é a palabra máis comunmente asociada con \"verbos existencia\"?"
+  },
+  {
+    "id": "317",
+    "input": "Das palabras \"laranxa\", \"branco\", \"morado\", \"negro\" e \"batería\", cal é a palabra máis comunmente asociada con \"instrumentos\"?"
+  },
+  {
+    "id": "326",
+    "input": "Das palabras \"lodo\", \"barro\", \"auga\", \"cadeira\" e \"ouro\", cal é a palabra máis comunmente asociada con \"fogar\"?"
+  },
+  {
+    "id": "331",
+    "input": "Das palabras \"entre\", \"tren\", \"estrada\", \"parada\" e \"ferrocarril\", cal é a palabra máis comunmente asociada con \"preposicións\"?"
+  },
+  {
+    "id": "335",
+    "input": "Das palabras \"alcachofa\", \"debaixo\", \"coliflor\", \"col\" e \"cenorias\", cal é a palabra máis comunmente asociada con \"adverbios de ubicación\"?"
+  },
+  {
+    "id": "337",
+    "input": "Das palabras \"cada\", \"fontaneira\", \"mundial\", \"absoluto\" e \"improbable\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "351",
+    "input": "Das palabras \"cabalo\", \"serpe\", \"xirafa\", \"peor\" e \"cascuda\", cal é a palabra máis comunmente asociada con \"adverbios de calidade\"?"
+  },
+  {
+    "id": "355",
+    "input": "Das palabras \"deserto\", \"desexar\", \"encantarse\", \"alegrarse\" e \"sorprenderse\", cal é a palabra máis comunmente asociada con \"xeografía\"?"
+  },
+  {
+    "id": "356",
+    "input": "Das palabras \"outubro\", \"xullo\", \"tocar\", \"agosto\" e \"maio\", cal é a palabra máis comunmente asociada con \"verbos sensacións\"?"
+  },
+  {
+    "id": "360",
+    "input": "Das palabras \"volver\", \"levantar\", \"entristecer\", \"agarrar\" e \"sacar\", cal é a palabra máis comunmente asociada con \"verbos emocións\"?"
+  },
+  {
+    "id": "362",
+    "input": "Das palabras \"entonces\", \"nove\", \"salvo\", \"como\" e \"si\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "365",
+    "input": "Das palabras \"alcanzar\", \"encantarse\", \"quitar\", \"levantar\" e \"achegar\", cal é a palabra máis comunmente asociada con \"verbos emocións\"?"
+  },
+  {
+    "id": "366",
+    "input": "Das palabras \"constitución\", \"velocidade\", \"movemento\", \"aumento\" e \"fondo\", cal é a palabra máis comunmente asociada con \"sociedade\"?"
+  },
+  {
+    "id": "370",
+    "input": "Das palabras \"agosto\", \"abril\", \"setembro\", \"outubro\" e \"cravo\", cal é a palabra máis comunmente asociada con \"ferramentas\"?"
+  },
+  {
+    "id": "375",
+    "input": "Das palabras \"biblioteca\", \"gimnasia\", \"froitaría\", \"floraría\" e \"charcutaría\", cal é a palabra máis comunmente asociada con \"deportes\"?"
+  },
+  {
+    "id": "387",
+    "input": "Das palabras \"porta\", \"habitación\", \"porque\", \"fiestra\" e \"edificio\", cal é a palabra máis comunmente asociada con \"conxuncións\"?"
+  },
+  {
+    "id": "393",
+    "input": "Das palabras \"piano\", \"saxofón\", \"sempre\", \"frauta\" e \"guitarra\", cal é a palabra máis comunmente asociada con \"adverbios de posibilidad\"?"
+  },
+  {
+    "id": "394",
+    "input": "Das palabras \"amplo\", \"grande\", \"gran\", \"acaso\" e \"compacto\", cal é a palabra máis comunmente asociada con \"adverbios de posibilidad\"?"
+  },
+  {
+    "id": "397",
+    "input": "Das palabras \"saxofón\", \"piano\", \"trompeta\", \"lonxitude\" e \"clarinete\", cal é a palabra máis comunmente asociada con \"espazo e cantidade\"?"
+  },
+  {
+    "id": "399",
+    "input": "Das palabras \"nacemento\", \"ser\", \"vida\", \"un\" e \"morte\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "402",
+    "input": "Das palabras \"escalera\", \"ascensor\", \"apartamento\", \"beizo\" e \"cadeira\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "415",
+    "input": "Das palabras \"case\", \"etcétera\", \"moi\", \"tan\" e \"amplo\", cal é a palabra máis comunmente asociada con \"adxectivos de forma\"?"
+  },
+  {
+    "id": "418",
+    "input": "Das palabras \"escalera\", \"martes\", \"cadeira\", \"habitación\" e \"casa\", cal é a palabra máis comunmente asociada con \"días da semana\"?"
+  },
+  {
+    "id": "419",
+    "input": "Das palabras \"director\", \"gasolineira\", \"mecánica\", \"panadeiro\" e \"proximamente\", cal é a palabra máis comunmente asociada con \"adverbios temporais\"?"
+  },
+  {
+    "id": "425",
+    "input": "Das palabras \"nacional\", \"malo\", \"continental\", \"bo\" e \"desexo\", cal é a palabra máis comunmente asociada con \"substantivos abstractos\"?"
+  },
+  {
+    "id": "427",
+    "input": "Das palabras \"tía\", \"cadeira\", \"ascensor\", \"cama\" e \"escalera\", cal é a palabra máis comunmente asociada con \"familia\"?"
+  },
+  {
+    "id": "429",
+    "input": "Das palabras \"piano\", \"frauta\", \"cinco\", \"trompeta\" e \"violín\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "437",
+    "input": "Das palabras \"esposo\", \"como\", \"amigo\", \"tío\" e \"curmá\", cal é a palabra máis comunmente asociada con \"conxuncións\"?"
+  },
+  {
+    "id": "451",
+    "input": "Das palabras \"piano\", \"porro\", \"cebola\", \"coliflor\" e \"acelgas\", cal é a palabra máis comunmente asociada con \"instrumentos\"?"
+  },
+  {
+    "id": "452",
+    "input": "Das palabras \"aumento\", \"dirección\", \"altura\", \"crecemento\" e \"adverbio\", cal é a palabra máis comunmente asociada con \"categorías gramaticais\"?"
+  },
+  {
+    "id": "462",
+    "input": "Das palabras \"biólogo\", \"gobernadora\", \"usar\", \"médica\" e \"senador\", cal é a palabra máis comunmente asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "464",
+    "input": "Das palabras \"constitución\", \"administración\", \"cuarto\", \"encontro\" e \"reunión\", cal é a palabra máis comunmente asociada con \"fogar\"?"
+  },
+  {
+    "id": "467",
+    "input": "Das palabras \"tres\", \"compacto\", \"grande\", \"amplo\" e \"groso\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "468",
+    "input": "Das palabras \"vivir\", \"morrer\", \"en\", \"aparecer\" e \"medrar\", cal é a palabra máis comunmente asociada con \"preposicións\"?"
+  },
+  {
+    "id": "477",
+    "input": "Das palabras \"pomo\", \"fío\", \"marrón\", \"cámara\" e \"bolsa\", cal é a palabra máis comunmente asociada con \"cores\"?"
+  },
+  {
+    "id": "484",
+    "input": "Das palabras \"frontal\", \"criatura\", \"malo\", \"rexional\" e \"outro\", cal é a palabra máis comunmente asociada con \"vida\"?"
+  },
+  {
+    "id": "490",
+    "input": "Das palabras \"moto\", \"avenida\", \"encantarse\", \"automóbil\" e \"parada\", cal é a palabra máis comunmente asociada con \"verbos emocións\"?"
+  },
+  {
+    "id": "491",
+    "input": "Das palabras \"gas\", \"actualmente\", \"lume\", \"chumbo\" e \"metal\", cal é a palabra máis comunmente asociada con \"adverbios temporais\"?"
+  },
+  {
+    "id": "494",
+    "input": "Das palabras \"sábado\", \"luns\", \"martes\", \"setembro\" e \"mércores\", cal é a palabra máis comunmente asociada con \"meses do ano\"?"
+  },
+  {
+    "id": "497",
+    "input": "Das palabras \"aparecer\", \"teu\", \"morrer\", \"vivir\" e \"nacer\", cal é a palabra máis comunmente asociada con \"adxectivos posesivos\"?"
+  },
+  {
+    "id": "502",
+    "input": "Das palabras \"ver\", \"morte\", \"ouvir\", \"escoitar\" e \"tocar\", cal é a palabra máis comunmente asociada con \"vida\"?"
+  },
+  {
+    "id": "507",
+    "input": "Das palabras \"forte\", \"cultural\", \"necesario\", \"acaso\" e \"malo\", cal é a palabra máis comunmente asociada con \"adverbios de posibilidad\"?"
+  },
+  {
+    "id": "508",
+    "input": "Das palabras \"cabelo\", \"nariz\", \"cara\", \"pescozo\" e \"moto\", cal é a palabra máis comunmente asociada con \"transporte\"?"
+  },
+  {
+    "id": "509",
+    "input": "Das palabras \"estación\", \"automóbil\", \"tren\", \"dirección\" e \"parada\", cal é a palabra máis comunmente asociada con \"espazo e cantidade\"?"
+  },
+  {
+    "id": "516",
+    "input": "Das palabras \"produción\", \"produto\", \"uña\", \"economía\" e \"comercio\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "517",
+    "input": "Das palabras \"humanidade\", \"levar\", \"señora\", \"adolescente\" e \"adulta\", cal é a palabra máis comunmente asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "523",
+    "input": "Das palabras \"oso\", \"cerebro\", \"fígado\", \"conxunto\" e \"estómago\", cal é a palabra máis comunmente asociada con \"substantivos abstractos\"?"
+  },
+  {
+    "id": "524",
+    "input": "Das palabras \"morte\", \"ser\", \"entrada\", \"criatura\" e \"vida\", cal é a palabra máis comunmente asociada con \"fogar\"?"
+  },
+  {
+    "id": "528",
+    "input": "Das palabras \"voso\", \"desde\", \"teu\", \"meu\" e \"seu\", cal é a palabra máis comunmente asociada con \"preposicións\"?"
+  },
+  {
+    "id": "529",
+    "input": "Das palabras \"nunca\", \"dificilmente\", \"seguramente\", \"allo\" e \"xamais\", cal é a palabra máis comunmente asociada con \"verduras\"?"
+  },
+  {
+    "id": "539",
+    "input": "Das palabras \"bisavoa\", \"sobriña\", \"tía\", \"entristecer\" e \"filla\", cal é a palabra máis comunmente asociada con \"verbos emocións\"?"
+  },
+  {
+    "id": "555",
+    "input": "Das palabras \"calzón\", \"posterior\", \"flexible\", \"unido\" e \"amargo\", cal é a palabra máis comunmente asociada con \"roupa\"?"
+  },
+  {
+    "id": "561",
+    "input": "Das palabras \"luns\", \"especie\", \"venres\", \"sábado\" e \"martes\", cal é a palabra máis comunmente asociada con \"vida\"?"
+  },
+  {
+    "id": "578",
+    "input": "Das palabras \"piano\", \"clarinete\", \"batería\", \"saxofón\" e \"venres\", cal é a palabra máis comunmente asociada con \"días da semana\"?"
+  },
+  {
+    "id": "582",
+    "input": "Das palabras \"persoa\", \"dama\", \"adulto\", \"humano\" e \"xeral\", cal é a palabra máis comunmente asociada con \"adxectivos de calidade\"?"
+  },
+  {
+    "id": "586",
+    "input": "Das palabras \"ancián\", \"señora\", \"cabaleiro\", \"cadeira\" e \"adolescente\", cal é a palabra máis comunmente asociada con \"fogar\"?"
+  },
+  {
+    "id": "587",
+    "input": "Das palabras \"científico\", \"panadeiro\", \"actriz\", \"xuíz\" e \"medida\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "590",
+    "input": "Das palabras \"porque\", \"seu\", \"voso\", \"teu\" e \"meu\", cal é a palabra máis comunmente asociada con \"conxuncións\"?"
+  },
+  {
+    "id": "595",
+    "input": "Das palabras \"hospital\", \"autoescola\", \"concello\", \"xoiería\" e \"xoves\", cal é a palabra máis comunmente asociada con \"días da semana\"?"
+  },
+  {
+    "id": "597",
+    "input": "Das palabras \"reprodución\", \"nacemento\", \"criatura\", \"morte\" e \"lago\", cal é a palabra máis comunmente asociada con \"xeografía\"?"
+  },
+  {
+    "id": "607",
+    "input": "Das palabras \"aumento\", \"fondo\", \"home\", \"largo\" e \"posición\", cal é a palabra máis comunmente asociada con \"xente\"?"
+  },
+  {
+    "id": "608",
+    "input": "Das palabras \"recibir\", \"autoescola\", \"probar\", \"abrir\" e \"entender\", cal é a palabra máis comunmente asociada con \"lugares de traballo\"?"
+  },
+  {
+    "id": "613",
+    "input": "Das palabras \"até\", \"ser\", \"por\", \"entre\" e \"sobre\", cal é a palabra máis comunmente asociada con \"vida\"?"
+  },
+  {
+    "id": "615",
+    "input": "Das palabras \"escritorio\", \"luvas\", \"cuarto\", \"fogar\" e \"habitación\", cal é a palabra máis comunmente asociada con \"roupa\"?"
+  },
+  {
+    "id": "616",
+    "input": "Das palabras \"suspense\", \"histórico\", \"demanda\", \"terror\" e \"fantasía\", cal é a palabra máis comunmente asociada con \"economía\"?"
+  },
+  {
+    "id": "623",
+    "input": "Das palabras \"tocar\", \"escoitar\", \"mosca\", \"percibir\" e \"sentir\", cal é a palabra máis comunmente asociada con \"animais\"?"
+  },
+  {
+    "id": "631",
+    "input": "Das palabras \"comercio\", \"produto\", \"diñeiro\", \"produción\" e \"autobús\", cal é a palabra máis comunmente asociada con \"transporte\"?"
+  },
+  {
+    "id": "632",
+    "input": "Das palabras \"obriga\", \"equipo\", \"supermercado\", \"decreto\" e \"campaña\", cal é a palabra máis comunmente asociada con \"lugares de traballo\"?"
+  },
+  {
+    "id": "638",
+    "input": "Das palabras \"volver\", \"atún\", \"lombriz\", \"porco\" e \"elefante\", cal é a palabra máis comunmente asociada con \"verbos movemento\"?"
+  },
+  {
+    "id": "639",
+    "input": "Das palabras \"nove\", \"un\", \"pantalla\", \"sete\" e \"cinco\", cal é a palabra máis comunmente asociada con \"ferramentas\"?"
+  },
+  {
+    "id": "654",
+    "input": "Das palabras \"autoridade\", \"peso\", \"permiso\", \"organización\" e \"vila\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "661",
+    "input": "Das palabras \"acordo\", \"beneficio\", \"falta\", \"redución\" e \"olfacto\", cal é a palabra máis comunmente asociada con \"espazo e cantidade\"?"
+  },
+  {
+    "id": "667",
+    "input": "Das palabras \"boca\", \"cara\", \"cu\", \"pronto\" e \"músculo\", cal é a palabra máis comunmente asociada con \"adverbios temporais\"?"
+  },
+  {
+    "id": "669",
+    "input": "Das palabras \"billete\", \"encantado\", \"ansioso\", \"solitario\" e \"tranquilo\", cal é a palabra máis comunmente asociada con \"economía\"?"
+  },
+  {
+    "id": "671",
+    "input": "Das palabras \"sorprenderse\", \"amar\", \"aburrirse\", \"querer\" e \"rugby\", cal é a palabra máis comunmente asociada con \"deportes\"?"
+  },
+  {
+    "id": "681",
+    "input": "Das palabras \"contento\", \"segundo\", \"axitado\", \"aburrido\" e \"asustado\", cal é a palabra máis comunmente asociada con \"adxectivos ordinais\"?"
+  },
+  {
+    "id": "683",
+    "input": "Das palabras \"ouvir\", \"morte\", \"escoitar\", \"percibir\" e \"sentir\", cal é a palabra máis comunmente asociada con \"vida\"?"
+  },
+  {
+    "id": "689",
+    "input": "Das palabras \"morado\", \"azul\", \"largo\", \"verde\" e \"marrón\", cal é a palabra máis comunmente asociada con \"espazo e cantidade\"?"
+  },
+  {
+    "id": "694",
+    "input": "Das palabras \"especie\", \"empeorar\", \"ser\", \"reprodución\" e \"criatura\", cal é a palabra máis comunmente asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "695",
+    "input": "Das palabras \"anciá\", \"bebé\", \"lago\", \"home\" e \"señor\", cal é a palabra máis comunmente asociada con \"xeografía\"?"
+  },
+  {
+    "id": "703",
+    "input": "Das palabras \"tal\", \"ben\", \"finalmente\", \"así mesmo\" e \"un\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "714",
+    "input": "Das palabras \"dereito\", \"constitución\", \"prohibición\", \"sacar\" e \"obriga\", cal é a palabra máis comunmente asociada con \"verbos movemento\"?"
+  },
+  {
+    "id": "721",
+    "input": "Das palabras \"laranxa\", \"bosque\", \"rosa\", \"negro\" e \"color\", cal é a palabra máis comunmente asociada con \"xeografía\"?"
+  },
+  {
+    "id": "728",
+    "input": "Das palabras \"estación\", \"bus\", \"estrada\", \"cebola\" e \"transporte\", cal é a palabra máis comunmente asociada con \"verduras\"?"
+  },
+  {
+    "id": "732",
+    "input": "Das palabras \"tan\", \"tanto\", \"moito\", \"bastante\" e \"lonxe\", cal é a palabra máis comunmente asociada con \"adverbios de ubicación\"?"
+  },
+  {
+    "id": "733",
+    "input": "Das palabras \"tío\", \"luns\", \"coñecido\", \"amiga\" e \"colega\", cal é a palabra máis comunmente asociada con \"días da semana\"?"
+  },
+  {
+    "id": "741",
+    "input": "Das palabras \"fantasía\", \"comedia\", \"pescozo\", \"musical\" e \"romántico\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "742",
+    "input": "Das palabras \"despois\", \"agora\", \"recentemente\", \"pronto\" e \"talón\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "745",
+    "input": "Das palabras \"dama\", \"construcción\", \"cuarto\", \"apartamento\" e \"habitación\", cal é a palabra máis comunmente asociada con \"xente\"?"
+  },
+  {
+    "id": "751",
+    "input": "Das palabras \"meu\", \"noso\", \"estómago\", \"voso\" e \"teu\", cal é a palabra máis comunmente asociada con \"corpo humán\"?"
+  },
+  {
+    "id": "761",
+    "input": "Das palabras \"ollo\", \"ao redor\", \"cerebro\", \"coxa\" e \"lombo\", cal é a palabra máis comunmente asociada con \"adverbios de ubicación\"?"
+  },
+  {
+    "id": "764",
+    "input": "Das palabras \"mililitro\", \"medida\", \"quilo\", \"litro\" e \"faltar\", cal é a palabra máis comunmente asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "766",
+    "input": "Das palabras \"penúltimo\", \"último\", \"quinto\", \"primeiro\" e \"piano\", cal é a palabra máis comunmente asociada con \"instrumentos\"?"
+  },
+  {
+    "id": "770",
+    "input": "Das palabras \"corda\", \"cravo\", \"salvo\", \"cordel\" e \"aparato\", cal é a palabra máis comunmente asociada con \"conxuncións\"?"
+  },
+  {
+    "id": "771",
+    "input": "Das palabras \"dez\", \"adolescente\", \"humanidade\", \"xente\" e \"humano\", cal é a palabra máis comunmente asociada con \"números\"?"
+  },
+  {
+    "id": "773",
+    "input": "Das palabras \"dama\", \"xente\", \"pronombre\", \"anciá\" e \"home\", cal é a palabra máis comunmente asociada con \"categorías gramaticais\"?"
+  },
+  {
+    "id": "777",
+    "input": "Das palabras \"gato\", \"león\", \"babosa\", \"corvo\" e \"fácil\", cal é a palabra máis comunmente asociada con \"adxectivos de calidade\"?"
+  },
+  {
+    "id": "789",
+    "input": "Das palabras \"dentista\", \"ouro\", \"aire\", \"metal\" e \"ferro\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "790",
+    "input": "Das palabras \"milímetro\", \"medida\", \"percibir\", \"gramo\" e \"mililitro\", cal é a palabra máis comunmente asociada con \"verbos sensacións\"?"
+  },
+  {
+    "id": "791",
+    "input": "Das palabras \"casa\", \"porque\", \"sino\", \"cando\" e \"como\", cal é a palabra máis comunmente asociada con \"fogar\"?"
+  },
+  {
+    "id": "793",
+    "input": "Das palabras \"lura\", \"paxaro\", \"mosca\", \"penúltimo\" e \"lagarto\", cal é a palabra máis comunmente asociada con \"adxectivos ordinais\"?"
+  },
+  {
+    "id": "798",
+    "input": "Das palabras \"bota\", \"estado\", \"administración\", \"prohibición\" e \"autoridade\", cal é a palabra máis comunmente asociada con \"roupa\"?"
+  },
+  {
+    "id": "800",
+    "input": "Das palabras \"soamente\", \"moi\", \"precisar\", \"tanto\" e \"tan\", cal é a palabra máis comunmente asociada con \"verbos actividades\"?"
+  },
+  {
+    "id": "808",
+    "input": "Das palabras \"quilómetro\", \"último\", \"centésimo\", \"segundo\" e \"primeiro\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "810",
+    "input": "Das palabras \"cravo\", \"bolsa\", \"fío\", \"golpear\" e \"aparato\", cal é a palabra máis comunmente asociada con \"verbos movemento\"?"
+  },
+  {
+    "id": "817",
+    "input": "Das palabras \"pemento\", \"col\", \"alcachofa\", \"produción\" e \"cogombro\", cal é a palabra máis comunmente asociada con \"economía\"?"
+  },
+  {
+    "id": "820",
+    "input": "Das palabras \"esgrima\", \"esquí\", \"béisbol\", \"balonmán\" e \"color\", cal é a palabra máis comunmente asociada con \"cores\"?"
+  },
+  {
+    "id": "824",
+    "input": "Das palabras \"organización\", \"capital\", \"partido\", \"ditadura\" e \"berenxena\", cal é a palabra máis comunmente asociada con \"verduras\"?"
+  },
+  {
+    "id": "837",
+    "input": "Das palabras \"peiteador\", \"dentista\", \"seu\", \"bombeira\" e \"gobernadora\", cal é a palabra máis comunmente asociada con \"adxectivos posesivos\"?"
+  },
+  {
+    "id": "843",
+    "input": "Das palabras \"total\", \"laguna\", \"natureza\", \"bosque\" e \"lago\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "849",
+    "input": "Das palabras \"deber\", \"distinguir\", \"atar\", \"irmán\" e \"escribir\", cal é a palabra máis comunmente asociada con \"familia\"?"
+  },
+  {
+    "id": "865",
+    "input": "Das palabras \"cansado\", \"triste\", \"doloroso\", \"tras\" e \"aburrido\", cal é a palabra máis comunmente asociada con \"preposicións\"?"
+  },
+  {
+    "id": "878",
+    "input": "Das palabras \"que\", \"venres\", \"salvo\", \"como\" e \"excepto\", cal é a palabra máis comunmente asociada con \"días da semana\"?"
+  },
+  {
+    "id": "880",
+    "input": "Das palabras \"realidade\", \"ocasión\", \"interrupción\", \"ferro\" e \"fase\", cal é a palabra máis comunmente asociada con \"materiais\"?"
+  },
+  {
+    "id": "892",
+    "input": "Das palabras \"agarrar\", \"demanda\", \"comercio\", \"transacción\" e \"produto\", cal é a palabra máis comunmente asociada con \"verbos movemento\"?"
+  },
+  {
+    "id": "896",
+    "input": "Das palabras \"poboación\", \"sábado\", \"mércores\", \"luns\" e \"martes\", cal é a palabra máis comunmente asociada con \"sociedade\"?"
+  },
+  {
+    "id": "897",
+    "input": "Das palabras \"demasiado\", \"parlamentario\", \"carniceira\", \"ministra\" e \"bombeira\", cal é a palabra máis comunmente asociada con \"adverbios de cantidade\"?"
+  },
+  {
+    "id": "903",
+    "input": "Das palabras \"guitarra\", \"pero\", \"frauta\", \"saxofón\" e \"trompeta\", cal é a palabra máis comunmente asociada con \"conxuncións\"?"
+  },
+  {
+    "id": "910",
+    "input": "Das palabras \"musical\", \"drama\", \"escola\", \"suspense\" e \"romántico\", cal é a palabra máis comunmente asociada con \"lugares de traballo\"?"
+  },
+  {
+    "id": "912",
+    "input": "Das palabras \"ferro\", \"metal\", \"arquitecta\", \"prata\" e \"aire\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "918",
+    "input": "Das palabras \"acelgas\", \"leituga\", \"ravo\", \"pemento\" e \"programador\", cal é a palabra máis comunmente asociada con \"profesións\"?"
+  },
+  {
+    "id": "921",
+    "input": "Das palabras \"bastante\", \"sentir\", \"apenas\", \"pouco\" e \"todo\", cal é a palabra máis comunmente asociada con \"verbos sensacións\"?"
+  },
+  {
+    "id": "922",
+    "input": "Das palabras \"sempre\", \"probablemente\", \"tampouco\", \"quizais\" e \"por\", cal é a palabra máis comunmente asociada con \"preposicións\"?"
+  },
+  {
+    "id": "923",
+    "input": "Das palabras \"criatura\", \"especie\", \"encontro\", \"reprodución\" e \"ser\", cal é a palabra máis comunmente asociada con \"sociedade\"?"
+  },
+  {
+    "id": "925",
+    "input": "Das palabras \"persoa\", \"birlo\", \"béisbol\", \"piragüismo\" e \"boxeo\", cal é a palabra máis comunmente asociada con \"xente\"?"
+  },
+  {
+    "id": "929",
+    "input": "Das palabras \"ver\", \"cheirar\", \"xuño\", \"ouvir\" e \"sentir\", cal é a palabra máis comunmente asociada con \"meses do ano\"?"
+  },
+  {
+    "id": "935",
+    "input": "Das palabras \"sobriño\", \"familia\", \"colega\", \"amigo\" e \"quilo\", cal é a palabra máis comunmente asociada con \"medidas\"?"
+  },
+  {
+    "id": "940",
+    "input": "Das palabras \"fantasía\", \"drama\", \"histórico\", \"musical\" e \"pronto\", cal é a palabra máis comunmente asociada con \"adverbios temporais\"?"
+  },
+  {
+    "id": "941",
+    "input": "Das palabras \"tocar\", \"escoitar\", \"querer\", \"percibir\" e \"ouvir\", cal é a palabra máis comunmente asociada con \"verbos emocións\"?"
+  },
+  {
+    "id": "943",
+    "input": "Das palabras \"soamente\", \"pouco\", \"exactamente\", \"vehículo\" e \"bastante\", cal é a palabra máis comunmente asociada con \"transporte\"?"
+  },
+  {
+    "id": "945",
+    "input": "Das palabras \"escalera\", \"panel\", \"casa\", \"ascensor\" e \"cremalleira\", cal é a palabra máis comunmente asociada con \"roupa\"?"
+  },
+  {
+    "id": "950",
+    "input": "Das palabras \"máis\", \"moito\", \"case\", \"etcétera\" e \"inundación\", cal é a palabra máis comunmente asociada con \"catástrofe natural\"?"
+  },
+  {
+    "id": "960",
+    "input": "Das palabras \"pintora\", \"carteiro\", \"panadeiro\", \"costa\" e \"astronauta\", cal é a palabra máis comunmente asociada con \"xeografía\"?"
+  },
+  {
+    "id": "966",
+    "input": "Das palabras \"comedia\", \"drama\", \"existir\", \"histórico\" e \"terror\", cal é a palabra máis comunmente asociada con \"verbos existencia\"?"
+  },
+  {
+    "id": "970",
+    "input": "Das palabras \"decidir\", \"cantar\", \"cheirar\", \"pretender\" e \"durmir\", cal é a palabra máis comunmente asociada con \"verbos sensacións\"?"
+  },
+  {
+    "id": "992",
+    "input": "Das palabras \"unicamente\", \"cabaleiro\", \"así mesmo\", \"ben\" e \"incluso\", cal é a palabra máis comunmente asociada con \"xente\"?"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1002",
+    "input": "Zein hitz erlazionatzen da gutxien \"instrumentuak\" kategoriarekin \"txirula\", \"gris\", \"tronpeta\", \"klarinete\" eta \"saxofoi\" hitzen artean?"
+  },
+  {
+    "id": "1017",
+    "input": "Zein hitz erlazionatzen da gutxien \"barazkiak\" kategoriarekin \"baratxuri\", \"zainzuri\", \"erremolatxa\", \"piper\" eta \"haren\" hitzen artean?"
+  },
+  {
+    "id": "1019",
+    "input": "Zein hitz erlazionatzen da gutxien \"garraioa\" kategoriarekin \"ibilgailu\", \"trenbide\", \"bide\", \"motor\" eta \"harritu\" hitzen artean?"
+  },
+  {
+    "id": "1025",
+    "input": "Zein hitz erlazionatzen da gutxien \"asteko egunak\" kategoriarekin \"taberna\", \"ostiral\", \"larunbat\", \"astearte\" eta \"astelehen\" hitzen artean?"
+  },
+  {
+    "id": "1029",
+    "input": "Zein hitz erlazionatzen da gutxien \"materialak\" kategoriarekin \"ur\", \"lurrun\", \"aire\", \"gas\" eta \"diru\" hitzen artean?"
+  },
+  {
+    "id": "1034",
+    "input": "Zein hitz erlazionatzen da gutxien \"tresnak\" kategoriarekin \"iltze\", \"soka\", \"kamera\", \"igande\" eta \"giltza\" hitzen artean?"
+  },
+  {
+    "id": "1035",
+    "input": "Zein hitz erlazionatzen da gutxien \"postposizio askeak\" kategoriarekin \"inguru\", \"ordez\", \"urrun\", \"barrena\" eta \"arte\" hitzen artean?"
+  },
+  {
+    "id": "1039",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekintza aditzak\" kategoriarekin \"suntsitu\", \"laga\", \"azaldu\", \"posible\" eta \"ordezkatu\" hitzen artean?"
+  },
+  {
+    "id": "1050",
+    "input": "Zein hitz erlazionatzen da gutxien \"zentzumen-izenondoak\" kategoriarekin \"geraleku\", \"leun\", \"hurrengo\", \"atzeko\" eta \"gazi\" hitzen artean?"
+  },
+  {
+    "id": "1054",
+    "input": "Zein hitz erlazionatzen da gutxien \"barazkiak\" kategoriarekin \"babak\", \"gizateri\", \"azalore\", \"arto\" eta \"aza\" hitzen artean?"
+  },
+  {
+    "id": "1057",
+    "input": "Zein hitz erlazionatzen da gutxien \"emozio aditzak\" kategoriarekin \"komedia\", \"maitatu\", \"harritu\", \"nekatu\" eta \"miretsi\" hitzen artean?"
+  },
+  {
+    "id": "1067",
+    "input": "Zein hitz erlazionatzen da gutxien \"giza gorputza\" kategoriarekin \"gramo\", \"hezur\", \"orpo\", \"sorbalda\" eta \"bular\" hitzen artean?"
+  },
+  {
+    "id": "1077",
+    "input": "Zein hitz erlazionatzen da gutxien \"bizitza\" kategoriarekin \"bizitza\", \"izaki\", \"heriotza\", \"gabe\" eta \"umeki\" hitzen artean?"
+  },
+  {
+    "id": "1086",
+    "input": "Zein hitz erlazionatzen da gutxien \"koloreak\" kategoriarekin \"arrosa\", \"laranja\", \"kolore\", \"gizon\" eta \"hori\" hitzen artean?"
+  },
+  {
+    "id": "1114",
+    "input": "Zein hitz erlazionatzen da gutxien \"izenordain genitiboak\" kategoriarekin \"haien\", \"nire\", \"mingots\", \"zure\" eta \"zuen\" hitzen artean?"
+  },
+  {
+    "id": "1150",
+    "input": "Zein hitz erlazionatzen da gutxien \"jantziak\" kategoriarekin \"belo\", \"galtza\", \"arropa\", \"beroki\" eta \"haren\" hitzen artean?"
+  },
+  {
+    "id": "1151",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbakiak\" kategoriarekin \"lau\", \"bat\", \"sei\", \"bi\" eta \"zuri\" hitzen artean?"
+  },
+  {
+    "id": "1175",
+    "input": "Zein hitz erlazionatzen da gutxien \"lantokiak\" kategoriarekin \"supermerkatu\", \"kafetegi\", \"lasai\", \"loradenda\" eta \"farmazia\" hitzen artean?"
+  },
+  {
+    "id": "1178",
+    "input": "Zein hitz erlazionatzen da gutxien \"giza gorputza\" kategoriarekin \"atzamar\", \"bainujantzi\", \"bizkar\", \"urdail\" eta \"sabelalde\" hitzen artean?"
+  },
+  {
+    "id": "1185",
+    "input": "Zein hitz erlazionatzen da gutxien \"bizitza\" kategoriarekin \"izaki\", \"jaiotza\", \"ostiral\", \"heriotza\" eta \"ugalketa\" hitzen artean?"
+  },
+  {
+    "id": "1186",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekonomia\" kategoriarekin \"transakzio\", \"ekonomia\", \"iruditu\", \"merkataritza\" eta \"bilete\" hitzen artean?"
+  },
+  {
+    "id": "1189",
+    "input": "Zein hitz erlazionatzen da gutxien \"denbora-aditzondoak\" kategoriarekin \"orain\", \"bada\", \"lehenago\", \"aurki\" eta \"oraino\" hitzen artean?"
+  },
+  {
+    "id": "1190",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbakiak\" kategoriarekin \"garun\", \"zortzi\", \"zazpi\", \"bi\" eta \"bat\" hitzen artean?"
+  },
+  {
+    "id": "1199",
+    "input": "Zein hitz erlazionatzen da gutxien \"kirolak\" kategoriarekin \"patinaje\", \"tronpeta\", \"eskalada\", \"igeriketa\" eta \"gimnastika\" hitzen artean?"
+  },
+  {
+    "id": "1201",
+    "input": "Zein hitz erlazionatzen da gutxien \"existentzia aditzak\" kategoriarekin \"hil\", \"desagertu\", \"bizi\", \"izan\" eta \"lanabes\" hitzen artean?"
+  },
+  {
+    "id": "1203",
+    "input": "Zein hitz erlazionatzen da gutxien \"postposizio askeak\" kategoriarekin \"aurre\", \"arabera\", \"labezomorro\", \"barne\" eta \"barrena\" hitzen artean?"
+  },
+  {
+    "id": "1211",
+    "input": "Zein hitz erlazionatzen da gutxien \"hondamendi naturalak\" kategoriarekin \"uholde\", \"elur-jausi\", \"lurrikara\", \"irail\" eta \"sute\" hitzen artean?"
+  },
+  {
+    "id": "1222",
+    "input": "Zein hitz erlazionatzen da gutxien \"hilabeteak\" kategoriarekin \"maiatz\", \"ekain\", \"otsail\", \"trinko\" eta \"abendu\" hitzen artean?"
+  },
+  {
+    "id": "1230",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekonomia\" kategoriarekin \"salneurri\", \"konpainia\", \"tarifa\", \"produktu\" eta \"pisatu\" hitzen artean?"
+  },
+  {
+    "id": "1242",
+    "input": "Zein hitz erlazionatzen da gutxien \"ogibideak\" kategoriarekin \"argiketari\", \"suhiltzaile\", \"ile-apaintzaile\", \"adberbio\" eta \"argazkilari\" hitzen artean?"
+  },
+  {
+    "id": "1248",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"txiki\", \"gogor\", \"lodi\", \"mehe\" eta \"handi\" hitzen artean?"
+  },
+  {
+    "id": "1265",
+    "input": "Zein hitz erlazionatzen da gutxien \"familia\" kategoriarekin \"lankide\", \"osaba\", \"amona\", \"galtzontzilloak\" eta \"senar\" hitzen artean?"
+  },
+  {
+    "id": "1283",
+    "input": "Zein hitz erlazionatzen da gutxien \"barazkiak\" kategoriarekin \"zerba\", \"tipula\", \"piper\", \"patatak\" eta \"ekonomia\" hitzen artean?"
+  },
+  {
+    "id": "1288",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekonomia\" kategoriarekin \"bilete\", \"balio\", \"merkataritza\", \"abuztu\" eta \"ekonomia\" hitzen artean?"
+  },
+  {
+    "id": "1291",
+    "input": "Zein hitz erlazionatzen da gutxien \"emozio aditzak\" kategoriarekin \"aztertu\", \"aspertu\", \"desiratu\", \"nekatu\" eta \"miretsi\" hitzen artean?"
+  },
+  {
+    "id": "1294",
+    "input": "Zein hitz erlazionatzen da gutxien \"kategoria gramatikalak\" kategoriarekin \"izenlagun\", \"adberbio\", \"izenondo\", \"gizateri\" eta \"aditz\" hitzen artean?"
+  },
+  {
+    "id": "1299",
+    "input": "Zein hitz erlazionatzen da gutxien \"espazio eta kopurua\" kategoriarekin \"ekain\", \"abiadura\", \"luzera\", \"zabalera\" eta \"hazkunde\" hitzen artean?"
+  },
+  {
+    "id": "1300",
+    "input": "Zein hitz erlazionatzen da gutxien \"garraioa\" kategoriarekin \"aireportu\", \"ezik\", \"bide\", \"itsasontzi\" eta \"automobil\" hitzen artean?"
+  },
+  {
+    "id": "1312",
+    "input": "Zein hitz erlazionatzen da gutxien \"izenordain genitiboak\" kategoriarekin \"nire\", \"zure\", \"zuen\", \"gure\" eta \"tsunami\" hitzen artean?"
+  },
+  {
+    "id": "1317",
+    "input": "Zein hitz erlazionatzen da gutxien \"kalitate adjektiboak\" kategoriarekin \"arrunt\", \"ziur\", \"garrantzitsu\", \"beharrezko\" eta \"arreta\" hitzen artean?"
+  },
+  {
+    "id": "1326",
+    "input": "Zein hitz erlazionatzen da gutxien \"familia\" kategoriarekin \"birraitona\", \"mintzatu\", \"bikote\", \"birramona\" eta \"biloba\" hitzen artean?"
+  },
+  {
+    "id": "1331",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekintza aditzak\" kategoriarekin \"idatzi\", \"erabili\", \"trafiko\", \"itxi\" eta \"atzeratu\" hitzen artean?"
+  },
+  {
+    "id": "1335",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"urrun\", \"urruti\", \"hurren\", \"gertu\" eta \"ostikatu\" hitzen artean?"
+  },
+  {
+    "id": "1337",
+    "input": "Zein hitz erlazionatzen da gutxien \"gizartea\" kategoriarekin \"historia\", \"enpresa\", \"hiriburu\", \"kargu\" eta \"hiri\" hitzen artean?"
+  },
+  {
+    "id": "1351",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbakiak\" kategoriarekin \"ezpada\", \"lau\", \"bi\", \"sei\" eta \"bost\" hitzen artean?"
+  },
+  {
+    "id": "1355",
+    "input": "Zein hitz erlazionatzen da gutxien \"giza gorputza\" kategoriarekin \"izter\", \"bizkar\", \"hezur\", \"aho\" eta \"garrantzitsu\" hitzen artean?"
+  },
+  {
+    "id": "1356",
+    "input": "Zein hitz erlazionatzen da gutxien \"gizartea\" kategoriarekin \"departamendu\", \"nazio\", \"betebehar\", \"bolumen\" eta \"kontseilu\" hitzen artean?"
+  },
+  {
+    "id": "1360",
+    "input": "Zein hitz erlazionatzen da gutxien \"familia\" kategoriarekin \"birbiloba\", \"lehengusina\", \"anai\", \"lehengusu\" eta \"jertse\" hitzen artean?"
+  },
+  {
+    "id": "1365",
+    "input": "Zein hitz erlazionatzen da gutxien \"zentzumen aditzak\" kategoriarekin \"jaurti\", \"ostikatu\", \"ekarri\", \"martxo\" eta \"hartu\" hitzen artean?"
+  },
+  {
+    "id": "1366",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"gertu\", \"hor\", \"han\", \"trinko\" eta \"urrun\" hitzen artean?"
+  },
+  {
+    "id": "1370",
+    "input": "Zein hitz erlazionatzen da gutxien \"geografia\" kategoriarekin \"itsasalde\", \"eta\", \"urmael\", \"mendi\" eta \"baso\" hitzen artean?"
+  },
+  {
+    "id": "1375",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"trinko\", \"lodi\", \"zabal\", \"handi\" eta \"aldatu\" hitzen artean?"
+  },
+  {
+    "id": "1387",
+    "input": "Zein hitz erlazionatzen da gutxien \"barazkiak\" kategoriarekin \"berandu\", \"arto\", \"azenario\", \"tipula\" eta \"alberjinia\" hitzen artean?"
+  },
+  {
+    "id": "1394",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"ziurrenik\", \"han\", \"urrun\", \"hurbil\" eta \"hor\" hitzen artean?"
+  },
+  {
+    "id": "1397",
+    "input": "Zein hitz erlazionatzen da gutxien \"neurriak\" kategoriarekin \"bolumen\", \"mililitro\", \"neurri\", \"ikaratu\" eta \"kilometro\" hitzen artean?"
+  },
+  {
+    "id": "1399",
+    "input": "Zein hitz erlazionatzen da gutxien \"tresnak\" kategoriarekin \"poltsa\", \"kordel\", \"arma\", \"arabera\" eta \"soka\" hitzen artean?"
+  },
+  {
+    "id": "1415",
+    "input": "Zein hitz erlazionatzen da gutxien \"iritzi-aditzondoak\" kategoriarekin \"aise\", \"beharbada\", \"akaso\", \"nekez\" eta \"harritu\" hitzen artean?"
+  },
+  {
+    "id": "1418",
+    "input": "Zein hitz erlazionatzen da gutxien \"hilabeteak\" kategoriarekin \"urtarril\", \"irail\", \"azaro\", \"otsail\" eta \"billar\" hitzen artean?"
+  },
+  {
+    "id": "1419",
+    "input": "Zein hitz erlazionatzen da gutxien \"kirolak\" kategoriarekin \"surf\", \"labezomorro\", \"billar\", \"waterpolo\" eta \"piraguismo\" hitzen artean?"
+  },
+  {
+    "id": "1425",
+    "input": "Zein hitz erlazionatzen da gutxien \"hondamendi naturalak\" kategoriarekin \"lehorte\", \"haren\", \"urakan\", \"uholde\" eta \"elur-jausi\" hitzen artean?"
+  },
+  {
+    "id": "1427",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"txiki\", \"estu\", \"beharbada\", \"trinko\" eta \"lodi\" hitzen artean?"
+  },
+  {
+    "id": "1429",
+    "input": "Zein hitz erlazionatzen da gutxien \"kantitate-aditzondoak\" kategoriarekin \"samar\", \"gehiago\", \"apenas\", \"nahiko\" eta \"izenordain\" hitzen artean?"
+  },
+  {
+    "id": "1437",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbakiak\" kategoriarekin \"bost\", \"zazpi\", \"ziurrenik\", \"bi\" eta \"bederatzi\" hitzen artean?"
+  },
+  {
+    "id": "1451",
+    "input": "Zein hitz erlazionatzen da gutxien \"izenordain genitiboak\" kategoriarekin \"topaketa\", \"gure\", \"haren\", \"zuen\" eta \"haien\" hitzen artean?"
+  },
+  {
+    "id": "1464",
+    "input": "Zein hitz erlazionatzen da gutxien \"bizitza\" kategoriarekin \"ugalketa\", \"azpi\", \"izaki\", \"heriotza\" eta \"jaiotza\" hitzen artean?"
+  },
+  {
+    "id": "1467",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"han\", \"urrun\", \"hurbil\", \"jertse\" eta \"hurren\" hitzen artean?"
+  },
+  {
+    "id": "1468",
+    "input": "Zein hitz erlazionatzen da gutxien \"existentzia aditzak\" kategoriarekin \"hil\", \"desagertu\", \"agertu\", \"izan\" eta \"lege\" hitzen artean?"
+  },
+  {
+    "id": "1477",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"hurbil\", \"hemen\", \"han\", \"erakutsi\" eta \"urrun\" hitzen artean?"
+  },
+  {
+    "id": "1484",
+    "input": "Zein hitz erlazionatzen da gutxien \"kalitate adjektiboak\" kategoriarekin \"bakoitz\", \"garesti\", \"nazional\", \"orain\" eta \"askotariko\" hitzen artean?"
+  },
+  {
+    "id": "1494",
+    "input": "Zein hitz erlazionatzen da gutxien \"tresnak\" kategoriarekin \"iltze\", \"helduleku\", \"mahai\", \"soka\" eta \"pantaila\" hitzen artean?"
+  },
+  {
+    "id": "1497",
+    "input": "Zein hitz erlazionatzen da gutxien \"hilabeteak\" kategoriarekin \"espinaka\", \"urri\", \"azaro\", \"apiril\" eta \"martxo\" hitzen artean?"
+  },
+  {
+    "id": "1502",
+    "input": "Zein hitz erlazionatzen da gutxien \"neurriak\" kategoriarekin \"gramo\", \"kopuru\", \"kilometro\", \"akaso\" eta \"mililitro\" hitzen artean?"
+  },
+  {
+    "id": "1507",
+    "input": "Zein hitz erlazionatzen da gutxien \"ogibideak\" kategoriarekin \"ile-apaintzaile\", \"erregai-sailtzaile\", \"irakasle\", \"astronauta\" eta \"ezinezko\" hitzen artean?"
+  },
+  {
+    "id": "1508",
+    "input": "Zein hitz erlazionatzen da gutxien \"kantitate-aditzondoak\" kategoriarekin \"samar\", \"oso\", \"urrats\", \"gehiago\" eta \"batere\" hitzen artean?"
+  },
+  {
+    "id": "1509",
+    "input": "Zein hitz erlazionatzen da gutxien \"jantziak\" kategoriarekin \"mahuka\", \"kuleroak\", \"galtzontzilloak\", \"bularretako\" eta \"gitarra\" hitzen artean?"
+  },
+  {
+    "id": "1516",
+    "input": "Zein hitz erlazionatzen da gutxien \"instrumentuak\" kategoriarekin \"tronpeta\", \"klarinete\", \"arrosa\", \"saxofoi\" eta \"biolin\" hitzen artean?"
+  },
+  {
+    "id": "1517",
+    "input": "Zein hitz erlazionatzen da gutxien \"zinema generoak\" kategoriarekin \"historia\", \"musikal\", \"abentura\", \"abendu\" eta \"fantasia\" hitzen artean?"
+  },
+  {
+    "id": "1524",
+    "input": "Zein hitz erlazionatzen da gutxien \"neurriak\" kategoriarekin \"neurri\", \"tren\", \"bolumen\", \"litro\" eta \"kilometro\" hitzen artean?"
+  },
+  {
+    "id": "1528",
+    "input": "Zein hitz erlazionatzen da gutxien \"kantitate-aditzondoak\" kategoriarekin \"gehiegi\", \"ia\", \"kordel\", \"osorik\" eta \"apenas\" hitzen artean?"
+  },
+  {
+    "id": "1529",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"kafetegi\", \"urruti\", \"urrun\", \"han\" eta \"hemen\" hitzen artean?"
+  },
+  {
+    "id": "1539",
+    "input": "Zein hitz erlazionatzen da gutxien \"hondamendi naturalak\" kategoriarekin \"urakan\", \"urdin\", \"elur-jausi\", \"lurrikara\" eta \"tsunami\" hitzen artean?"
+  },
+  {
+    "id": "1555",
+    "input": "Zein hitz erlazionatzen da gutxien \"hondamendi naturalak\" kategoriarekin \"uholde\", \"etorri\", \"lehorte\", \"tsunami\" eta \"sute\" hitzen artean?"
+  },
+  {
+    "id": "1561",
+    "input": "Zein hitz erlazionatzen da gutxien \"hilabeteak\" kategoriarekin \"urtarril\", \"azaro\", \"otsail\", \"martxo\" eta \"piraguismo\" hitzen artean?"
+  },
+  {
+    "id": "1582",
+    "input": "Zein hitz erlazionatzen da gutxien \"zentzumen aditzak\" kategoriarekin \"ekarri\", \"ostikatu\", \"aditu\", \"oratu\" eta \"ile-apaindegi\" hitzen artean?"
+  },
+  {
+    "id": "1586",
+    "input": "Zein hitz erlazionatzen da gutxien \"izenordain genitiboak\" kategoriarekin \"nire\", \"haien\", \"gure\", \"gela\" eta \"haren\" hitzen artean?"
+  },
+  {
+    "id": "1587",
+    "input": "Zein hitz erlazionatzen da gutxien \"kalitate adjektiboak\" kategoriarekin \"erabateko\", \"nagusi\", \"mingots\", \"eskuzko\" eta \"ziur\" hitzen artean?"
+  },
+  {
+    "id": "1590",
+    "input": "Zein hitz erlazionatzen da gutxien \"juntagailu eta menderagailuak\" kategoriarekin \"orduan\", \"lehorte\", \"ezpada\", \"baizik\" eta \"baina\" hitzen artean?"
+  },
+  {
+    "id": "1595",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekonomia\" kategoriarekin \"ostiral\", \"diru\", \"salneurri\", \"zerbitzu\" eta \"merkataritza\" hitzen artean?"
+  },
+  {
+    "id": "1597",
+    "input": "Zein hitz erlazionatzen da gutxien \"instrumentuak\" kategoriarekin \"kontseilu\", \"saxofoi\", \"bateria\", \"gitarra\" eta \"biolin\" hitzen artean?"
+  },
+  {
+    "id": "1607",
+    "input": "Zein hitz erlazionatzen da gutxien \"juntagailu eta menderagailuak\" kategoriarekin \"nahiz\", \"elur-jausi\", \"orduan\", \"arren\" eta \"baina\" hitzen artean?"
+  },
+  {
+    "id": "1608",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"estu\", \"txiki\", \"amona\", \"handi\" eta \"mehe\" hitzen artean?"
+  },
+  {
+    "id": "1615",
+    "input": "Zein hitz erlazionatzen da gutxien \"asteko egunak\" kategoriarekin \"asteazken\", \"igande\", \"ostegun\", \"diru\" eta \"astelehen\" hitzen artean?"
+  },
+  {
+    "id": "1616",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbakiak\" kategoriarekin \"hamar\", \"sei\", \"bat\", \"birbiloba\" eta \"hiru\" hitzen artean?"
+  },
+  {
+    "id": "1623",
+    "input": "Zein hitz erlazionatzen da gutxien \"jendea\" kategoriarekin \"andre\", \"jende\", \"emakume\", \"dama\" eta \"bost\" hitzen artean?"
+  },
+  {
+    "id": "1631",
+    "input": "Zein hitz erlazionatzen da gutxien \"leku-aditzondoak\" kategoriarekin \"hurbil\", \"hor\", \"zaildu\", \"hurren\" eta \"han\" hitzen artean?"
+  },
+  {
+    "id": "1639",
+    "input": "Zein hitz erlazionatzen da gutxien \"izen abstraktuak\" kategoriarekin \"gogoeta\", \"urrats\", \"maila\", \"arropa\" eta \"sorkuntza\" hitzen artean?"
+  },
+  {
+    "id": "1661",
+    "input": "Zein hitz erlazionatzen da gutxien \"etxea\" kategoriarekin \"igogailu\", \"etxebizitza\", \"ohe\", \"leiho\" eta \"beltz\" hitzen artean?"
+  },
+  {
+    "id": "1667",
+    "input": "Zein hitz erlazionatzen da gutxien \"familia\" kategoriarekin \"aita\", \"familia\", \"izeba\", \"poltsa\" eta \"birramona\" hitzen artean?"
+  },
+  {
+    "id": "1669",
+    "input": "Zein hitz erlazionatzen da gutxien \"gizartea\" kategoriarekin \"liluratu\", \"askatasun\", \"kargu\", \"diktadura\" eta \"komunitate\" hitzen artean?"
+  },
+  {
+    "id": "1681",
+    "input": "Zein hitz erlazionatzen da gutxien \"izen abstraktuak\" kategoriarekin \"iragan\", \"errugbi\", \"alderdi\", \"gabezia\" eta \"orainaldi\" hitzen artean?"
+  },
+  {
+    "id": "1683",
+    "input": "Zein hitz erlazionatzen da gutxien \"iritzi-aditzondoak\" kategoriarekin \"ziurrenik\", \"seguruenik\", \"nekez\", \"alai\" eta \"aise\" hitzen artean?"
+  },
+  {
+    "id": "1695",
+    "input": "Zein hitz erlazionatzen da gutxien \"kalitate adjektiboak\" kategoriarekin \"artistiko\", \"gazte\", \"orokor\", \"helduleku\" eta \"berezi\" hitzen artean?"
+  },
+  {
+    "id": "1703",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekintza aditzak\" kategoriarekin \"txakur\", \"bereizi\", \"gehitu\", \"utzi\" eta \"sinetsi\" hitzen artean?"
+  },
+  {
+    "id": "1714",
+    "input": "Zein hitz erlazionatzen da gutxien \"lantokiak\" kategoriarekin \"belar-denda\", \"liburutegi\", \"nazioarteko\", \"autoeskola\" eta \"udaletxe\" hitzen artean?"
+  },
+  {
+    "id": "1721",
+    "input": "Zein hitz erlazionatzen da gutxien \"kategoria gramatikalak\" kategoriarekin \"aditz\", \"determinatzaile\", \"postposizio\", \"astearte\" eta \"substantibo\" hitzen artean?"
+  },
+  {
+    "id": "1728",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbaki ordinalak\" kategoriarekin \"elur-jausi\", \"milioigarren\", \"azken-aurreko\", \"ehungarren\" eta \"bigarren\" hitzen artean?"
+  },
+  {
+    "id": "1732",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"estu\", \"trinko\", \"zabal\", \"elur-jausi\" eta \"txiki\" hitzen artean?"
+  },
+  {
+    "id": "1733",
+    "input": "Zein hitz erlazionatzen da gutxien \"jendea\" kategoriarekin \"sarrera\", \"atso\", \"norbanako\", \"haurtxo\" eta \"pertsona\" hitzen artean?"
+  },
+  {
+    "id": "1742",
+    "input": "Zein hitz erlazionatzen da gutxien \"zentzumen-izenondoak\" kategoriarekin \"malgu\", \"garun\", \"hurrengo\", \"fresko\" eta \"bigun\" hitzen artean?"
+  },
+  {
+    "id": "1751",
+    "input": "Zein hitz erlazionatzen da gutxien \"hondamendi naturalak\" kategoriarekin \"tsunami\", \"lurrikara\", \"sute\", \"eskumutur\" eta \"lehorte\" hitzen artean?"
+  },
+  {
+    "id": "1761",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"trinko\", \"txiki\", \"estu\", \"lodi\" eta \"boleibol\" hitzen artean?"
+  },
+  {
+    "id": "1764",
+    "input": "Zein hitz erlazionatzen da gutxien \"geografia\" kategoriarekin \"ozeano\", \"kilo\", \"urmael\", \"zelai\" eta \"baso\" hitzen artean?"
+  },
+  {
+    "id": "1766",
+    "input": "Zein hitz erlazionatzen da gutxien \"emozio aditzak\" kategoriarekin \"poztu\", \"liluratu\", \"harritu\", \"akaso\" eta \"gorrotatu\" hitzen artean?"
+  },
+  {
+    "id": "1771",
+    "input": "Zein hitz erlazionatzen da gutxien \"forma izenondoak\" kategoriarekin \"mehe\", \"gure\", \"handi\", \"lodi\" eta \"txiki\" hitzen artean?"
+  },
+  {
+    "id": "1773",
+    "input": "Zein hitz erlazionatzen da gutxien \"sentimendu eta sentsazio izenondoak\" kategoriarekin \"larri\", \"atsitu\", \"patinaje\", \"lasai\" eta \"alai\" hitzen artean?"
+  },
+  {
+    "id": "1777",
+    "input": "Zein hitz erlazionatzen da gutxien \"sentimendu eta sentsazio izenondoak\" kategoriarekin \"alai\", \"larri\", \"atsitu\", \"ekonomia\" eta \"triste\" hitzen artean?"
+  },
+  {
+    "id": "1789",
+    "input": "Zein hitz erlazionatzen da gutxien \"juntagailu eta menderagailuak\" kategoriarekin \"bada\", \"auto\", \"arren\", \"baizik\" eta \"baina\" hitzen artean?"
+  },
+  {
+    "id": "1790",
+    "input": "Zein hitz erlazionatzen da gutxien \"kirolak\" kategoriarekin \"sits\", \"tenis\", \"saskibaloi\", \"kriket\" eta \"piraguismo\" hitzen artean?"
+  },
+  {
+    "id": "1791",
+    "input": "Zein hitz erlazionatzen da gutxien \"kalitate adjektiboak\" kategoriarekin \"piano\", \"unibertsal\", \"desberdin\", \"zahar\" eta \"zorrotz\" hitzen artean?"
+  },
+  {
+    "id": "1793",
+    "input": "Zein hitz erlazionatzen da gutxien \"emozio aditzak\" kategoriarekin \"abiatu\", \"aspertu\", \"nahigabetu\", \"haserretu\" eta \"miretsi\" hitzen artean?"
+  },
+  {
+    "id": "1798",
+    "input": "Zein hitz erlazionatzen da gutxien \"etxea\" kategoriarekin \"mahai\", \"sarrera\", \"logela\", \"astearte\" eta \"igogailu\" hitzen artean?"
+  },
+  {
+    "id": "1800",
+    "input": "Zein hitz erlazionatzen da gutxien \"jantziak\" kategoriarekin \"gerriko\", \"soineko\", \"okerrago\", \"betaurreko\" eta \"motxila\" hitzen artean?"
+  },
+  {
+    "id": "1808",
+    "input": "Zein hitz erlazionatzen da gutxien \"zenbaki ordinalak\" kategoriarekin \"bosgarren\", \"klarinete\", \"azken-aurreko\", \"ehungarren\" eta \"bigarren\" hitzen artean?"
+  },
+  {
+    "id": "1810",
+    "input": "Zein hitz erlazionatzen da gutxien \"neurriak\" kategoriarekin \"zentimetro\", \"jaiotza\", \"milimetro\", \"pisu\" eta \"kilometro\" hitzen artean?"
+  },
+  {
+    "id": "1820",
+    "input": "Zein hitz erlazionatzen da gutxien \"ekonomia\" kategoriarekin \"konpainia\", \"merkatu\", \"ekoizpen\", \"jaso\" eta \"eskari\" hitzen artean?"
+  },
+  {
+    "id": "1824",
+    "input": "Zein hitz erlazionatzen da gutxien \"bizitza\" kategoriarekin \"aldaka\", \"jaiotza\", \"espezie\", \"umeki\" eta \"izaki\" hitzen artean?"
+  },
+  {
+    "id": "1837",
+    "input": "Zein hitz erlazionatzen da gutxien \"neurriak\" kategoriarekin \"milimetro\", \"pisu\", \"kilo\", \"neurri\" eta \"okin\" hitzen artean?"
+  },
+  {
+    "id": "1843",
+    "input": "Zein hitz erlazionatzen da gutxien \"familia\" kategoriarekin \"familia\", \"urdaitegi\", \"ezagun\", \"lehengusu\" eta \"aita\" hitzen artean?"
+  },
+  {
+    "id": "1849",
+    "input": "Zein hitz erlazionatzen da gutxien \"zinema generoak\" kategoriarekin \"fantasia\", \"goiko\", \"komedia\", \"musikal\" eta \"misterio\" hitzen artean?"
+  },
+  {
+    "id": "1865",
+    "input": "Zein hitz erlazionatzen da gutxien \"hondamendi naturalak\" kategoriarekin \"lokarriak\", \"uholde\", \"urakan\", \"elur-jausi\" eta \"tornado\" hitzen artean?"
+  },
+  {
+    "id": "1878",
+    "input": "Zein hitz erlazionatzen da gutxien \"hilabeteak\" kategoriarekin \"abendu\", \"urtarril\", \"urri\", \"ekain\" eta \"birbiloba\" hitzen artean?"
+  },
+  {
+    "id": "1880",
+    "input": "Zein hitz erlazionatzen da gutxien \"ogibideak\" kategoriarekin \"astronauta\", \"biologo\", \"bat\", \"programatzaile\" eta \"polizia\" hitzen artean?"
+  },
+  {
+    "id": "1892",
+    "input": "Zein hitz erlazionatzen da gutxien \"bizitza\" kategoriarekin \"heriotza\", \"jaiotza\", \"umeki\", \"boxeo\" eta \"bizitza\" hitzen artean?"
+  },
+  {
+    "id": "1896",
+    "input": "Zein hitz erlazionatzen da gutxien \"familia\" kategoriarekin \"alaba\", \"birraitona\", \"lankide\", \"emazte\" eta \"gela\" hitzen artean?"
+  },
+  {
+    "id": "1897",
+    "input": "Zein hitz erlazionatzen da gutxien \"kirolak\" kategoriarekin \"golf\", \"kriket\", \"boleibol\", \"patatak\" eta \"futbol\" hitzen artean?"
+  },
+  {
+    "id": "1903",
+    "input": "Zein hitz erlazionatzen da gutxien \"sentimendu eta sentsazio izenondoak\" kategoriarekin \"grinatsu\", \"mingarri\", \"atsitu\", \"haserre\" eta \"erakunde\" hitzen artean?"
+  },
+  {
+    "id": "1910",
+    "input": "Zein hitz erlazionatzen da gutxien \"hilabeteak\" kategoriarekin \"arin\", \"maiatz\", \"azaro\", \"abuztu\" eta \"urtarril\" hitzen artean?"
+  },
+  {
+    "id": "1912",
+    "input": "Zein hitz erlazionatzen da gutxien \"lantokiak\" kategoriarekin \"arrandegi\", \"banku\", \"komisaria\", \"autoeskola\" eta \"hamargarren\" hitzen artean?"
+  },
+  {
+    "id": "1921",
+    "input": "Zein hitz erlazionatzen da gutxien \"lantokiak\" kategoriarekin \"urdaitegi\", \"ospitale\", \"fruta-denda\", \"banku\" eta \"basamortu\" hitzen artean?"
+  },
+  {
+    "id": "1923",
+    "input": "Zein hitz erlazionatzen da gutxien \"jendea\" kategoriarekin \"gizateri\", \"gizon\", \"jende\", \"zuzendari\" eta \"gizaki\" hitzen artean?"
+  },
+  {
+    "id": "1925",
+    "input": "Zein hitz erlazionatzen da gutxien \"espazio eta kopurua\" kategoriarekin \"tamaina\", \"azelerazio\", \"murriztapen\", \"handipen\" eta \"zoragarri\" hitzen artean?"
+  },
+  {
+    "id": "1929",
+    "input": "Zein hitz erlazionatzen da gutxien \"ogibideak\" kategoriarekin \"mekanikari\", \"zabalera\", \"aktore\", \"saltzaile\" eta \"abokatu\" hitzen artean?"
+  },
+  {
+    "id": "1935",
+    "input": "Zein hitz erlazionatzen da gutxien \"emozio aditzak\" kategoriarekin \"haserretu\", \"aspertu\", \"harritu\", \"nahigabetu\" eta \"urakan\" hitzen artean?"
+  },
+  {
+    "id": "1940",
+    "input": "Zein hitz erlazionatzen da gutxien \"jantziak\" kategoriarekin \"galtza\", \"papar-hegal\", \"eskularruak\", \"gerriko\" eta \"sakonera\" hitzen artean?"
+  },
+  {
+    "id": "1941",
+    "input": "Zein hitz erlazionatzen da gutxien \"giza gorputza\" kategoriarekin \"azal\", \"aurpegi\", \"sorbalda\", \"desiratu\" eta \"bernazaki\" hitzen artean?"
+  },
+  {
+    "id": "1943",
+    "input": "Zein hitz erlazionatzen da gutxien \"giza gorputza\" kategoriarekin \"ahur\", \"urdail\", \"urre\", \"sorbalda\" eta \"ezpain\" hitzen artean?"
+  },
+  {
+    "id": "1945",
+    "input": "Zein hitz erlazionatzen da gutxien \"lantokiak\" kategoriarekin \"belar-denda\", \"kopia-denda\", \"liburutegi\", \"historia\" eta \"bitxi-denda\" hitzen artean?"
+  },
+  {
+    "id": "1950",
+    "input": "Zein hitz erlazionatzen da gutxien \"materialak\" kategoriarekin \"aire\", \"eraikin\", \"lokatz\", \"ur\" eta \"burdin\" hitzen artean?"
+  },
+  {
+    "id": "1960",
+    "input": "Zein hitz erlazionatzen da gutxien \"zinema generoak\" kategoriarekin \"komedia\", \"musikal\", \"abentura\", \"zazpi\" eta \"misterio\" hitzen artean?"
+  },
+  {
+    "id": "1966",
+    "input": "Zein hitz erlazionatzen da gutxien \"postposizio askeak\" kategoriarekin \"erdi\", \"zehar\", \"azpi\", \"postposizio\" eta \"esker\" hitzen artean?"
+  }
+]

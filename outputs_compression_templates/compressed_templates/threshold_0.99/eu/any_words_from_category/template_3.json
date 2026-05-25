@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "2002",
+    "input": "[\"urrats\", \"arkitekto\", \"objektu\", \"gihar\", \"interes\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2005",
+    "input": "[\"poz\", \"senar\", \"ozeano\", \"arkitekto\", \"ibai\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2006",
+    "input": "[\"eraikin\", \"asmatze\", \"senatari\", \"udalerri\", \"milimetro\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2009",
+    "input": "[\"abiadura\", \"kutxazain\", \"egia\", \"idazmahai\", \"kriket\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2011",
+    "input": "[\"azazkal\", \"irtenbide\", \"nire\", \"oinetako\", \"biolin\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2013",
+    "input": "[\"sudur\", \"harakin\", \"haurtxo\", \"ate\", \"aitona\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2014",
+    "input": "[\"ur\", \"banku\", \"lokarri\", \"martxo\", \"aktore\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2015",
+    "input": "[\"familia\", \"lanabes\", \"waterpolo\", \"zuri\", \"leku\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2017",
+    "input": "[\"elefante\", \"astelehen\", \"oroimen\", \"astronauta\", \"senar\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2018",
+    "input": "[\"tronpeta\", \"asteazken\", \"alaba\", \"kongresu\", \"zuri\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2019",
+    "input": "[\"tranbia\", \"baso\", \"gobernadore\", \"ahizpa\", \"arau\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2021",
+    "input": "[\"aurrerabide\", \"lehengusu\", \"hori\", \"komunitate\", \"alaba\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2023",
+    "input": "[\"bela\", \"abuztu\", \"zientzialari\", \"irristailuak\", \"zurgin\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2024",
+    "input": "[\"eraikuntza\", \"arratoi\", \"espinaka\", \"hori\", \"autobide\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2025",
+    "input": "[\"heriotza\", \"zizare\", \"ile-apaintzaile\", \"ilarrak\", \"tristura\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2027",
+    "input": "[\"umeki\", \"aho\", \"gramo\", \"erraztatzaile\", \"patinete\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2029",
+    "input": "[\"jaiotza\", \"farmazia\", \"konpainia\", \"sabelalde\", \"abiadura\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2030",
+    "input": "[\"fantasia\", \"basamortu\", \"helmuga\", \"eginkizun\", \"egitasmo\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2032",
+    "input": "[\"iragan\", \"ama\", \"tamaina\", \"adibide\", \"zuzendari\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2034",
+    "input": "[\"piper\", \"urre\", \"sumindura\", \"poltsa\", \"egitasmo\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2035",
+    "input": "[\"andre\", \"zaldi\", \"suhiltzaile\", \"billar\", \"norbanako\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2036",
+    "input": "[\"bake\", \"zilar\", \"ostiral\", \"beldur\", \"sudur\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2037",
+    "input": "[\"klarinete\", \"farmazia\", \"hasiera\", \"etxebizitza\", \"lurrun\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2038",
+    "input": "[\"txerri\", \"estatu\", \"piper\", \"segida\", \"patatak\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2039",
+    "input": "[\"senar\", \"norbanako\", \"argazkilari\", \"oihan\", \"espinaka\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2040",
+    "input": "[\"ozeano\", \"taberna\", \"atletismo\", \"lurrikara\", \"ur\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2042",
+    "input": "[\"supermerkatu\", \"erregai-sailtzaile\", \"kontsumo\", \"piraguismo\", \"mahuka\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2043",
+    "input": "[\"gizaki\", \"gatz\", \"porru\", \"leiho\", \"ilarrak\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2044",
+    "input": "[\"leiho\", \"kilo\", \"elkarte\", \"kasketa\", \"sorkuntza\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2046",
+    "input": "[\"herrialde\", \"harreman\", \"kafetegi\", \"bateria\", \"motor\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2048",
+    "input": "[\"senatari\", \"abendu\", \"tranbia\", \"adibide\", \"motor\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2050",
+    "input": "[\"patatak\", \"ibai\", \"historia\", \"egitura\", \"olagarro\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2051",
+    "input": "[\"iltze\", \"espinaka\", \"bele\", \"mutiko\", \"golf\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2053",
+    "input": "[\"postari\", \"murriztapen\", \"errefau\", \"kutxazain\", \"piano\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2054",
+    "input": "[\"zuen\", \"ilarrak\", \"mota\", \"kutxazain\", \"igeriketa\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2055",
+    "input": "[\"ostiral\", \"ezagun\", \"topaketa\", \"haien\", \"betaurreko\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2057",
+    "input": "[\"sentsazio\", \"norbanako\", \"ahizpa\", \"aita\", \"narriadura\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2062",
+    "input": "[\"eskubaloi\", \"musker\", \"eski\", \"zientzialari\", \"sentsazio\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2064",
+    "input": "[\"izenondo\", \"baratxuri\", \"eraikin\", \"aho\", \"arrosa\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2065",
+    "input": "[\"enpresaburu\", \"hegazkin\", \"ekain\", \"zirkulazio\", \"leiho\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2067",
+    "input": "[\"boxeo\", \"adostasun\", \"aho\", \"sute\", \"urmael\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2069",
+    "input": "[\"jatorri\", \"bukaera\", \"boxeo\", \"bibote\", \"jende\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2076",
+    "input": "[\"txakur\", \"lurrikara\", \"ukondo\", \"pisu\", \"birraitona\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2077",
+    "input": "[\"polizia\", \"oroimen\", \"murriztapen\", \"soineko\", \"etxe\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2079",
+    "input": "[\"gimnastika\", \"desberdintasun\", \"lurrikara\", \"kamera\", \"klarinete\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2080",
+    "input": "[\"tximeleta\", \"murriztapen\", \"ibai\", \"gramo\", \"lanabes\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2085",
+    "input": "[\"izeba\", \"gitarra\", \"ile-apaindegi\", \"tabako-denda\", \"soka\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2086",
+    "input": "[\"gauza\", \"bibote\", \"bizar\", \"metal\", \"mutiko\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2087",
+    "input": "[\"zerbitzari\", \"kode\", \"suge\", \"arrain\", \"jarduera\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2089",
+    "input": "[\"emakume\", \"izenordain\", \"kontsumo\", \"jaka\", \"aita\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2091",
+    "input": "[\"kongresu\", \"kode\", \"administrazio\", \"bitxi-denda\", \"loradenda\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2092",
+    "input": "[\"izenondo\", \"arto\", \"harategi\", \"talde\", \"burdin\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2093",
+    "input": "[\"ezpain\", \"senatari\", \"errepide\", \"bizitza\", \"ur\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2098",
+    "input": "[\"itsasontzi\", \"bolumen\", \"alberjinia\", \"automobil\", \"arratoi\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2099",
+    "input": "[\"pantaila\", \"ama\", \"lanabes\", \"erregai-sailtzaile\", \"auto\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2102",
+    "input": "[\"arma\", \"eskaintza\", \"suspense\", \"eskalada\", \"ozeano\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2103",
+    "input": "[\"ostiral\", \"esanahi\", \"azaro\", \"udalerri\", \"itxigailu\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2106",
+    "input": "[\"bizikleta\", \"nortasun\", \"natura\", \"bulego\", \"asteazken\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2107",
+    "input": "[\"egia\", \"beltz\", \"abiadura\", \"erregai-sailtzaile\", \"pisu\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2108",
+    "input": "[\"belar-denda\", \"eskola\", \"bolumen\", \"idazmahai\", \"erregai-sailtzaile\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2110",
+    "input": "[\"alaba\", \"izenlagun\", \"anai\", \"belatz\", \"sudur\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2111",
+    "input": "[\"ohe\", \"eskarmentu\", \"botoi\", \"erraztatzaile\", \"kopuru\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2114",
+    "input": "[\"batzarkide\", \"gizaki\", \"sagu\", \"aita\", \"waterpolo\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2116",
+    "input": "[\"hari\", \"egoera\", \"kontzeptu\", \"gorputz\", \"kasketa\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2117",
+    "input": "[\"fase\", \"ile-apaintzaile\", \"arma\", \"berde\", \"piano\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2119",
+    "input": "[\"gitarra\", \"motxila\", \"zerba\", \"arrain\", \"billar\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2120",
+    "input": "[\"billar\", \"osaba\", \"lur\", \"postposizio\", \"trafiko\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2121",
+    "input": "[\"automobil\", \"harategi\", \"bateria\", \"merkatu\", \"brokoli\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2122",
+    "input": "[\"osaba\", \"etenaldi\", \"marroi\", \"futbol\", \"aldi\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2125",
+    "input": "[\"aurrerabide\", \"maila\", \"hitz\", \"botoi\", \"andre\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2126",
+    "input": "[\"aparatu\", \"egitasmo\", \"liburu-denda\", \"galtzerdiak\", \"tapauka\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2127",
+    "input": "[\"erremolatxa\", \"eskubide\", \"apiril\", \"gaitasun\", \"astronauta\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2130",
+    "input": "[\"tsunami\", \"saxofoi\", \"urtarril\", \"amona\", \"zuen\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2131",
+    "input": "[\"altuera\", \"arkitekto\", \"beroki\", \"farmazia\", \"zure\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2133",
+    "input": "[\"eginkizun\", \"hegaluze\", \"kasu\", \"zirkulazio\", \"dama\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2134",
+    "input": "[\"programatzaile\", \"ikusmen\", \"errealitate\", \"eraikuntza\", \"maila\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2137",
+    "input": "[\"suspense\", \"epaile\", \"biolin\", \"irtenbide\", \"lokatz\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2138",
+    "input": "[\"konfiantza\", \"lepo\", \"txakur\", \"batzorde\", \"atso\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2139",
+    "input": "[\"martxo\", \"bus\", \"sits\", \"mahuka\", \"atletismo\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2140",
+    "input": "[\"lohi\", \"erraztatzaile\", \"tranbia\", \"eraso\", \"errealitate\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2141",
+    "input": "[\"zentimetro\", \"jende\", \"transakzio\", \"harategi\", \"basamortu\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2145",
+    "input": "[\"urtarril\", \"mahai\", \"basamortu\", \"familia\", \"bus\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2146",
+    "input": "[\"zuzendari\", \"botoi\", \"arrano\", \"lepo\", \"etenaldi\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2148",
+    "input": "[\"juntagailu\", \"formalitate\", \"zure\", \"gorbata\", \"begi\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2149",
+    "input": "[\"ile-apaindegi\", \"bide\", \"tigre\", \"aho\", \"sail\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2150",
+    "input": "[\"zainzuri\", \"izkira\", \"liburu-denda\", \"egitarau\", \"uztail\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2151",
+    "input": "[\"jirafa\", \"bernazaki\", \"tornado\", \"zentzu\", \"ekonomia\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2152",
+    "input": "[\"luzoker\", \"saiakera\", \"milimetro\", \"birraitona\", \"bihotz\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2153",
+    "input": "[\"autoeskola\", \"pertsona\", \"lepo\", \"haien\", \"bizikleta\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2154",
+    "input": "[\"azelerazio\", \"pertsona\", \"otsail\", \"dama\", \"helmuga\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2155",
+    "input": "[\"suge\", \"jaiotza\", \"mahai\", \"haurtxo\", \"burdin\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2156",
+    "input": "[\"soineko\", \"billar\", \"gas\", \"eskari\", \"astearte\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2158",
+    "input": "[\"demokrazia\", \"ostiral\", \"lur\", \"giltza\", \"errealitate\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2161",
+    "input": "[\"kongresu\", \"nortasun\", \"brokoli\", \"anai\", \"poz\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2163",
+    "input": "[\"errepide\", \"okin\", \"uztail\", \"hiri\", \"okindegi\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2165",
+    "input": "[\"barraskilo\", \"martxo\", \"egitasmo\", \"elefante\", \"sorbalda\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2172",
+    "input": "[\"eskubide\", \"nerabe\", \"jarrera\", \"luzera\", \"administrazio\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2173",
+    "input": "[\"euli\", \"hiribildu\", \"bilete\", \"kasu\", \"kalitate\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2174",
+    "input": "[\"ikusmen\", \"aditz\", \"bihotz\", \"abagune\", \"elkarte\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2175",
+    "input": "[\"klarinete\", \"kalitate\", \"matxinsalto\", \"motxila\", \"hegaluze\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2177",
+    "input": "[\"gas\", \"indar\", \"antzekotasun\", \"postposizio\", \"ibai\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2178",
+    "input": "[\"ahizpa\", \"uholde\", \"amona\", \"urre\", \"helburu\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2179",
+    "input": "[\"ospitale\", \"galtza\", \"kode\", \"arropa\", \"kriket\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2180",
+    "input": "[\"emazte\", \"ahizpa\", \"etxebizitza\", \"pisu\", \"porrot\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2181",
+    "input": "[\"hazkunde\", \"bikote\", \"urre\", \"komunitate\", \"sumindura\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2182",
+    "input": "[\"ezpain\", \"biologo\", \"tornado\", \"atletismo\", \"zerbitzu\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2184",
+    "input": "[\"mahuka\", \"izter\", \"geltoki\", \"politikari\", \"konpainia\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2185",
+    "input": "[\"enpatia\", \"epaile\", \"konstituzio\", \"sarrera\", \"belatz\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2186",
+    "input": "[\"sektore\", \"iragan\", \"merkataritza\", \"etxebizitza\", \"urri\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2187",
+    "input": "[\"epaile\", \"eskubaloi\", \"ospitale\", \"etxe\", \"geraleku\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2189",
+    "input": "[\"birramona\", \"aditz\", \"babes\", \"ama\", \"azenario\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2190",
+    "input": "[\"salneurri\", \"tximeleta\", \"sardina\", \"bibote\", \"krokodilo\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2192",
+    "input": "[\"igeriketa\", \"saltzaile\", \"hazkunde\", \"izenordain\", \"sagu\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2193",
+    "input": "[\"orein\", \"historia\", \"bolumen\", \"kolore\", \"norabide\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2194",
+    "input": "[\"arrano\", \"nerabe\", \"zorro\", \"arrain\", \"kontzeptu\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2196",
+    "input": "[\"bizitza\", \"bularretako\", \"hobekuntza\", \"eskailera\", \"gradu\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2198",
+    "input": "[\"grina\", \"apio\", \"probintzia\", \"elefante\", \"behor\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2199",
+    "input": "[\"txakur\", \"sorkuntza\", \"elkarte\", \"gogoeta\", \"patinaje\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2200",
+    "input": "[\"probintzia\", \"oin\", \"tranbia\", \"papar-hegal\", \"departamendu\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2201",
+    "input": "[\"denda\", \"lokarri\", \"laranja\", \"etxebizitza\", \"zapatila\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2202",
+    "input": "[\"txolarre\", \"saskibaloi\", \"zuri\", \"klub\", \"erakunde\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2203",
+    "input": "[\"eskalada\", \"eskarmentu\", \"polizia\", \"total\", \"aireportu\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2205",
+    "input": "[\"ate\", \"belaun\", \"amona\", \"adibide\", \"sardina\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2207",
+    "input": "[\"bolumen\", \"jende\", \"atzerakada\", \"komedia\", \"kontzientzia\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2208",
+    "input": "[\"tornado\", \"txakur\", \"kopuru\", \"neurri\", \"jirafa\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2209",
+    "input": "[\"nire\", \"fase\", \"botoi\", \"metal\", \"gauza\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2211",
+    "input": "[\"atzerakada\", \"beisbol\", \"gitarra\", \"egoera\", \"txano\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2212",
+    "input": "[\"izotz\", \"izenordain\", \"helduleku\", \"fase\", \"astearte\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2213",
+    "input": "[\"beldur\", \"auto\", \"jaiotza\", \"lohi\", \"mugimendu\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2214",
+    "input": "[\"fruta-denda\", \"hondartza\", \"izenondo\", \"komunitate\", \"ezusteko\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2216",
+    "input": "[\"baldintza\", \"presentzia\", \"kamiseta\", \"porru\", \"murriztapen\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2222",
+    "input": "[\"porru\", \"logela\", \"igande\", \"drama\", \"bolumen\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2227",
+    "input": "[\"zurgin\", \"belatz\", \"eskubide\", \"kausa\", \"garraio\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2228",
+    "input": "[\"atzamar\", \"atal\", \"haren\", \"enpresaburu\", \"astelehen\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2230",
+    "input": "[\"lankide\", \"hobekuntza\", \"adberbio\", \"drama\", \"ikusmen\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2232",
+    "input": "[\"kopuru\", \"kilometro\", \"bizikleta\", \"kriket\", \"geltoki\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2233",
+    "input": "[\"diktadura\", \"hari\", \"oroimen\", \"izenordain\", \"dama\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2237",
+    "input": "[\"otarrain\", \"ugalketa\", \"saltzaile\", \"ate\", \"interes\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2238",
+    "input": "[\"berun\", \"gorbata\", \"abendu\", \"sudur\", \"azelerazio\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2240",
+    "input": "[\"trenbide\", \"norabide\", \"programatzaile\", \"bulego\", \"senar\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2242",
+    "input": "[\"sumindura\", \"nazio\", \"kilometro\", \"segida\", \"sektore\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2248",
+    "input": "[\"sagu\", \"otsail\", \"babes\", \"fantasia\", \"ahalmen\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2250",
+    "input": "[\"biolin\", \"pantaila\", \"itxaronaldi\", \"behar\", \"ostiral\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2252",
+    "input": "[\"arkitekto\", \"askatasun\", \"fantasia\", \"bihotz\", \"motor\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2257",
+    "input": "[\"zurgin\", \"mililitro\", \"politika\", \"piano\", \"krokodilo\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2259",
+    "input": "[\"papar-hegal\", \"eulitxo\", \"helmuga\", \"biolin\", \"zurgin\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2260",
+    "input": "[\"auto\", \"hari\", \"alberjinia\", \"krokodilo\", \"hautemate\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2261",
+    "input": "[\"salneurri\", \"oroipen\", \"nire\", \"konpainia\", \"administrazio\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2262",
+    "input": "[\"suhiltzaile\", \"aukera\", \"errefau\", \"eskari\", \"ate\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2263",
+    "input": "[\"konfiantza\", \"elkarte\", \"aurrerapen\", \"haren\", \"lehorte\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2264",
+    "input": "[\"loba\", \"substantibo\", \"kontsumo\", \"kilo\", \"irail\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2265",
+    "input": "[\"eskola\", \"beisbol\", \"intsektu\", \"nerabe\", \"eskari\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2266",
+    "input": "[\"jarrera\", \"desberdintasun\", \"ministro\", \"sabelalde\", \"fruta-denda\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2267",
+    "input": "[\"abiadura\", \"haien\", \"ekoizpen\", \"belaun\", \"plazer\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2269",
+    "input": "[\"sardina\", \"harridura\", \"hegazkin\", \"hutsegite\", \"esku\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2273",
+    "input": "[\"igel\", \"milimetro\", \"boleibol\", \"baso\", \"abendu\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2276",
+    "input": "[\"jatetxe\", \"lanabes\", \"herrialde\", \"lehengusu\", \"gradu\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2278",
+    "input": "[\"sumindura\", \"errepide\", \"astearte\", \"egitasmo\", \"kale\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2279",
+    "input": "[\"historia\", \"anai\", \"ile\", \"mekanikari\", \"gobernadore\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2280",
+    "input": "[\"liburutegi\", \"aurrerapen\", \"gezur\", \"kale\", \"posizio\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2281",
+    "input": "[\"pisu\", \"postari\", \"emazte\", \"izotz\", \"azenario\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2283",
+    "input": "[\"belatz\", \"desberdintasun\", \"bele\", \"drama\", \"olagarro\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2284",
+    "input": "[\"uztail\", \"askatasun\", \"zentzu\", \"konpainia\", \"fruta-denda\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2287",
+    "input": "[\"asperdura\", \"kriket\", \"eraikin\", \"lehengusina\", \"neskato\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2288",
+    "input": "[\"neke\", \"patinaje\", \"tornado\", \"uztail\", \"kasketa\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2289",
+    "input": "[\"kuia\", \"itsasalde\", \"egitura\", \"sabelalde\", \"txirula\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2290",
+    "input": "[\"seme\", \"patinete\", \"arrano\", \"atso\", \"bitxi-denda\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2291",
+    "input": "[\"hanka\", \"pertsona\", \"izenordain\", \"enpresaburu\", \"argazkilari\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2292",
+    "input": "[\"belo\", \"emaitza\", \"espezie\", \"haien\", \"ile-apaintzaile\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2294",
+    "input": "[\"galtza\", \"iragan\", \"gezur\", \"gehiengo\", \"itxaronaldi\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2295",
+    "input": "[\"lankide\", \"arrano\", \"urrats\", \"behar\", \"lehengusina\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2296",
+    "input": "[\"debeku\", \"gizaki\", \"astronauta\", \"bizkar\", \"espezie\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2298",
+    "input": "[\"esanahi\", \"euli\", \"abagune\", \"eskumutur\", \"urmael\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2299",
+    "input": "[\"piraguismo\", \"geltoki\", \"kalte\", \"zizare\", \"aho\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2300",
+    "input": "[\"tronpeta\", \"kilo\", \"kopuru\", \"adibide\", \"mozketa\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2302",
+    "input": "[\"adibide\", \"gogoeta\", \"zapatila\", \"bele\", \"uraza\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2303",
+    "input": "[\"panel\", \"haien\", \"aireportu\", \"lohi\", \"norbanako\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2305",
+    "input": "[\"kriket\", \"pantaila\", \"zabalera\", \"kale\", \"zainzuri\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2307",
+    "input": "[\"arazo\", \"lanabes\", \"gai\", \"janzki\", \"jaka\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2309",
+    "input": "[\"geltoki\", \"more\", \"kordel\", \"mozketa\", \"milimetro\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2310",
+    "input": "[\"aintzira\", \"neke\", \"dama\", \"labezomorro\", \"izaki\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2311",
+    "input": "[\"probintzia\", \"jertse\", \"oin\", \"kasu\", \"hiriburu\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2312",
+    "input": "[\"adberbio\", \"bitxi-denda\", \"ondorio\", \"soka\", \"adostasun\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2313",
+    "input": "[\"kutxazain\", \"txirula\", \"aireportu\", \"programatzaile\", \"haien\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2314",
+    "input": "[\"katu\", \"batzarkide\", \"kode\", \"eskularruak\", \"garraio\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2316",
+    "input": "[\"azal\", \"automobil\", \"dama\", \"beltz\", \"elkarte\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2317",
+    "input": "[\"katu\", \"eraikuntza\", \"eskalada\", \"eskailera\", \"irudi\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2318",
+    "input": "[\"patinaje\", \"atzerakada\", \"postari\", \"aireportu\", \"ama\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2319",
+    "input": "[\"sardina\", \"suspense\", \"esku\", \"eski\", \"kamera\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2321",
+    "input": "[\"sagu\", \"izenlagun\", \"esanahi\", \"haien\", \"aldaka\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2325",
+    "input": "[\"urre\", \"gramo\", \"egitarau\", \"gaitasun\", \"eskarmentu\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2326",
+    "input": "[\"hutsegite\", \"formalitate\", \"herrialde\", \"billar\", \"azal\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2327",
+    "input": "[\"tsunami\", \"multzo\", \"gradu\", \"mota\", \"eskubide\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2328",
+    "input": "[\"itxigailu\", \"aukera\", \"fruta-denda\", \"txirrindularitza\", \"bizikleta\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2329",
+    "input": "[\"izkira\", \"alkate\", \"armiarma\", \"kuia\", \"iltze\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2330",
+    "input": "[\"astearte\", \"zilar\", \"postposizio\", \"etxebizitza\", \"aita\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2331",
+    "input": "[\"ile-apaintzaile\", \"igeriketa\", \"bizikleta\", \"patinaje\", \"loba\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2334",
+    "input": "[\"eraikuntza\", \"kilo\", \"azal\", \"diru\", \"abokatu\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2335",
+    "input": "[\"lokarriak\", \"kale\", \"eulitxo\", \"diru\", \"zuen\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2336",
+    "input": "[\"debeku\", \"tornado\", \"departamendu\", \"urdail\", \"zuzendari\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2337",
+    "input": "[\"gorbata\", \"zuen\", \"belaun\", \"more\", \"saiakera\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2338",
+    "input": "[\"topaketa\", \"usaimen\", \"agure\", \"astronauta\", \"lege\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2340",
+    "input": "[\"eskularruak\", \"ardi\", \"harridura\", \"zerbitzu\", \"kilo\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2341",
+    "input": "[\"xede\", \"egia\", \"apio\", \"okin\", \"hegaluze\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2342",
+    "input": "[\"misterio\", \"lagun\", \"behi\", \"lohi\", \"gitarra\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2343",
+    "input": "[\"jirafa\", \"eskari\", \"kongresu\", \"nerabe\", \"izenondo\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2344",
+    "input": "[\"oinetako\", \"kazetari\", \"historia\", \"egia\", \"egitarau\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2346",
+    "input": "[\"kalitate\", \"biologo\", \"gauza\", \"eskubide\", \"usaimen\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2350",
+    "input": "[\"urmael\", \"garraio\", \"oin\", \"armiarma\", \"komisaria\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2351",
+    "input": "[\"izeba\", \"azenario\", \"sorbalda\", \"pisu\", \"errepide\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2352",
+    "input": "[\"martxo\", \"kasu\", \"hortz\", \"gitarra\", \"kilo\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2354",
+    "input": "[\"laranja\", \"herri\", \"galtza\", \"iltze\", \"misterio\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2355",
+    "input": "[\"sute\", \"patinaje\", \"orein\", \"garai\", \"hiribildu\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2356",
+    "input": "[\"ostiral\", \"bitxi-denda\", \"erremolatxa\", \"gimnastika\", \"dama\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2357",
+    "input": "[\"lokarriak\", \"abentura\", \"gris\", \"mahuka\", \"irristailuak\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2358",
+    "input": "[\"iturgin\", \"misterio\", \"enpatia\", \"programatzaile\", \"ospitale\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2359",
+    "input": "[\"azazkal\", \"baldintza\", \"barraskilo\", \"osaba\", \"beltz\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2360",
+    "input": "[\"asteazken\", \"ile-apaintzaile\", \"igeriketa\", \"kode\", \"pisu\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2361",
+    "input": "[\"geraleku\", \"birramona\", \"kausa\", \"txirula\", \"gibel\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2362",
+    "input": "[\"laranja\", \"aparatu\", \"arreta\", \"parlamentari\", \"usaimen\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2365",
+    "input": "[\"askatasun\", \"jaun\", \"birramona\", \"departamendu\", \"produktu\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2366",
+    "input": "[\"haien\", \"aparatu\", \"astronauta\", \"salneurri\", \"bizar\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2367",
+    "input": "[\"postari\", \"izotz\", \"ezpain\", \"kafetegi\", \"kuiatxo\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2369",
+    "input": "[\"mutiko\", \"izkira\", \"emakume\", \"juntagailu\", \"sentsazio\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2370",
+    "input": "[\"hazkunde\", \"kremailera\", \"eraikuntza\", \"patatak\", \"kontzeptu\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2373",
+    "input": "[\"administrari\", \"behor\", \"porru\", \"aparatu\", \"aldi\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2375",
+    "input": "[\"su\", \"euli\", \"atso\", \"jatetxe\", \"saltzaile\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2376",
+    "input": "[\"neurri\", \"bibote\", \"zientzialari\", \"emazte\", \"kontseilu\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2377",
+    "input": "[\"dekretu\", \"atal\", \"sarrera\", \"gorputz\", \"bitxi-denda\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2378",
+    "input": "[\"suhiltzaile\", \"umeki\", \"lorpen\", \"krisi\", \"guda\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2379",
+    "input": "[\"jaiotza\", \"bulego\", \"kasu\", \"apiril\", \"arratoi\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2381",
+    "input": "[\"orpo\", \"adberbio\", \"zainzuri\", \"lanabes\", \"hiriburu\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2382",
+    "input": "[\"interes\", \"fruta-denda\", \"gorputz\", \"leiho\", \"uraza\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2384",
+    "input": "[\"bibote\", \"astelehen\", \"dekretu\", \"surf\", \"zuen\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2385",
+    "input": "[\"hazkunde\", \"indar\", \"izaki\", \"arma\", \"lorpen\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2386",
+    "input": "[\"ostegun\", \"lehengusu\", \"bizkar\", \"laranja\", \"egoera\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2387",
+    "input": "[\"berun\", \"politikari\", \"metal\", \"onura\", \"astelehen\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2392",
+    "input": "[\"segurtasun\", \"beroki\", \"kolore\", \"geltoki\", \"orburu\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2393",
+    "input": "[\"okin\", \"lagun\", \"martxo\", \"mediku\", \"betaurreko\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2394",
+    "input": "[\"etorbide\", \"etxe\", \"jarduera\", \"adibide\", \"beroki\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2396",
+    "input": "[\"indar\", \"txolarre\", \"juntagailu\", \"posibilitate\", \"aginte\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2397",
+    "input": "[\"itxigailu\", \"zuzendari\", \"pertsona\", \"arazo\", \"kargu\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2398",
+    "input": "[\"bulego\", \"senatari\", \"ile-apaindegi\", \"belaun\", \"jende\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2399",
+    "input": "[\"maiatz\", \"ur\", \"mekanikari\", \"labezomorro\", \"debeku\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2401",
+    "input": "[\"ekonomia\", \"zurgin\", \"onura\", \"arropa\", \"arratoi\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2402",
+    "input": "[\"sudur\", \"arrandegi\", \"kasu\", \"lehengusu\", \"sakonera\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2403",
+    "input": "[\"kanpaina\", \"pisu\", \"ile\", \"erremolatxa\", \"maiatz\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2404",
+    "input": "[\"objektu\", \"tapauka\", \"apiril\", \"jatetxe\", \"biologo\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2405",
+    "input": "[\"urre\", \"laranja\", \"basamortu\", \"atso\", \"sektore\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2407",
+    "input": "[\"eskubaloi\", \"demokrazia\", \"bele\", \"gutxiengo\", \"beso\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2408",
+    "input": "[\"jende\", \"gizon\", \"hitz\", \"supermerkatu\", \"garai\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2410",
+    "input": "[\"eskrima\", \"tristura\", \"txerri\", \"kontzeptu\", \"lehengusina\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2412",
+    "input": "[\"elefante\", \"ezaugarri\", \"babak\", \"kausa\", \"atzerakada\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2415",
+    "input": "[\"mutiko\", \"liburu-denda\", \"bus\", \"alkate\", \"hari\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2416",
+    "input": "[\"lege\", \"polizia\", \"adberbio\", \"askatasun\", \"gerri\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2418",
+    "input": "[\"eulitxo\", \"bulego\", \"birbiloba\", \"belaun\", \"hautemate\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2419",
+    "input": "[\"erakunde\", \"murriztapen\", \"txano\", \"udalerri\", \"elkarte\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2420",
+    "input": "[\"birraitona\", \"sorkuntza\", \"irristailuak\", \"kamiseta\", \"suge\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2422",
+    "input": "[\"departamendu\", \"ekoizpen\", \"guda\", \"jende\", \"historia\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2423",
+    "input": "[\"kontzientzia\", \"etxe\", \"taxi\", \"erregai-sailtzaile\", \"sits\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2424",
+    "input": "[\"arropa\", \"baimen\", \"objektu\", \"aza\", \"hanka\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2425",
+    "input": "[\"kuiatxo\", \"ate\", \"lohi\", \"loba\", \"postari\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2426",
+    "input": "[\"dama\", \"musikal\", \"sentsazio\", \"eraikin\", \"haien\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2427",
+    "input": "[\"izaki\", \"lurrun\", \"iltze\", \"gabezia\", \"narriadura\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2428",
+    "input": "[\"mediku\", \"grina\", \"bela\", \"aginte\", \"arrakasta\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2429",
+    "input": "[\"kriket\", \"biolin\", \"kargu\", \"arau\", \"aireportu\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2431",
+    "input": "[\"adostasun\", \"anai\", \"demokrazia\", \"aireportu\", \"katu\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2432",
+    "input": "[\"urakan\", \"arkitekto\", \"leku\", \"berde\", \"lankide\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2435",
+    "input": "[\"umeki\", \"atzerakada\", \"zelai\", \"jertse\", \"andre\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2436",
+    "input": "[\"arkitekto\", \"zizare\", \"geraleku\", \"ekonomia\", \"izenlagun\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2437",
+    "input": "[\"presentzia\", \"tristura\", \"lurrun\", \"aldaka\", \"biologo\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2438",
+    "input": "[\"izaki\", \"irakasle\", \"biolin\", \"bolumen\", \"izenlagun\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2440",
+    "input": "[\"jertse\", \"transakzio\", \"janzki\", \"sardina\", \"zentzu\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2441",
+    "input": "[\"anai\", \"kasketa\", \"beisbol\", \"neke\", \"azal\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2443",
+    "input": "[\"gizaki\", \"more\", \"ekitaldi\", \"egitasmo\", \"txirula\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2444",
+    "input": "[\"alkandora\", \"ardi\", \"suspense\", \"neurri\", \"sumindura\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2445",
+    "input": "[\"intsektu\", \"postposizio\", \"kamiseta\", \"armiarma\", \"su\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2447",
+    "input": "[\"martxo\", \"papar-hegal\", \"gaitasun\", \"azenario\", \"emakume\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2448",
+    "input": "[\"errefau\", \"aintzira\", \"piraguismo\", \"orpo\", \"sumindura\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2450",
+    "input": "[\"gehiengo\", \"talde\", \"lehengusina\", \"ugalketa\", \"andre\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2451",
+    "input": "[\"hondartza\", \"arto\", \"boleibol\", \"txirula\", \"mutiko\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2452",
+    "input": "[\"aintzira\", \"total\", \"sakonera\", \"kordel\", \"aurrerabide\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2453",
+    "input": "[\"eskarmentu\", \"ekitaldi\", \"otarrain\", \"kamera\", \"motxila\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2455",
+    "input": "[\"diputatu\", \"sorkuntza\", \"nazio\", \"betebehar\", \"lanabes\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2456",
+    "input": "[\"margolari\", \"itsaso\", \"mililitro\", \"soineko\", \"kontzientzia\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2457",
+    "input": "[\"altuera\", \"laranja\", \"ahizpa\", \"kontsumo\", \"tabako-denda\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2458",
+    "input": "[\"preposizio\", \"tren\", \"bizikleta\", \"etorkizun\", \"lur\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2459",
+    "input": "[\"heriotza\", \"garraio\", \"esanahi\", \"haien\", \"ipurdi\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2461",
+    "input": "[\"lohi\", \"azenario\", \"enpatia\", \"txipiroi\", \"amona\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2462",
+    "input": "[\"hegazkin\", \"basamortu\", \"giltza\", \"begi\", \"txano\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2464",
+    "input": "[\"mutiko\", \"zurgin\", \"astelehen\", \"zuri\", \"segurtasun\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2467",
+    "input": "[\"tximeleta\", \"badminton\", \"bernazaki\", \"motor\", \"umeki\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2468",
+    "input": "[\"ibai\", \"grina\", \"ukimen\", \"norabide\", \"errefau\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2472",
+    "input": "[\"gimnastika\", \"bizitza\", \"boxeo\", \"baso\", \"bake\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2473",
+    "input": "[\"orburu\", \"administrazio\", \"mekanikari\", \"musikal\", \"eskola\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2475",
+    "input": "[\"maila\", \"aintzira\", \"elefante\", \"udaletxe\", \"komunitate\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2476",
+    "input": "[\"ile-apaindegi\", \"abokatu\", \"idazmahai\", \"sudur\", \"hondartza\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2477",
+    "input": "[\"fantasia\", \"espezie\", \"hiri\", \"objektu\", \"harakin\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2478",
+    "input": "[\"futbol\", \"gizarte\", \"gizon\", \"ibilbide\", \"izenordain\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2481",
+    "input": "[\"gabezia\", \"gas\", \"motor\", \"guda\", \"surf\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2482",
+    "input": "[\"eraikuntza\", \"gobernu\", \"tipula\", \"intsektu\", \"gramo\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2483",
+    "input": "[\"leku\", \"haien\", \"lehengusu\", \"piper\", \"geraleku\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2484",
+    "input": "[\"diputatu\", \"garapen\", \"irail\", \"hori\", \"tronpeta\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2486",
+    "input": "[\"maiatz\", \"izter\", \"sarrera\", \"oroimen\", \"substantibo\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2488",
+    "input": "[\"erakunde\", \"lorpen\", \"beroki\", \"gas\", \"amona\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2490",
+    "input": "[\"gramo\", \"preposizio\", \"postposizio\", \"estatu\", \"dekretu\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2491",
+    "input": "[\"segurtasun\", \"kargu\", \"bainujantzi\", \"laranja\", \"azazkal\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2492",
+    "input": "[\"krisi\", \"tapauka\", \"kolore\", \"azazkal\", \"eraso\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2494",
+    "input": "[\"saxofoi\", \"ile\", \"kilo\", \"objektu\", \"urtarril\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2495",
+    "input": "[\"burdin\", \"mugimendu\", \"lehorte\", \"aireportu\", \"baldintza\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2496",
+    "input": "[\"izenondo\", \"antzekotasun\", \"segida\", \"administrari\", \"loradenda\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2497",
+    "input": "[\"egoera\", \"lorpen\", \"gris\", \"igogailu\", \"harakin\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2500",
+    "input": "[\"xendazaletasun\", \"usaimen\", \"mendi\", \"garun\", \"erakunde\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2502",
+    "input": "[\"baimen\", \"aurrerapen\", \"kalte\", \"aho\", \"elur-jausi\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2503",
+    "input": "[\"tipula\", \"belaun\", \"kargu\", \"aire\", \"jertse\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2504",
+    "input": "[\"supermerkatu\", \"baldintza\", \"dentista\", \"bularretako\", \"etorbide\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2505",
+    "input": "[\"ezagun\", \"hazkunde\", \"lur\", \"ukimen\", \"ingeniari\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2507",
+    "input": "[\"preposizio\", \"garun\", \"herri\", \"abentura\", \"demokrazia\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2508",
+    "input": "[\"abuztu\", \"papar-hegal\", \"matxinsalto\", \"emaitza\", \"tenis\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2509",
+    "input": "[\"ostiral\", \"maiatz\", \"argiketari\", \"idazmahai\", \"geltoki\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2510",
+    "input": "[\"zirkulazio\", \"gai\", \"sarrera\", \"patinete\", \"gure\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2511",
+    "input": "[\"milimetro\", \"larunbat\", \"askatasun\", \"gitarra\", \"aktore\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2514",
+    "input": "[\"kopuru\", \"farmazia\", \"trafiko\", \"bizikleta\", \"kausa\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2516",
+    "input": "[\"bake\", \"bele\", \"armiarma\", \"jaiotza\", \"errepide\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2517",
+    "input": "[\"lehoi\", \"gerriko\", \"nire\", \"bainujantzi\", \"arrandegi\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2519",
+    "input": "[\"kilometro\", \"su\", \"porrot\", \"more\", \"banku\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2523",
+    "input": "[\"kremailera\", \"metal\", \"hiribildu\", \"musikal\", \"xede\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2524",
+    "input": "[\"ukondo\", \"zirkulazio\", \"asteazken\", \"fruta-denda\", \"bularretako\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2525",
+    "input": "[\"jaka\", \"esku\", \"ate\", \"gizarte\", \"suhiltzaile\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2526",
+    "input": "[\"pertsona\", \"kafetegi\", \"prozesu\", \"lokatz\", \"aparatu\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2528",
+    "input": "[\"natura\", \"ozeano\", \"kode\", \"lepo\", \"oroipen\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2529",
+    "input": "[\"kremailera\", \"okin\", \"mahuka\", \"arratoi\", \"administrari\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2531",
+    "input": "[\"hegaluze\", \"autobide\", \"autobus\", \"garapen\", \"babak\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2532",
+    "input": "[\"herri\", \"ardi\", \"papar-hegal\", \"anai\", \"merkatu\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2533",
+    "input": "[\"onura\", \"betebehar\", \"norbanako\", \"suspense\", \"taxi\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2534",
+    "input": "[\"gogoeta\", \"interes\", \"ile\", \"arkitekto\", \"uztail\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2535",
+    "input": "[\"zerbitzu\", \"izen\", \"preposizio\", \"errepide\", \"dama\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2537",
+    "input": "[\"hori\", \"aukera\", \"konfiantza\", \"gizateri\", \"liburutegi\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2538",
+    "input": "[\"laranja\", \"haien\", \"grina\", \"loba\", \"urdail\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2539",
+    "input": "[\"bateria\", \"lokarri\", \"arrosa\", \"txerri\", \"arau\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2540",
+    "input": "[\"auto\", \"orpo\", \"ipurdi\", \"lur\", \"ezusteko\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2543",
+    "input": "[\"eskubaloi\", \"ahizpa\", \"mekanikari\", \"arkitekto\", \"hiri\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2545",
+    "input": "[\"idazmahai\", \"supermerkatu\", \"izaki\", \"aditz\", \"eulitxo\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2548",
+    "input": "[\"klub\", \"uraza\", \"astelehen\", \"zerbitzari\", \"aldaka\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2549",
+    "input": "[\"gogoeta\", \"gris\", \"erremolatxa\", \"gehiengo\", \"gezur\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2551",
+    "input": "[\"berun\", \"preposizio\", \"biloba\", \"arazo\", \"postposizio\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2555",
+    "input": "[\"arrano\", \"txakur\", \"bizar\", \"pisu\", \"alderdi\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2557",
+    "input": "[\"dekretu\", \"asteazken\", \"lurrikara\", \"soka\", \"hezur\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2558",
+    "input": "[\"farmazia\", \"neurri\", \"azenario\", \"mahuka\", \"heriotza\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2560",
+    "input": "[\"matxinsalto\", \"kilometro\", \"hasiera\", \"fantasia\", \"gaitasun\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2561",
+    "input": "[\"piano\", \"topaketa\", \"atal\", \"zizare\", \"izotz\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2562",
+    "input": "[\"administrazio\", \"fantasia\", \"itsasontzi\", \"kilo\", \"larunbat\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2565",
+    "input": "[\"oilo\", \"gitarra\", \"sute\", \"asmatze\", \"izeba\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2569",
+    "input": "[\"guda\", \"atletismo\", \"urdail\", \"zaldi\", \"xede\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2572",
+    "input": "[\"musker\", \"azalore\", \"enpatia\", \"azenario\", \"eskailera\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2573",
+    "input": "[\"gizateri\", \"mendi\", \"andre\", \"jaiotza\", \"labezomorro\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2574",
+    "input": "[\"laranja\", \"zurgin\", \"gizarte\", \"mahuka\", \"sabai\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2576",
+    "input": "[\"politika\", \"determinatzaile\", \"zelai\", \"kanpaina\", \"bitxi-denda\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2577",
+    "input": "[\"mahai\", \"misterio\", \"kilo\", \"waterpolo\", \"posizio\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2578",
+    "input": "[\"automobil\", \"lanabes\", \"esanahi\", \"irudi\", \"birramona\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2580",
+    "input": "[\"beltz\", \"autoeskola\", \"betebehar\", \"baimen\", \"suntsiketa\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2582",
+    "input": "[\"komunitate\", \"herri\", \"postari\", \"sukaldari\", \"sumindura\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2583",
+    "input": "[\"balio\", \"astronauta\", \"metal\", \"aurpegi\", \"txerri\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2586",
+    "input": "[\"hautemate\", \"administrari\", \"pantaila\", \"astronauta\", \"autobus\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2587",
+    "input": "[\"ekonomia\", \"tamaina\", \"porrot\", \"komisaria\", \"kode\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2588",
+    "input": "[\"igeriketa\", \"nortasun\", \"eskola\", \"bolumen\", \"hazkunde\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2589",
+    "input": "[\"etxebizitza\", \"metal\", \"udalerri\", \"ekain\", \"arrain\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2590",
+    "input": "[\"arkitekto\", \"galtza\", \"futbol\", \"asteazken\", \"gitarra\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2595",
+    "input": "[\"kontzeptu\", \"bele\", \"bizkar\", \"betebehar\", \"gezur\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2596",
+    "input": "[\"adberbio\", \"labezomorro\", \"igogailu\", \"jatorri\", \"gabezia\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2597",
+    "input": "[\"asteazken\", \"kriket\", \"baimen\", \"egitasmo\", \"txirula\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2600",
+    "input": "[\"harridura\", \"desberdintasun\", \"itsasontzi\", \"soka\", \"marroi\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2601",
+    "input": "[\"hiri\", \"erregai-sailtzaile\", \"altuera\", \"lehengusina\", \"eskubaloi\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2602",
+    "input": "[\"lanabes\", \"betaurreko\", \"soka\", \"oin\", \"metal\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2606",
+    "input": "[\"merkatu\", \"zuri\", \"sute\", \"preposizio\", \"ostiral\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2607",
+    "input": "[\"elefante\", \"asperdura\", \"ezpain\", \"belo\", \"asteazken\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2608",
+    "input": "[\"gorbata\", \"urrats\", \"ahur\", \"familia\", \"izotz\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2612",
+    "input": "[\"juntagailu\", \"kontzientzia\", \"beisbol\", \"auto\", \"zerba\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2613",
+    "input": "[\"abiadura\", \"iltze\", \"desberdintasun\", \"irtenbide\", \"sorbalda\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2615",
+    "input": "[\"automobil\", \"eskailera\", \"demokrazia\", \"aire\", \"armiarma\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2616",
+    "input": "[\"ile\", \"drama\", \"biologo\", \"uraza\", \"polizia\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2618",
+    "input": "[\"oinetako\", \"sits\", \"gitarra\", \"sardina\", \"azal\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2620",
+    "input": "[\"piano\", \"ibilbide\", \"oilo\", \"historia\", \"liburu-denda\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2621",
+    "input": "[\"lurrun\", \"suntsiketa\", \"laranja\", \"bateria\", \"etxe\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2623",
+    "input": "[\"larunbat\", \"eski\", \"zerbitzu\", \"igeriketa\", \"kuleroak\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2625",
+    "input": "[\"auto\", \"azenario\", \"dama\", \"arkitekto\", \"hazkunde\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2626",
+    "input": "[\"billar\", \"haren\", \"izenlagun\", \"gris\", \"lorpen\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2627",
+    "input": "[\"kode\", \"gure\", \"aurrerabide\", \"ibilbide\", \"hasiera\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2628",
+    "input": "[\"arrandegi\", \"determinatzaile\", \"intsektu\", \"aparatu\", \"hutsegite\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2629",
+    "input": "[\"ministro\", \"autoeskola\", \"antzekotasun\", \"egitasmo\", \"labezomorro\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2630",
+    "input": "[\"xede\", \"agure\", \"taxi\", \"izenondo\", \"izaki\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2631",
+    "input": "[\"poz\", \"alberjinia\", \"atal\", \"klarinete\", \"behi\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2632",
+    "input": "[\"bolumen\", \"loba\", \"maila\", \"herrialde\", \"zentimetro\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2633",
+    "input": "[\"behar\", \"bularretako\", \"lanabes\", \"usaimen\", \"tximino\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2635",
+    "input": "[\"berde\", \"lokarri\", \"merkataritza\", \"urri\", \"izter\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2636",
+    "input": "[\"sarrera\", \"taberna\", \"jende\", \"lehengusina\", \"gaitasun\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2637",
+    "input": "[\"bilera\", \"sagu\", \"komedia\", \"larunbat\", \"berun\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2638",
+    "input": "[\"errefau\", \"politikari\", \"untxi\", \"entzumen\", \"igel\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2639",
+    "input": "[\"astelehen\", \"ur\", \"bizitza\", \"kale\", \"ingeniari\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2640",
+    "input": "[\"eskaintza\", \"nazio\", \"kamera\", \"atzamar\", \"kriket\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2645",
+    "input": "[\"sabai\", \"ezaugarri\", \"askatasun\", \"zelai\", \"litro\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2646",
+    "input": "[\"lehorte\", \"gaitasun\", \"milimetro\", \"zuri\", \"fantasia\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2648",
+    "input": "[\"ibai\", \"musikal\", \"ministro\", \"urdin\", \"gela\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2649",
+    "input": "[\"behi\", \"politikari\", \"gorputz\", \"beisbol\", \"kuleroak\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2650",
+    "input": "[\"leku\", \"banku\", \"dentista\", \"heriotza\", \"aldaka\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2652",
+    "input": "[\"atzamar\", \"eskalada\", \"kode\", \"departamendu\", \"zirkulazio\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2653",
+    "input": "[\"hanka\", \"tronpeta\", \"katu\", \"agure\", \"lokarri\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2654",
+    "input": "[\"demokrazia\", \"lehorte\", \"nire\", \"izaera\", \"jaiotza\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2658",
+    "input": "[\"boleibol\", \"mugimendu\", \"fantasia\", \"prozesu\", \"ospitale\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2660",
+    "input": "[\"haren\", \"sits\", \"urmael\", \"ugalketa\", \"ardi\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2661",
+    "input": "[\"itxigailu\", \"abuztu\", \"su\", \"lur\", \"lankide\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2663",
+    "input": "[\"saxofoi\", \"haurtxo\", \"politikari\", \"ukimen\", \"kale\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2665",
+    "input": "[\"antzekotasun\", \"eskubide\", \"taxi\", \"herrialde\", \"eskubaloi\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2667",
+    "input": "[\"ukimen\", \"apiril\", \"bateria\", \"gaitasun\", \"sentsazio\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2669",
+    "input": "[\"hasiera\", \"elkarte\", \"adostasun\", \"gezur\", \"untxi\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2671",
+    "input": "[\"murriztapen\", \"eskumutur\", \"konfiantza\", \"eskubaloi\", \"zabalera\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2674",
+    "input": "[\"kamera\", \"kopuru\", \"bukaera\", \"urri\", \"izaera\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2677",
+    "input": "[\"izotz\", \"ur\", \"bateria\", \"sektore\", \"lankide\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2679",
+    "input": "[\"eskumutur\", \"nerabe\", \"adostasun\", \"preposizio\", \"kanpaina\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2680",
+    "input": "[\"gauza\", \"espezie\", \"norbanako\", \"liburutegi\", \"ohe\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2681",
+    "input": "[\"lorpen\", \"ibai\", \"hanka\", \"izaki\", \"iltze\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2682",
+    "input": "[\"metal\", \"gizateri\", \"atzamar\", \"aurrerabide\", \"zilar\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2683",
+    "input": "[\"txipiroi\", \"arrosa\", \"txerri\", \"litro\", \"adberbio\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2684",
+    "input": "[\"bake\", \"osaba\", \"ingeniari\", \"tranbia\", \"iturgin\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2685",
+    "input": "[\"adberbio\", \"atzamar\", \"eskalada\", \"abentura\", \"pertsona\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2689",
+    "input": "[\"narriadura\", \"interes\", \"sukaldari\", \"hasiera\", \"izkira\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2691",
+    "input": "[\"asteazken\", \"debeku\", \"dentista\", \"parlamentari\", \"taxi\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2694",
+    "input": "[\"ama\", \"buru\", \"pantaila\", \"agure\", \"kasu\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2695",
+    "input": "[\"ekain\", \"babak\", \"trenbide\", \"beso\", \"asmatze\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2696",
+    "input": "[\"arau\", \"motxila\", \"estatu\", \"aireportu\", \"uholde\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2698",
+    "input": "[\"oroimen\", \"zerbitzu\", \"usaimen\", \"loradenda\", \"narriadura\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2701",
+    "input": "[\"beltz\", \"klub\", \"kanpaina\", \"dentista\", \"litro\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2703",
+    "input": "[\"bikote\", \"tapauka\", \"egia\", \"itsasontzi\", \"andre\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2704",
+    "input": "[\"ile\", \"kilometro\", \"izen\", \"sail\", \"ostegun\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2708",
+    "input": "[\"gizarte\", \"kuiatxo\", \"andre\", \"fase\", \"sarrera\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2709",
+    "input": "[\"kopia-denda\", \"kilometro\", \"kasketa\", \"poz\", \"sarrera\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2711",
+    "input": "[\"baldintza\", \"determinatzaile\", \"oroipen\", \"azazkal\", \"kutxazain\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2712",
+    "input": "[\"ahizpa\", \"tronpeta\", \"probintzia\", \"mozketa\", \"xendazaletasun\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2713",
+    "input": "[\"leku\", \"elefante\", \"igeriketa\", \"itxaronaldi\", \"aza\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2714",
+    "input": "[\"basamortu\", \"abokatu\", \"espinaka\", \"izaki\", \"lokarriak\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2720",
+    "input": "[\"neke\", \"udalerri\", \"departamendu\", \"kolore\", \"pantaila\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2721",
+    "input": "[\"helduleku\", \"harridura\", \"baratxuri\", \"objektu\", \"aitona\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2723",
+    "input": "[\"buru\", \"departamendu\", \"zentimetro\", \"beldur\", \"murriztapen\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2727",
+    "input": "[\"okin\", \"basamortu\", \"tranbia\", \"belaun\", \"arrandegi\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2728",
+    "input": "[\"aitona\", \"hazkunde\", \"gure\", \"saltzaile\", \"konstituzio\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2730",
+    "input": "[\"autobide\", \"luzoker\", \"harategi\", \"produktu\", \"senar\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2732",
+    "input": "[\"kriket\", \"hanka\", \"ukondo\", \"eskularruak\", \"izaki\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2733",
+    "input": "[\"saxofoi\", \"zurgin\", \"hotel\", \"azaro\", \"surf\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2738",
+    "input": "[\"zainzuri\", \"errugbi\", \"emakume\", \"irail\", \"erakunde\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2741",
+    "input": "[\"erregai-sailtzaile\", \"patinaje\", \"bizikleta\", \"ama\", \"pisu\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2742",
+    "input": "[\"adibide\", \"ozeano\", \"kilo\", \"historia\", \"gihar\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2743",
+    "input": "[\"piper\", \"uraza\", \"beso\", \"pantaila\", \"pisu\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2744",
+    "input": "[\"banku\", \"iragan\", \"txakur\", \"harreman\", \"politikari\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2745",
+    "input": "[\"birraitona\", \"tamaina\", \"jende\", \"herri\", \"txerri\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2746",
+    "input": "[\"irakasle\", \"haien\", \"zaldi\", \"transakzio\", \"ekoizpen\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2749",
+    "input": "[\"espezie\", \"aldaka\", \"merkataritza\", \"arrain\", \"begi\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2751",
+    "input": "[\"gibel\", \"beroki\", \"gezur\", \"gorputz\", \"ate\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2753",
+    "input": "[\"bide\", \"baso\", \"jarduera\", \"elur-jausi\", \"aulki\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2757",
+    "input": "[\"behi\", \"kargu\", \"beroki\", \"intsektu\", \"postari\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2758",
+    "input": "[\"poltsa\", \"komisaria\", \"apio\", \"urri\", \"mililitro\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2761",
+    "input": "[\"topaketa\", \"zaldi\", \"jatetxe\", \"hezur\", \"su\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2762",
+    "input": "[\"kontzeptu\", \"senar\", \"senatari\", \"kutxazain\", \"azelerazio\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2764",
+    "input": "[\"ukimen\", \"bola-joko\", \"eraikuntza\", \"klarinete\", \"klub\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2766",
+    "input": "[\"jende\", \"uholde\", \"laranja\", \"okindegi\", \"txirula\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2770",
+    "input": "[\"tristura\", \"gatz\", \"hotel\", \"ekitaldi\", \"osaba\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2771",
+    "input": "[\"billar\", \"olagarro\", \"arazo\", \"zilar\", \"aintzira\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2772",
+    "input": "[\"kamera\", \"zentimetro\", \"espinaka\", \"posizio\", \"margolari\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2773",
+    "input": "[\"izaki\", \"musikal\", \"oinetako\", \"ostiral\", \"mililitro\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2775",
+    "input": "[\"adberbio\", \"mahai\", \"xede\", \"gerriko\", \"mekanikari\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2776",
+    "input": "[\"tximeleta\", \"juntagailu\", \"total\", \"milimetro\", \"nire\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2777",
+    "input": "[\"errepide\", \"natura\", \"poltsa\", \"zuzendari\", \"gitarra\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2779",
+    "input": "[\"aginte\", \"eulitxo\", \"leiho\", \"aho\", \"fruta-denda\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2780",
+    "input": "[\"probintzia\", \"ezpain\", \"otsail\", \"narriadura\", \"zaldi\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2783",
+    "input": "[\"ekonomia\", \"mutiko\", \"eskularruak\", \"logela\", \"arrain\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2786",
+    "input": "[\"irail\", \"botoi\", \"zurgin\", \"hobekuntza\", \"kargu\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2789",
+    "input": "[\"su\", \"ipurdi\", \"zuzendari\", \"asperdura\", \"zentimetro\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2790",
+    "input": "[\"klarinete\", \"liburu-denda\", \"izaera\", \"diputatu\", \"urri\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2791",
+    "input": "[\"ardi\", \"garai\", \"interes\", \"boxeo\", \"uraza\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2793",
+    "input": "[\"sektore\", \"hari\", \"kamera\", \"posibilitate\", \"xendazaletasun\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2794",
+    "input": "[\"substantibo\", \"itxigailu\", \"iragan\", \"burdin\", \"bola-joko\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2796",
+    "input": "[\"liburu-denda\", \"eskari\", \"hegazkin\", \"bateria\", \"merkataritza\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2798",
+    "input": "[\"komedia\", \"zure\", \"tigre\", \"eginkizun\", \"eskari\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2800",
+    "input": "[\"orein\", \"adibide\", \"zuen\", \"aulki\", \"kongresu\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2801",
+    "input": "[\"sardina\", \"posibilitate\", \"garai\", \"eskola\", \"sudur\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2802",
+    "input": "[\"gizateri\", \"polizia\", \"okin\", \"sagu\", \"urdin\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2803",
+    "input": "[\"arrano\", \"aparatu\", \"zomorro\", \"enpresaburu\", \"nerabe\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2804",
+    "input": "[\"epaile\", \"beldur\", \"izaki\", \"hotel\", \"suhiltzaile\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2805",
+    "input": "[\"komisaria\", \"marroi\", \"bizitza\", \"diru\", \"determinatzaile\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2807",
+    "input": "[\"zure\", \"narriadura\", \"beroki\", \"murriztapen\", \"automobil\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2808",
+    "input": "[\"martxo\", \"arau\", \"guda\", \"zentzu\", \"milimetro\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2810",
+    "input": "[\"arau\", \"maila\", \"osaba\", \"topaketa\", \"polizia\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2811",
+    "input": "[\"birraitona\", \"jarduera\", \"bolumen\", \"argazkilari\", \"juntagailu\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2813",
+    "input": "[\"diru\", \"igogailu\", \"usaimen\", \"emazte\", \"atso\"] zerrendak badu izenordain genitiboren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2814",
+    "input": "[\"saiakera\", \"atzerakada\", \"esanahi\", \"heriotza\", \"komedia\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2816",
+    "input": "[\"badminton\", \"iragan\", \"kuleroak\", \"garun\", \"mendi\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2817",
+    "input": "[\"fantasia\", \"indar\", \"misterio\", \"hitz\", \"ezagun\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2818",
+    "input": "[\"automobil\", \"postari\", \"behi\", \"azenario\", \"patinete\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2819",
+    "input": "[\"betaurreko\", \"azaro\", \"amona\", \"soka\", \"kazetari\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2820",
+    "input": "[\"hari\", \"maiatz\", \"ekonomia\", \"postposizio\", \"antzekotasun\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2821",
+    "input": "[\"zentzu\", \"hanka\", \"sagu\", \"iturgin\", \"bular\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2822",
+    "input": "[\"aza\", \"belo\", \"gai\", \"piper\", \"bukaera\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2823",
+    "input": "[\"suspense\", \"nerabe\", \"enpatia\", \"otsail\", \"zentzu\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2824",
+    "input": "[\"surf\", \"tsunami\", \"jaiotza\", \"oinetako\", \"patatak\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2833",
+    "input": "[\"litro\", \"motxila\", \"papar-hegal\", \"orratz\", \"lepo\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2834",
+    "input": "[\"harridura\", \"lehengusu\", \"bele\", \"baldintza\", \"sute\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2836",
+    "input": "[\"beltz\", \"kamiseta\", \"motxila\", \"jaka\", \"kasketa\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2837",
+    "input": "[\"biolin\", \"ahalmen\", \"lagun\", \"untxi\", \"litro\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2839",
+    "input": "[\"debeku\", \"hegazkin\", \"oroimen\", \"auto\", \"kilometro\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2840",
+    "input": "[\"adostasun\", \"krisi\", \"bele\", \"gaitasun\", \"indar\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2841",
+    "input": "[\"galtzontzilloak\", \"kontzientzia\", \"lokarri\", \"ibai\", \"mediku\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2843",
+    "input": "[\"merkataritza\", \"pantaila\", \"trafiko\", \"arazo\", \"zapatila\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2844",
+    "input": "[\"ohe\", \"gabezia\", \"onura\", \"bular\", \"liburu-denda\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2847",
+    "input": "[\"bus\", \"olagarro\", \"arkitekto\", \"hari\", \"egitarau\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2849",
+    "input": "[\"epaile\", \"urdin\", \"loba\", \"orein\", \"ohe\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2851",
+    "input": "[\"norbanako\", \"kolore\", \"suhiltzaile\", \"gatazka\", \"asteazken\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2852",
+    "input": "[\"diputatu\", \"lepo\", \"pantaila\", \"norbanako\", \"katu\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2853",
+    "input": "[\"armiarma\", \"zerbitzari\", \"saxofoi\", \"klub\", \"pisu\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2857",
+    "input": "[\"bizkar\", \"belar-denda\", \"ile-apaintzaile\", \"aza\", \"belarri\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2859",
+    "input": "[\"ministro\", \"lepo\", \"okindegi\", \"zabalera\", \"porru\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2861",
+    "input": "[\"babak\", \"zerbitzari\", \"hobekuntza\", \"luzoker\", \"egia\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2862",
+    "input": "[\"buru\", \"patinaje\", \"lur\", \"igel\", \"taxi\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2863",
+    "input": "[\"asperdura\", \"botoi\", \"saltzaile\", \"desberdintasun\", \"kuia\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2865",
+    "input": "[\"sudur\", \"luzera\", \"merkatu\", \"poltsa\", \"klarinete\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2869",
+    "input": "[\"botoi\", \"zientzialari\", \"azal\", \"matxinsalto\", \"bolumen\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2872",
+    "input": "[\"azelerazio\", \"nazio\", \"badminton\", \"bularretako\", \"galtza\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2874",
+    "input": "[\"polizia\", \"mota\", \"waterpolo\", \"alberjinia\", \"lehengusina\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2878",
+    "input": "[\"hasiera\", \"bikote\", \"gradu\", \"komedia\", \"hari\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2879",
+    "input": "[\"neurri\", \"lege\", \"orainaldi\", \"gorri\", \"errefau\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2880",
+    "input": "[\"zentimetro\", \"konfiantza\", \"jarrera\", \"ospitale\", \"lagun\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2881",
+    "input": "[\"kafetegi\", \"adibide\", \"baratxuri\", \"boleibol\", \"bilera\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2884",
+    "input": "[\"astronauta\", \"lehengusina\", \"gauza\", \"enpresa\", \"ile\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2886",
+    "input": "[\"tenis\", \"lehoi\", \"bateria\", \"grina\", \"kutxazain\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2889",
+    "input": "[\"historia\", \"gorputz\", \"margolari\", \"garun\", \"itxaronaldi\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2890",
+    "input": "[\"ugalketa\", \"politika\", \"senar\", \"sudur\", \"gaitasun\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2892",
+    "input": "[\"aho\", \"lokarriak\", \"hotel\", \"gutxiengo\", \"kanpaina\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2893",
+    "input": "[\"sakonera\", \"gorri\", \"existentzia\", \"hiri\", \"bola-joko\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2894",
+    "input": "[\"farmazia\", \"zurgin\", \"beltz\", \"logela\", \"guda\"] zerrendak badu etxearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2896",
+    "input": "[\"itsaso\", \"hondartza\", \"administrari\", \"kuleroak\", \"biloba\"] zerrendak badu giza gorputzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2897",
+    "input": "[\"lagun\", \"sits\", \"uholde\", \"litro\", \"leiho\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2899",
+    "input": "[\"argiketari\", \"kordel\", \"herri\", \"erakunde\", \"determinatzaile\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2901",
+    "input": "[\"eskaintza\", \"zapatila\", \"bele\", \"porru\", \"udalerri\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2902",
+    "input": "[\"belar-denda\", \"ostegun\", \"jatetxe\", \"egitarau\", \"mugimendu\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2903",
+    "input": "[\"eraso\", \"okindegi\", \"diputatu\", \"mozketa\", \"klarinete\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2904",
+    "input": "[\"urre\", \"orratz\", \"boxeo\", \"aurpegi\", \"otsail\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2905",
+    "input": "[\"helduleku\", \"kordel\", \"jarduera\", \"egia\", \"autobus\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2906",
+    "input": "[\"idazmahai\", \"sektore\", \"autobus\", \"iragan\", \"emaitza\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2910",
+    "input": "[\"kode\", \"bernazaki\", \"orein\", \"argazkilari\", \"lehengusina\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2911",
+    "input": "[\"bilete\", \"alkate\", \"mota\", \"substantibo\", \"hezur\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2912",
+    "input": "[\"fase\", \"pisu\", \"klarinete\", \"programatzaile\", \"udalerri\"] zerrendak badu familiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2915",
+    "input": "[\"ile-apaintzaile\", \"eskrima\", \"helmuga\", \"suge\", \"substantibo\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2916",
+    "input": "[\"hobekuntza\", \"gobernu\", \"pertsona\", \"jatetxe\", \"ondorio\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2917",
+    "input": "[\"urri\", \"sentsazio\", \"aurrerabide\", \"politikari\", \"bela\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2918",
+    "input": "[\"gerriko\", \"gona\", \"izotz\", \"etorkizun\", \"orratz\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2919",
+    "input": "[\"zomorro\", \"lagun\", \"zilar\", \"norbanako\", \"administrari\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2920",
+    "input": "[\"ibilgailu\", \"lehengusu\", \"hari\", \"azelerazio\", \"berun\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2921",
+    "input": "[\"ekain\", \"asperdura\", \"igogailu\", \"itsasontzi\", \"debeku\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2922",
+    "input": "[\"atletismo\", \"esanahi\", \"poltsa\", \"bular\", \"politikari\"] zerrendak badu tresnaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2923",
+    "input": "[\"ikusmen\", \"kordel\", \"behi\", \"oroimen\", \"orainaldi\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2925",
+    "input": "[\"liburutegi\", \"eskumutur\", \"gibel\", \"eskarmentu\", \"tranbia\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2927",
+    "input": "[\"eskubide\", \"tximeleta\", \"gas\", \"hautemate\", \"murriztapen\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2928",
+    "input": "[\"bizkar\", \"konpainia\", \"determinatzaile\", \"ospitale\", \"irakasle\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2929",
+    "input": "[\"jaiotza\", \"itsaso\", \"zilar\", \"izter\", \"matxinsalto\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2930",
+    "input": "[\"alkate\", \"baso\", \"papar-hegal\", \"beso\", \"botoi\"] zerrendak badu geografiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2933",
+    "input": "[\"hautemate\", \"elur-jausi\", \"kontseilu\", \"argiketari\", \"atzerakada\"] zerrendak badu espazio edo kopururen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2935",
+    "input": "[\"mililitro\", \"iturgin\", \"senatari\", \"zuri\", \"tristura\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2936",
+    "input": "[\"azenario\", \"bularretako\", \"herri\", \"izenondo\", \"eskularruak\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2938",
+    "input": "[\"arratoi\", \"saskibaloi\", \"luzera\", \"izenordain\", \"sukaldari\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2940",
+    "input": "[\"norabide\", \"administrari\", \"jaiotza\", \"biolin\", \"autoeskola\"] zerrendak badu bizitzarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2941",
+    "input": "[\"izaera\", \"tximino\", \"hotel\", \"arrano\", \"eskumutur\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2942",
+    "input": "[\"aitona\", \"kopuru\", \"geraleku\", \"eskaintza\", \"itxaronaldi\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2943",
+    "input": "[\"kilometro\", \"kolore\", \"sabai\", \"esanahi\", \"azenario\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2944",
+    "input": "[\"litro\", \"beisbol\", \"kopia-denda\", \"patatak\", \"aurpegi\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2945",
+    "input": "[\"argiketari\", \"antzekotasun\", \"eskularruak\", \"izotz\", \"autoeskola\"] zerrendak badu ogibideren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2946",
+    "input": "[\"loradenda\", \"esanahi\", \"tranbia\", \"eskarmentu\", \"mota\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2949",
+    "input": "[\"azelerazio\", \"tranbia\", \"boleibol\", \"senar\", \"elefante\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2950",
+    "input": "[\"posibilitate\", \"hasiera\", \"belo\", \"maila\", \"gehiengo\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2951",
+    "input": "[\"brokoli\", \"kasketa\", \"kordel\", \"ostegun\", \"egitasmo\"] zerrendak badu barazkiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2953",
+    "input": "[\"gibel\", \"diru\", \"bide\", \"more\", \"irakasle\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2954",
+    "input": "[\"politikari\", \"pertsona\", \"kuleroak\", \"dentista\", \"kazetari\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2958",
+    "input": "[\"neskato\", \"astearte\", \"usaimen\", \"eulitxo\", \"neke\"] zerrendak badu garraioarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2960",
+    "input": "[\"zuri\", \"eraikuntza\", \"atal\", \"kamiseta\", \"hasiera\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2961",
+    "input": "[\"hitz\", \"ondorio\", \"lanabes\", \"garraio\", \"arma\"] zerrendak badu hondamendi naturalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2962",
+    "input": "[\"autoeskola\", \"itxaronaldi\", \"tenis\", \"katu\", \"osaba\"] zerrendak badu asteko egunen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2963",
+    "input": "[\"herri\", \"jaun\", \"gitarra\", \"lorpen\", \"ur\"] zerrendak badu instrumenturen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2966",
+    "input": "[\"esanahi\", \"objektu\", \"urri\", \"erregai-sailtzaile\", \"aulki\"] zerrendak badu koloreren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2970",
+    "input": "[\"denda\", \"tigre\", \"lurrun\", \"piraguismo\", \"astronauta\"] zerrendak badu animaliaren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2973",
+    "input": "[\"igel\", \"eskubaloi\", \"banku\", \"babak\", \"hegazkin\"] zerrendak badu kirolen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2976",
+    "input": "[\"banku\", \"logela\", \"gerri\", \"katu\", \"sekretu\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2977",
+    "input": "[\"kilometro\", \"egitasmo\", \"kriket\", \"jaiotza\", \"behi\"] zerrendak badu ekonomiarekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2978",
+    "input": "[\"astelehen\", \"galtzerdiak\", \"aza\", \"eraso\", \"litro\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2980",
+    "input": "[\"postposizio\", \"familia\", \"eraikuntza\", \"litro\", \"gobernu\"] zerrendak badu neurriren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2982",
+    "input": "[\"martxo\", \"anai\", \"tranbia\", \"eskailera\", \"untxi\"] zerrendak badu hilabeteren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2985",
+    "input": "[\"debeku\", \"aireportu\", \"betaurreko\", \"txirula\", \"musikal\"] zerrendak badu materialen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2986",
+    "input": "[\"bilera\", \"enpresaburu\", \"oinetako\", \"sukaldari\", \"botoi\"] zerrendak badu gizartearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2988",
+    "input": "[\"eulitxo\", \"hondartza\", \"otarrain\", \"pertsona\", \"abokatu\"] zerrendak badu jendearekin zerikusia duen hitzen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2992",
+    "input": "[\"haien\", \"saltzaile\", \"hondartza\", \"seme\", \"plazer\"] zerrendak badu zinema generoren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2994",
+    "input": "[\"more\", \"bulego\", \"lokarri\", \"soka\", \"uztail\"] zerrendak badu lantokiren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2996",
+    "input": "[\"orainaldi\", \"hazkunde\", \"izenondo\", \"bizitza\", \"jarrera\"] zerrendak badu kategoria gramatikalen bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2997",
+    "input": "[\"klub\", \"zainzuri\", \"hortz\", \"basamortu\", \"birbiloba\"] zerrendak badu jantziren bat? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2998",
+    "input": "[\"zorro\", \"hitz\", \"biloba\", \"ama\", \"familia\"] zerrendak badu izen abstrakturen bat? Erantzun \"bai\" edo \"ez\"."
+  }
+]

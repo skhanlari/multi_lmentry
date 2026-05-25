@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1002",
+    "input": "En la frase \"Como resultado Atahualpa fue apresado en un palacio de Cajamarca\", ¿qué palabra precede a la palabra \"en\"?"
+  },
+  {
+    "id": "1017",
+    "input": "En la frase \"En parejas y en danza se realizan elevaciones\", ¿qué palabra precede a la palabra \"parejas\"?"
+  },
+  {
+    "id": "1019",
+    "input": "En la frase \"Consiguió cuatro medallas en competiciones internacionales con Checoslovaquia\", ¿qué palabra precede a la palabra \"medallas\"?"
+  },
+  {
+    "id": "1025",
+    "input": "En la frase \"Existen dos formas de ser realizada\", ¿qué palabra precede a la palabra \"dos\"?"
+  },
+  {
+    "id": "1029",
+    "input": "En la frase \"Es medio hermano del futbolista Ronaldo Lucena\", ¿qué palabra precede a la palabra \"futbolista\"?"
+  },
+  {
+    "id": "1034",
+    "input": "En la frase \"Se encuentra en la Isla Santa Helena\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1035",
+    "input": "En la frase \"Según las investigaciones su origen es fenicio\", ¿qué palabra precede a la palabra \"fenicio\"?"
+  },
+  {
+    "id": "1039",
+    "input": "En la frase \"Estudió ingeniería civil en los Estados Unidos\", ¿qué palabra precede a la palabra \"Estados\"?"
+  },
+  {
+    "id": "1050",
+    "input": "En la frase \"Las turbinas del Mauretania fueron desmanteladas\", ¿qué palabra precede a la palabra \"turbinas\"?"
+  },
+  {
+    "id": "1054",
+    "input": "En la frase \"Logró escapar de prisión y fue obligado a abandonar Rusia\", ¿qué palabra precede a la palabra \"a\"?"
+  },
+  {
+    "id": "1057",
+    "input": "En la frase \"Su organización territorial tiende a parecerse al federalismo\", ¿qué palabra precede a la palabra \"a\"?"
+  },
+  {
+    "id": "1067",
+    "input": "En la frase \"Más tarde ingresó en la National Film and Television School\", ¿qué palabra precede a la palabra \"Film\"?"
+  },
+  {
+    "id": "1077",
+    "input": "En la frase \"Esto provocaba que el lugar fuese una verdadera Zona roja\", ¿qué palabra precede a la palabra \"verdadera\"?"
+  },
+  {
+    "id": "1086",
+    "input": "En la frase \"Timberlake emitió sus disculpas pero Jackson se negó\", ¿qué palabra precede a la palabra \"se\"?"
+  },
+  {
+    "id": "1114",
+    "input": "En la frase \"Y aún restan algunos proyectos en torno a su figura\", ¿qué palabra precede a la palabra \"figura\"?"
+  },
+  {
+    "id": "1150",
+    "input": "En la frase \"El agujero del nido está excavado bajo una rama delgada\", ¿qué palabra precede a la palabra \"bajo\"?"
+  },
+  {
+    "id": "1151",
+    "input": "En la frase \"Mi corazón late con mayor rapidez\", ¿qué palabra precede a la palabra \"rapidez\"?"
+  },
+  {
+    "id": "1175",
+    "input": "En la frase \"Permaneció soltero durante toda su vida\", ¿qué palabra precede a la palabra \"soltero\"?"
+  },
+  {
+    "id": "1178",
+    "input": "En la frase \"La palabra chechena nart tiene este sentido\", ¿qué palabra precede a la palabra \"este\"?"
+  },
+  {
+    "id": "1185",
+    "input": "En la frase \"El proyecto prometió la rehabilitación del drenaje y el canal\", ¿qué palabra precede a la palabra \"drenaje\"?"
+  },
+  {
+    "id": "1186",
+    "input": "En la frase \"Ayudado por el vicario Don Juan Jesús\", ¿qué palabra precede a la palabra \"el\"?"
+  },
+  {
+    "id": "1189",
+    "input": "En la frase \"Comenzó como suplente però fue ganando titularidad\", ¿qué palabra precede a la palabra \"ganando\"?"
+  },
+  {
+    "id": "1190",
+    "input": "En la frase \"La canción recibió críticas divergentes por parte de los críticos\", ¿qué palabra precede a la palabra \"recibió\"?"
+  },
+  {
+    "id": "1199",
+    "input": "En la frase \"El palacio está situado en el corazón de Copenhague\", ¿qué palabra precede a la palabra \"corazón\"?"
+  },
+  {
+    "id": "1201",
+    "input": "En la frase \"Aun así deciden dejar las cosas como estaban\", ¿qué palabra precede a la palabra \"deciden\"?"
+  },
+  {
+    "id": "1203",
+    "input": "En la frase \"El coche tenía treinta puntos de lubricación\", ¿qué palabra precede a la palabra \"puntos\"?"
+  },
+  {
+    "id": "1211",
+    "input": "En la frase \"La clasificación Irvine-Barager los identifica como basaltos\", ¿qué palabra precede a la palabra \"basaltos\"?"
+  },
+  {
+    "id": "1222",
+    "input": "En la frase \"Fue miembro honorario de la hermandad Delta Sigma Theta\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1230",
+    "input": "En la frase \"Los Goodwill Games siempre fueron un evento deficitario\", ¿qué palabra precede a la palabra \"evento\"?"
+  },
+  {
+    "id": "1242",
+    "input": "En la frase \"Como escritora ha publicado multitud de ensayos y artículos\", ¿qué palabra precede a la palabra \"ensayos\"?"
+  },
+  {
+    "id": "1248",
+    "input": "En la frase \"Estos chips están sobre una tarjeta o placa\", ¿qué palabra precede a la palabra \"placa\"?"
+  },
+  {
+    "id": "1265",
+    "input": "En la frase \"El libertino suele representarse como gran bebedor o jugador\", ¿qué palabra precede a la palabra \"jugador\"?"
+  },
+  {
+    "id": "1283",
+    "input": "En la frase \"Algunos estudiosos la atribuyen a Eurípides\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1288",
+    "input": "En la frase \"El distrito tiene escuelas en la Ciudad de Alexandria\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1291",
+    "input": "En la frase \"Hacia el este se ramifica en la Calle Ali Demi\", ¿qué palabra precede a la palabra \"Calle\"?"
+  },
+  {
+    "id": "1294",
+    "input": "En la frase \"Todas las etapas usaban aletas estabilizadoras\", ¿qué palabra precede a la palabra \"etapas\"?"
+  },
+  {
+    "id": "1299",
+    "input": "En la frase \"Estudió en la Universidad de Jena\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1300",
+    "input": "En la frase \"El pico es esbelto y hidrodinámico\", ¿qué palabra precede a la palabra \"esbelto\"?"
+  },
+  {
+    "id": "1312",
+    "input": "En la frase \"Estudió en la School of Visual Arts de Nueva York\", ¿qué palabra precede a la palabra \"of\"?"
+  },
+  {
+    "id": "1317",
+    "input": "En la frase \"Greene fue un prodigio de las matemáticas\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1326",
+    "input": "En la frase \"La reforma se llevó a cabo por Jorge Caballero Bustamante\", ¿qué palabra precede a la palabra \"Caballero\"?"
+  },
+  {
+    "id": "1331",
+    "input": "En la frase \"El protagonista masculino fue el cantante y actor Francisco Llanos\", ¿qué palabra precede a la palabra \"y\"?"
+  },
+  {
+    "id": "1335",
+    "input": "En la frase \"Es nativo de Mozambique Tanzania y Zimbabue\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1337",
+    "input": "En la frase \"Durante su adolescencia residió en El Salvador durante seis años\", ¿qué palabra precede a la palabra \"residió\"?"
+  },
+  {
+    "id": "1351",
+    "input": "En la frase \"El siguiente diagrama muestra las poblaciones más cercanas\", ¿qué palabra precede a la palabra \"diagrama\"?"
+  },
+  {
+    "id": "1355",
+    "input": "En la frase \"Este vídeo sorprendió a numerosos blogs de música\", ¿qué palabra precede a la palabra \"numerosos\"?"
+  },
+  {
+    "id": "1356",
+    "input": "En la frase \"Este grupo está asociado con el movimiento del kibutz unificado\", ¿qué palabra precede a la palabra \"movimiento\"?"
+  },
+  {
+    "id": "1360",
+    "input": "En la frase \"Este grupo está asociado con el movimiento del kibutz unificado\", ¿qué palabra precede a la palabra \"está\"?"
+  },
+  {
+    "id": "1365",
+    "input": "En la frase \"Participó en la Guerra del Paraguay\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1366",
+    "input": "En la frase \"Sus decisiones en los asuntos eran indiscutibles\", ¿qué palabra precede a la palabra \"eran\"?"
+  },
+  {
+    "id": "1370",
+    "input": "En la frase \"Siempre lleva en su brazo derecho una culebra como bastón\", ¿qué palabra precede a la palabra \"derecho\"?"
+  },
+  {
+    "id": "1375",
+    "input": "En la frase \"En un pequeño pueblo en Alabama vive la familia Brown\", ¿qué palabra precede a la palabra \"pequeño\"?"
+  },
+  {
+    "id": "1387",
+    "input": "En la frase \"Uno de sus usos es como colorante para la lana\", ¿qué palabra precede a la palabra \"para\"?"
+  },
+  {
+    "id": "1394",
+    "input": "En la frase \"Todas estas decoraciones se han retirado o instalado en museos\", ¿qué palabra precede a la palabra \"instalado\"?"
+  },
+  {
+    "id": "1397",
+    "input": "En la frase \"Es aplicado en algunos países\", ¿qué palabra precede a la palabra \"en\"?"
+  },
+  {
+    "id": "1399",
+    "input": "En la frase \"El entusiasmo se tornó decepción tras los primeros contactos\", ¿qué palabra precede a la palabra \"tras\"?"
+  },
+  {
+    "id": "1415",
+    "input": "En la frase \"Ellos graban todo con una cámara digital\", ¿qué palabra precede a la palabra \"con\"?"
+  },
+  {
+    "id": "1418",
+    "input": "En la frase \"El evento fue conducido por Verónica Salas\", ¿qué palabra precede a la palabra \"fue\"?"
+  },
+  {
+    "id": "1419",
+    "input": "En la frase \"Su curso comporta numerosos meandros\", ¿qué palabra precede a la palabra \"meandros\"?"
+  },
+  {
+    "id": "1425",
+    "input": "En la frase \"La luz frontal se intensifica especialmente en vientre y pechos\", ¿qué palabra precede a la palabra \"frontal\"?"
+  },
+  {
+    "id": "1427",
+    "input": "En la frase \"Sin embargo ha sido encontrada en ediciones no autorizadas\", ¿qué palabra precede a la palabra \"no\"?"
+  },
+  {
+    "id": "1429",
+    "input": "En la frase \"Hay varias historias sobre el origen de este plato\", ¿qué palabra precede a la palabra \"este\"?"
+  },
+  {
+    "id": "1437",
+    "input": "En la frase \"Por matrimonio es la princesa Anni-Frid Reuss de Plauen\", ¿qué palabra precede a la palabra \"matrimonio\"?"
+  },
+  {
+    "id": "1451",
+    "input": "En la frase \"Situaba estos signos en la Edad del Bronce\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1464",
+    "input": "En la frase \"Esto da como resultado cielos nublados y considerable llovizna\", ¿qué palabra precede a la palabra \"y\"?"
+  },
+  {
+    "id": "1467",
+    "input": "En la frase \"Compasión originalmente había pertenecido a los padres de Gert\", ¿qué palabra precede a la palabra \"a\"?"
+  },
+  {
+    "id": "1468",
+    "input": "En la frase \"El entusiasmo se tornó decepción tras los primeros contactos\", ¿qué palabra precede a la palabra \"tornó\"?"
+  },
+  {
+    "id": "1477",
+    "input": "En la frase \"Forma parte de la cuenca del Balsas\", ¿qué palabra precede a la palabra \"Balsas\"?"
+  },
+  {
+    "id": "1484",
+    "input": "En la frase \"Ned y Laura se casan unos cuantos días más tarde\", ¿qué palabra precede a la palabra \"más\"?"
+  },
+  {
+    "id": "1494",
+    "input": "En la frase \"Además ocurrieron varios incidentes en estaciones de la red\", ¿qué palabra precede a la palabra \"estaciones\"?"
+  },
+  {
+    "id": "1497",
+    "input": "En la frase \"En sus páginas fueron frecuentes las colaboraciones de numerosos autores\", ¿qué palabra precede a la palabra \"fueron\"?"
+  },
+  {
+    "id": "1502",
+    "input": "En la frase \"Los canales de Lambert están tapizados con epitelio bronquial\", ¿qué palabra precede a la palabra \"epitelio\"?"
+  },
+  {
+    "id": "1507",
+    "input": "En la frase \"La canción termina con un coro improvisado\", ¿qué palabra precede a la palabra \"improvisado\"?"
+  },
+  {
+    "id": "1508",
+    "input": "En la frase \"Esto deja al jugador interpretar si es Dante o no\", ¿qué palabra precede a la palabra \"es\"?"
+  },
+  {
+    "id": "1509",
+    "input": "En la frase \"Se encuentra en la península de Malaca\", ¿qué palabra precede a la palabra \"encuentra\"?"
+  },
+  {
+    "id": "1516",
+    "input": "En la frase \"Coyote figura prominentemente en varios mitos sobre la creación\", ¿qué palabra precede a la palabra \"figura\"?"
+  },
+  {
+    "id": "1517",
+    "input": "En la frase \"Puede estar fabricado en cristal cerámica y metales\", ¿qué palabra precede a la palabra \"cerámica\"?"
+  },
+  {
+    "id": "1524",
+    "input": "En la frase \"Causó alarma y leves daños en esa ciudad\", ¿qué palabra precede a la palabra \"leves\"?"
+  },
+  {
+    "id": "1528",
+    "input": "En la frase \"En Israel la película fue exhibida en Tel Aviv\", ¿qué palabra precede a la palabra \"Tel\"?"
+  },
+  {
+    "id": "1529",
+    "input": "En la frase \"El resto de los candidatos quedaron con un solo dígito\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1539",
+    "input": "En la frase \"Compasión originalmente había pertenecido a los padres de Gert\", ¿qué palabra precede a la palabra \"originalmente\"?"
+  },
+  {
+    "id": "1555",
+    "input": "En la frase \"Ambos vídeos fueron dirigidos por Clive Richardson\", ¿qué palabra precede a la palabra \"Richardson\"?"
+  },
+  {
+    "id": "1561",
+    "input": "En la frase \"Estudió teatro en la Universidad de Pittsburgh\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1582",
+    "input": "En la frase \"Fue sucedida por Katie Rose Clarke\", ¿qué palabra precede a la palabra \"Rose\"?"
+  },
+  {
+    "id": "1586",
+    "input": "En la frase \"Ty Lee se pone algo nerviosa\", ¿qué palabra precede a la palabra \"algo\"?"
+  },
+  {
+    "id": "1587",
+    "input": "En la frase \"Los manatíes africanos viven en las partes bajas del río\", ¿qué palabra precede a la palabra \"manatíes\"?"
+  },
+  {
+    "id": "1590",
+    "input": "En la frase \"Barcelona Boxers renueva su condición de campeón\", ¿qué palabra precede a la palabra \"su\"?"
+  },
+  {
+    "id": "1595",
+    "input": "En la frase \"Esto no significa necesariamente uniformidad\", ¿qué palabra precede a la palabra \"no\"?"
+  },
+  {
+    "id": "1597",
+    "input": "En la frase \"Las escenas románticas fueron eliminadas del guión\", ¿qué palabra precede a la palabra \"escenas\"?"
+  },
+  {
+    "id": "1607",
+    "input": "En la frase \"Esta estación se ubicará al noroeste de la pedanía\", ¿qué palabra precede a la palabra \"pedanía\"?"
+  },
+  {
+    "id": "1608",
+    "input": "En la frase \"Los edificios son imágenes especulares uno del otro\", ¿qué palabra precede a la palabra \"especulares\"?"
+  },
+  {
+    "id": "1615",
+    "input": "En la frase \"Fue co-escrito por Merle Ginsberg\", ¿qué palabra precede a la palabra \"por\"?"
+  },
+  {
+    "id": "1616",
+    "input": "En la frase \"Posee un estilo arquitectónico árabe mezclado con influencias coloniales\", ¿qué palabra precede a la palabra \"estilo\"?"
+  },
+  {
+    "id": "1623",
+    "input": "En la frase \"El álbum fue producido por Rob Cavallo\", ¿qué palabra precede a la palabra \"Rob\"?"
+  },
+  {
+    "id": "1631",
+    "input": "En la frase \"El espectáculo taurino se estaba haciendo cada vez más popular\", ¿qué palabra precede a la palabra \"taurino\"?"
+  },
+  {
+    "id": "1639",
+    "input": "En la frase \"El municipio está formado por dos valles\", ¿qué palabra precede a la palabra \"dos\"?"
+  },
+  {
+    "id": "1661",
+    "input": "En la frase \"La autopista aún se encuentra en fase de construcción\", ¿qué palabra precede a la palabra \"encuentra\"?"
+  },
+  {
+    "id": "1667",
+    "input": "En la frase \"El comercio exterior descendió bruscamente tras la guerra civil\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1669",
+    "input": "En la frase \"Strozzi escribió arias cantatas dramáticas madrigales y dúos\", ¿qué palabra precede a la palabra \"dúos\"?"
+  },
+  {
+    "id": "1681",
+    "input": "En la frase \"Sobre ella se inauguró la autopista Vespucio Sur\", ¿qué palabra precede a la palabra \"Sur\"?"
+  },
+  {
+    "id": "1683",
+    "input": "En la frase \"Tras el cabecero está la sacristía\", ¿qué palabra precede a la palabra \"la\"?"
+  },
+  {
+    "id": "1695",
+    "input": "En la frase \"Existen muchas monedas privadas emitidas por organizaciones o negocios privados\", ¿qué palabra precede a la palabra \"monedas\"?"
+  },
+  {
+    "id": "1703",
+    "input": "En la frase \"La energía es un concepto mucho más sencillo e intuitivo\", ¿qué palabra precede a la palabra \"intuitivo\"?"
+  },
+  {
+    "id": "1714",
+    "input": "En la frase \"Accedió a los estudios superiores tras unos primeros años difíciles\", ¿qué palabra precede a la palabra \"años\"?"
+  },
+  {
+    "id": "1721",
+    "input": "En la frase \"El programa es un software libre de código abierto\", ¿qué palabra precede a la palabra \"es\"?"
+  },
+  {
+    "id": "1728",
+    "input": "En la frase \"Permanece resguardado como obra en exhibición permanente del Museo Soumaya\", ¿qué palabra precede a la palabra \"resguardado\"?"
+  },
+  {
+    "id": "1732",
+    "input": "En la frase \"Hay un mundo galante y señorial\", ¿qué palabra precede a la palabra \"un\"?"
+  },
+  {
+    "id": "1733",
+    "input": "En la frase \"Ambos adoptaron una dieta vegetariana por razones de salud\", ¿qué palabra precede a la palabra \"adoptaron\"?"
+  },
+  {
+    "id": "1742",
+    "input": "En la frase \"Palencia albergaba una guarnición de segundo orden\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1751",
+    "input": "En la frase \"Se utilizan varios nombres para esta marina\", ¿qué palabra precede a la palabra \"varios\"?"
+  },
+  {
+    "id": "1761",
+    "input": "En la frase \"La reemplazó la actriz Edda Díaz\", ¿qué palabra precede a la palabra \"reemplazó\"?"
+  },
+  {
+    "id": "1764",
+    "input": "En la frase \"Se utilizan varios nombres para esta marina\", ¿qué palabra precede a la palabra \"utilizan\"?"
+  },
+  {
+    "id": "1766",
+    "input": "En la frase \"Tenía cinco altares el principal dedicado a Santa Cruz\", ¿qué palabra precede a la palabra \"principal\"?"
+  },
+  {
+    "id": "1771",
+    "input": "En la frase \"Se especializaron en productos lácteos de alta calidad\", ¿qué palabra precede a la palabra \"productos\"?"
+  },
+  {
+    "id": "1773",
+    "input": "En la frase \"En ese momento fundan Eagles of Death Metal\", ¿qué palabra precede a la palabra \"Death\"?"
+  },
+  {
+    "id": "1777",
+    "input": "En la frase \"Esas arenas hoy son rocas muy duras las cuarcitas\", ¿qué palabra precede a la palabra \"son\"?"
+  },
+  {
+    "id": "1789",
+    "input": "En la frase \"Shaak-Ti resultó derrotada y por consiguiente se suicidó\", ¿qué palabra precede a la palabra \"y\"?"
+  },
+  {
+    "id": "1790",
+    "input": "En la frase \"Se encuentra en el sur y este de China\", ¿qué palabra precede a la palabra \"encuentra\"?"
+  },
+  {
+    "id": "1791",
+    "input": "En la frase \"Durante su adolescencia residió en El Salvador durante seis años\", ¿qué palabra precede a la palabra \"en\"?"
+  },
+  {
+    "id": "1793",
+    "input": "En la frase \"Durante siete años es profesor de elocuencia y abogado\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1798",
+    "input": "En la frase \"Mitchell una vez más siguió el Darling hasta su fin\", ¿qué palabra precede a la palabra \"fin\"?"
+  },
+  {
+    "id": "1800",
+    "input": "En la frase \"La goma se quema y no deja ningún residuo\", ¿qué palabra precede a la palabra \"deja\"?"
+  },
+  {
+    "id": "1808",
+    "input": "En la frase \"Algunas de sus obras están traducidas al castellano\", ¿qué palabra precede a la palabra \"sus\"?"
+  },
+  {
+    "id": "1810",
+    "input": "En la frase \"Existen muchas monedas privadas emitidas por organizaciones o negocios privados\", ¿qué palabra precede a la palabra \"o\"?"
+  },
+  {
+    "id": "1820",
+    "input": "En la frase \"Era el hijo más joven de Torf-Einarr\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1824",
+    "input": "En la frase \"Estudió filosofía y teología en el seminario de Asti\", ¿qué palabra precede a la palabra \"en\"?"
+  },
+  {
+    "id": "1837",
+    "input": "En la frase \"Esto lo llevó al campo de las ilusiones ópticas\", ¿qué palabra precede a la palabra \"al\"?"
+  },
+  {
+    "id": "1843",
+    "input": "En la frase \"A mediados de los años ochenta comenzó su propio negocio\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1849",
+    "input": "En la frase \"Escritor y experto en ayuda humanitaria\", ¿qué palabra precede a la palabra \"ayuda\"?"
+  },
+  {
+    "id": "1865",
+    "input": "En la frase \"En San Miguel de Azapa aún viven sus descendientes\", ¿qué palabra precede a la palabra \"Azapa\"?"
+  },
+  {
+    "id": "1878",
+    "input": "En la frase \"Está enclavado junto al viejo Kickapoo Corral\", ¿qué palabra precede a la palabra \"viejo\"?"
+  },
+  {
+    "id": "1880",
+    "input": "En la frase \"De forma independiente realizó labores editoriales y de difusión cultural\", ¿qué palabra precede a la palabra \"independiente\"?"
+  },
+  {
+    "id": "1892",
+    "input": "En la frase \"Los jardines del palacio están abiertos al público\", ¿qué palabra precede a la palabra \"público\"?"
+  },
+  {
+    "id": "1896",
+    "input": "En la frase \"Se mide conectando un voltímetro a los dos electrodos\", ¿qué palabra precede a la palabra \"mide\"?"
+  },
+  {
+    "id": "1897",
+    "input": "En la frase \"Especie nativa de China Malasia y Vietnam\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1903",
+    "input": "En la frase \"Esta estación se ubicará al noroeste de la pedanía\", ¿qué palabra precede a la palabra \"noroeste\"?"
+  },
+  {
+    "id": "1910",
+    "input": "En la frase \"Antes de ser cantante Ricky era modelo\", ¿qué palabra precede a la palabra \"modelo\"?"
+  },
+  {
+    "id": "1912",
+    "input": "En la frase \"En la actualidad reside en Miami\", ¿qué palabra precede a la palabra \"reside\"?"
+  },
+  {
+    "id": "1921",
+    "input": "En la frase \"Es administrada por el Servicio Provincial de Áreas Naturales Protegidas\", ¿qué palabra precede a la palabra \"de\"?"
+  },
+  {
+    "id": "1923",
+    "input": "En la frase \"Ambas ramas no están estrechamente relacionadas\", ¿qué palabra precede a la palabra \"estrechamente\"?"
+  },
+  {
+    "id": "1925",
+    "input": "En la frase \"Durante su adolescencia residió en El Salvador durante seis años\", ¿qué palabra precede a la palabra \"años\"?"
+  },
+  {
+    "id": "1929",
+    "input": "En la frase \"Es miembro del Ensemble Alea für neue Musik\", ¿qué palabra precede a la palabra \"für\"?"
+  },
+  {
+    "id": "1935",
+    "input": "En la frase \"Temiendo que los gatos se vuelvan incontrolables Danner les envenena\", ¿qué palabra precede a la palabra \"se\"?"
+  },
+  {
+    "id": "1940",
+    "input": "En la frase \"El entusiasmo se tornó decepción tras los primeros contactos\", ¿qué palabra precede a la palabra \"los\"?"
+  },
+  {
+    "id": "1941",
+    "input": "En la frase \"Pueden ser consideradas las obras más destacadas de su producción\", ¿qué palabra precede a la palabra \"destacadas\"?"
+  },
+  {
+    "id": "1943",
+    "input": "En la frase \"Cuenta con equipos en baloncesto y voleibol\", ¿qué palabra precede a la palabra \"con\"?"
+  },
+  {
+    "id": "1945",
+    "input": "En la frase \"Posee un estilo arquitectónico árabe mezclado con influencias coloniales\", ¿qué palabra precede a la palabra \"coloniales\"?"
+  },
+  {
+    "id": "1950",
+    "input": "En la frase \"La Ceda incluye distintas zonas\", ¿qué palabra precede a la palabra \"incluye\"?"
+  },
+  {
+    "id": "1960",
+    "input": "En la frase \"Los municipios vecinos son Vaudreuil-Dorion y L'Île-Cadieux\", ¿qué palabra precede a la palabra \"son\"?"
+  },
+  {
+    "id": "1966",
+    "input": "En la frase \"Los frutos son de color verde\", ¿qué palabra precede a la palabra \"color\"?"
+  }
+]

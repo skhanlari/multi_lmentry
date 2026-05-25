@@ -14,9 +14,9 @@ class AllWordsFromCategory0Distractors(LMentryTask):
     def __init__(self, name="all_words_from_category_0_distractors"):
         super().__init__(name)
 
-        self.canonical_template = "آیا همه کلمات {words} از نوع {category} هستند؟ با «بله» یا «خیر» پاسخ دهید."
-        self.second_template = "آیا همه کلمات {words} نشان‌دهنده {category} هستند؟ با «بله» یا «خیر» پاسخ دهید."
-        self.third_template = "آیا لیست [{words}] فقط شامل {category} است؟ با «بله» یا «خیر» پاسخ دهید."
+        self.canonical_template = "آیا همه کلمات {words} از نوع {category} هستند؟ به «بله» یا «خیر» پاسخ دهید."
+        self.second_template = "آیا همه کلمات {words} نشان‌دهنده {category} هستند؟ به «بله» یا «خیر» پاسخ دهید."
+        self.third_template = "آیا لیست [{words}] فقط شامل {category} است؟ به «بله» یا «خیر» پاسخ دهید."
         self.all_templates = [self.canonical_template, self.second_template, self.third_template]
         self.parameter_names = ["category"]
 

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1009",
+    "input": "\"bost\", \"lau\", \"hiru\", \"bi\" eta \"sei\" hitzetako guztiek zenbakiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1025",
+    "input": "\"neskato\", \"gizateri\", \"jaun\", \"haurtxo\" eta \"dama\" hitzetako guztiek jendearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1029",
+    "input": "\"zainzuri\", \"baratxuri\", \"errefau\", \"azalore\" eta \"patatak\" hitzetako guztiek barazkiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1032",
+    "input": "\"gris\", \"kolore\", \"beltz\", \"laranja\" eta \"gorri\" hitzetako guztiek koloreak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1034",
+    "input": "\"zomorro\", \"igel\", \"arratoi\", \"orein\" eta \"eulitxo\" hitzetako guztiek animaliak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1037",
+    "input": "\"urruti\", \"hor\", \"hemen\", \"han\" eta \"hurbil\" hitzetako guztiek leku-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1046",
+    "input": "\"izaki\", \"espezie\", \"heriotza\", \"ugalketa\" eta \"umeki\" hitzetako guztiek bizitzarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1050",
+    "input": "\"antzeman\", \"egotzi\", \"bueltatu\", \"gerturatu\" eta \"urrundu\" hitzetako guztiek zentzumen aditzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1051",
+    "input": "\"nekez\", \"ziurrenik\", \"agian\", \"akaso\" eta \"beti\" hitzetako guztiek iritzi-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1079",
+    "input": "\"etxebizitza\", \"panel\", \"idazmahai\", \"etxe\" eta \"sabai\" hitzetako guztiek etxearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1089",
+    "input": "\"orduan\", \"baizik\", \"nahiz\", \"bada\" eta \"ezik\" hitzetako guztiek juntagailu edo menderagailuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1093",
+    "input": "\"irudi\", \"krisi\", \"aldi\", \"kalte\" eta \"aurrerabide\" hitzetako guztiek izen abstraktuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1107",
+    "input": "\"errugbi\", \"badminton\", \"beisbol\", \"waterpolo\" eta \"patinaje\" hitzetako guztiek kirolak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1112",
+    "input": "\"txiki\", \"lodi\", \"trinko\", \"mehe\" eta \"zabal\" hitzetako guztiek forma izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1131",
+    "input": "\"piano\", \"saxofoi\", \"tronpeta\", \"txirula\" eta \"klarinete\" hitzetako guztiek instrumentuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1142",
+    "input": "\"asteazken\", \"astearte\", \"ostiral\", \"igande\" eta \"ostegun\" hitzetako guztiek asteko egunak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1150",
+    "input": "\"milimetro\", \"gramo\", \"bolumen\", \"zentimetro\" eta \"kopuru\" hitzetako guztiek neurriak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1152",
+    "input": "\"mingarri\", \"bakarti\", \"alai\", \"triste\" eta \"grinatsu\" hitzetako guztiek sentimendu edo sentsazio izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1176",
+    "input": "\"itxigailu\", \"alkandora\", \"janzki\", \"zorro\" eta \"eskularruak\" hitzetako guztiek jantziak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1196",
+    "input": "\"administrari\", \"sukaldari\", \"argiketari\", \"zerbitzari\" eta \"astronauta\" hitzetako guztiek ogibideak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1202",
+    "input": "\"oso\", \"hainbeste\", \"asko\", \"batere\" eta \"gutxi\" hitzetako guztiek kantitate-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1204",
+    "input": "\"gatz\", \"aire\", \"gas\", \"izotz\" eta \"ur\" hitzetako guztiek materialak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1207",
+    "input": "\"ile-apaintzaile\", \"zientzialari\", \"ministro\", \"argazkilari\" eta \"iturgin\" hitzetako guztiek ogibideak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1226",
+    "input": "\"itxi\", \"erabili\", \"bukatu\", \"aztertu\" eta \"iruditu\" hitzetako guztiek ekintza aditzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1239",
+    "input": "\"dama\", \"jende\", \"gizon\", \"nerabe\" eta \"haurtxo\" hitzetako guztiek jendearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1243",
+    "input": "\"ekitaldi\", \"atal\", \"segurtasun\", \"sumindura\" eta \"garapen\" hitzetako guztiek izen abstraktuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1246",
+    "input": "\"itsaso\", \"oihan\", \"hondartza\", \"basamortu\" eta \"baso\" hitzetako guztiek geografiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1249",
+    "input": "\"adberbio\", \"determinatzaile\", \"izenordain\", \"substantibo\" eta \"postposizio\" hitzetako guztiek kategoria gramatikalak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1256",
+    "input": "\"enpresaburu\", \"mediku\", \"biologo\", \"dentista\" eta \"aktore\" hitzetako guztiek ogibideak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1267",
+    "input": "\"apiril\", \"azaro\", \"abendu\", \"urri\" eta \"irail\" hitzetako guztiek hilabeteak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1276",
+    "input": "\"nahiko\", \"gutxi\", \"ia\", \"asko\" eta \"gehiegi\" hitzetako guztiek kantitate-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1280",
+    "input": "\"kordel\", \"giltza\", \"lokarri\", \"pantaila\" eta \"orratz\" hitzetako guztiek tresnak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1304",
+    "input": "\"ikaratu\", \"poztu\", \"interesatu\", \"maitatu\" eta \"haserretu\" hitzetako guztiek emozio aditzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1305",
+    "input": "\"eskalada\", \"boxeo\", \"txirrindularitza\", \"tenis\" eta \"saskibaloi\" hitzetako guztiek kirolak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1308",
+    "input": "\"murriztapen\", \"handipen\", \"posizio\", \"azelerazio\" eta \"luzera\" hitzetako guztiek espazio edo kopuruak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1309",
+    "input": "\"baita\", \"barru\", \"arabera\", \"esker\" eta \"barne\" hitzetako guztiek postposizio askeak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1314",
+    "input": "\"gris\", \"more\", \"zuri\", \"kolore\" eta \"laranja\" hitzetako guztiek koloreak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1316",
+    "input": "\"handi\", \"zabal\", \"txiki\", \"mehe\" eta \"estu\" hitzetako guztiek forma izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1329",
+    "input": "\"fruta-denda\", \"liburutegi\", \"farmazia\", \"kopia-denda\" eta \"komisaria\" hitzetako guztiek lantokiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1333",
+    "input": "\"maiatz\", \"azaro\", \"abuztu\", \"martxo\" eta \"urri\" hitzetako guztiek hilabeteak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1337",
+    "input": "\"hiriko\", \"komun\", \"partikular\", \"gazte\" eta \"nazioarteko\" hitzetako guztiek kalitate adjektiboak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1349",
+    "input": "\"motxila\", \"mahuka\", \"kasketa\", \"kremailera\" eta \"jaka\" hitzetako guztiek jantziak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1350",
+    "input": "\"oso\", \"batere\", \"apenas\", \"samar\" eta \"justu\" hitzetako guztiek kantitate-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1353",
+    "input": "\"substantibo\", \"izenlagun\", \"izenondo\", \"izenordain\" eta \"adberbio\" hitzetako guztiek kategoria gramatikalak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1388",
+    "input": "\"gogor\", \"hurrengo\", \"urrutiko\", \"irmo\" eta \"min\" hitzetako guztiek zentzumen-izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1395",
+    "input": "\"norbanako\", \"jaun\", \"gizaki\", \"andre\" eta \"jende\" hitzetako guztiek jendearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1396",
+    "input": "\"baizik\", \"baina\", \"arren\", \"bada\" eta \"eta\" hitzetako guztiek juntagailu edo menderagailuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1399",
+    "input": "\"diru\", \"eskari\", \"bilete\", \"balio\" eta \"salneurri\" hitzetako guztiek ekonomiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1415",
+    "input": "\"narriadura\", \"jatorri\", \"oroipen\", \"kasu\" eta \"behar\" hitzetako guztiek izen abstraktuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1417",
+    "input": "\"gehiago\", \"apenas\", \"osorik\", \"gehiegi\" eta \"asko\" hitzetako guztiek kantitate-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1423",
+    "input": "\"ziurrenik\", \"agian\", \"akaso\", \"aise\" eta \"beharbada\" hitzetako guztiek iritzi-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1427",
+    "input": "\"komedia\", \"misterio\", \"abentura\", \"fantasia\" eta \"musikal\" hitzetako guztiek zinema generoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1437",
+    "input": "\"jatetxe\", \"harategi\", \"hotel\", \"belar-denda\" eta \"taberna\" hitzetako guztiek lantokiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1454",
+    "input": "\"erremolatxa\", \"patatak\", \"luzoker\", \"kuia\" eta \"alberjinia\" hitzetako guztiek barazkiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1456",
+    "input": "\"jertse\", \"beroki\", \"mahuka\", \"txano\" eta \"kremailera\" hitzetako guztiek jantziak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1462",
+    "input": "\"tigre\", \"bele\", \"orein\", \"sardina\" eta \"tximeleta\" hitzetako guztiek animaliak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1468",
+    "input": "\"sakonera\", \"luzera\", \"zabalera\", \"gutxiengo\" eta \"gehiengo\" hitzetako guztiek espazio edo kopuruak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1479",
+    "input": "\"milimetro\", \"total\", \"litro\", \"kopuru\" eta \"gramo\" hitzetako guztiek neurriak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1486",
+    "input": "\"mugimendu\", \"sakonera\", \"gehiengo\", \"luzera\" eta \"handipen\" hitzetako guztiek espazio edo kopuruak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1493",
+    "input": "\"zortzi\", \"hamar\", \"bederatzi\", \"bost\" eta \"bi\" hitzetako guztiek zenbakiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1494",
+    "input": "\"andre\", \"atso\", \"pertsona\", \"nerabe\" eta \"neskato\" hitzetako guztiek jendearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1505",
+    "input": "\"bederatzi\", \"bost\", \"hiru\", \"zazpi\" eta \"hamar\" hitzetako guztiek zenbakiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1510",
+    "input": "\"zentimetro\", \"kilometro\", \"gramo\", \"kopuru\" eta \"neurri\" hitzetako guztiek neurriak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1512",
+    "input": "\"arratoi\", \"izkira\", \"bele\", \"zizare\" eta \"otarrain\" hitzetako guztiek animaliak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1520",
+    "input": "\"bat\", \"zortzi\", \"hiru\", \"zazpi\" eta \"bi\" hitzetako guztiek zenbakiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1538",
+    "input": "\"kale\", \"hegazkin\", \"etorbide\", \"trenbide\" eta \"geltoki\" hitzetako guztiek garraioarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1540",
+    "input": "\"etxe\", \"ohe\", \"leiho\", \"igogailu\" eta \"eraikuntza\" hitzetako guztiek etxearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1546",
+    "input": "\"orburu\", \"piper\", \"azenario\", \"porru\" eta \"espinaka\" hitzetako guztiek barazkiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1550",
+    "input": "\"ile-apaintzaile\", \"erregai-sailtzaile\", \"irakasle\", \"astronauta\" eta \"zuzendari\" hitzetako guztiek ogibideak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1559",
+    "input": "\"harritu\", \"desiratu\", \"haserretu\", \"kontsolatu\" eta \"nekatu\" hitzetako guztiek emozio aditzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1561",
+    "input": "\"atera\", \"entzun\", \"hartu\", \"urrundu\" eta \"jaurti\" hitzetako guztiek zentzumen aditzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1571",
+    "input": "\"eskrima\", \"xendazaletasun\", \"golf\", \"tenis\" eta \"kriket\" hitzetako guztiek kirolak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1578",
+    "input": "\"pantaila\", \"kamera\", \"iltze\", \"poltsa\" eta \"lanabes\" hitzetako guztiek tresnak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1579",
+    "input": "\"su\", \"metal\", \"aire\", \"urre\" eta \"berun\" hitzetako guztiek materialak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1584",
+    "input": "\"astun\", \"hurbileko\", \"gogor\", \"izugarri\" eta \"arin\" hitzetako guztiek zentzumen-izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1588",
+    "input": "\"egitarau\", \"ezaugarri\", \"kausa\", \"irudi\" eta \"arazo\" hitzetako guztiek izen abstraktuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1592",
+    "input": "\"nahiz\", \"orduan\", \"arren\", \"eta\" eta \"baina\" hitzetako guztiek juntagailu edo menderagailuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1593",
+    "input": "\"liburu-denda\", \"liburutegi\", \"tabako-denda\", \"harategi\" eta \"eskola\" hitzetako guztiek lantokiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1599",
+    "input": "\"jende\", \"jaun\", \"atso\", \"gizon\" eta \"agure\" hitzetako guztiek jendearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1601",
+    "input": "\"izenondo\", \"substantibo\", \"postposizio\", \"juntagailu\" eta \"adberbio\" hitzetako guztiek kategoria gramatikalak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1638",
+    "input": "\"garraio\", \"etorbide\", \"trenbide\", \"bizikleta\" eta \"errepide\" hitzetako guztiek garraioarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1646",
+    "input": "\"aditz\", \"determinatzaile\", \"juntagailu\", \"izenondo\" eta \"adberbio\" hitzetako guztiek kategoria gramatikalak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1648",
+    "input": "\"preposizio\", \"substantibo\", \"aditz\", \"izenlagun\" eta \"juntagailu\" hitzetako guztiek kategoria gramatikalak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1649",
+    "input": "\"kilometro\", \"kilo\", \"total\", \"litro\" eta \"zentimetro\" hitzetako guztiek neurriak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1650",
+    "input": "\"ekain\", \"uztail\", \"urtarril\", \"urri\" eta \"otsail\" hitzetako guztiek hilabeteak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1652",
+    "input": "\"atletismo\", \"golf\", \"igeriketa\", \"badminton\" eta \"eskalada\" hitzetako guztiek kirolak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1674",
+    "input": "\"txirula\", \"piano\", \"bateria\", \"biolin\" eta \"saxofoi\" hitzetako guztiek instrumentuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1679",
+    "input": "\"barru\", \"atze\", \"arte\", \"kanpo\" eta \"esker\" hitzetako guztiek postposizio askeak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1684",
+    "input": "\"hainbeste\", \"oso\", \"samar\", \"nahiko\" eta \"gutxi\" hitzetako guztiek kantitate-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1695",
+    "input": "\"aire\", \"gas\", \"izotz\", \"metal\" eta \"lokatz\" hitzetako guztiek materialak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1701",
+    "input": "\"biolin\", \"txirula\", \"bateria\", \"saxofoi\" eta \"tronpeta\" hitzetako guztiek instrumentuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1705",
+    "input": "\"behor\", \"belatz\", \"untxi\", \"txipiroi\" eta \"jirafa\" hitzetako guztiek animaliak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1708",
+    "input": "\"hobeto\", \"azkar\", \"bereziki\", \"alderantziz\" eta \"argiro\" hitzetako guztiek modu-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1730",
+    "input": "\"bigarren\", \"lehenengo\", \"ehungarren\", \"bosgarren\" eta \"azken\" hitzetako guztiek zenbaki ordinalak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1742",
+    "input": "\"hurrengo\", \"gazi\", \"irmo\", \"urrutiko\" eta \"leun\" hitzetako guztiek zentzumen-izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1744",
+    "input": "\"txiki\", \"zabal\", \"trinko\", \"handi\" eta \"estu\" hitzetako guztiek forma izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1747",
+    "input": "\"heriotza\", \"espezie\", \"jaiotza\", \"ugalketa\" eta \"bizitza\" hitzetako guztiek bizitzarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1754",
+    "input": "\"kontrako\", \"arrunt\", \"oker\", \"alboko\" eta \"kontinental\" hitzetako guztiek kalitate adjektiboak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1758",
+    "input": "\"astelehen\", \"igande\", \"ostegun\", \"astearte\" eta \"ostiral\" hitzetako guztiek asteko egunak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1761",
+    "input": "\"berde\", \"marroi\", \"gorri\", \"hori\" eta \"zuri\" hitzetako guztiek koloreak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1781",
+    "input": "\"eskaintza\", \"konpainia\", \"eskari\", \"ekonomia\" eta \"bilete\" hitzetako guztiek ekonomiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1787",
+    "input": "\"motor\", \"autobide\", \"kale\", \"tren\" eta \"geraleku\" hitzetako guztiek garraioarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1797",
+    "input": "\"biolin\", \"saxofoi\", \"bateria\", \"gitarra\" eta \"txirula\" hitzetako guztiek instrumentuak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1801",
+    "input": "\"urri\", \"azaro\", \"abuztu\", \"otsail\" eta \"uztail\" hitzetako guztiek hilabeteak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1802",
+    "input": "\"konpainia\", \"transakzio\", \"tarifa\", \"balio\" eta \"kontsumo\" hitzetako guztiek ekonomiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1807",
+    "input": "\"igeriketa\", \"golf\", \"eskubaloi\", \"boleibol\" eta \"waterpolo\" hitzetako guztiek kirolak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1809",
+    "input": "\"justu\", \"hainbeste\", \"nahiko\", \"gehiegi\" eta \"samar\" hitzetako guztiek kantitate-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1810",
+    "input": "\"sei\", \"zazpi\", \"lau\", \"bi\" eta \"bederatzi\" hitzetako guztiek zenbakiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1814",
+    "input": "\"barik\", \"erdi\", \"barne\", \"kanpo\" eta \"gabe\" hitzetako guztiek postposizio askeak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1821",
+    "input": "\"atzo\", \"oraino\", \"bart\", \"aurki\" eta \"gaur\" hitzetako guztiek denbora-aditzondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1829",
+    "input": "\"ile-apaintzaile\", \"zurgin\", \"administrari\", \"astronauta\" eta \"harakin\" hitzetako guztiek ogibideak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1830",
+    "input": "\"abokatu\", \"zientzialari\", \"alkate\", \"mediku\" eta \"batzarkide\" hitzetako guztiek ogibideak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1831",
+    "input": "\"musikal\", \"fantasia\", \"abentura\", \"historia\" eta \"drama\" hitzetako guztiek zinema generoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1837",
+    "input": "\"gona\", \"bularretako\", \"lokarriak\", \"arropa\" eta \"belo\" hitzetako guztiek jantziak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1861",
+    "input": "\"komedia\", \"historia\", \"drama\", \"fantasia\" eta \"musikal\" hitzetako guztiek zinema generoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1875",
+    "input": "\"bederatzi\", \"lau\", \"hamar\", \"hiru\" eta \"bat\" hitzetako guztiek zenbakiak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1876",
+    "input": "\"eskailera\", \"etxebizitza\", \"gela\", \"idazmahai\" eta \"panel\" hitzetako guztiek etxearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1885",
+    "input": "\"konpainia\", \"merkatu\", \"ekoizpen\", \"eskari\" eta \"salneurri\" hitzetako guztiek ekonomiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1894",
+    "input": "\"joan\", \"urrundu\", \"jaso\", \"kendu\" eta \"abiatu\" hitzetako guztiek zentzumen aditzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1900",
+    "input": "\"egitura\", \"batzorde\", \"komunitate\", \"gizarte\" eta \"arau\" hitzetako guztiek gizartearekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1901",
+    "input": "\"zilar\", \"izotz\", \"lurrun\", \"lur\" eta \"lohi\" hitzetako guztiek materialak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1909",
+    "input": "\"kilometro\", \"gramo\", \"neurri\", \"litro\" eta \"kopuru\" hitzetako guztiek neurriak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1921",
+    "input": "\"drama\", \"suspense\", \"abentura\", \"misterio\" eta \"komedia\" hitzetako guztiek zinema generoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1935",
+    "input": "\"lasai\", \"bakarti\", \"grinatsu\", \"zoriontsu\" eta \"triste\" hitzetako guztiek sentimendu edo sentsazio izenondoak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1947",
+    "input": "\"kontsumo\", \"balio\", \"ekoizpen\", \"transakzio\" eta \"ekonomia\" hitzetako guztiek ekonomiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1958",
+    "input": "\"pisu\", \"milimetro\", \"kopuru\", \"bolumen\" eta \"kilo\" hitzetako guztiek neurriak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1971",
+    "input": "\"berezi\", \"serio\", \"pribatu\", \"zuzen\" eta \"trebe\" hitzetako guztiek kalitate adjektiboak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1975",
+    "input": "\"seme\", \"alaba\", \"emazte\", \"lehengusina\" eta \"birraitona\" hitzetako guztiek familiarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1981",
+    "input": "\"handipen\", \"azelerazio\", \"leku\", \"zabalera\" eta \"hazkunde\" hitzetako guztiek espazio edo kopuruak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "1988",
+    "input": "\"garraio\", \"errepide\", \"aireportu\", \"geltoki\" eta \"ibilgailu\" hitzetako guztiek garraioarekin zerikusia duten hitzak adierazten dituzte? Erantzun \"bai\" edo \"ez\"."
+  }
+]

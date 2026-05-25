@@ -1,0 +1,974 @@
+[
+  {
+    "id": "1002",
+    "input": "Zein hitz da laburragoa: \"egiazko\" edo \"musker\"?"
+  },
+  {
+    "id": "1005",
+    "input": "Zein hitz da laburragoa: \"begi\" edo \"lau\"?"
+  },
+  {
+    "id": "1006",
+    "input": "Zein hitz da laburragoa: \"mozketa\" edo \"azken\"?"
+  },
+  {
+    "id": "1017",
+    "input": "Zein hitz da laburragoa: \"burdin\" edo \"ate\"?"
+  },
+  {
+    "id": "1018",
+    "input": "Zein hitz da laburragoa: \"han\" edo \"gatz\"?"
+  },
+  {
+    "id": "1019",
+    "input": "Zein hitz da laburragoa: \"gure\" edo \"txano\"?"
+  },
+  {
+    "id": "1021",
+    "input": "Zein hitz da laburragoa: \"orduan\" edo \"berun\"?"
+  },
+  {
+    "id": "1025",
+    "input": "Zein hitz da laburragoa: \"bi\" edo \"agertu\"?"
+  },
+  {
+    "id": "1027",
+    "input": "Zein hitz da laburragoa: \"ordezkatu\" edo \"handi\"?"
+  },
+  {
+    "id": "1029",
+    "input": "Zein hitz da laburragoa: \"barik\" edo \"luzoker\"?"
+  },
+  {
+    "id": "1030",
+    "input": "Zein hitz da laburragoa: \"erlatibo\" edo \"lau\"?"
+  },
+  {
+    "id": "1034",
+    "input": "Zein hitz da laburragoa: \"aditz\" edo \"min\"?"
+  },
+  {
+    "id": "1035",
+    "input": "Zein hitz da laburragoa: \"hiru\" edo \"usaimen\"?"
+  },
+  {
+    "id": "1039",
+    "input": "Zein hitz da laburragoa: \"behor\" edo \"lur\"?"
+  },
+  {
+    "id": "1050",
+    "input": "Zein hitz da laburragoa: \"barik\" edo \"egitura\"?"
+  },
+  {
+    "id": "1051",
+    "input": "Zein hitz da laburragoa: \"malgu\" edo \"frogatu\"?"
+  },
+  {
+    "id": "1054",
+    "input": "Zein hitz da laburragoa: \"hasi\" edo \"txori\"?"
+  },
+  {
+    "id": "1057",
+    "input": "Zein hitz da laburragoa: \"ur\" edo \"tren\"?"
+  },
+  {
+    "id": "1062",
+    "input": "Zein hitz da laburragoa: \"ur\" edo \"txori\"?"
+  },
+  {
+    "id": "1065",
+    "input": "Zein hitz da laburragoa: \"metal\" edo \"min\"?"
+  },
+  {
+    "id": "1078",
+    "input": "Zein hitz da laburragoa: \"leun\" edo \"han\"?"
+  },
+  {
+    "id": "1081",
+    "input": "Zein hitz da laburragoa: \"banku\" edo \"joan\"?"
+  },
+  {
+    "id": "1087",
+    "input": "Zein hitz da laburragoa: \"postari\" edo \"ile\"?"
+  },
+  {
+    "id": "1090",
+    "input": "Zein hitz da laburragoa: \"bular\" edo \"erdiko\"?"
+  },
+  {
+    "id": "1094",
+    "input": "Zein hitz da laburragoa: \"zelai\" edo \"eman\"?"
+  },
+  {
+    "id": "1112",
+    "input": "Zein hitz da laburragoa: \"bide\" edo \"mediku\"?"
+  },
+  {
+    "id": "1121",
+    "input": "Zein hitz da laburragoa: \"faltsu\" edo \"zilar\"?"
+  },
+  {
+    "id": "1123",
+    "input": "Zein hitz da laburragoa: \"bildu\" edo \"jan\"?"
+  },
+  {
+    "id": "1131",
+    "input": "Zein hitz da laburragoa: \"esku\" edo \"barik\"?"
+  },
+  {
+    "id": "1140",
+    "input": "Zein hitz da laburragoa: \"bihar\" edo \"atso\"?"
+  },
+  {
+    "id": "1146",
+    "input": "Zein hitz da laburragoa: \"agertu\" edo \"atzo\"?"
+  },
+  {
+    "id": "1149",
+    "input": "Zein hitz da laburragoa: \"suge\" edo \"aurki\"?"
+  },
+  {
+    "id": "1150",
+    "input": "Zein hitz da laburragoa: \"komedia\" edo \"ordezkatu\"?"
+  },
+  {
+    "id": "1151",
+    "input": "Zein hitz da laburragoa: \"urmael\" edo \"lagun\"?"
+  },
+  {
+    "id": "1152",
+    "input": "Zein hitz da laburragoa: \"begi\" edo \"giltza\"?"
+  },
+  {
+    "id": "1159",
+    "input": "Zein hitz da laburragoa: \"prozesu\" edo \"nagusi\"?"
+  },
+  {
+    "id": "1175",
+    "input": "Zein hitz da laburragoa: \"irten\" edo \"txar\"?"
+  },
+  {
+    "id": "1176",
+    "input": "Zein hitz da laburragoa: \"leku\" edo \"jaurti\"?"
+  },
+  {
+    "id": "1179",
+    "input": "Zein hitz da laburragoa: \"publiko\" edo \"su\"?"
+  },
+  {
+    "id": "1180",
+    "input": "Zein hitz da laburragoa: \"gas\" edo \"abendu\"?"
+  },
+  {
+    "id": "1186",
+    "input": "Zein hitz da laburragoa: \"euli\" edo \"eskatu\"?"
+  },
+  {
+    "id": "1187",
+    "input": "Zein hitz da laburragoa: \"gain\" edo \"geratu\"?"
+  },
+  {
+    "id": "1190",
+    "input": "Zein hitz da laburragoa: \"egin\" edo \"esnatu\"?"
+  },
+  {
+    "id": "1191",
+    "input": "Zein hitz da laburragoa: \"zuen\" edo \"sartu\"?"
+  },
+  {
+    "id": "1193",
+    "input": "Zein hitz da laburragoa: \"talde\" edo \"jaio\"?"
+  },
+  {
+    "id": "1194",
+    "input": "Zein hitz da laburragoa: \"mendi\" edo \"azpi\"?"
+  },
+  {
+    "id": "1195",
+    "input": "Zein hitz da laburragoa: \"objektu\" edo \"behor\"?"
+  },
+  {
+    "id": "1200",
+    "input": "Zein hitz da laburragoa: \"izter\" edo \"tren\"?"
+  },
+  {
+    "id": "1202",
+    "input": "Zein hitz da laburragoa: \"gertu\" edo \"erdi\"?"
+  },
+  {
+    "id": "1204",
+    "input": "Zein hitz da laburragoa: \"nazio\" edo \"more\"?"
+  },
+  {
+    "id": "1213",
+    "input": "Zein hitz da laburragoa: \"jaio\" edo \"aditu\"?"
+  },
+  {
+    "id": "1215",
+    "input": "Zein hitz da laburragoa: \"giltza\" edo \"aditu\"?"
+  },
+  {
+    "id": "1223",
+    "input": "Zein hitz da laburragoa: \"senar\" edo \"egiazko\"?"
+  },
+  {
+    "id": "1229",
+    "input": "Zein hitz da laburragoa: \"irmo\" edo \"zaldi\"?"
+  },
+  {
+    "id": "1231",
+    "input": "Zein hitz da laburragoa: \"lodi\" edo \"zaildu\"?"
+  },
+  {
+    "id": "1233",
+    "input": "Zein hitz da laburragoa: \"banku\" edo \"trafiko\"?"
+  },
+  {
+    "id": "1234",
+    "input": "Zein hitz da laburragoa: \"oin\" edo \"kalte\"?"
+  },
+  {
+    "id": "1243",
+    "input": "Zein hitz da laburragoa: \"eutsi\" edo \"leun\"?"
+  },
+  {
+    "id": "1249",
+    "input": "Zein hitz da laburragoa: \"noski\" edo \"hari\"?"
+  },
+  {
+    "id": "1258",
+    "input": "Zein hitz da laburragoa: \"tipula\" edo \"landu\"?"
+  },
+  {
+    "id": "1264",
+    "input": "Zein hitz da laburragoa: \"burdin\" edo \"talde\"?"
+  },
+  {
+    "id": "1266",
+    "input": "Zein hitz da laburragoa: \"hozkatu\" edo \"panel\"?"
+  },
+  {
+    "id": "1274",
+    "input": "Zein hitz da laburragoa: \"multzo\" edo \"balio\"?"
+  },
+  {
+    "id": "1281",
+    "input": "Zein hitz da laburragoa: \"gihar\" edo \"kode\"?"
+  },
+  {
+    "id": "1284",
+    "input": "Zein hitz da laburragoa: \"objektu\" edo \"ardi\"?"
+  },
+  {
+    "id": "1289",
+    "input": "Zein hitz da laburragoa: \"sorkuntza\" edo \"mutiko\"?"
+  },
+  {
+    "id": "1291",
+    "input": "Zein hitz da laburragoa: \"ile\" edo \"egotzi\"?"
+  },
+  {
+    "id": "1292",
+    "input": "Zein hitz da laburragoa: \"ukimen\" edo \"batzorde\"?"
+  },
+  {
+    "id": "1295",
+    "input": "Zein hitz da laburragoa: \"beroki\" edo \"atzo\"?"
+  },
+  {
+    "id": "1300",
+    "input": "Zein hitz da laburragoa: \"egiazko\" edo \"eragin\"?"
+  },
+  {
+    "id": "1301",
+    "input": "Zein hitz da laburragoa: \"eraso\" edo \"aginte\"?"
+  },
+  {
+    "id": "1304",
+    "input": "Zein hitz da laburragoa: \"ate\" edo \"ezpain\"?"
+  },
+  {
+    "id": "1318",
+    "input": "Zein hitz da laburragoa: \"hazi\" edo \"leiho\"?"
+  },
+  {
+    "id": "1320",
+    "input": "Zein hitz da laburragoa: \"jaio\" edo \"zilar\"?"
+  },
+  {
+    "id": "1322",
+    "input": "Zein hitz da laburragoa: \"gizon\" edo \"tsunami\"?"
+  },
+  {
+    "id": "1327",
+    "input": "Zein hitz da laburragoa: \"aginte\" edo \"lankide\"?"
+  },
+  {
+    "id": "1329",
+    "input": "Zein hitz da laburragoa: \"kode\" edo \"urdail\"?"
+  },
+  {
+    "id": "1331",
+    "input": "Zein hitz da laburragoa: \"gobernu\" edo \"mutiko\"?"
+  },
+  {
+    "id": "1332",
+    "input": "Zein hitz da laburragoa: \"zuen\" edo \"aktore\"?"
+  },
+  {
+    "id": "1335",
+    "input": "Zein hitz da laburragoa: \"more\" edo \"sozial\"?"
+  },
+  {
+    "id": "1336",
+    "input": "Zein hitz da laburragoa: \"aise\" edo \"ur\"?"
+  },
+  {
+    "id": "1351",
+    "input": "Zein hitz da laburragoa: \"pertsona\" edo \"klub\"?"
+  },
+  {
+    "id": "1352",
+    "input": "Zein hitz da laburragoa: \"egitasmo\" edo \"luzera\"?"
+  },
+  {
+    "id": "1356",
+    "input": "Zein hitz da laburragoa: \"jaun\" edo \"ostiral\"?"
+  },
+  {
+    "id": "1357",
+    "input": "Zein hitz da laburragoa: \"hil\" edo \"senar\"?"
+  },
+  {
+    "id": "1360",
+    "input": "Zein hitz da laburragoa: \"kargu\" edo \"postari\"?"
+  },
+  {
+    "id": "1363",
+    "input": "Zein hitz da laburragoa: \"hegazkin\" edo \"lotu\"?"
+  },
+  {
+    "id": "1366",
+    "input": "Zein hitz da laburragoa: \"agertu\" edo \"bizar\"?"
+  },
+  {
+    "id": "1371",
+    "input": "Zein hitz da laburragoa: \"aditz\" edo \"goiz\"?"
+  },
+  {
+    "id": "1374",
+    "input": "Zein hitz da laburragoa: \"gero\" edo \"banku\"?"
+  },
+  {
+    "id": "1376",
+    "input": "Zein hitz da laburragoa: \"martxo\" edo \"min\"?"
+  },
+  {
+    "id": "1382",
+    "input": "Zein hitz da laburragoa: \"erdi\" edo \"sorkuntza\"?"
+  },
+  {
+    "id": "1386",
+    "input": "Zein hitz da laburragoa: \"frogatu\" edo \"goiz\"?"
+  },
+  {
+    "id": "1390",
+    "input": "Zein hitz da laburragoa: \"belo\" edo \"txano\"?"
+  },
+  {
+    "id": "1395",
+    "input": "Zein hitz da laburragoa: \"ardi\" edo \"aulki\"?"
+  },
+  {
+    "id": "1396",
+    "input": "Zein hitz da laburragoa: \"eskola\" edo \"txano\"?"
+  },
+  {
+    "id": "1400",
+    "input": "Zein hitz da laburragoa: \"martxo\" edo \"prozesu\"?"
+  },
+  {
+    "id": "1401",
+    "input": "Zein hitz da laburragoa: \"bake\" edo \"gertu\"?"
+  },
+  {
+    "id": "1402",
+    "input": "Zein hitz da laburragoa: \"arte\" edo \"gradu\"?"
+  },
+  {
+    "id": "1408",
+    "input": "Zein hitz da laburragoa: \"segida\" edo \"landu\"?"
+  },
+  {
+    "id": "1413",
+    "input": "Zein hitz da laburragoa: \"suge\" edo \"ordezkatu\"?"
+  },
+  {
+    "id": "1415",
+    "input": "Zein hitz da laburragoa: \"gizon\" edo \"otsail\"?"
+  },
+  {
+    "id": "1418",
+    "input": "Zein hitz da laburragoa: \"motxila\" edo \"zaldi\"?"
+  },
+  {
+    "id": "1421",
+    "input": "Zein hitz da laburragoa: \"tsunami\" edo \"iltze\"?"
+  },
+  {
+    "id": "1423",
+    "input": "Zein hitz da laburragoa: \"eta\" edo \"nazio\"?"
+  },
+  {
+    "id": "1427",
+    "input": "Zein hitz da laburragoa: \"segituan\" edo \"beso\"?"
+  },
+  {
+    "id": "1430",
+    "input": "Zein hitz da laburragoa: \"esan\" edo \"barik\"?"
+  },
+  {
+    "id": "1431",
+    "input": "Zein hitz da laburragoa: \"sei\" edo \"hasi\"?"
+  },
+  {
+    "id": "1432",
+    "input": "Zein hitz da laburragoa: \"eskrima\" edo \"kale\"?"
+  },
+  {
+    "id": "1433",
+    "input": "Zein hitz da laburragoa: \"eskari\" edo \"urdin\"?"
+  },
+  {
+    "id": "1449",
+    "input": "Zein hitz da laburragoa: \"umeki\" edo \"zurgin\"?"
+  },
+  {
+    "id": "1456",
+    "input": "Zein hitz da laburragoa: \"erkatu\" edo \"itxaron\"?"
+  },
+  {
+    "id": "1457",
+    "input": "Zein hitz da laburragoa: \"luzera\" edo \"hozkatu\"?"
+  },
+  {
+    "id": "1460",
+    "input": "Zein hitz da laburragoa: \"berandu\" edo \"arin\"?"
+  },
+  {
+    "id": "1461",
+    "input": "Zein hitz da laburragoa: \"lagun\" edo \"plazer\"?"
+  },
+  {
+    "id": "1462",
+    "input": "Zein hitz da laburragoa: \"ospitale\" edo \"barne\"?"
+  },
+  {
+    "id": "1463",
+    "input": "Zein hitz da laburragoa: \"baso\" edo \"ile\"?"
+  },
+  {
+    "id": "1464",
+    "input": "Zein hitz da laburragoa: \"nire\" edo \"hor\"?"
+  },
+  {
+    "id": "1473",
+    "input": "Zein hitz da laburragoa: \"txar\" edo \"luzera\"?"
+  },
+  {
+    "id": "1477",
+    "input": "Zein hitz da laburragoa: \"bakoitz\" edo \"beso\"?"
+  },
+  {
+    "id": "1481",
+    "input": "Zein hitz da laburragoa: \"golf\" edo \"barne\"?"
+  },
+  {
+    "id": "1486",
+    "input": "Zein hitz da laburragoa: \"egia\" edo \"urmael\"?"
+  },
+  {
+    "id": "1489",
+    "input": "Zein hitz da laburragoa: \"ezik\" edo \"saldu\"?"
+  },
+  {
+    "id": "1491",
+    "input": "Zein hitz da laburragoa: \"aditz\" edo \"arestiko\"?"
+  },
+  {
+    "id": "1493",
+    "input": "Zein hitz da laburragoa: \"haren\" edo \"izan\"?"
+  },
+  {
+    "id": "1496",
+    "input": "Zein hitz da laburragoa: \"bilera\" edo \"unibertsal\"?"
+  },
+  {
+    "id": "1497",
+    "input": "Zein hitz da laburragoa: \"golf\" edo \"gezur\"?"
+  },
+  {
+    "id": "1500",
+    "input": "Zein hitz da laburragoa: \"segida\" edo \"trafiko\"?"
+  },
+  {
+    "id": "1503",
+    "input": "Zein hitz da laburragoa: \"ia\" edo \"urdail\"?"
+  },
+  {
+    "id": "1508",
+    "input": "Zein hitz da laburragoa: \"ukimen\" edo \"ikusmen\"?"
+  },
+  {
+    "id": "1510",
+    "input": "Zein hitz da laburragoa: \"gatz\" edo \"kendu\"?"
+  },
+  {
+    "id": "1513",
+    "input": "Zein hitz da laburragoa: \"zaldi\" edo \"ahul\"?"
+  },
+  {
+    "id": "1514",
+    "input": "Zein hitz da laburragoa: \"hortz\" edo \"fresko\"?"
+  },
+  {
+    "id": "1515",
+    "input": "Zein hitz da laburragoa: \"belatz\" edo \"sei\"?"
+  },
+  {
+    "id": "1517",
+    "input": "Zein hitz da laburragoa: \"zure\" edo \"pribatu\"?"
+  },
+  {
+    "id": "1522",
+    "input": "Zein hitz da laburragoa: \"gihar\" edo \"beroki\"?"
+  },
+  {
+    "id": "1523",
+    "input": "Zein hitz da laburragoa: \"lankide\" edo \"musker\"?"
+  },
+  {
+    "id": "1529",
+    "input": "Zein hitz da laburragoa: \"hor\" edo \"utzi\"?"
+  },
+  {
+    "id": "1531",
+    "input": "Zein hitz da laburragoa: \"bela\" edo \"jolastu\"?"
+  },
+  {
+    "id": "1532",
+    "input": "Zein hitz da laburragoa: \"eskari\" edo \"tren\"?"
+  },
+  {
+    "id": "1540",
+    "input": "Zein hitz da laburragoa: \"jaun\" edo \"mingots\"?"
+  },
+  {
+    "id": "1544",
+    "input": "Zein hitz da laburragoa: \"egitura\" edo \"atze\"?"
+  },
+  {
+    "id": "1545",
+    "input": "Zein hitz da laburragoa: \"gazte\" edo \"poz\"?"
+  },
+  {
+    "id": "1546",
+    "input": "Zein hitz da laburragoa: \"sail\" edo \"uztail\"?"
+  },
+  {
+    "id": "1556",
+    "input": "Zein hitz da laburragoa: \"joan\" edo \"onartu\"?"
+  },
+  {
+    "id": "1565",
+    "input": "Zein hitz da laburragoa: \"geratu\" edo \"orain\"?"
+  },
+  {
+    "id": "1567",
+    "input": "Zein hitz da laburragoa: \"hozkatu\" edo \"ezagun\"?"
+  },
+  {
+    "id": "1572",
+    "input": "Zein hitz da laburragoa: \"lepo\" edo \"egiazko\"?"
+  },
+  {
+    "id": "1576",
+    "input": "Zein hitz da laburragoa: \"ohe\" edo \"komedia\"?"
+  },
+  {
+    "id": "1579",
+    "input": "Zein hitz da laburragoa: \"agertu\" edo \"ospitale\"?"
+  },
+  {
+    "id": "1589",
+    "input": "Zein hitz da laburragoa: \"hotel\" edo \"bertako\"?"
+  },
+  {
+    "id": "1593",
+    "input": "Zein hitz da laburragoa: \"tipula\" edo \"zuri\"?"
+  },
+  {
+    "id": "1595",
+    "input": "Zein hitz da laburragoa: \"gero\" edo \"ospitale\"?"
+  },
+  {
+    "id": "1596",
+    "input": "Zein hitz da laburragoa: \"berun\" edo \"goiz\"?"
+  },
+  {
+    "id": "1597",
+    "input": "Zein hitz da laburragoa: \"antzeko\" edo \"tren\"?"
+  },
+  {
+    "id": "1604",
+    "input": "Zein hitz da laburragoa: \"hegazkin\" edo \"hari\"?"
+  },
+  {
+    "id": "1610",
+    "input": "Zein hitz da laburragoa: \"segida\" edo \"aditz\"?"
+  },
+  {
+    "id": "1615",
+    "input": "Zein hitz da laburragoa: \"nahiko\" edo \"gorputz\"?"
+  },
+  {
+    "id": "1623",
+    "input": "Zein hitz da laburragoa: \"janzki\" edo \"astun\"?"
+  },
+  {
+    "id": "1624",
+    "input": "Zein hitz da laburragoa: \"hegazkin\" edo \"jakin\"?"
+  },
+  {
+    "id": "1626",
+    "input": "Zein hitz da laburragoa: \"ohe\" edo \"eman\"?"
+  },
+  {
+    "id": "1641",
+    "input": "Zein hitz da laburragoa: \"talde\" edo \"aspertu\"?"
+  },
+  {
+    "id": "1650",
+    "input": "Zein hitz da laburragoa: \"gazte\" edo \"eskubaloi\"?"
+  },
+  {
+    "id": "1657",
+    "input": "Zein hitz da laburragoa: \"gorputz\" edo \"panel\"?"
+  },
+  {
+    "id": "1660",
+    "input": "Zein hitz da laburragoa: \"kale\" edo \"norabide\"?"
+  },
+  {
+    "id": "1666",
+    "input": "Zein hitz da laburragoa: \"hazkunde\" edo \"tipula\"?"
+  },
+  {
+    "id": "1667",
+    "input": "Zein hitz da laburragoa: \"barik\" edo \"ate\"?"
+  },
+  {
+    "id": "1671",
+    "input": "Zein hitz da laburragoa: \"gris\" edo \"autobide\"?"
+  },
+  {
+    "id": "1678",
+    "input": "Zein hitz da laburragoa: \"izan\" edo \"zendu\"?"
+  },
+  {
+    "id": "1680",
+    "input": "Zein hitz da laburragoa: \"aho\" edo \"frogatu\"?"
+  },
+  {
+    "id": "1681",
+    "input": "Zein hitz da laburragoa: \"bihar\" edo \"esan\"?"
+  },
+  {
+    "id": "1684",
+    "input": "Zein hitz da laburragoa: \"desiratu\" edo \"pisatu\"?"
+  },
+  {
+    "id": "1690",
+    "input": "Zein hitz da laburragoa: \"ordezkatu\" edo \"nagusi\"?"
+  },
+  {
+    "id": "1697",
+    "input": "Zein hitz da laburragoa: \"astun\" edo \"eman\"?"
+  },
+  {
+    "id": "1703",
+    "input": "Zein hitz da laburragoa: \"lur\" edo \"litro\"?"
+  },
+  {
+    "id": "1707",
+    "input": "Zein hitz da laburragoa: \"bide\" edo \"jan\"?"
+  },
+  {
+    "id": "1716",
+    "input": "Zein hitz da laburragoa: \"igel\" edo \"pisatu\"?"
+  },
+  {
+    "id": "1717",
+    "input": "Zein hitz da laburragoa: \"sortu\" edo \"loba\"?"
+  },
+  {
+    "id": "1724",
+    "input": "Zein hitz da laburragoa: \"hazkunde\" edo \"bakoitz\"?"
+  },
+  {
+    "id": "1730",
+    "input": "Zein hitz da laburragoa: \"objektu\" edo \"bildu\"?"
+  },
+  {
+    "id": "1740",
+    "input": "Zein hitz da laburragoa: \"kode\" edo \"bilatu\"?"
+  },
+  {
+    "id": "1745",
+    "input": "Zein hitz da laburragoa: \"litro\" edo \"gona\"?"
+  },
+  {
+    "id": "1746",
+    "input": "Zein hitz da laburragoa: \"urdail\" edo \"bigun\"?"
+  },
+  {
+    "id": "1748",
+    "input": "Zein hitz da laburragoa: \"nekatu\" edo \"suge\"?"
+  },
+  {
+    "id": "1751",
+    "input": "Zein hitz da laburragoa: \"otsail\" edo \"arte\"?"
+  },
+  {
+    "id": "1757",
+    "input": "Zein hitz da laburragoa: \"aginte\" edo \"ordezkatu\"?"
+  },
+  {
+    "id": "1758",
+    "input": "Zein hitz da laburragoa: \"min\" edo \"hitz\"?"
+  },
+  {
+    "id": "1759",
+    "input": "Zein hitz da laburragoa: \"burdin\" edo \"eta\"?"
+  },
+  {
+    "id": "1762",
+    "input": "Zein hitz da laburragoa: \"more\" edo \"haurtxo\"?"
+  },
+  {
+    "id": "1763",
+    "input": "Zein hitz da laburragoa: \"jaio\" edo \"hozkatu\"?"
+  },
+  {
+    "id": "1765",
+    "input": "Zein hitz da laburragoa: \"baimen\" edo \"mingots\"?"
+  },
+  {
+    "id": "1767",
+    "input": "Zein hitz da laburragoa: \"txar\" edo \"ostegun\"?"
+  },
+  {
+    "id": "1769",
+    "input": "Zein hitz da laburragoa: \"zuen\" edo \"elkartu\"?"
+  },
+  {
+    "id": "1782",
+    "input": "Zein hitz da laburragoa: \"gas\" edo \"hiru\"?"
+  },
+  {
+    "id": "1784",
+    "input": "Zein hitz da laburragoa: \"aise\" edo \"bakoitz\"?"
+  },
+  {
+    "id": "1785",
+    "input": "Zein hitz da laburragoa: \"su\" edo \"erosi\"?"
+  },
+  {
+    "id": "1790",
+    "input": "Zein hitz da laburragoa: \"ahul\" edo \"erakutsi\"?"
+  },
+  {
+    "id": "1791",
+    "input": "Zein hitz da laburragoa: \"sorkuntza\" edo \"arto\"?"
+  },
+  {
+    "id": "1793",
+    "input": "Zein hitz da laburragoa: \"antzeko\" edo \"orein\"?"
+  },
+  {
+    "id": "1799",
+    "input": "Zein hitz da laburragoa: \"bolumen\" edo \"igel\"?"
+  },
+  {
+    "id": "1804",
+    "input": "Zein hitz da laburragoa: \"gutxi\" edo \"pertsona\"?"
+  },
+  {
+    "id": "1805",
+    "input": "Zein hitz da laburragoa: \"janzki\" edo \"euli\"?"
+  },
+  {
+    "id": "1808",
+    "input": "Zein hitz da laburragoa: \"berdin\" edo \"sendo\"?"
+  },
+  {
+    "id": "1811",
+    "input": "Zein hitz da laburragoa: \"objektu\" edo \"bus\"?"
+  },
+  {
+    "id": "1812",
+    "input": "Zein hitz da laburragoa: \"oihan\" edo \"kontseilu\"?"
+  },
+  {
+    "id": "1824",
+    "input": "Zein hitz da laburragoa: \"han\" edo \"landu\"?"
+  },
+  {
+    "id": "1827",
+    "input": "Zein hitz da laburragoa: \"gatz\" edo \"su\"?"
+  },
+  {
+    "id": "1828",
+    "input": "Zein hitz da laburragoa: \"ikusmen\" edo \"loba\"?"
+  },
+  {
+    "id": "1829",
+    "input": "Zein hitz da laburragoa: \"txirula\" edo \"min\"?"
+  },
+  {
+    "id": "1833",
+    "input": "Zein hitz da laburragoa: \"ziur\" edo \"bihar\"?"
+  },
+  {
+    "id": "1838",
+    "input": "Zein hitz da laburragoa: \"eraso\" edo \"eskubaloi\"?"
+  },
+  {
+    "id": "1850",
+    "input": "Zein hitz da laburragoa: \"elkartu\" edo \"gazte\"?"
+  },
+  {
+    "id": "1853",
+    "input": "Zein hitz da laburragoa: \"kilo\" edo \"astiro\"?"
+  },
+  {
+    "id": "1860",
+    "input": "Zein hitz da laburragoa: \"luzoker\" edo \"edan\"?"
+  },
+  {
+    "id": "1869",
+    "input": "Zein hitz da laburragoa: \"pisu\" edo \"gizon\"?"
+  },
+  {
+    "id": "1876",
+    "input": "Zein hitz da laburragoa: \"eskatu\" edo \"nahiz\"?"
+  },
+  {
+    "id": "1888",
+    "input": "Zein hitz da laburragoa: \"joan\" edo \"plazer\"?"
+  },
+  {
+    "id": "1890",
+    "input": "Zein hitz da laburragoa: \"sortu\" edo \"apio\"?"
+  },
+  {
+    "id": "1891",
+    "input": "Zein hitz da laburragoa: \"kontseilu\" edo \"bular\"?"
+  },
+  {
+    "id": "1897",
+    "input": "Zein hitz da laburragoa: \"leun\" edo \"eskrima\"?"
+  },
+  {
+    "id": "1901",
+    "input": "Zein hitz da laburragoa: \"ostegun\" edo \"hezur\"?"
+  },
+  {
+    "id": "1904",
+    "input": "Zein hitz da laburragoa: \"onartu\" edo \"eutsi\"?"
+  },
+  {
+    "id": "1905",
+    "input": "Zein hitz da laburragoa: \"arin\" edo \"zerba\"?"
+  },
+  {
+    "id": "1906",
+    "input": "Zein hitz da laburragoa: \"kargu\" edo \"aktore\"?"
+  },
+  {
+    "id": "1909",
+    "input": "Zein hitz da laburragoa: \"jaurti\" edo \"katu\"?"
+  },
+  {
+    "id": "1916",
+    "input": "Zein hitz da laburragoa: \"egotzi\" edo \"kuiatxo\"?"
+  },
+  {
+    "id": "1917",
+    "input": "Zein hitz da laburragoa: \"onura\" edo \"mediku\"?"
+  },
+  {
+    "id": "1919",
+    "input": "Zein hitz da laburragoa: \"bihar\" edo \"komedia\"?"
+  },
+  {
+    "id": "1927",
+    "input": "Zein hitz da laburragoa: \"mendi\" edo \"zurgin\"?"
+  },
+  {
+    "id": "1929",
+    "input": "Zein hitz da laburragoa: \"gihar\" edo \"gatz\"?"
+  },
+  {
+    "id": "1940",
+    "input": "Zein hitz da laburragoa: \"ezik\" edo \"posible\"?"
+  },
+  {
+    "id": "1946",
+    "input": "Zein hitz da laburragoa: \"eskari\" edo \"izter\"?"
+  },
+  {
+    "id": "1948",
+    "input": "Zein hitz da laburragoa: \"hazi\" edo \"sendo\"?"
+  },
+  {
+    "id": "1954",
+    "input": "Zein hitz da laburragoa: \"hor\" edo \"panel\"?"
+  },
+  {
+    "id": "1957",
+    "input": "Zein hitz da laburragoa: \"lankide\" edo \"beroki\"?"
+  },
+  {
+    "id": "1958",
+    "input": "Zein hitz da laburragoa: \"hil\" edo \"lodi\"?"
+  },
+  {
+    "id": "1966",
+    "input": "Zein hitz da laburragoa: \"uztail\" edo \"eutsi\"?"
+  },
+  {
+    "id": "1972",
+    "input": "Zein hitz da laburragoa: \"lorpen\" edo \"beti\"?"
+  },
+  {
+    "id": "1980",
+    "input": "Zein hitz da laburragoa: \"unibertsal\" edo \"behar\"?"
+  },
+  {
+    "id": "1987",
+    "input": "Zein hitz da laburragoa: \"izan\" edo \"geltoki\"?"
+  },
+  {
+    "id": "1989",
+    "input": "Zein hitz da laburragoa: \"kongresu\" edo \"eta\"?"
+  },
+  {
+    "id": "1991",
+    "input": "Zein hitz da laburragoa: \"bizar\" edo \"lotu\"?"
+  },
+  {
+    "id": "1996",
+    "input": "Zein hitz da laburragoa: \"antzeko\" edo \"beso\"?"
+  }
+]

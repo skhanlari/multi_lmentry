@@ -13,10 +13,9 @@ class WordBeforeScorer(LMentryScorer):
         super().__init__()
 
         self.prefixes.extend(
-            [      
-                   
-            r"(.*؟،)?{sentence} در جمله ",
-            r"(.*؟،)?{sentence} در ",
+            [         
+                "?،{sentence} در جمله ",
+                "?،{sentence} در ",
 
             ]
         )

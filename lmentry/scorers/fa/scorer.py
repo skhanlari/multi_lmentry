@@ -4,9 +4,6 @@ import logging
 import re
 from collections import Counter
 from pathlib import Path
-import ast
-from datasets import load_dataset
-from lmentry.constants import LANG
 
 from num2words import num2words
 
@@ -14,7 +11,7 @@ logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S
 
 
 word_regex_template = r'["\'\.,]*\b{}\b["\'\.,]*(کلمه )?'
-sentence_regex_template = r'(جمله|["\'\.,]*{}["\'\.,]*)(جمله )?'
+sentence_regex_template = r'((جمله|["\'\.,]*{}["\'\.,]*)(جمله )?'
 letter_regex_template = r'["\'\.,]*\b{}\b["\'\.,]*(حرف )?'
 number_regex_template = r'["\'\.,]*\b{}\b["\'\.,]*(عدد )?'
 
@@ -120,7 +117,7 @@ class LMentryScorer:
             rf"{target} جواب است",
             rf"جواب {target} است"
         ]
-        return patterns
+        return [p.format(target=target) for p in patterns]
 
     def get_patterns(self, base_patterns):
 
@@ -143,15 +140,9 @@ class LMentryScorer:
                           log_file_locations: bool = True
                           ):
 
-        ds = load_dataset(
-            "iperbole/multi_lmentry",
-            LANG,
-            data_files=f"{LANG}/{task_data_path}.jsonl"
-        )["train"]
-
-        # map huggingaface to a dict map
-        examples = {ds_entry["id"]: {"input": ds_entry["input"], "metadata": ast.literal_eval(ds_entry["metadata"])} for ds_entry in ds}
-
+        with open(task_data_path) as f_task_data:
+            task_data = json.load(f_task_data)
+        examples = task_data["examples"]
 
         # load the predictions without the metadata
         if log_file_locations:
@@ -169,8 +160,8 @@ class LMentryScorer:
             prediction_entry["certainty"] = certainty
 
         # save the scored predictions
-        with open(output_path, "w", encoding="utf-8") as f_scored_predictions:
-            json.dump(predictions, f_scored_predictions, indent=2, ensure_ascii=False)
+        with open(output_path, "w") as f_scored_predictions:
+            json.dump(predictions, f_scored_predictions, indent=2)
         if log_file_locations:
             logging.info(f"saved scored predictions at {output_path}")
 
@@ -200,18 +191,12 @@ class LMentryScorer:
 
         for i, pattern in enumerate(self.get_patterns(base_patterns)):
             pattern = self.normalize_string(pattern)
-            try:
-                if re.match(pattern + r"\.?$", prediction):
-                    score = 1
-                    certainty = 1
-                    break
-                elif re.search(pattern, prediction):
-                    score = 1
-
-            except re.error as e:
-                print("BROKEN REGEX:", pattern)
-                print("ERROR:", e)
-                raise
+            if re.match(pattern + r"\.?$", prediction):
+                score = 1
+                certainty = 1
+                break
+            elif re.search(pattern, prediction):
+                score = 1
 
         return score, certainty
 

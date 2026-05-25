@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "100",
+    "input": "\"umeki\", \"jaiotza\", \"espezie\", \"bizitza\" eta \"heriotza\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "106",
+    "input": "\"produktu\", \"konpainia\", \"salneurri\", \"ekoizpen\" eta \"ekonomia\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "107",
+    "input": "\"itsasontzi\", \"automobil\", \"kale\", \"bus\" eta \"etorbide\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "108",
+    "input": "\"gas\", \"lur\", \"porru\", \"izotz\" eta \"berun\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "11",
+    "input": "\"leiho\", \"gela\", \"ohe\", \"ate\" eta \"eskailera\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "112",
+    "input": "\"aitona\", \"amona\", \"familia\", \"aita\" eta \"errefau\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "114",
+    "input": "\"zuen\", \"behar\", \"nire\", \"zure\" eta \"gure\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "118",
+    "input": "\"baso\", \"ibai\", \"aintzira\", \"oihan\" eta \"zelai\" hitzetako guztiak geografiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "119",
+    "input": "\"haren\", \"zure\", \"nire\", \"zuen\" eta \"gure\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "12",
+    "input": "\"norabide\", \"posizio\", \"altuera\", \"murriztapen\" eta \"leku\" hitzetako guztiak espazio edo kopuruak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "126",
+    "input": "\"apiril\", \"ekain\", \"maiatz\", \"uztail\" eta \"abuztu\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "130",
+    "input": "\"baldintza\", \"atzerakada\", \"berde\", \"sail\" eta \"adibide\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "136",
+    "input": "\"aukera\", \"kasu\", \"hasiera\", \"sektore\" eta \"adibide\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "138",
+    "input": "\"zilar\", \"urre\", \"arrain\", \"gas\" eta \"ur\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "140",
+    "input": "\"alberjinia\", \"apio\", \"arto\", \"orburu\" eta \"guda\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "143",
+    "input": "\"lokatz\", \"zilar\", \"lur\", \"burdin\" eta \"lohi\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "148",
+    "input": "\"gure\", \"zure\", \"zuen\", \"haren\" eta \"nire\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "149",
+    "input": "\"zure\", \"gure\", \"zuen\", \"nire\" eta \"haren\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "153",
+    "input": "\"hiriburu\", \"leiho\", \"talde\", \"dekretu\" eta \"arau\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "155",
+    "input": "\"diru\", \"balio\", \"produktu\", \"krisi\" eta \"tarifa\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "16",
+    "input": "\"eskumutur\", \"garun\", \"belarri\", \"sudur\" eta \"bihotz\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "160",
+    "input": "\"norbanako\", \"andre\", \"atso\", \"dama\" eta \"gizaki\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "163",
+    "input": "\"piano\", \"tronpeta\", \"gitarra\", \"bateria\" eta \"saxofoi\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "170",
+    "input": "\"nazio\", \"mugimendu\", \"tamaina\", \"handipen\" eta \"leku\" hitzetako guztiak espazio edo kopuruak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "173",
+    "input": "\"adberbio\", \"lurrun\", \"postposizio\", \"izenordain\" eta \"determinatzaile\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "175",
+    "input": "\"tornado\", \"lurrikara\", \"tsunami\", \"lehorte\" eta \"uholde\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "176",
+    "input": "\"herrialde\", \"udalerri\", \"egitura\", \"departamendu\" eta \"arropa\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "193",
+    "input": "\"kuleroak\", \"beroki\", \"betaurreko\", \"jertse\" eta \"aire\" hitzetako guztiak jantziak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "196",
+    "input": "\"arma\", \"administrari\", \"giltza\", \"aparatu\" eta \"helduleku\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "2",
+    "input": "\"bola-joko\", \"eski\", \"kriket\", \"eskalada\" eta \"errugbi\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "200",
+    "input": "\"maiatz\", \"otsail\", \"urtarril\", \"azaro\" eta \"abuztu\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "204",
+    "input": "\"demokrazia\", \"betebehar\", \"baimen\", \"arau\" eta \"gizarte\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "205",
+    "input": "\"urdail\", \"azal\", \"jarduera\", \"beso\" eta \"belaun\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "208",
+    "input": "\"belar-denda\", \"farmazia\", \"okindegi\", \"komisaria\" eta \"arreta\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "21",
+    "input": "\"biologo\", \"kutxazain\", \"zurgin\", \"alkate\" eta \"batzarkide\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "210",
+    "input": "\"gatz\", \"izotz\", \"zilar\", \"berun\" eta \"urre\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "214",
+    "input": "\"urdin\", \"more\", \"zuri\", \"berde\" eta \"laranja\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "22",
+    "input": "\"ekain\", \"abendu\", \"urtarril\", \"irail\" eta \"waterpolo\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "221",
+    "input": "\"bus\", \"mililitro\", \"kilometro\", \"milimetro\" eta \"total\" hitzetako guztiak neurriak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "222",
+    "input": "\"lokarriak\", \"tsunami\", \"urakan\", \"tornado\" eta \"sute\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "23",
+    "input": "\"senatari\", \"saltzaile\", \"polizia\", \"zientzialari\" eta \"ingeniari\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "234",
+    "input": "\"tipula\", \"brokoli\", \"alberjinia\", \"zerba\" eta \"kuia\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "238",
+    "input": "\"zure\", \"haren\", \"nire\", \"gure\" eta \"zuen\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "249",
+    "input": "\"botoi\", \"eskularruak\", \"bularretako\", \"arropa\" eta \"jertse\" hitzetako guztiak jantziak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "251",
+    "input": "\"demokrazia\", \"substantibo\", \"izenlagun\", \"izenondo\" eta \"adberbio\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "254",
+    "input": "\"lege\", \"astearte\", \"igande\", \"astelehen\" eta \"ostiral\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "255",
+    "input": "\"amona\", \"emazte\", \"lehengusina\", \"arau\" eta \"senar\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "258",
+    "input": "\"piano\", \"suge\", \"saxofoi\", \"klarinete\" eta \"bateria\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "259",
+    "input": "\"emakume\", \"jende\", \"neskato\", \"gizaki\" eta \"azaro\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "265",
+    "input": "\"itsasontzi\", \"motor\", \"tranbia\", \"garraio\" eta \"geltoki\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "268",
+    "input": "\"jatetxe\", \"bitxi-denda\", \"arrandegi\", \"hotel\" eta \"komisaria\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "270",
+    "input": "\"mugimendu\", \"leku\", \"sakonera\", \"gutxiengo\" eta \"gehiengo\" hitzetako guztiak espazio edo kopuruak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "277",
+    "input": "\"eskari\", \"merkatu\", \"transakzio\", \"matxinsalto\" eta \"merkataritza\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "278",
+    "input": "\"argazkilari\", \"txori\", \"izkira\", \"arrain\" eta \"zizare\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "279",
+    "input": "\"zuen\", \"zure\", \"haren\", \"nire\" eta \"haien\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "280",
+    "input": "\"urakan\", \"lehorte\", \"tsunami\", \"lurrikara\" eta \"eraso\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "282",
+    "input": "\"logela\", \"eskailera\", \"leiho\", \"programatzaile\" eta \"gela\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "286",
+    "input": "\"neskato\", \"haurtxo\", \"atso\", \"gizateri\" eta \"jende\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "289",
+    "input": "\"otsail\", \"abuztu\", \"maiatz\", \"ekain\" eta \"martxo\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "293",
+    "input": "\"errugbi\", \"kriket\", \"surf\", \"piraguismo\" eta \"xendazaletasun\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "295",
+    "input": "\"golf\", \"surf\", \"bela\", \"igeriketa\" eta \"leku\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "298",
+    "input": "\"jende\", \"gizaki\", \"atso\", \"gizateri\" eta \"irudi\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "304",
+    "input": "\"euli\", \"olagarro\", \"txakur\", \"espinaka\" eta \"sits\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "305",
+    "input": "\"tamaina\", \"leku\", \"zabalera\", \"gutxiengo\" eta \"poltsa\" hitzetako guztiak espazio edo kopuruak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "307",
+    "input": "\"abuztu\", \"abendu\", \"urtarril\", \"izotz\" eta \"ekain\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "309",
+    "input": "\"administrazio\", \"herri\", \"elkarte\", \"egitura\" eta \"debeku\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "317",
+    "input": "\"loba\", \"amona\", \"aita\", \"ahizpa\" eta \"izeba\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "319",
+    "input": "\"eski\", \"eskubaloi\", \"tenis\", \"boxeo\" eta \"bela\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "32",
+    "input": "\"talde\", \"udalerri\", \"nazio\", \"eskubide\" eta \"kanpaina\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "324",
+    "input": "\"garai\", \"azaro\", \"existentzia\", \"interes\" eta \"fase\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "326",
+    "input": "\"igogailu\", \"logela\", \"sabai\", \"idazmahai\" eta \"ohe\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "336",
+    "input": "\"determinatzaile\", \"aditz\", \"gizaki\", \"adberbio\" eta \"substantibo\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "339",
+    "input": "\"misterio\", \"abentura\", \"komedia\", \"fantasia\" eta \"musikal\" hitzetako guztiak zinema generoak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "34",
+    "input": "\"orratz\", \"kamera\", \"arma\", \"poltsa\" eta \"kordel\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "341",
+    "input": "\"lohi\", \"izotz\", \"lurrun\", \"gatz\" eta \"ur\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "342",
+    "input": "\"lehorte\", \"lurrikara\", \"tornado\", \"fantasia\" eta \"elur-jausi\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "344",
+    "input": "\"adberbio\", \"substantibo\", \"izenlagun\", \"postari\" eta \"juntagailu\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "345",
+    "input": "\"enpresa\", \"administrazio\", \"kanpaina\", \"erakunde\" eta \"hiri\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "349",
+    "input": "\"kale\", \"aita\", \"lagun\", \"izeba\" eta \"biloba\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "35",
+    "input": "\"belatz\", \"krokodilo\", \"arrano\", \"oroipen\" eta \"txipiroi\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "357",
+    "input": "\"lehorte\", \"uholde\", \"ate\", \"sute\" eta \"tornado\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "360",
+    "input": "\"haren\", \"zure\", \"haien\", \"gure\" eta \"nire\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "361",
+    "input": "\"igande\", \"ostegun\", \"astearte\", \"larunbat\" eta \"astelehen\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "362",
+    "input": "\"sukaldari\", \"jaun\", \"abokatu\", \"okin\" eta \"suhiltzaile\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "364",
+    "input": "\"giltza\", \"lokarri\", \"esanahi\", \"kamera\" eta \"kordel\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "367",
+    "input": "\"kargu\", \"elkarte\", \"betebehar\", \"administrazio\" eta \"kongresu\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "368",
+    "input": "\"kordel\", \"poltsa\", \"kamera\", \"hari\" eta \"kontsumo\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "370",
+    "input": "\"umeki\", \"sudur\", \"bizitza\", \"izaki\" eta \"heriotza\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "371",
+    "input": "\"ate\", \"mahai\", \"etxe\", \"eraikin\" eta \"porrot\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "373",
+    "input": "\"ibilbide\", \"tren\", \"itsasontzi\", \"geraleku\" eta \"taxi\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "374",
+    "input": "\"jaiotza\", \"umeki\", \"bizitza\", \"ugalketa\" eta \"izaki\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "376",
+    "input": "\"zure\", \"nire\", \"zuen\", \"haren\" eta \"ingeniari\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "378",
+    "input": "\"arrosa\", \"ile-apaindegi\", \"berde\", \"gorri\" eta \"marroi\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "382",
+    "input": "\"sute\", \"urakan\", \"lehorte\", \"elur-jausi\" eta \"garun\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "386",
+    "input": "\"etorbide\", \"hegazkin\", \"ibilbide\", \"geraleku\" eta \"aireportu\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "387",
+    "input": "\"ate\", \"etxebizitza\", \"adibide\", \"eskailera\" eta \"aulki\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "397",
+    "input": "\"neurri\", \"bihotz\", \"bolumen\", \"kopuru\" eta \"milimetro\" hitzetako guztiak neurriak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "40",
+    "input": "\"astelehen\", \"ostiral\", \"aurpegi\", \"ostegun\" eta \"astearte\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "407",
+    "input": "\"leiho\", \"ate\", \"eraikuntza\", \"hortz\" eta \"idazmahai\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "416",
+    "input": "\"nire\", \"zuen\", \"zure\", \"haren\" eta \"gure\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "420",
+    "input": "\"zerbitzari\", \"suhiltzaile\", \"dentista\", \"ingeniari\" eta \"biologo\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "425",
+    "input": "\"azalore\", \"piper\", \"luzoker\", \"erremolatxa\" eta \"ugalketa\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "426",
+    "input": "\"poltsa\", \"orratz\", \"kamera\", \"aparatu\" eta \"kode\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "430",
+    "input": "\"baso\", \"ozeano\", \"natura\", \"aintzira\" eta \"ibai\" hitzetako guztiak geografiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "436",
+    "input": "\"basamortu\", \"itsasalde\", \"oihan\", \"itsaso\" eta \"aintzira\" hitzetako guztiak geografiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "437",
+    "input": "\"astelehen\", \"ostegun\", \"asteazken\", \"igande\" eta \"astearte\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "438",
+    "input": "\"kale\", \"irakasle\", \"zerbitzari\", \"aktore\" eta \"mediku\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "449",
+    "input": "\"agure\", \"gizon\", \"dama\", \"bikote\" eta \"atso\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "451",
+    "input": "\"errugbi\", \"boleibol\", \"eskrima\", \"patinaje\" eta \"eski\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "455",
+    "input": "\"porrot\", \"biolin\", \"piano\", \"klarinete\" eta \"tronpeta\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "457",
+    "input": "\"fase\", \"orainaldi\", \"gezur\", \"gai\" eta \"krisi\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "468",
+    "input": "\"aitona\", \"biloba\", \"seme\", \"izeba\" eta \"senar\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "47",
+    "input": "\"mahai\", \"sarrera\", \"etxe\", \"eraikuntza\" eta \"eskailera\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "471",
+    "input": "\"lurrun\", \"berun\", \"aire\", \"metal\" eta \"lohi\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "473",
+    "input": "\"eskari\", \"balio\", \"transakzio\", \"zerbitzu\" eta \"bela\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "475",
+    "input": "\"beisbol\", \"badminton\", \"gimnastika\", \"errugbi\" eta \"bola-joko\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "477",
+    "input": "\"txirula\", \"biolin\", \"grina\", \"gitarra\" eta \"tronpeta\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "496",
+    "input": "\"osaba\", \"birramona\", \"aita\", \"alaba\" eta \"bikote\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "497",
+    "input": "\"suspense\", \"katu\", \"fantasia\", \"historia\" eta \"musikal\" hitzetako guztiak zinema generoak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "498",
+    "input": "\"juntagailu\", \"betaurreko\", \"postposizio\", \"determinatzaile\" eta \"izenordain\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "5",
+    "input": "\"aldaka\", \"azal\", \"ukondo\", \"ile\" eta \"gradu\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "506",
+    "input": "\"klarinete\", \"bateria\", \"gitarra\", \"saxofoi\" eta \"biolin\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "51",
+    "input": "\"laranja\", \"marroi\", \"more\", \"arrosa\" eta \"mediku\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "512",
+    "input": "\"sute\", \"urakan\", \"lehorte\", \"elur-jausi\" eta \"tsunami\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "514",
+    "input": "\"gibel\", \"piper\", \"hortz\", \"aho\" eta \"hezur\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "515",
+    "input": "\"kanpaina\", \"komunitate\", \"dekretu\", \"bilera\" eta \"kuia\" hitzetako guztiak gizartearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "52",
+    "input": "\"lokatz\", \"patatak\", \"gatz\", \"aire\" eta \"urre\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "522",
+    "input": "\"abuztu\", \"ekain\", \"barraskilo\", \"martxo\" eta \"uztail\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "525",
+    "input": "\"ostegun\", \"asteazken\", \"ostiral\", \"astelehen\" eta \"larunbat\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "527",
+    "input": "\"nire\", \"esanahi\", \"gure\", \"zure\" eta \"zuen\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "531",
+    "input": "\"aparatu\", \"arma\", \"hari\", \"lokarri\" eta \"kordel\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "532",
+    "input": "\"autobus\", \"geltoki\", \"geraleku\", \"hegazkin\" eta \"garraio\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "534",
+    "input": "\"azazkal\", \"ile\", \"urdail\", \"aldaka\" eta \"hanka\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "539",
+    "input": "\"berun\", \"aire\", \"tristura\", \"lohi\" eta \"burdin\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "543",
+    "input": "\"fruta-denda\", \"urdaitegi\", \"harategi\", \"arrandegi\" eta \"loradenda\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "550",
+    "input": "\"konpainia\", \"transakzio\", \"merkatu\", \"eskari\" eta \"balio\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "552",
+    "input": "\"biolin\", \"departamendu\", \"saxofoi\", \"klarinete\" eta \"piano\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "555",
+    "input": "\"tristura\", \"iragan\", \"bake\", \"porrot\" eta \"aurrerapen\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "563",
+    "input": "\"berde\", \"hori\", \"more\", \"gorri\" eta \"asteazken\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "569",
+    "input": "\"tamaina\", \"handipen\", \"historia\", \"gehiengo\" eta \"sakonera\" hitzetako guztiak espazio edo kopuruak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "574",
+    "input": "\"mililitro\", \"bolumen\", \"total\", \"kilo\" eta \"kilometro\" hitzetako guztiak neurriak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "580",
+    "input": "\"oin\", \"luzoker\", \"babak\", \"erremolatxa\" eta \"apio\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "582",
+    "input": "\"sakonera\", \"murriztapen\", \"posizio\", \"gehiengo\" eta \"abiadura\" hitzetako guztiak espazio edo kopuruak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "594",
+    "input": "\"tsunami\", \"sute\", \"lehorte\", \"uholde\" eta \"lurrikara\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "596",
+    "input": "\"eskubaloi\", \"tenis\", \"gimnastika\", \"atletismo\" eta \"billar\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "598",
+    "input": "\"lehengusina\", \"ama\", \"birbiloba\", \"familia\" eta \"lankide\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "601",
+    "input": "\"emazte\", \"bikote\", \"birbiloba\", \"birramona\" eta \"aita\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "602",
+    "input": "\"etorbide\", \"historia\", \"automobil\", \"tren\" eta \"geltoki\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "604",
+    "input": "\"zuri\", \"more\", \"lanabes\", \"laranja\" eta \"kolore\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "606",
+    "input": "\"tarifa\", \"diru\", \"kontsumo\", \"konpainia\" eta \"merkataritza\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "61",
+    "input": "\"orein\", \"musker\", \"suge\", \"euli\" eta \"eskularruak\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "611",
+    "input": "\"ur\", \"gatz\", \"berun\", \"lurrun\" eta \"burdin\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "62",
+    "input": "\"giltza\", \"soka\", \"kamera\", \"probintzia\" eta \"kordel\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "624",
+    "input": "\"gona\", \"beroki\", \"bularretako\", \"janzki\" eta \"tigre\" hitzetako guztiak jantziak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "631",
+    "input": "\"zuri\", \"berde\", \"murriztapen\", \"arrosa\" eta \"gorri\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "639",
+    "input": "\"entzumen\", \"gai\", \"ondorio\", \"lorpen\" eta \"arreta\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "64",
+    "input": "\"nerabe\", \"gizateri\", \"andre\", \"bizitza\" eta \"atso\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "645",
+    "input": "\"ugalketa\", \"espezie\", \"bizitza\", \"izaki\" eta \"jaiotza\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "657",
+    "input": "\"saltzaile\", \"astronauta\", \"okin\", \"ospitale\" eta \"aktore\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "658",
+    "input": "\"jende\", \"gizarte\", \"andre\", \"neskato\" eta \"norbanako\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "669",
+    "input": "\"izotz\", \"bainujantzi\", \"aire\", \"lur\" eta \"su\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "67",
+    "input": "\"su\", \"gas\", \"metal\", \"burdin\" eta \"ile\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "673",
+    "input": "\"gona\", \"galtzontzilloak\", \"kremailera\", \"eskularruak\" eta \"jaka\" hitzetako guztiak jantziak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "674",
+    "input": "\"etxebizitza\", \"panel\", \"ate\", \"eskailera\" eta \"igogailu\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "677",
+    "input": "\"ezpain\", \"gorputz\", \"atzamar\", \"orpo\" eta \"gihar\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "678",
+    "input": "\"lurrikara\", \"urakan\", \"uholde\", \"tsunami\" eta \"elur-jausi\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "682",
+    "input": "\"bularretako\", \"motxila\", \"arropa\", \"kasketa\" eta \"belo\" hitzetako guztiak jantziak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "684",
+    "input": "\"tarifa\", \"merkataritza\", \"produktu\", \"transakzio\" eta \"ekonomia\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "692",
+    "input": "\"balio\", \"merkatu\", \"eskaintza\", \"produktu\" eta \"transakzio\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "698",
+    "input": "\"tenis\", \"eskrima\", \"surf\", \"errugbi\" eta \"eskubaloi\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "699",
+    "input": "\"orratz\", \"aparatu\", \"pantaila\", \"kordel\" eta \"lokarri\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "70",
+    "input": "\"geltoki\", \"automobil\", \"patinete\", \"irristailuak\" eta \"ibilbide\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "700",
+    "input": "\"igande\", \"larunbat\", \"ostiral\", \"ostegun\" eta \"astelehen\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "701",
+    "input": "\"sarrera\", \"ohe\", \"logela\", \"ate\" eta \"panel\" hitzetako guztiak etxearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "704",
+    "input": "\"astelehen\", \"astearte\", \"sumindura\", \"ostegun\" eta \"larunbat\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "715",
+    "input": "\"jatetxe\", \"arrandegi\", \"ospitale\", \"udaletxe\" eta \"loradenda\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "720",
+    "input": "\"dama\", \"pertsona\", \"atso\", \"norbanako\" eta \"etorkizun\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "722",
+    "input": "\"merkatu\", \"gatazka\", \"eskari\", \"bilete\" eta \"produktu\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "731",
+    "input": "\"errefau\", \"apio\", \"kuia\", \"tipula\" eta \"kremailera\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "734",
+    "input": "\"itsaso\", \"urmael\", \"zelai\", \"hondartza\" eta \"basamortu\" hitzetako guztiak geografiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "735",
+    "input": "\"eski\", \"eskrima\", \"txirrindularitza\", \"patinaje\" eta \"saskibaloi\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "737",
+    "input": "\"tronpeta\", \"gitarra\", \"piano\", \"txirula\" eta \"klarinete\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "738",
+    "input": "\"jertse\", \"janzki\", \"gerriko\", \"motxila\" eta \"itxigailu\" hitzetako guztiak jantziak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "740",
+    "input": "\"okindegi\", \"jatetxe\", \"banku\", \"liburu-denda\" eta \"sorkuntza\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "741",
+    "input": "\"zuen\", \"gobernadore\", \"haien\", \"gure\" eta \"haren\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "752",
+    "input": "\"hotel\", \"urdaitegi\", \"supermerkatu\", \"jatetxe\" eta \"eskola\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "753",
+    "input": "\"amona\", \"probintzia\", \"loba\", \"aitona\" eta \"emazte\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "754",
+    "input": "\"ezagun\", \"aitona\", \"biloba\", \"aita\" eta \"loba\" hitzetako guztiak familiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "767",
+    "input": "\"ibai\", \"elur-jausi\", \"baso\", \"mendi\" eta \"urmael\" hitzetako guztiak geografiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "769",
+    "input": "\"tsunami\", \"sute\", \"elur-jausi\", \"uholde\" eta \"urakan\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "771",
+    "input": "\"jaiotza\", \"preposizio\", \"bizitza\", \"izaki\" eta \"ugalketa\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "775",
+    "input": "\"klarinete\", \"gitarra\", \"saxofoi\", \"txirula\" eta \"bateria\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "780",
+    "input": "\"ekonomia\", \"porrot\", \"merkatu\", \"balio\" eta \"zerbitzu\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "781",
+    "input": "\"polizia\", \"segida\", \"garai\", \"ikusmen\" eta \"hasiera\" hitzetako guztiak izen abstraktuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "782",
+    "input": "\"arratoi\", \"arrano\", \"labezomorro\", \"matxinsalto\" eta \"barraskilo\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "783",
+    "input": "\"litro\", \"gramo\", \"kopuru\", \"kilometro\" eta \"arratoi\" hitzetako guztiak neurriak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "784",
+    "input": "\"gure\", \"haien\", \"nire\", \"zure\" eta \"haren\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "785",
+    "input": "\"adberbio\", \"izenondo\", \"preposizio\", \"izenlagun\" eta \"determinatzaile\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "786",
+    "input": "\"elur-jausi\", \"sute\", \"lehorte\", \"tsunami\" eta \"urakan\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "787",
+    "input": "\"xendazaletasun\", \"igeriketa\", \"eski\", \"gimnastika\" eta \"bola-joko\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "789",
+    "input": "\"laranja\", \"more\", \"gorri\", \"kolore\" eta \"arrosa\" hitzetako guztiak koloreak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "791",
+    "input": "\"beso\", \"esku\", \"orpo\", \"begi\" eta \"bibote\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "795",
+    "input": "\"salneurri\", \"zerbitzu\", \"balio\", \"ekonomia\" eta \"transakzio\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "796",
+    "input": "\"haien\", \"haren\", \"zuen\", \"zure\" eta \"nire\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "797",
+    "input": "\"astearte\", \"ostegun\", \"igande\", \"larunbat\" eta \"astelehen\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "798",
+    "input": "\"mekanikari\", \"okin\", \"zuzendari\", \"batzarkide\" eta \"argazkilari\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "808",
+    "input": "\"katu\", \"eski\", \"igeriketa\", \"surf\" eta \"futbol\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "810",
+    "input": "\"tabako-denda\", \"fruta-denda\", \"denda\", \"ile-apaindegi\" eta \"komisaria\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "811",
+    "input": "\"juntagailu\", \"determinatzaile\", \"preposizio\", \"gaitasun\" eta \"adberbio\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "816",
+    "input": "\"ile-apaindegi\", \"beldur\", \"taberna\", \"autoeskola\" eta \"kafetegi\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "818",
+    "input": "\"sute\", \"tornado\", \"galtzontzilloak\", \"tsunami\" eta \"lurrikara\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "828",
+    "input": "\"gorputz\", \"sabelalde\", \"bihotz\", \"azazkal\" eta \"gerri\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "830",
+    "input": "\"patatak\", \"alaba\", \"brokoli\", \"azalore\" eta \"luzoker\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "831",
+    "input": "\"haren\", \"haien\", \"nire\", \"gure\" eta \"zuen\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "842",
+    "input": "\"erremolatxa\", \"piper\", \"azenario\", \"porru\" eta \"alberjinia\" hitzetako guztiak barazkiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "847",
+    "input": "\"konpainia\", \"tarifa\", \"transakzio\", \"eskaintza\" eta \"merkataritza\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "848",
+    "input": "\"maiatz\", \"azaro\", \"abuztu\", \"urtarril\" eta \"total\" hitzetako guztiak hilabeteak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "858",
+    "input": "\"ugalketa\", \"heriotza\", \"jaiotza\", \"espezie\" eta \"ezusteko\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "859",
+    "input": "\"gatz\", \"produktu\", \"tarifa\", \"merkataritza\" eta \"balio\" hitzetako guztiak ekonomiarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "860",
+    "input": "\"kordel\", \"orratz\", \"lokarri\", \"iltze\" eta \"giltza\" hitzetako guztiak tresnak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "862",
+    "input": "\"bizar\", \"ukondo\", \"bernazaki\", \"bibote\" eta \"orpo\" hitzetako guztiak giza gorputzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "868",
+    "input": "\"juntagailu\", \"substantibo\", \"preposizio\", \"aditz\" eta \"adberbio\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "877",
+    "input": "\"milimetro\", \"pisu\", \"kilo\", \"neurri\" eta \"zurgin\" hitzetako guztiak neurriak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "886",
+    "input": "\"igande\", \"astearte\", \"astelehen\", \"larunbat\" eta \"asteazken\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "893",
+    "input": "\"klarinete\", \"txirula\", \"biolin\", \"tronpeta\" eta \"gris\" hitzetako guztiak instrumentuak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "896",
+    "input": "\"astearte\", \"ostiral\", \"hegazkin\", \"larunbat\" eta \"ostegun\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "899",
+    "input": "\"drama\", \"komedia\", \"fantasia\", \"misterio\" eta \"musikal\" hitzetako guztiak zinema generoak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "910",
+    "input": "\"izenlagun\", \"izenondo\", \"izenordain\", \"determinatzaile\" eta \"jaun\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "911",
+    "input": "\"kilometro\", \"birramona\", \"kopuru\", \"mililitro\" eta \"total\" hitzetako guztiak neurriak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "916",
+    "input": "\"jaiotza\", \"heriotza\", \"izaki\", \"kuiatxo\" eta \"umeki\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "918",
+    "input": "\"zilar\", \"egoera\", \"lohi\", \"gatz\" eta \"berun\" hitzetako guztiak materialak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "919",
+    "input": "\"astronauta\", \"erraztatzaile\", \"zuzendari\", \"zurgin\" eta \"erregai-sailtzaile\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "924",
+    "input": "\"gizateri\", \"jaun\", \"emakume\", \"gizaki\" eta \"andre\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "925",
+    "input": "\"nire\", \"haien\", \"haren\", \"gauza\" eta \"gure\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "926",
+    "input": "\"pertsona\", \"agure\", \"jaun\", \"norbanako\" eta \"atso\" hitzetako guztiak jendearekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "93",
+    "input": "\"narriadura\", \"arrandegi\", \"kopia-denda\", \"autoeskola\" eta \"bulego\" hitzetako guztiak lantokiak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "930",
+    "input": "\"elur-jausi\", \"lehorte\", \"lurrikara\", \"urakan\" eta \"sute\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "932",
+    "input": "\"gimnastika\", \"waterpolo\", \"boleibol\", \"billar\" eta \"txirrindularitza\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "936",
+    "input": "\"espezie\", \"jaiotza\", \"bizitza\", \"kuia\" eta \"umeki\" hitzetako guztiak bizitzarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "937",
+    "input": "\"abentura\", \"suspense\", \"misterio\", \"fantasia\" eta \"musikal\" hitzetako guztiak zinema generoak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "939",
+    "input": "\"tristura\", \"elur-jausi\", \"lurrikara\", \"uholde\" eta \"urakan\" hitzetako guztiak hondamendi naturalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "97",
+    "input": "\"aktore\", \"harakin\", \"okin\", \"erregai-sailtzaile\" eta \"administrari\" hitzetako guztiak ogibideak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "973",
+    "input": "\"saskibaloi\", \"billar\", \"atletismo\", \"arazo\" eta \"futbol\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "979",
+    "input": "\"nire\", \"zuen\", \"haien\", \"gure\" eta \"haren\" hitzetako guztiak izenordain genitiboak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "98",
+    "input": "\"garraio\", \"patinete\", \"bus\", \"beroki\" eta \"kale\" hitzetako guztiak garraioarekin zerikusia duten hitzak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "981",
+    "input": "\"zomorro\", \"hegaluze\", \"arrain\", \"aparatu\" eta \"igel\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "985",
+    "input": "\"izenlagun\", \"aditz\", \"juntagailu\", \"izenordain\" eta \"postposizio\" hitzetako guztiak kategoria gramatikalak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "988",
+    "input": "\"futbol\", \"bela\", \"piraguismo\", \"badminton\" eta \"xendazaletasun\" hitzetako guztiak kirolak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "99",
+    "input": "\"ostiral\", \"astelehen\", \"klub\", \"astearte\" eta \"larunbat\" hitzetako guztiak asteko egunak dira? Erantzun \"bai\" edo \"ez\"."
+  },
+  {
+    "id": "993",
+    "input": "\"behi\", \"arrain\", \"katu\", \"elefante\" eta \"suge\" hitzetako guztiak animaliak dira? Erantzun \"bai\" edo \"ez\"."
+  }
+]
