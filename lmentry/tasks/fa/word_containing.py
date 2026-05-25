@@ -1,6 +1,6 @@
 import string
 
-from lmentry.scorers.it.word_containing_scorer import WordContainingScorer
+from lmentry.scorers.fa.word_containing_scorer import WordContainingScorer
 from lmentry.tasks.task import LMentryTask
 
 

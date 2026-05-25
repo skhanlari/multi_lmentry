@@ -2,7 +2,7 @@ import json
 import random
 
 from lmentry.constants import LMENTRY_WORDS_PATH
-from lmentry.scorers.it.sentence_not_containing_scorer import SentenceNotContainingScorer
+from lmentry.scorers.fa.sentence_not_containing_scorer import SentenceNotContainingScorer
 from lmentry.tasks.task import LMentryTask
 
 

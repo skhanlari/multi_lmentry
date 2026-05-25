@@ -100,7 +100,7 @@ def generate_task_hf_predictions(task_name, model,
             temperature=0, 
             max_tokens=max_new_tokens,
             top_p=1.0,
-            top_k=0,
+            top_k=-1,
             min_p=0,
             seed=lmentry_random_seed
         )
@@ -122,7 +122,7 @@ def generate_task_hf_predictions(task_name, model,
             batch_size=batch_size, 
             temperature=0.0,
             top_p=1.0,
-            top_k=0,
+            top_k=-1,
             min_p=0,
             return_full_text=False,
             num_beams=1)

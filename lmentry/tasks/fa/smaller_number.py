@@ -1,6 +1,6 @@
 import random
 
-from lmentry.scorers.it.smaller_number_scorer import SmallerNumberScorer
+from lmentry.scorers.fa.smaller_number_scorer import SmallerNumberScorer
 from lmentry.tasks.task import LMentryTask
 
 

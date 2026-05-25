@@ -2,7 +2,7 @@ import json
 import random
 
 from lmentry.constants import LMENTRY_WORDS_PATH
-from lmentry.scorers.it.first_letter_scorer import FirstLetterScorer
+from lmentry.scorers.fa.first_letter_scorer import FirstLetterScorer
 from lmentry.tasks.task import LMentryTask
 
 

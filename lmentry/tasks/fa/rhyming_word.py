@@ -2,7 +2,7 @@ import json
 import random
 
 from lmentry.constants import LMENTRY_WORDS_PATH, RHYME_GROUPS_PATH
-from lmentry.scorers.it.rhyming_word_scorer import RhymingWordScorer
+from lmentry.scorers.fa.rhyming_word_scorer import RhymingWordScorer
 from lmentry.tasks.task import LMentryTask
 
 

@@ -158,7 +158,7 @@ class LMentryScorer:
     ):
         
         ds = load_dataset(
-            "BSC-LT/multi_lmentry",
+            "iperbole/multi_lmentry",
             LANG,
             data_files=f"{LANG}/{task_data_path}.jsonl"
         )["train"]

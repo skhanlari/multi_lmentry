@@ -8,13 +8,13 @@ from vllm import LLM, SamplingParams
 
 JUDGE_MODELS = [
     #"Qwen/Qwen2.5-7B-Instruct",
-     "google/gemma-2-2b-it",
-    #"microsoft/Phi-3-mini-4k-instruct",
-    #"meta-llama/Llama-3.1-8B-Instruct",
+    "google/gemma-2-2b-it",
+    "microsoft/Phi-3-mini-4k-instruct",
+    "meta-llama/Llama-3.1-8B-Instruct",
 ]
 
-INPUT_CSV = Path("fa_random_500_for_annotation.csv")
-OUTPUT_CSV = Path("fa_random_500_with_judge_scores.csv")
+INPUT_CSV = Path("en_random_500_for_annotation.csv")
+OUTPUT_CSV = Path("en_random_500_with_judge_scores.csv")
 
 MAX_NEW_TOKENS = 32
 BATCH_SIZE = 128

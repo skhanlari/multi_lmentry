@@ -53,7 +53,7 @@ class LMentryTask:
         # Ensure the parent directories exist
         os.makedirs(os.path.dirname(task_data_path), exist_ok=True)
 
-        with open(task_data_path, "w") as f:
+        with open(task_data_path, "w", encoding="utf-8") as f:
             json.dump(task_data, f, indent=2, ensure_ascii=False)
 
     def score_predictions(self, model_name):
@@ -66,7 +66,7 @@ class LMentryTask:
         # truncate_predictions = True if model_name in models_that_cant_stop_generating else False
         scorer = self.scorer_cls()
         scorer.score_predictions(predictions_path=predictions_path,
-                                 task_data_path=self.name,
+                                 task_data_path=task_data_path,
                                  output_path=output_path,
                                  # truncate_predictions=truncate_predictions,
                                  truncate_predictions=False,

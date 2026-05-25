@@ -3,7 +3,7 @@ import random
 from itertools import chain
 
 from lmentry.constants import RESOURCES_DIR
-from lmentry.scorers.it.any_words_from_category_scorer import AnyWordsFromCategoryScorer
+from lmentry.scorers.fa.any_words_from_category_scorer import AnyWordsFromCategoryScorer
 from lmentry.tasks.task import LMentryTask
 
 

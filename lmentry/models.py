@@ -24,7 +24,8 @@ paper_models = {
     "gemma-3-270m" : {"short_name": "gemma-3-270m", "paper_name": "gemma-3-270m", "predictor_name": "google/gemma-3-270m-it"},
     "gemma-3-1b" : {"short_name": "gemma-3-1b", "paper_name": "gemma-3-1b", "predictor_name": "google/gemma-3-1b-it"},
     "gemma-3-4b" : {"short_name": "gemma-3-4b", "paper_name": "gemma-3-4b", "predictor_name": "google/gemma-3-4b-it"},
-    "gemma-3-4b" : {"short_name": "gemma-3-4b", "paper_name": "gemma-3-4b", "predictor_name": "google/gemma-3-4b-it"},
+    "ZharfaOpen-0309" : {"short_name": "ZharfaOpen-0309", "paper_name": "ZharfaOpen-0309", "predictor_name": "ZharfaTech/ZharfaOpen-0309"},
+    "ALLaM-7B-Instruct-preview" : {"short_name": "ALLaM-7B-Instruct-preview", "paper_name": "ALLaM-7B-Instruct-preview", "predictor_name": "humain-ai/ALLaM-7B-Instruct-preview"}
 }
 
 

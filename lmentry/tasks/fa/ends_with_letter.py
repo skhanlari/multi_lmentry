@@ -1,6 +1,6 @@
 import string
 
-from lmentry.scorers.it.ends_with_letter_scorer import EndsWithLetterScorer
+from lmentry.scorers.fa.ends_with_letter_scorer import EndsWithLetterScorer
 from lmentry.tasks.task import LMentryTask
 
 

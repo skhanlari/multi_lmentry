@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-CSV_PATH = Path("fa_random_500_judge_scores.csv")
-OUT_DIR = Path("judge_plots")
+CSV_PATH = Path("en_random_500_judge_scores.csv")
+OUT_DIR = Path("judge_plots/en")
 OUT_DIR.mkdir(exist_ok=True)
 
 df = pd.read_csv(CSV_PATH)

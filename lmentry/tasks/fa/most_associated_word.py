@@ -2,7 +2,7 @@ import json
 import random
 
 from lmentry.constants import RESOURCES_DIR
-from lmentry.scorers.it.most_associated_word_scorer import MostAssociatedWordScorer
+from lmentry.scorers.fa.most_associated_word_scorer import MostAssociatedWordScorer
 from lmentry.tasks.task import LMentryTask
 
 

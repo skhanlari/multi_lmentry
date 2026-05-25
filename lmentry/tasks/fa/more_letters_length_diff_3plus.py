@@ -3,7 +3,7 @@ import random
 from collections import defaultdict, Counter
 
 from lmentry.constants import RESOURCES_DIR
-from lmentry.scorers.it.more_letters_scorer import MoreLettersScorer
+from lmentry.scorers.fa.more_letters_scorer import MoreLettersScorer
 from lmentry.tasks.task import LMentryTask
 
 

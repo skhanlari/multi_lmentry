@@ -2,7 +2,7 @@ import json
 import random
 
 from lmentry.constants import RESOURCES_DIR
-from lmentry.scorers.it.starts_with_word_scorer import StartsWithWordScorer
+from lmentry.scorers.fa.starts_with_word_scorer import StartsWithWordScorer
 from lmentry.tasks.task import LMentryTask
 
 

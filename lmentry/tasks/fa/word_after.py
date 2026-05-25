@@ -6,7 +6,7 @@ import pandas as pd
 from nltk.corpus import stopwords
 
 from lmentry.constants import RESOURCES_DIR
-from lmentry.scorers.it.word_after_scorer import WordAfterScorer
+from lmentry.scorers.fa.word_after_scorer import WordAfterScorer
 from lmentry.tasks.task import LMentryTask
 
 

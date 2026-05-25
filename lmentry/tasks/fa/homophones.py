@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 
 from lmentry.constants import HOMOPHONES_PATH
-from lmentry.scorers.it.homophone_scorer import HomophoneScorer
+from lmentry.scorers.fa.homophone_scorer import HomophoneScorer
 from lmentry.tasks.task import LMentryTask
 
 

@@ -1,7 +1,7 @@
 import pandas as pd
 
 from lmentry.constants import RESOURCES_DIR
-from lmentry.scorers.it.last_word_scorer import LastWordScorer
+from lmentry.scorers.fa.last_word_scorer import LastWordScorer
 from lmentry.tasks.task import LMentryTask
 
 

@@ -4,7 +4,7 @@ import string
 from collections import defaultdict
 
 from lmentry.constants import LMENTRY_WORDS_PATH
-from lmentry.scorers.it.first_alphabetically_scorer import FirstAlphabeticallyScorer
+from lmentry.scorers.fa.first_alphabetically_scorer import FirstAlphabeticallyScorer
 from lmentry.tasks.task import LMentryTask
 
 

@@ -10,7 +10,7 @@ class AnyWordsFromCategoryScorer(LMentryScorer):
     def get_base_patterns(self, answer):
 
         base_patterns = [
-            rf"^({answer}\b",
+            rf"^{answer}\b",
         ]
 
         return base_patterns + self.get_shared_patterns(target=answer)

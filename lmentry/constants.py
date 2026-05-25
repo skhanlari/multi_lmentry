@@ -54,3 +54,4 @@ def initialize_variables(lang):
     RHYME_GROUPS_PATH = RESOURCES_DIR.joinpath("rhyme_groups.json")
     HOMOPHONES_PATH = RESOURCES_DIR.joinpath("homophones.csv")
     PHONETICALLY_UNAMBIGUOUS_WORDS_PATH = RESOURCES_DIR.joinpath("phonetically_unambiguous_words.json")
+

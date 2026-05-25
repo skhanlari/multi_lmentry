@@ -2,7 +2,7 @@ import json
 import random
 
 from lmentry.constants import LMENTRY_WORDS_PATH
-from lmentry.scorers.it.last_letter_scorer import LastLetterScorer
+from lmentry.scorers.fa.last_letter_scorer import LastLetterScorer
 from lmentry.tasks.task import LMentryTask
 
 

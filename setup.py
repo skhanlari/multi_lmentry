@@ -120,5 +120,5 @@ setuptools.setup(
     ],
     install_requires=install_requirements,
     extras_require=extras,
-    python_requires=">=3.12",
+    python_requires="<=3.12",
 )
