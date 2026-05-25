@@ -1,0 +1,602 @@
+[
+  {
+    "id": "2",
+    "input": "¿Son todas las palabras \"calzoncillo\", \"camiseta\", \"gafas\", \"zapatilla\" y \"jersey\" tipos de ropa? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "17",
+    "input": "¿Son todas las palabras \"romántico\", \"drama\", \"histórico\", \"musical\" y \"terror\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "19",
+    "input": "¿Son todas las palabras \"ratón\", \"caracol\", \"lagarto\", \"babosa\" y \"perro\" tipos de animal? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "25",
+    "input": "¿Son todas las palabras \"clavo\", \"aparato\", \"cordel\", \"llave\" y \"pomo\" tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "29",
+    "input": "¿Son todas las palabras \"que\", \"porque\", \"salvo\", \"si\" y \"ni\" tipos de conjunciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "34",
+    "input": "¿Son todas las palabras \"avalancha\", \"terremoto\", \"incendio\", \"tornado\" y \"huracán\" tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "35",
+    "input": "¿Son todas las palabras \"desierto\", \"playa\", \"selva\", \"campo\" y \"océano\" tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "39",
+    "input": "¿Son todas las palabras \"cuerpo\", \"talón\", \"muñeca\", \"labio\" y \"pie\" tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "50",
+    "input": "¿Son todas las palabras \"fantasía\", \"musical\", \"histórico\", \"suspense\" y \"romántico\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "54",
+    "input": "¿Son todas las palabras \"huracán\", \"tsunami\", \"sequía\", \"tornado\" y \"terremoto\" tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "57",
+    "input": "¿Son todas las palabras \"arrojar\", \"poner\", \"ir\", \"sujetar\" y \"recoger\" tipos de verbos movimiento? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "67",
+    "input": "¿Son todas las palabras \"nieta\", \"bisnieta\", \"hermana\", \"bisnieto\" y \"sobrino\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "77",
+    "input": "¿Son todas las palabras \"cuando\", \"porque\", \"salvo\", \"ni\" y \"excepto\" tipos de conjunciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "86",
+    "input": "¿Son todas las palabras \"según\", \"de\", \"en\", \"durante\" y \"hasta\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "114",
+    "input": "¿Son todas las palabras \"jueves\", \"lunes\", \"martes\", \"sábado\" y \"miércoles\" tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "150",
+    "input": "¿Son todas las palabras \"nación\", \"población\", \"estructura\", \"congreso\" y \"obligación\" tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "151",
+    "input": "¿Son todas las palabras \"lejano\", \"caliente\", \"pesado\", \"amargo\" y \"ligero\" tipos de adjetivos sensoriales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "175",
+    "input": "¿Son todas las palabras \"cordel\", \"pomo\", \"aparato\", \"pantalla\" y \"llave\" tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "178",
+    "input": "¿Son todas las palabras \"tía\", \"nieto\", \"nieta\", \"abuelo\" y \"hija\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "185",
+    "input": "¿Son todas las palabras \"flauta\", \"saxofón\", \"piano\", \"batería\" y \"guitarra\" tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "186",
+    "input": "¿Son todas las palabras \"algo\", \"poco\", \"etcétera\", \"muy\" y \"bastante\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "189",
+    "input": "¿Son todas las palabras \"construcción\", \"habitación\", \"entrada\", \"ascensor\" y \"cama\" tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "190",
+    "input": "¿Son todas las palabras \"espinacas\", \"pepino\", \"pimiento\", \"guisantes\" y \"apio\" tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "199",
+    "input": "¿Son todas las palabras \"poco\", \"justo\", \"tanto\", \"exactamente\" y \"muy\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "¿Son todas las palabras \"reducción\", \"velocidad\", \"fondo\", \"alto\" y \"posición\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "203",
+    "input": "¿Son todas las palabras \"unido\", \"fresco\", \"frío\", \"delicioso\" y \"alejado\" tipos de adjetivos sensoriales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "211",
+    "input": "¿Son todas las palabras \"calzoncillo\", \"falda\", \"sujetador\", \"cierre\" y \"calcetines\" tipos de ropa? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "222",
+    "input": "¿Son todas las palabras \"vivir\", \"aparecer\", \"desaparecer\", \"crecer\" y \"existir\" tipos de verbos existencia? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "230",
+    "input": "¿Son todas las palabras \"martes\", \"lunes\", \"sábado\", \"jueves\" y \"domingo\" tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "242",
+    "input": "¿Son todas las palabras \"comercio\", \"mercado\", \"dinero\", \"producto\" y \"precio\" tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "248",
+    "input": "¿Son todas las palabras \"volver\", \"alcanzar\", \"sujetar\", \"llegar\" y \"mover\" tipos de verbos movimiento? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "265",
+    "input": "¿Son todas las palabras \"total\", \"kilómetro\", \"milímetro\", \"cantidad\" y \"kilo\" tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "283",
+    "input": "¿Son todas las palabras \"tornado\", \"huracán\", \"inundación\", \"sequía\" y \"terremoto\" tipos de catástrofe natural? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "¿Son todas las palabras \"político\", \"ingeniera\", \"fotógrafo\", \"camarero\" y \"electricista\" tipos de profesion? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "291",
+    "input": "¿Son todas las palabras \"pegar\", \"arrojar\", \"quitar\", \"poner\" y \"agarrar\" tipos de verbos movimiento? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "294",
+    "input": "¿Son todas las palabras \"gris\", \"amarillo\", \"morado\", \"color\" y \"marrón\" tipos de color? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "299",
+    "input": "¿Son todas las palabras \"algo\", \"apenas\", \"muy\", \"poco\" y \"nada\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "300",
+    "input": "¿Son todas las palabras \"agosto\", \"junio\", \"julio\", \"abril\" y \"febrero\" tipos de meses del año? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "312",
+    "input": "¿Son todas las palabras \"población\", \"permiso\", \"ciudad\", \"sociedad\" y \"obligación\" tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "317",
+    "input": "¿Son todas las palabras \"autopista\", \"skate\", \"bicicleta\", \"patinete\" y \"vía\" tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "326",
+    "input": "¿Son todas las palabras \"sin\", \"hacia\", \"de\", \"contra\" y \"según\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "331",
+    "input": "¿Son todas las palabras \"pescadería\", \"joyería\", \"bar\", \"comisaría\" y \"charcutería\" tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "335",
+    "input": "¿Son todas las palabras \"batería\", \"guitarra\", \"saxofón\", \"trompeta\" y \"piano\" tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "337",
+    "input": "¿Son todas las palabras \"inicialmente\", \"finalmente\", \"únicamente\", \"siquiera\" y \"regular\" tipos de adverbios de calidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "351",
+    "input": "¿Son todas las palabras \"natación\", \"vela\", \"piragüismo\", \"boxeo\" y \"fútbol\" tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "355",
+    "input": "¿Son todas las palabras \"jugar\", \"decir\", \"analizar\", \"dividir\" y \"decidir\" tipos de verbos actividades? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "356",
+    "input": "¿Son todas las palabras \"montaña\", \"bosque\", \"campo\", \"jungla\" y \"océano\" tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "360",
+    "input": "¿Son todas las palabras \"sustantivo\", \"adjetivo\", \"conjunción\", \"preposición\" y \"determinante\" tipos de categoría gramatical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "365",
+    "input": "¿Son todas las palabras \"poco\", \"menos\", \"todo\", \"apenas\" y \"más\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "¿Son todas las palabras \"ascensor\", \"edificio\", \"construcción\", \"cama\" y \"puerta\" tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "370",
+    "input": "¿Son todas las palabras \"pequeño\", \"amplio\", \"angosto\", \"gran\" y \"delgado\" tipos de adjetivos de forma? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "375",
+    "input": "¿Son todas las palabras \"acaso\", \"quizás\", \"nunca\", \"posiblemente\" y \"difícilmente\" tipos de adverbios de posibilidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "387",
+    "input": "¿Son todas las palabras \"enfado\", \"cosa\", \"susto\", \"ataque\" y \"desarrollo\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "394",
+    "input": "¿Son todas las palabras \"histórico\", \"suspense\", \"romántico\", \"musical\" y \"terror\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "397",
+    "input": "¿Son todas las palabras \"vuestro\", \"tu\", \"nuestro\", \"su\" y \"mi\" tipos de adjetivos posesivos? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "399",
+    "input": "¿Son todas las palabras \"oír\", \"escuchar\", \"ver\", \"oler\" y \"tocar\" tipos de verbos sensaciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "415",
+    "input": "¿Son todas las palabras \"naturaleza\", \"jungla\", \"río\", \"playa\" y \"lago\" tipos de palabra relacionada con la geografía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "418",
+    "input": "¿Son todas las palabras \"tres\", \"cinco\", \"nueve\", \"diez\" y \"dos\" tipos de números? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "419",
+    "input": "¿Son todas las palabras \"sector\", \"tacto\", \"ejemplo\", \"percepción\" y \"proceso\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "425",
+    "input": "¿Son todas las palabras \"actriz\", \"astronauta\", \"juez\", \"arquitecta\" y \"científico\" tipos de profesion? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "427",
+    "input": "¿Son todas las palabras \"organización\", \"comisión\", \"estructura\", \"obligación\" y \"capital\" tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "429",
+    "input": "¿Son todas las palabras \"cualquier\", \"local\", \"parecido\", \"probable\" y \"capaz\" tipos de adjetivos de calidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "437",
+    "input": "¿Son todas las palabras \"baloncesto\", \"bádminton\", \"rugby\", \"boxeo\" y \"béisbol\" tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "451",
+    "input": "¿Son todas las palabras \"fotógrafo\", \"carpintera\", \"médica\", \"ministra\" y \"actriz\" tipos de profesion? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "464",
+    "input": "¿Son todas las palabras \"fantasía\", \"romántico\", \"musical\", \"comedia\" y \"histórico\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "467",
+    "input": "¿Son todas las palabras \"julio\", \"marzo\", \"junio\", \"abril\" y \"diciembre\" tipos de meses del año? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "468",
+    "input": "¿Son todas las palabras \"sin\", \"desde\", \"sobre\", \"hasta\" y \"entre\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "¿Son todas las palabras \"plomo\", \"sal\", \"vapor\", \"agua\" y \"hierro\" tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "484",
+    "input": "¿Son todas las palabras \"hombro\", \"bigote\", \"músculo\", \"pecho\" y \"diente\" tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "494",
+    "input": "¿Son todas las palabras \"sal\", \"gas\", \"aire\", \"agua\" y \"hielo\" tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "497",
+    "input": "¿Son todas las palabras \"reducción\", \"fondo\", \"aumento\", \"altura\" y \"movimiento\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "502",
+    "input": "¿Son todas las palabras \"vivir\", \"crecer\", \"aparecer\", \"existir\" y \"desaparecer\" tipos de verbos existencia? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "507",
+    "input": "¿Son todas las palabras \"verde\", \"celeste\", \"marrón\", \"rosa\" y \"naranja\" tipos de color? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "508",
+    "input": "¿Son todas las palabras \"minoría\", \"largo\", \"crecimiento\", \"reducción\" y \"aceleración\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "509",
+    "input": "¿Son todas las palabras \"recién\", \"mañana\", \"actualmente\", \"próximamente\" y \"aún\" tipos de adverbios temporales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "516",
+    "input": "¿Son todas las palabras \"color\", \"rojo\", \"verde\", \"naranja\" y \"celeste\" tipos de color? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "517",
+    "input": "¿Son todas las palabras \"dentro\", \"enfrente\", \"encima\", \"delante\" y \"allí\" tipos de adverbios de ubicación? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "524",
+    "input": "¿Son todas las palabras \"madre\", \"tía\", \"primo\", \"padre\" y \"abuela\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "528",
+    "input": "¿Son todas las palabras \"sábado\", \"martes\", \"lunes\", \"viernes\" y \"jueves\" tipos de día de la semana? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "529",
+    "input": "¿Son todas las palabras \"quizás\", \"seguramente\", \"tampoco\", \"probablemente\" y \"posiblemente\" tipos de adverbios de posibilidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "539",
+    "input": "¿Son todas las palabras \"crecer\", \"nacer\", \"existir\", \"vivir\" y \"aparecer\" tipos de verbos existencia? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "555",
+    "input": "¿Son todas las palabras \"poder\", \"romper\", \"sustituir\", \"seguir\" y \"complicar\" tipos de verbos actividades? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "561",
+    "input": "¿Son todas las palabras \"duro\", \"fresco\", \"siguiente\", \"caluroso\" y \"salado\" tipos de adjetivos sensoriales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "582",
+    "input": "¿Son todas las palabras \"esposa\", \"padre\", \"nieto\", \"bisabuelo\" y \"hermano\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "586",
+    "input": "¿Son todas las palabras \"recién\", \"todavía\", \"ayer\", \"próximamente\" y \"aún\" tipos de adverbios temporales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "587",
+    "input": "¿Son todas las palabras \"crecimiento\", \"fondo\", \"reducción\", \"longitud\" y \"aumento\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "590",
+    "input": "¿Son todas las palabras \"bar\", \"banco\", \"joyería\", \"oficina\" y \"panadería\" tipos de lugar de trabajo? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "595",
+    "input": "¿Son todas las palabras \"vida\", \"criatura\", \"reproducción\", \"especie\" y \"muerte\" tipos de vida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "597",
+    "input": "¿Son todas las palabras \"barro\", \"fuego\", \"aire\", \"hielo\" y \"gas\" tipos de material? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "607",
+    "input": "¿Son todas las palabras \"puerro\", \"remolacha\", \"apio\", \"cebolla\" y \"repollo\" tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "608",
+    "input": "¿Son todas las palabras \"romántico\", \"musical\", \"terror\", \"drama\" y \"comedia\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "615",
+    "input": "¿Son todas las palabras \"hija\", \"bisabuelo\", \"pareja\", \"sobrina\" y \"esposo\" tipos de relación familiar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "616",
+    "input": "¿Son todas las palabras \"ante\", \"tras\", \"mediante\", \"hacia\" y \"según\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "623",
+    "input": "¿Son todas las palabras \"fondo\", \"dirección\", \"minoría\", \"altura\" y \"velocidad\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "631",
+    "input": "¿Son todas las palabras \"pero\", \"que\", \"como\", \"si\" y \"excepto\" tipos de conjunciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "639",
+    "input": "¿Son todas las palabras \"de\", \"ante\", \"durante\", \"contra\" y \"por\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "661",
+    "input": "¿Son todas las palabras \"noviembre\", \"abril\", \"junio\", \"octubre\" y \"marzo\" tipos de meses del año? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "667",
+    "input": "¿Son todas las palabras \"seguridad\", \"origen\", \"conciencia\", \"acuerdo\" y \"tristeza\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "669",
+    "input": "¿Son todas las palabras \"hombro\", \"espinilla\", \"codo\", \"muñeca\" y \"rodilla\" tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "681",
+    "input": "¿Son todas las palabras \"agitado\", \"contento\", \"cansado\", \"apestoso\" y \"doloroso\" tipos de adjetivos de sentimientos y sensaciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "683",
+    "input": "¿Son todas las palabras \"centímetro\", \"total\", \"gramo\", \"peso\" y \"milímetro\" tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "695",
+    "input": "¿Son todas las palabras \"reproducción\", \"vida\", \"especie\", \"ser\" y \"muerte\" tipos de vida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "703",
+    "input": "¿Son todas las palabras \"serie\", \"paz\", \"éxito\", \"característica\" y \"oído\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "714",
+    "input": "¿Son todas las palabras \"cocinera\", \"biólogo\", \"actriz\", \"actor\" y \"abogada\" tipos de profesion? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "721",
+    "input": "¿Son todas las palabras \"coche\", \"transporte\", \"patines\", \"vehículo\" y \"tráfico\" tipos de palabra relacionada con el transporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "728",
+    "input": "¿Son todas las palabras \"jamás\", \"siempre\", \"probablemente\", \"tampoco\" y \"fácilmente\" tipos de adverbios de posibilidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "732",
+    "input": "¿Son todas las palabras \"mucho\", \"casi\", \"poco\", \"solamente\" y \"etcétera\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "733",
+    "input": "¿Son todas las palabras \"flexible\", \"lejano\", \"anterior\", \"fresco\" y \"caluroso\" tipos de adjetivos sensoriales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "742",
+    "input": "¿Son todas las palabras \"terror\", \"fantasía\", \"suspense\", \"drama\" y \"histórico\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "751",
+    "input": "¿Son todas las palabras \"aguja\", \"pantalla\", \"pomo\", \"arma\" y \"cordel\" tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "761",
+    "input": "¿Son todas las palabras \"más\", \"muy\", \"nada\", \"solamente\" y \"justo\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "764",
+    "input": "¿Son todas las palabras \"agosto\", \"diciembre\", \"mayo\", \"julio\" y \"febrero\" tipos de meses del año? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "766",
+    "input": "¿Son todas las palabras \"sustituir\", \"conocer\", \"necesitar\", \"llevar puesto\" y \"dar\" tipos de verbos actividades? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "771",
+    "input": "¿Son todas las palabras \"medida\", \"mililitro\", \"cantidad\", \"kilómetro\" y \"total\" tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "773",
+    "input": "¿Son todas las palabras \"gato\", \"león\", \"mono\", \"cocodrilo\" y \"caracol\" tipos de animal? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "777",
+    "input": "¿Son todas las palabras \"comedia\", \"drama\", \"terror\", \"suspense\" y \"histórico\" tipos de género de películas? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "789",
+    "input": "¿Son todas las palabras \"angosto\", \"pequeño\", \"delgado\", \"grande\" y \"grueso\" tipos de adjetivos de forma? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "790",
+    "input": "¿Son todas las palabras \"aproximadamente\", \"apenas\", \"demasiado\", \"solamente\" y \"nada\" tipos de adverbios de cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "791",
+    "input": "¿Son todas las palabras \"durante\", \"hacia\", \"de\", \"mediante\" y \"según\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "793",
+    "input": "¿Son todas las palabras \"escalada\", \"senderismo\", \"hockey\", \"fútbol\" y \"gimnasia\" tipos de deporte? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "798",
+    "input": "¿Son todas las palabras \"posiblemente\", \"quizás\", \"probablemente\", \"acaso\" y \"fácilmente\" tipos de adverbios de posibilidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "800",
+    "input": "¿Son todas las palabras \"ventana\", \"casa\", \"escritorio\", \"edificio\" y \"construcción\" tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "808",
+    "input": "¿Son todas las palabras \"llevar puesto\", \"evaluar\", \"tratar\", \"trabajar\" y \"descansar\" tipos de verbos actividades? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "810",
+    "input": "¿Son todas las palabras \"puerta\", \"ascensor\", \"escritorio\", \"entrada\" y \"habitación\" tipos de palabra relacionada con el hogar? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "820",
+    "input": "¿Son todas las palabras \"aceleración\", \"minoría\", \"mayoría\", \"movimiento\" y \"alto\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "824",
+    "input": "¿Son todas las palabras \"aburrirse\", \"consolar\", \"cansarse\", \"odiar\" y \"llorar\" tipos de verbos emociones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "837",
+    "input": "¿Son todas las palabras \"cuerda\", \"cordón\", \"arma\", \"aparato\" y \"cámara\" tipos de herramienta? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "¿Son todas las palabras \"marzo\", \"septiembre\", \"febrero\", \"julio\" y \"abril\" tipos de meses del año? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "849",
+    "input": "¿Son todas las palabras \"llevar\", \"lanzar\", \"sujetar\", \"recoger\" y \"traer\" tipos de verbos movimiento? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "865",
+    "input": "¿Son todas las palabras \"reducción\", \"fondo\", \"crecimiento\", \"aceleración\" y \"lugar\" tipos de palabra relacionada con espacio y cantidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "878",
+    "input": "¿Son todas las palabras \"partido\", \"sociedad\", \"equipo\", \"autoridad\" y \"campaña\" tipos de palabra relacionada con la sociedad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "880",
+    "input": "¿Son todas las palabras \"repollo\", \"coliflor\", \"brócoli\", \"ajo\" y \"pimiento\" tipos de verdura? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "892",
+    "input": "¿Son todas las palabras \"primero\", \"centésimo\", \"último\", \"penúltimo\" y \"quinto\" tipos de adjetivos ordinales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "896",
+    "input": "¿Son todas las palabras \"percibir\", \"ver\", \"escuchar\", \"oír\" y \"oler\" tipos de verbos sensaciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "897",
+    "input": "¿Son todas las palabras \"despertar\", \"escribir\", \"probar\", \"complicar\" y \"abandonar\" tipos de verbos actividades? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "903",
+    "input": "¿Son todas las palabras \"espinilla\", \"barba\", \"pierna\", \"cuerpo\" y \"hueso\" tipos de parte del cuerpo humano? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "910",
+    "input": "¿Son todas las palabras \"desaparecer\", \"nacer\", \"crecer\", \"morir\" y \"aparecer\" tipos de verbos existencia? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "912",
+    "input": "¿Son todas las palabras \"enfadado\", \"doloroso\", \"asustado\", \"solitario\" y \"apestoso\" tipos de adjetivos de sentimientos y sensaciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "921",
+    "input": "¿Son todas las palabras \"gorro\", \"mochila\", \"sujetador\", \"manga\" y \"bufanda\" tipos de ropa? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "923",
+    "input": "¿Son todas las palabras \"peso\", \"kilo\", \"total\", \"kilómetro\" y \"litro\" tipos de medida? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "925",
+    "input": "¿Son todas las palabras \"tercero\", \"penúltimo\", \"millonésimo\", \"segundo\" y \"último\" tipos de adjetivos ordinales? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "929",
+    "input": "¿Son todas las palabras \"grande\", \"amplio\", \"gran\", \"compacto\" y \"delgado\" tipos de adjetivos de forma? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "935",
+    "input": "¿Son todas las palabras \"servicio\", \"tarifa\", \"billete\", \"transacción\" y \"valor\" tipos de palabra relacionada con la economía? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "¿Son todas las palabras \"actitud\", \"nivel\", \"perjuicio\", \"consecuencia\" y \"razón\" tipos de sustantivo abstracto? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "941",
+    "input": "¿Son todas las palabras \"aquí\", \"ahí\", \"allí\", \"encima\" y \"alrededor\" tipos de adverbios de ubicación? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "943",
+    "input": "¿Son todas las palabras \"hacia\", \"según\", \"hasta\", \"tras\" y \"por\" tipos de preposiciones? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "945",
+    "input": "¿Son todas las palabras \"únicamente\", \"adrede\", \"deprisa\", \"siquiera\" y \"peor\" tipos de adverbios de calidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "950",
+    "input": "¿Son todas las palabras \"privado\", \"superior\", \"posible\", \"rural\" y \"artístico\" tipos de adjetivos de calidad? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "960",
+    "input": "¿Son todas las palabras \"flauta\", \"saxofón\", \"guitarra\", \"trompeta\" y \"piano\" tipos de instrumento musical? Responde exclusivamente con \"sí\" o \"no\"."
+  },
+  {
+    "id": "966",
+    "input": "¿Son todas las palabras \"regular\", \"siquiera\", \"asimismo\", \"mal\" y \"inclusive\" tipos de adverbios de calidad? Responde exclusivamente con \"sí\" o \"no\"."
+  }
+]

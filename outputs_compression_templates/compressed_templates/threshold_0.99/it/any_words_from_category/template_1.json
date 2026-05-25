@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "1",
+    "input": "Alcune delle parole \"trasporto\", \"bar\", \"guerra\", \"costa\" e \"associazione\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "10",
+    "input": "Alcune delle parole \"ginocchio\", \"potenza\", \"nave\", \"decelerazione\" e \"bancario\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "100",
+    "input": "Alcune delle parole \"ginocchio\", \"società\", \"granchio\", \"media\" e \"fiume\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1000",
+    "input": "Alcune delle parole \"testa\", \"neonato\", \"grigio\", \"macelleria\" e \"campo\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "101",
+    "input": "Alcune delle parole \"tram\", \"lunedì\", \"stazione\", \"quartiere\" e \"totale\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "102",
+    "input": "Alcune delle parole \"volta\", \"relazione\", \"ingegnere\", \"oro\" e \"martedì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "103",
+    "input": "Alcune delle parole \"oreficeria\", \"neonato\", \"tonno\", \"gruppo\" e \"coscia\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "104",
+    "input": "Alcune delle parole \"cavolfiore\", \"verde\", \"frana\", \"ago\" e \"fune\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "105",
+    "input": "Alcune delle parole \"palmo\", \"sardina\", \"partito\", \"soluzione\" e \"adulto\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "107",
+    "input": "Alcune delle parole \"causa\", \"arancione\", \"zio\", \"albergo\" e \"litro\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "109",
+    "input": "Alcune delle parole \"fallimento\", \"baseball\", \"incendio\", \"impresa\" e \"bietola\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "11",
+    "input": "Alcune delle parole \"collina\", \"guardiano\", \"cittadina\", \"chiodo\" e \"volano\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "110",
+    "input": "Alcune delle parole \"prodotto\", \"decathlon\", \"pisello\", \"articolo\" e \"impresa\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "111",
+    "input": "Alcune delle parole \"fune\", \"architetto\", \"indice\", \"attività\" e \"tassista\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "113",
+    "input": "Alcune delle parole \"terremoto\", \"attenzione\", \"progresso\", \"motorino\" e \"amministrazione\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "114",
+    "input": "Alcune delle parole \"obbligo\", \"pallamano\", \"ragioniere\", \"ravanello\" e \"ingresso\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "116",
+    "input": "Alcune delle parole \"insetto\", \"verbo\", \"domenica\", \"costa\" e \"batteria\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "118",
+    "input": "Alcune delle parole \"interruzione\", \"edificio\", \"volano\", \"cameriere\" e \"arpa\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "119",
+    "input": "Alcune delle parole \"genero\", \"significato\", \"cavolfiore\", \"osso\" e \"relazione\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "120",
+    "input": "Alcune delle parole \"diritti\", \"autobus\", \"hockey\", \"tabaccaio\" e \"rugby\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "123",
+    "input": "Alcune delle parole \"livello\", \"metallo\", \"pugilato\", \"fase\" e \"argento\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "124",
+    "input": "Alcune delle parole \"media\", \"superstrada\", \"cassiere\", \"bagno\" e \"mosca\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "125",
+    "input": "Alcune delle parole \"metallo\", \"condizione\", \"padel\", \"surf\" e \"deputato\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "126",
+    "input": "Alcune delle parole \"ampiezza\", \"operaio\", \"infante\", \"progresso\" e \"golf\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "127",
+    "input": "Alcune delle parole \"violoncello\", \"chiave\", \"copisteria\", \"pittore\" e \"ufficio\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "128",
+    "input": "Alcune delle parole \"formalità\", \"capacità\", \"fotografo\", \"senso\" e \"fiducia\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "129",
+    "input": "Alcune delle parole \"bus\", \"parlamentare\", \"transazione\", \"potenza\" e \"errore\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "13",
+    "input": "Alcune delle parole \"aria\", \"blu\", \"orecchio\", \"autorità\" e \"difficoltà\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "130",
+    "input": "Alcune delle parole \"edificio\", \"bimbo\", \"supermercato\", \"manica\" e \"parlamentare\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "131",
+    "input": "Alcune delle parole \"incendio\", \"finestra\", \"corda\", \"telecamera\" e \"rugby\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "132",
+    "input": "Alcune delle parole \"attività\", \"tennis\", \"erboristeria\", \"attacco\" e \"dito\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "133",
+    "input": "Alcune delle parole \"falegname\", \"monopattino\", \"tassista\", \"specie\" e \"ospedale\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "134",
+    "input": "Alcune delle parole \"fratello\", \"montagna\", \"significato\", \"amministratore\" e \"camicia\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "135",
+    "input": "Alcune delle parole \"edificio\", \"deputato\", \"giardiniere\", \"bancario\" e \"cugina\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "137",
+    "input": "Alcune delle parole \"tatto\", \"forchetta\", \"grado\", \"creazione\" e \"gomito\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "139",
+    "input": "Alcune delle parole \"montagna\", \"sedia\", \"batteria\", \"segreto\" e \"accordo\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "14",
+    "input": "Alcune delle parole \"paesaggio\", \"equitazione\", \"guanti\", \"nuoto\" e \"treno\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "140",
+    "input": "Alcune delle parole \"montagna\", \"sabato\", \"azienda\", \"sicurezza\" e \"cucchiaio\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "141",
+    "input": "Alcune delle parole \"granchio\", \"violetto\", \"partito\", \"carpentiere\" e \"situazione\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "142",
+    "input": "Alcune delle parole \"verbo\", \"avanzamento\", \"codice\", \"fase\" e \"matrimonio\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "143",
+    "input": "Alcune delle parole \"bimba\", \"azienda\", \"violino\", \"biliardo\" e \"porta\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "144",
+    "input": "Alcune delle parole \"drammatico\", \"ministro\", \"meccanico\", \"partito\" e \"biliardo\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "145",
+    "input": "Alcune delle parole \"congiunzione\", \"ciclismo\", \"chitarra\", \"mercoledì\" e \"olfatto\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "146",
+    "input": "Alcune delle parole \"genero\", \"conoscenza\", \"schiena\", \"prezzo\" e \"stivali\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "147",
+    "input": "Alcune delle parole \"valore\", \"pizzeria\", \"indumento\", \"tram\" e \"ginnastica\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "148",
+    "input": "Alcune delle parole \"mais\", \"salumeria\", \"bianco\", \"sorella\" e \"drammatico\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "15",
+    "input": "Alcune delle parole \"vestito\", \"persona\", \"congiunzione\", \"martedì\" e \"pallacanestro\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "150",
+    "input": "Alcune delle parole \"lumaca\", \"sorella\", \"quantità\", \"cane\" e \"guerra\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "152",
+    "input": "Alcune delle parole \"parola\", \"coccodrillo\", \"fotografo\", \"errore\" e \"tariffa\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "153",
+    "input": "Alcune delle parole \"senatrice\", \"amico\", \"mutande\", \"viola\" e \"babbuino\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "154",
+    "input": "Alcune delle parole \"costume\", \"attenzione\", \"avanzamento\", \"musical\" e \"pecora\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "155",
+    "input": "Alcune delle parole \"cavo\", \"verità\", \"calzini\", \"nipote\" e \"aereo\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "156",
+    "input": "Alcune delle parole \"media\", \"gorilla\", \"lingua\", \"pelo\" e \"crisi\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "157",
+    "input": "Alcune delle parole \"zia\", \"qualità\", \"oreficeria\", \"gorilla\" e \"cosa\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "158",
+    "input": "Alcune delle parole \"congresso\", \"politica\", \"scherma\", \"adolescente\" e \"suocera\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "159",
+    "input": "Alcune delle parole \"giovedì\", \"giacca\", \"comunità\", \"immagine\" e \"scrivania\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "16",
+    "input": "Alcune delle parole \"ratto\", \"vite\", \"danno\", \"edificio\" e \"fantascienza\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "160",
+    "input": "Alcune delle parole \"costo\", \"casa\", \"falco\", \"scrivania\" e \"spavento\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "161",
+    "input": "Alcune delle parole \"legge\", \"fuoco\", \"cacciavite\", \"bicicletta\" e \"problema\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "162",
+    "input": "Alcune delle parole \"guanti\", \"nazione\", \"panetteria\", \"parte\" e \"slavina\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "163",
+    "input": "Alcune delle parole \"marrone\", \"caserma\", \"carpentiere\", \"ratto\" e \"ciclismo\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "164",
+    "input": "Alcune delle parole \"tassista\", \"difficoltà\", \"mercoledì\", \"figlia\" e \"bus\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "165",
+    "input": "Alcune delle parole \"cavolo\", \"gas\", \"corso\", \"popolo\" e \"processo\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "167",
+    "input": "Alcune delle parole \"mignolo\", \"clavicembalo\", \"quantità\", \"dente\" e \"bambino\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "168",
+    "input": "Alcune delle parole \"concetto\", \"collina\", \"codice\", \"nero\" e \"pallamano\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "169",
+    "input": "Alcune delle parole \"governatrice\", \"pianura\", \"naso\", \"cetriolo\" e \"pronipote\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "17",
+    "input": "Alcune delle parole \"pianura\", \"aquila\", \"conflitto\", \"congresso\" e \"documentario\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "170",
+    "input": "Alcune delle parole \"quartiere\", \"fuoco\", \"memoria\", \"pecora\" e \"rosa\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "171",
+    "input": "Alcune delle parole \"uccello\", \"gente\", \"scarpe\", \"cane\" e \"produzione\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "172",
+    "input": "Alcune delle parole \"arpa\", \"millimetro\", \"bar\", \"salotto\" e \"quantità\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "173",
+    "input": "Alcune delle parole \"terra\", \"grigio\", \"conseguenza\", \"fatica\" e \"thriller\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "174",
+    "input": "Alcune delle parole \"architetto\", \"lucertola\", \"cavallo\", \"aria\" e \"essere\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "175",
+    "input": "Alcune delle parole \"bagno\", \"sicurezza\", \"orecchio\", \"oro\" e \"interruzione\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "177",
+    "input": "Alcune delle parole \"rana\", \"persona\", \"tariffa\", \"programmatore\" e \"calzolaio\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "179",
+    "input": "Alcune delle parole \"lucertola\", \"caratteristica\", \"infermiere\", \"coniglio\" e \"ciclismo\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "18",
+    "input": "Alcune delle parole \"pescheria\", \"pesce\", \"giovedì\", \"gente\" e \"flauto\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "180",
+    "input": "Alcune delle parole \"lattuga\", \"amministrazione\", \"scarafaggio\", \"clarinetto\" e \"leopardo\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "183",
+    "input": "Alcune delle parole \"cappello\", \"politica\", \"martedì\", \"ferrovia\" e \"guanti\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "184",
+    "input": "Alcune delle parole \"elettricista\", \"farfalla\", \"costo\", \"panettiere\" e \"minoranza\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "185",
+    "input": "Alcune delle parole \"zia\", \"costa\", \"bronzo\", \"dente\" e \"cuore\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "186",
+    "input": "Alcune delle parole \"costo\", \"centimetro\", \"pugilato\", \"avanzamento\" e \"postino\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "187",
+    "input": "Alcune delle parole \"oro\", \"violoncello\", \"camera\", \"leopardo\" e \"difficoltà\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "188",
+    "input": "Alcune delle parole \"tallone\", \"larghezza\", \"corpo\", \"muscolo\" e \"governo\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "189",
+    "input": "Alcune delle parole \"dimensione\", \"karate\", \"differenza\", \"cucina\" e \"bisogno\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "190",
+    "input": "Alcune delle parole \"coscienza\", \"riproduzione\", \"concetto\", \"decelerazione\" e \"thriller\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "192",
+    "input": "Alcune delle parole \"cameriere\", \"azzurro\", \"possibilità\", \"lucertola\" e \"corda\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "193",
+    "input": "Alcune delle parole \"scarafaggio\", \"caffetteria\", \"fatica\", \"morte\" e \"aria\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "194",
+    "input": "Alcune delle parole \"drammatico\", \"copisteria\", \"politica\", \"hotel\" e \"esempio\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "195",
+    "input": "Alcune delle parole \"governo\", \"amore\", \"guerra\", \"sequenza\" e \"carciofo\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "196",
+    "input": "Alcune delle parole \"polipo\", \"millilitro\", \"barbabietola\", \"cerniera\" e \"palude\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "197",
+    "input": "Alcune delle parole \"società\", \"valle\", \"fatica\", \"media\" e \"individuo\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "198",
+    "input": "Alcune delle parole \"economia\", \"soluzione\", \"vista\", \"tema\" e \"canale\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "199",
+    "input": "Alcune delle parole \"occhio\", \"mignolo\", \"aeroporto\", \"blu\" e \"rana\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "2",
+    "input": "Alcune delle parole \"tuta\", \"progetto\", \"regione\", \"dipendente\" e \"spalla\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "20",
+    "input": "Alcune delle parole \"aragosta\", \"metallo\", \"imprenditore\", \"percezione\" e \"nome\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "200",
+    "input": "Alcune delle parole \"testa\", \"scale\", \"carciofo\", \"coccodrillo\" e \"giornalista\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "201",
+    "input": "Alcune delle parole \"tavolo\", \"maestro\", \"taxi\", \"batteria\" e \"supermercato\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "202",
+    "input": "Alcune delle parole \"mano\", \"oro\", \"caffetteria\", \"cuoco\" e \"sviluppo\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "203",
+    "input": "Alcune delle parole \"tallone\", \"senatrice\", \"cassiere\", \"scale\" e \"lacci\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "204",
+    "input": "Alcune delle parole \"sicurezza\", \"volano\", \"ruscello\", \"sardina\" e \"bisogno\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "205",
+    "input": "Alcune delle parole \"coltello\", \"barbiere\", \"gas\", \"situazione\" e \"riduzione\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "206",
+    "input": "Alcune delle parole \"judo\", \"bisnonna\", \"tallone\", \"transazione\" e \"veicolo\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "207",
+    "input": "Alcune delle parole \"pelo\", \"fantascienza\", \"leopardo\", \"beneficio\" e \"insetto\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "208",
+    "input": "Alcune delle parole \"leopardo\", \"caratteristica\", \"commercio\", \"ragione\" e \"foresta\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "209",
+    "input": "Alcune delle parole \"madre\", \"insegnante\", \"hotel\", \"maiale\" e \"verde\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "210",
+    "input": "Alcune delle parole \"tennis\", \"provincia\", \"genitore\", \"montagna\" e \"bieta\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "211",
+    "input": "Alcune delle parole \"domenica\", \"fatturazione\", \"maremoto\", \"celeste\" e \"negozio\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "212",
+    "input": "Alcune delle parole \"azienda\", \"atletica\", \"rotta\", \"guanti\" e \"transito\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "213",
+    "input": "Alcune delle parole \"figlio\", \"signora\", \"costituzione\", \"cervo\" e \"scarpata\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "214",
+    "input": "Alcune delle parole \"soluzione\", \"fatturazione\", \"prezzo\", \"dentista\" e \"taxi\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "215",
+    "input": "Alcune delle parole \"dente\", \"giubbotto\", \"genero\", \"calzolaio\" e \"viola\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "216",
+    "input": "Alcune delle parole \"architetto\", \"grillo\", \"venerdì\", \"palude\" e \"serie\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "217",
+    "input": "Alcune delle parole \"congiunzione\", \"pallacanestro\", \"dottore\", \"obiettivo\" e \"felicità\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "218",
+    "input": "Alcune delle parole \"equitazione\", \"motocicletta\", \"preposizione\", \"scale\" e \"sabato\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "22",
+    "input": "Alcune delle parole \"presente\", \"autista\", \"bugia\", \"futuro\" e \"incremento\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "220",
+    "input": "Alcune delle parole \"tipo\", \"arancione\", \"genitore\", \"totale\" e \"barbiere\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "221",
+    "input": "Alcune delle parole \"broccoli\", \"tristezza\", \"slavina\", \"ufficio\" e \"umano\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "222",
+    "input": "Alcune delle parole \"autobus\", \"organizzazione\", \"felicità\", \"difesa\" e \"bambino\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "224",
+    "input": "Alcune delle parole \"regione\", \"umanità\", \"broccoli\", \"riproduzione\" e \"personalità\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "225",
+    "input": "Alcune delle parole \"quartiere\", \"calze\", \"peso\", \"concetto\" e \"giovedì\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "226",
+    "input": "Alcune delle parole \"petto\", \"sardina\", \"gonna\", \"incontro\" e \"lunedì\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "227",
+    "input": "Alcune delle parole \"cucchiaino\", \"carabiniere\", \"sedia\", \"stomaco\" e \"bancario\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "228",
+    "input": "Alcune delle parole \"società\", \"medico\", \"senso\", \"pugilato\" e \"essere\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "229",
+    "input": "Alcune delle parole \"farfalla\", \"mutande\", \"gorilla\", \"coppia\" e \"lombrico\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "23",
+    "input": "Alcune delle parole \"fava\", \"ferro\", \"paese\", \"pianura\" e \"cacciavite\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "231",
+    "input": "Alcune delle parole \"bugia\", \"nonna\", \"costume\", \"interesse\" e \"verde\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "232",
+    "input": "Alcune delle parole \"parola\", \"maremoto\", \"litro\", \"caratteristica\" e \"tromba\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "233",
+    "input": "Alcune delle parole \"scuola\", \"giornalista\", \"cervello\", \"martello\" e \"aquila\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "234",
+    "input": "Alcune delle parole \"cucchiaio\", \"successo\", \"pisello\", \"stato\" e \"fiume\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "235",
+    "input": "Alcune delle parole \"thriller\", \"intenzione\", \"nuoto\", \"ristorante\" e \"caratteristica\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "236",
+    "input": "Alcune delle parole \"esempio\", \"attacco\", \"commissariato\", \"bisnonna\" e \"beneficio\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "237",
+    "input": "Alcune delle parole \"pallamano\", \"nuoto\", \"lembo\", \"coppia\" e \"esperienza\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "238",
+    "input": "Alcune delle parole \"stivali\", \"aggettivo\", \"infante\", \"vite\" e \"guerra\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "24",
+    "input": "Alcune delle parole \"rosso\", \"violino\", \"orrore\", \"prezzo\" e \"fango\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "240",
+    "input": "Alcune delle parole \"chilometro\", \"uomo\", \"cervello\", \"osso\" e \"memoria\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "241",
+    "input": "Alcune delle parole \"superstrada\", \"pattinaggio\", \"retrocessione\", \"violoncello\" e \"amministratore\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "242",
+    "input": "Alcune delle parole \"mucca\", \"cucina\", \"cittadina\", \"frana\" e \"conflitto\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "243",
+    "input": "Alcune delle parole \"domanda\", \"olfatto\", \"scuola\", \"fratello\" e \"porta\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "244",
+    "input": "Alcune delle parole \"cuoco\", \"escursionismo\", \"adulto\", \"cerniera\" e \"fiducia\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "245",
+    "input": "Alcune delle parole \"avverbio\", \"drammatico\", \"baffi\", \"sabato\" e \"zaino\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "247",
+    "input": "Alcune delle parole \"destinazione\", \"braccio\", \"economia\", \"tassista\" e \"taxi\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "249",
+    "input": "Alcune delle parole \"nipote\", \"difficoltà\", \"tristezza\", \"settore\" e \"chitarra\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "251",
+    "input": "Alcune delle parole \"famiglia\", \"macelleria\", \"blu\", \"successo\" e \"condizione\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "253",
+    "input": "Alcune delle parole \"nonna\", \"biliardo\", \"caviglia\", \"commissariato\" e \"sviluppo\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "254",
+    "input": "Alcune delle parole \"karate\", \"maglietta\", \"settore\", \"servizio\" e \"bicicletta\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "257",
+    "input": "Alcune delle parole \"zucca\", \"ragioniere\", \"serpente\", \"legge\" e \"ascensore\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "258",
+    "input": "Alcune delle parole \"costa\", \"dottoressa\", \"orrore\", \"vapore\" e \"babbuino\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "259",
+    "input": "Alcune delle parole \"barbiere\", \"transazione\", \"bottone\", \"luogo\" e \"formalità\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "26",
+    "input": "Alcune delle parole \"tuta\", \"presente\", \"capitale\", \"aggettivo\" e \"taxi\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "262",
+    "input": "Alcune delle parole \"costituzione\", \"nazione\", \"individuo\", \"zaino\" e \"cameriere\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "263",
+    "input": "Alcune delle parole \"zia\", \"costa\", \"automobile\", \"dente\" e \"nuoto\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "264",
+    "input": "Alcune delle parole \"sequenza\", \"leone\", \"falegname\", \"ospedale\" e \"politica\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "265",
+    "input": "Alcune delle parole \"totale\", \"cacciavite\", \"granchio\", \"corvo\" e \"realtà\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "266",
+    "input": "Alcune delle parole \"elefante\", \"terremoto\", \"flauto\", \"paura\" e \"appartamento\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "267",
+    "input": "Alcune delle parole \"finestra\", \"obbligo\", \"donna\", \"causa\" e \"scrivania\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "268",
+    "input": "Alcune delle parole \"soluzione\", \"bocca\", \"carpentiere\", \"fallimento\" e \"individuo\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "269",
+    "input": "Alcune delle parole \"cuore\", \"pantoloni\", \"ferro\", \"canottaggio\" e \"ingresso\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "271",
+    "input": "Alcune delle parole \"scarpata\", \"domenica\", \"ascensore\", \"senatrice\" e \"stomaco\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "272",
+    "input": "Alcune delle parole \"tragedia\", \"bimba\", \"ciclismo\", \"amico\" e \"verde\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "274",
+    "input": "Alcune delle parole \"traffico\", \"fune\", \"scarafaggio\", \"bocca\" e \"rotaia\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "275",
+    "input": "Alcune delle parole \"presenza\", \"casa\", \"serpente\", \"occhio\" e \"elettricista\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "276",
+    "input": "Alcune delle parole \"cerniera\", \"tabaccaio\", \"fiume\", \"cavolfiore\" e \"naso\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "277",
+    "input": "Alcune delle parole \"pugilato\", \"servizio\", \"coccodrillo\", \"ragioniere\" e \"tsunami\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "278",
+    "input": "Alcune delle parole \"ingresso\", \"incendio\", \"attacco\", \"schiena\" e \"pesce\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "28",
+    "input": "Alcune delle parole \"incontro\", \"golf\", \"surf\", \"uragano\" e \"caviglia\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "280",
+    "input": "Alcune delle parole \"realtà\", \"medico\", \"spiaggia\", \"scarabeo\" e \"tromba\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "281",
+    "input": "Alcune delle parole \"forza\", \"barbabietola\", \"dipartimento\", \"essere\" e \"biliardo\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "282",
+    "input": "Alcune delle parole \"noir\", \"realtà\", \"ragione\", \"gamba\" e \"dottoressa\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "283",
+    "input": "Alcune delle parole \"scrivania\", \"surf\", \"cavolo\", \"centimetro\" e \"falegname\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "284",
+    "input": "Alcune delle parole \"falco\", \"direzione\", \"governatrice\", \"mutande\" e \"chilometro\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "285",
+    "input": "Alcune delle parole \"labbro\", \"biblioteca\", \"aeroporto\", \"rotaia\" e \"acqua\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "286",
+    "input": "Alcune delle parole \"paese\", \"difesa\", \"coscienza\", \"piede\" e \"giovedì\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "288",
+    "input": "Alcune delle parole \"rosso\", \"esempio\", \"falegname\", \"bottone\" e \"piede\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "289",
+    "input": "Alcune delle parole \"tornado\", \"marrone\", \"figlio\", \"palude\" e \"caratteristica\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "29",
+    "input": "Alcune delle parole \"blu\", \"fatturazione\", \"individuo\", \"specie\" e \"martedì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "290",
+    "input": "Alcune delle parole \"pentathlon\", \"presenza\", \"caffetteria\", \"interruzione\" e \"cameriere\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "291",
+    "input": "Alcune delle parole \"grigio\", \"fango\", \"treno\", \"sorpresa\" e \"tema\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "293",
+    "input": "Alcune delle parole \"miglioramento\", \"canottaggio\", \"blu\", \"gas\" e \"noia\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "294",
+    "input": "Alcune delle parole \"domanda\", \"autobus\", \"oreficeria\", \"barbiere\" e \"governo\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "296",
+    "input": "Alcune delle parole \"gas\", \"domenica\", \"canale\", \"ragione\" e \"pianoforte\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "297",
+    "input": "Alcune delle parole \"pronipote\", \"tristezza\", \"altezza\", \"popolazione\" e \"obbligo\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "298",
+    "input": "Alcune delle parole \"bugia\", \"medico\", \"essere\", \"livello\" e \"binario\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "299",
+    "input": "Alcune delle parole \"nonno\", \"fiume\", \"tariffa\", \"albergo\" e \"calze\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "3",
+    "input": "Alcune delle parole \"economia\", \"fotografo\", \"tassista\", \"condizione\" e \"caserma\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "301",
+    "input": "Alcune delle parole \"panettiere\", \"industria\", \"decremento\", \"thriller\" e \"canale\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "303",
+    "input": "Alcune delle parole \"volano\", \"scuola\", \"pesce\", \"pancia\" e \"codice\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "304",
+    "input": "Alcune delle parole \"organizzazione\", \"attacco\", \"slip\", \"ginocchio\" e \"progresso\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "305",
+    "input": "Alcune delle parole \"patate\", \"casa\", \"litro\", \"senso\" e \"coniuge\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "306",
+    "input": "Alcune delle parole \"chilo\", \"panettiere\", \"giardiniere\", \"paese\" e \"asparago\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "308",
+    "input": "Alcune delle parole \"incontro\", \"paesaggio\", \"scarafaggio\", \"qualità\" e \"osso\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "31",
+    "input": "Alcune delle parole \"zucca\", \"grigio\", \"programma\", \"sorella\" e \"muratore\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "310",
+    "input": "Alcune delle parole \"asparago\", \"ascensore\", \"thriller\", \"città\" e \"centimetro\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "311",
+    "input": "Alcune delle parole \"arpa\", \"gente\", \"muratore\", \"sedano\" e \"tragedia\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "312",
+    "input": "Alcune delle parole \"cricket\", \"falco\", \"risultato\", \"maglietta\" e \"sorella\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "313",
+    "input": "Alcune delle parole \"operaio\", \"attesa\", \"carciofo\", \"presenza\" e \"incremento\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "314",
+    "input": "Alcune delle parole \"porta\", \"zanzara\", \"cervo\", \"carpentiere\" e \"livello\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "315",
+    "input": "Alcune delle parole \"noir\", \"giacca\", \"cavolo\", \"zanzara\" e \"livello\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "318",
+    "input": "Alcune delle parole \"minoranza\", \"società\", \"peperone\", \"tragedia\" e \"settore\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "32",
+    "input": "Alcune delle parole \"condizione\", \"filo\", \"scarabeo\", \"giovedì\" e \"viale\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "321",
+    "input": "Alcune delle parole \"lucertola\", \"progresso\", \"tatto\", \"scienziato\" e \"fango\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "322",
+    "input": "Alcune delle parole \"pescheria\", \"media\", \"escursionismo\", \"servizio\" e \"negozio\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "323",
+    "input": "Alcune delle parole \"campo\", \"violetto\", \"carota\", \"barbabietola\" e \"cavolo\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "325",
+    "input": "Alcune delle parole \"corpo\", \"traffico\", \"errore\", \"olfatto\" e \"autobus\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "327",
+    "input": "Alcune delle parole \"lago\", \"traffico\", \"chitarra\", \"udito\" e \"dito\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "328",
+    "input": "Alcune delle parole \"dipendente\", \"lembo\", \"compagnia\", \"forza\" e \"sedano\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "329",
+    "input": "Alcune delle parole \"arancione\", \"esistenza\", \"tassista\", \"nero\" e \"barbabietola\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "330",
+    "input": "Alcune delle parole \"avanzamento\", \"porro\", \"bus\", \"paese\" e \"sindaco\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "331",
+    "input": "Alcune delle parole \"venerdì\", \"associazione\", \"operaio\", \"giardiniere\" e \"danno\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "332",
+    "input": "Alcune delle parole \"conseguenza\", \"elettricista\", \"mignolo\", \"direzione\" e \"caviglia\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "333",
+    "input": "Alcune delle parole \"pescheria\", \"ministro\", \"nome\", \"bancario\" e \"neonato\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "334",
+    "input": "Alcune delle parole \"sensazione\", \"esito\", \"rotta\", \"minoranza\" e \"coppia\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "335",
+    "input": "Alcune delle parole \"gatto\", \"cacciavite\", \"cervo\", \"polipo\" e \"bietola\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "336",
+    "input": "Alcune delle parole \"tigre\", \"binario\", \"decathlon\", \"chilo\" e \"sposo\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "337",
+    "input": "Alcune delle parole \"mercato\", \"olfatto\", \"gonna\", \"coppia\" e \"autobus\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "338",
+    "input": "Alcune delle parole \"barbabietola\", \"scarabeo\", \"tigre\", \"hockey\" e \"panettiere\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "339",
+    "input": "Alcune delle parole \"barba\", \"denaro\", \"tennis\", \"valore\" e \"conflitto\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "34",
+    "input": "Alcune delle parole \"argento\", \"valore\", \"baseball\", \"lattuga\" e \"sicurezza\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "340",
+    "input": "Alcune delle parole \"erboristeria\", \"meta\", \"riunione\", \"nuoto\" e \"coltello\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "341",
+    "input": "Alcune delle parole \"occhiali\", \"corsia\", \"metallo\", \"salumeria\" e \"morte\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "342",
+    "input": "Alcune delle parole \"obiettivo\", \"organizzazione\", \"fango\", \"asparago\" e \"calamaro\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "343",
+    "input": "Alcune delle parole \"labbro\", \"violetto\", \"tennis\", \"judo\" e \"carpentiere\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "344",
+    "input": "Alcune delle parole \"cricket\", \"calzolaio\", \"coniglio\", \"ruscello\" e \"finestra\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "345",
+    "input": "Alcune delle parole \"cuoco\", \"memoria\", \"tabaccaio\", \"nonna\" e \"caso\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "346",
+    "input": "Alcune delle parole \"commedia\", \"ingegnere\", \"conseguenza\", \"ciclismo\" e \"panetteria\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "347",
+    "input": "Alcune delle parole \"ragione\", \"ascensore\", \"autostrada\", \"caso\" e \"lunghezza\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "348",
+    "input": "Alcune delle parole \"pittore\", \"attenzione\", \"dittatura\", \"cavallo\" e \"domanda\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "349",
+    "input": "Alcune delle parole \"amministratore\", \"autista\", \"sorella\", \"baffi\" e \"violoncello\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "35",
+    "input": "Alcune delle parole \"divano\", \"costo\", \"pace\", \"bicicletta\" e \"ministro\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "350",
+    "input": "Alcune delle parole \"vista\", \"preposizione\", \"potenza\", \"terra\" e \"donna\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "351",
+    "input": "Alcune delle parole \"mercoledì\", \"olfatto\", \"bietola\", \"quantità\" e \"concetto\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "352",
+    "input": "Alcune delle parole \"siccità\", \"zanzara\", \"aggettivo\", \"calzini\" e \"cane\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "353",
+    "input": "Alcune delle parole \"nome\", \"cipolla\", \"programmatore\", \"escursionismo\" e \"netturbino\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "354",
+    "input": "Alcune delle parole \"passato\", \"macellaio\", \"risultato\", \"viale\" e \"mercoledì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "355",
+    "input": "Alcune delle parole \"caso\", \"vite\", \"azienda\", \"autorità\" e \"spalla\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "357",
+    "input": "Alcune delle parole \"nuora\", \"sciarpa\", \"cervo\", \"clavicembalo\" e \"regione\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "358",
+    "input": "Alcune delle parole \"astronauta\", \"chilometro\", \"farfalla\", \"mano\" e \"quartiere\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "359",
+    "input": "Alcune delle parole \"millimetro\", \"reggiseno\", \"fine\", \"suocero\" e \"frana\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "36",
+    "input": "Alcune delle parole \"rabbia\", \"guanti\", \"deserto\", \"stato\" e \"movimento\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "360",
+    "input": "Alcune delle parole \"sciarpa\", \"dottore\", \"gas\", \"padel\" e \"litro\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "361",
+    "input": "Alcune delle parole \"cipolla\", \"supermercato\", \"monopattino\", \"olfatto\" e \"ginnastica\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "362",
+    "input": "Alcune delle parole \"dottore\", \"cassiere\", \"pugilato\", \"telecamera\" e \"mercato\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "363",
+    "input": "Alcune delle parole \"giacca\", \"fotografo\", \"larghezza\", \"cipolla\" e \"bieta\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "364",
+    "input": "Alcune delle parole \"treno\", \"empatia\", \"tassista\", \"aumento\" e \"sorpresa\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "366",
+    "input": "Alcune delle parole \"soluzione\", \"autobus\", \"collina\", \"pensiero\" e \"ufficio\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "367",
+    "input": "Alcune delle parole \"barbabietola\", \"serie\", \"bambino\", \"cappello\" e \"dottoressa\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "368",
+    "input": "Alcune delle parole \"traffico\", \"riduzione\", \"scienziato\", \"società\" e \"nonna\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "369",
+    "input": "Alcune delle parole \"millilitro\", \"acqua\", \"guardiano\", \"cameriere\" e \"gomito\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "370",
+    "input": "Alcune delle parole \"vela\", \"stazione\", \"direttore\", \"autostrada\" e \"caso\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "372",
+    "input": "Alcune delle parole \"pallamano\", \"scale\", \"sicurezza\", \"scoiattolo\" e \"attività\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "375",
+    "input": "Alcune delle parole \"pescheria\", \"famiglia\", \"sedia\", \"fava\" e \"valanga\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "376",
+    "input": "Alcune delle parole \"imprenditore\", \"schiena\", \"natura\", \"autorità\" e \"casa\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "378",
+    "input": "Alcune delle parole \"fatica\", \"popolazione\", \"rabbia\", \"adulta\" e \"astronauta\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "379",
+    "input": "Alcune delle parole \"panetteria\", \"scale\", \"strada\", \"martello\" e \"grammo\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "382",
+    "input": "Alcune delle parole \"tennis\", \"grammo\", \"conseguenza\", \"effetto\" e \"atto\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "383",
+    "input": "Alcune delle parole \"tromba\", \"valle\", \"bugia\", \"nuoto\" e \"paese\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "384",
+    "input": "Alcune delle parole \"nazione\", \"stinco\", \"cipolla\", \"diritti\" e \"thriller\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "386",
+    "input": "Alcune delle parole \"servizio\", \"esperienza\", \"terremoto\", \"traffico\" e \"bancario\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "387",
+    "input": "Alcune delle parole \"collina\", \"stanza\", \"tariffa\", \"scienziato\" e \"karate\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "388",
+    "input": "Alcune delle parole \"prodotto\", \"esperienza\", \"pronipote\", \"amica\" e \"asparago\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "389",
+    "input": "Alcune delle parole \"bimba\", \"scarpata\", \"inondazione\", \"adulta\" e \"orecchio\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "39",
+    "input": "Alcune delle parole \"personalità\", \"soluzione\", \"articolo\", \"cetriolo\" e \"giungla\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "390",
+    "input": "Alcune delle parole \"valanga\", \"astronauta\", \"essere\", \"esito\" e \"cricket\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "392",
+    "input": "Alcune delle parole \"fratello\", \"grado\", \"corda\", \"coscia\" e \"decremento\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "393",
+    "input": "Alcune delle parole \"scale\", \"costume\", \"avvocato\", \"fantascienza\" e \"nipote\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "396",
+    "input": "Alcune delle parole \"beneficio\", \"chiocciola\", \"azzurro\", \"ragione\" e \"azienda\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "397",
+    "input": "Alcune delle parole \"popolo\", \"gallina\", \"progresso\", \"ago\" e \"rosa\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "4",
+    "input": "Alcune delle parole \"verde\", \"biblioteca\", \"essere\", \"scoiattolo\" e \"maiale\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "40",
+    "input": "Alcune delle parole \"lembo\", \"cittadina\", \"tassista\", \"insetto\" e \"camera\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "400",
+    "input": "Alcune delle parole \"libreria\", \"pronome\", \"monte\", \"presenza\" e \"attacco\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "402",
+    "input": "Alcune delle parole \"preposizione\", \"fiume\", \"passato\", \"fuoco\" e \"corda\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "403",
+    "input": "Alcune delle parole \"drammatico\", \"conclusione\", \"campo\", \"fava\" e \"bicicletta\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "406",
+    "input": "Alcune delle parole \"natura\", \"thriller\", \"tariffa\", \"nave\" e \"transazione\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "407",
+    "input": "Alcune delle parole \"esistenza\", \"scienziato\", \"successo\", \"popolo\" e \"pattinaggio\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "408",
+    "input": "Alcune delle parole \"dottore\", \"gorilla\", \"triathlon\", \"conoscenza\" e \"muscolo\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "409",
+    "input": "Alcune delle parole \"finestra\", \"maglietta\", \"poliziotto\", \"interruzione\" e \"fiume\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "41",
+    "input": "Alcune delle parole \"rana\", \"piacere\", \"erboristeria\", \"formalità\" e \"stanza\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "410",
+    "input": "Alcune delle parole \"stinco\", \"decathlon\", \"meccanico\", \"aria\" e \"pronome\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "411",
+    "input": "Alcune delle parole \"oreficeria\", \"trasporto\", \"bambina\", \"serpente\" e \"orecchio\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "412",
+    "input": "Alcune delle parole \"insegnante\", \"paura\", \"dipendente\", \"prodotto\" e \"binario\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "413",
+    "input": "Alcune delle parole \"riunione\", \"rugby\", \"sorella\", \"spavento\" e \"imprenditore\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "414",
+    "input": "Alcune delle parole \"settore\", \"escursionismo\", \"libreria\", \"conflitto\" e \"dimensione\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "415",
+    "input": "Alcune delle parole \"atletica\", \"uomo\", \"melanzana\", \"verbo\" e \"paesaggio\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "418",
+    "input": "Alcune delle parole \"telecamera\", \"esito\", \"giungla\", \"parrucchiere\" e \"documentario\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "419",
+    "input": "Alcune delle parole \"millilitro\", \"imprenditore\", \"ricordo\", \"governo\" e \"cittadina\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "42",
+    "input": "Alcune delle parole \"sassofono\", \"capelli\", \"azienda\", \"tigre\" e \"carota\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "420",
+    "input": "Alcune delle parole \"elefante\", \"distruzione\", \"specie\", \"programma\" e \"funzione\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "421",
+    "input": "Alcune delle parole \"parlamentare\", \"successo\", \"sindaco\", \"transazione\" e \"ingegnere\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "422",
+    "input": "Alcune delle parole \"negozio\", \"amica\", \"donna\", \"vapore\" e \"coniglio\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "423",
+    "input": "Alcune delle parole \"fatica\", \"fattura\", \"amica\", \"strada\" e \"viale\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "424",
+    "input": "Alcune delle parole \"supermercato\", \"ago\", \"arrampicata\", \"lembo\" e \"caffetteria\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "425",
+    "input": "Alcune delle parole \"pronome\", \"crisi\", \"addome\", \"guardiano\" e \"bocca\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "426",
+    "input": "Alcune delle parole \"leone\", \"amministrazione\", \"fuoco\", \"camicia\" e \"zia\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "428",
+    "input": "Alcune delle parole \"effetto\", \"incontro\", \"velocità\", \"pace\" e \"larghezza\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "429",
+    "input": "Alcune delle parole \"idraulico\", \"scarpe\", \"senatrice\", \"millimetro\" e \"preposizione\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "430",
+    "input": "Alcune delle parole \"violoncello\", \"tavolo\", \"anca\", \"pensiero\" e \"camicia\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "431",
+    "input": "Alcune delle parole \"prodotto\", \"falco\", \"sensazione\", \"autorità\" e \"politico\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "433",
+    "input": "Alcune delle parole \"pronipote\", \"ravanello\", \"pisello\", \"obiettivo\" e \"blu\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "434",
+    "input": "Alcune delle parole \"interruzione\", \"settore\", \"empatia\", \"nazione\" e \"scale\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "435",
+    "input": "Alcune delle parole \"politica\", \"blu\", \"netturbino\", \"fase\" e \"muscolo\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "436",
+    "input": "Alcune delle parole \"rotta\", \"oceano\", \"lingua\", \"denaro\" e \"popolo\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "437",
+    "input": "Alcune delle parole \"fatica\", \"indice\", \"autista\", \"biliardo\" e \"taxi\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "438",
+    "input": "Alcune delle parole \"sostantivo\", \"noia\", \"manopola\", \"adulta\" e \"piede\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "439",
+    "input": "Alcune delle parole \"ginnastica\", \"panettiere\", \"attenzione\", \"gomito\" e \"dente\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "441",
+    "input": "Alcune delle parole \"inondazione\", \"forza\", \"clarinetto\", \"prezzo\" e \"ratto\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "442",
+    "input": "Alcune delle parole \"traffico\", \"verbo\", \"macelleria\", \"esito\" e \"aquila\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "443",
+    "input": "Alcune delle parole \"essere\", \"aragosta\", \"dipendente\", \"attore\" e \"zaino\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "444",
+    "input": "Alcune delle parole \"felicità\", \"commissione\", \"pace\", \"tavolo\" e \"capacità\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "445",
+    "input": "Alcune delle parole \"segreto\", \"sciarpa\", \"società\", \"uccello\" e \"venerdì\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "446",
+    "input": "Alcune delle parole \"olfatto\", \"chilometro\", \"ragione\", \"sorpresa\" e \"aeroporto\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "447",
+    "input": "Alcune delle parole \"cerniera\", \"vapore\", \"forza\", \"scuola\" e \"regole\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "448",
+    "input": "Alcune delle parole \"altitudine\", \"interesse\", \"scherma\", \"relazione\" e \"nero\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "449",
+    "input": "Alcune delle parole \"leone\", \"adolescente\", \"tatto\", \"cavo\" e \"terremoto\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "450",
+    "input": "Alcune delle parole \"elettricista\", \"riduzione\", \"pianoforte\", \"cugino\" e \"nonno\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "451",
+    "input": "Alcune delle parole \"ascensore\", \"naso\", \"calzolaio\", \"verbo\" e \"pianura\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "452",
+    "input": "Alcune delle parole \"quantità\", \"fiducia\", \"canale\", \"personalità\" e \"calcio\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "453",
+    "input": "Alcune delle parole \"articolo\", \"nazione\", \"corvo\", \"giudice\" e \"coscienza\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "454",
+    "input": "Alcune delle parole \"vite\", \"nonno\", \"popolazione\", \"asparago\" e \"fuoco\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "455",
+    "input": "Alcune delle parole \"patate\", \"cacciavite\", \"infante\", \"bicicletta\" e \"difficoltà\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "456",
+    "input": "Alcune delle parole \"individuo\", \"tristezza\", \"origine\", \"scacchi\" e \"amore\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "457",
+    "input": "Alcune delle parole \"laguna\", \"similitudine\", \"terra\", \"felicità\" e \"fune\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "458",
+    "input": "Alcune delle parole \"camera\", \"insegnamento\", \"idraulico\", \"nuoto\" e \"sposo\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "459",
+    "input": "Alcune delle parole \"legge\", \"tavolo\", \"genitore\", \"chitarra\" e \"siccità\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "46",
+    "input": "Alcune delle parole \"fatturazione\", \"clavicembalo\", \"appartamento\", \"infermiere\" e \"collo\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "460",
+    "input": "Alcune delle parole \"maglioncino\", \"guanti\", \"venerdì\", \"surf\" e \"empatia\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "461",
+    "input": "Alcune delle parole \"sorella\", \"giacca\", \"bieta\", \"lucertola\" e \"vela\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "463",
+    "input": "Alcune delle parole \"osso\", \"sciarpa\", \"ravanello\", \"risultato\" e \"parlamentare\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "464",
+    "input": "Alcune delle parole \"creazione\", \"scale\", \"montagna\", \"salotto\" e \"sabato\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "465",
+    "input": "Alcune delle parole \"causa\", \"conoscenza\", \"rotta\", \"insegnante\" e \"mignolo\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "466",
+    "input": "Alcune delle parole \"nave\", \"tallone\", \"popolo\", \"famiglia\" e \"rabbia\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "467",
+    "input": "Alcune delle parole \"bambino\", \"filo\", \"volta\", \"aragosta\" e \"scale\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "469",
+    "input": "Alcune delle parole \"clavicembalo\", \"cerniera\", \"filo\", \"impresa\" e \"governo\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "47",
+    "input": "Alcune delle parole \"cetriolo\", \"grammo\", \"formalità\", \"coppia\" e \"vestito\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "472",
+    "input": "Alcune delle parole \"avanzamento\", \"scoiattolo\", \"sabato\", \"telecamera\" e \"compagnia\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "473",
+    "input": "Alcune delle parole \"terra\", \"chilo\", \"carrozza\", \"nonna\" e \"potenza\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "475",
+    "input": "Alcune delle parole \"pallacanestro\", \"fune\", \"cane\", \"azienda\" e \"desiderio\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "476",
+    "input": "Alcune delle parole \"congresso\", \"maestro\", \"mancanza\", \"bieta\" e \"tuta\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "477",
+    "input": "Alcune delle parole \"nero\", \"uccello\", \"bottone\", \"riunione\" e \"governatrice\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "478",
+    "input": "Alcune delle parole \"carciofo\", \"ratto\", \"martello\", \"pattinaggio\" e \"cugino\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "479",
+    "input": "Alcune delle parole \"congiunzione\", \"cavallo\", \"aumento\", \"figlia\" e \"guerra\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "48",
+    "input": "Alcune delle parole \"donna\", \"falegname\", \"cucchiaino\", \"erboristeria\" e \"amico\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "481",
+    "input": "Alcune delle parole \"decremento\", \"sostantivo\", \"zia\", \"problema\" e \"calze\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "482",
+    "input": "Alcune delle parole \"domanda\", \"carpentiere\", \"chiave\", \"muratore\" e \"macelleria\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "483",
+    "input": "Alcune delle parole \"coccodrillo\", \"conseguenza\", \"netturbino\", \"slip\" e \"golf\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "484",
+    "input": "Alcune delle parole \"segretario\", \"preposizione\", \"piombo\", \"nascita\" e \"pastificio\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "485",
+    "input": "Alcune delle parole \"calzini\", \"ragno\", \"occhiali\", \"autista\" e \"arpa\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "486",
+    "input": "Alcune delle parole \"pizzeria\", \"aria\", \"sposa\", \"soluzione\" e \"nonna\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "487",
+    "input": "Alcune delle parole \"tromba\", \"congresso\", \"uragano\", \"zia\" e \"sposa\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "488",
+    "input": "Alcune delle parole \"attività\", \"letto\", \"clavicembalo\", \"bimba\" e \"dipendente\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "489",
+    "input": "Alcune delle parole \"minoranza\", \"chiodo\", \"dente\", \"esistenza\" e \"martedì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "490",
+    "input": "Alcune delle parole \"letto\", \"interesse\", \"drammatico\", \"consiglio\" e \"lingua\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "491",
+    "input": "Alcune delle parole \"cetriolo\", \"segretario\", \"valore\", \"foresta\" e \"conflitto\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "492",
+    "input": "Alcune delle parole \"dottore\", \"martello\", \"indumento\", \"genitore\" e \"spiaggia\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "493",
+    "input": "Alcune delle parole \"tornado\", \"effetto\", \"dito\", \"cucchiaino\" e \"incendio\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "495",
+    "input": "Alcune delle parole \"cravatta\", \"ragione\", \"insetto\", \"stato\" e \"codice\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "497",
+    "input": "Alcune delle parole \"monte\", \"zucca\", \"lunedì\", \"banchiere\" e \"pizzeria\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "499",
+    "input": "Alcune delle parole \"pancia\", \"arrampicata\", \"argento\", \"risultato\" e \"poliziotto\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "5",
+    "input": "Alcune delle parole \"pianura\", \"imprenditore\", \"direzione\", \"capelli\" e \"sequenza\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "50",
+    "input": "Alcune delle parole \"coniuge\", \"successo\", \"amico\", \"osso\" e \"violoncello\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "500",
+    "input": "Alcune delle parole \"ravanello\", \"baseball\", \"gomito\", \"operaio\" e \"elefante\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "501",
+    "input": "Alcune delle parole \"casa\", \"bianco\", \"pittore\", \"forza\" e \"corda\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "503",
+    "input": "Alcune delle parole \"movimento\", \"barba\", \"tatto\", \"volta\" e \"gatto\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "504",
+    "input": "Alcune delle parole \"panetteria\", \"monte\", \"paesaggio\", \"dipartimento\" e \"padel\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "506",
+    "input": "Alcune delle parole \"rotaia\", \"biologo\", \"salumeria\", \"lingua\" e \"verità\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "507",
+    "input": "Alcune delle parole \"dentista\", \"tornado\", \"fiume\", \"karate\" e \"programma\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "508",
+    "input": "Alcune delle parole \"attitudine\", \"bieta\", \"quartiere\", \"batteria\" e \"occhiali\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "509",
+    "input": "Alcune delle parole \"ferrovia\", \"dottoressa\", \"cucchiaino\", \"denaro\" e \"cetriolo\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "510",
+    "input": "Alcune delle parole \"commercio\", \"scherma\", \"ago\", \"esempio\" e \"difesa\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "511",
+    "input": "Alcune delle parole \"aria\", \"ospedale\", \"caviglia\", \"carattere\" e \"forza\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "512",
+    "input": "Alcune delle parole \"fattura\", \"funzione\", \"nipote\", \"bocca\" e \"pelo\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "513",
+    "input": "Alcune delle parole \"ingresso\", \"incremento\", \"taxi\", \"tallone\" e \"campo\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "516",
+    "input": "Alcune delle parole \"volano\", \"fotografo\", \"mercoledì\", \"maglietta\" e \"sedano\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "517",
+    "input": "Alcune delle parole \"esperienza\", \"crisi\", \"orrore\", \"camicia\" e \"verbo\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "518",
+    "input": "Alcune delle parole \"segretario\", \"ragione\", \"nonno\", \"transazione\" e \"gorilla\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "519",
+    "input": "Alcune delle parole \"adolescente\", \"fune\", \"uomo\", \"difficoltà\" e \"presenza\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "52",
+    "input": "Alcune delle parole \"qualità\", \"sci\", \"avverbio\", \"zia\" e \"meta\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "520",
+    "input": "Alcune delle parole \"fioraio\", \"bar\", \"atletica\", \"aglio\" e \"patate\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "521",
+    "input": "Alcune delle parole \"falena\", \"ricercatore\", \"cucchiaio\", \"bronzo\" e \"testa\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "522",
+    "input": "Alcune delle parole \"bronzo\", \"operaio\", \"viola\", \"sposa\" e \"beneficio\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "523",
+    "input": "Alcune delle parole \"sedano\", \"tonno\", \"caffetteria\", \"amministratore\" e \"autorità\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "524",
+    "input": "Alcune delle parole \"matrimonio\", \"popolazione\", \"bisnonna\", \"città\" e \"gorilla\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "525",
+    "input": "Alcune delle parole \"meccanico\", \"libreria\", \"totale\", \"scarpata\" e \"scarpe\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "526",
+    "input": "Alcune delle parole \"caserma\", \"porro\", \"camicia\", \"nazione\" e \"argento\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "527",
+    "input": "Alcune delle parole \"miglioramento\", \"sindaco\", \"calzini\", \"decreto\" e \"medico\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "528",
+    "input": "Alcune delle parole \"passero\", \"arancione\", \"nipote\", \"maglione\" e \"ascensore\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "529",
+    "input": "Alcune delle parole \"carrozza\", \"empatia\", \"pompiere\", \"chiave\" e \"tromba\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "53",
+    "input": "Alcune delle parole \"ascensore\", \"possibilità\", \"pianura\", \"giovedì\" e \"bambina\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "530",
+    "input": "Alcune delle parole \"slavina\", \"corda\", \"flauto\", \"amministrazione\" e \"mare\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "531",
+    "input": "Alcune delle parole \"industria\", \"gorilla\", \"terracotta\", \"tariffa\" e \"coccodrillo\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "532",
+    "input": "Alcune delle parole \"amministrazione\", \"pentathlon\", \"avanzamento\", \"macelleria\" e \"spalla\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "533",
+    "input": "Alcune delle parole \"carrozza\", \"sensazione\", \"atto\", \"dottoressa\" e \"totale\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "534",
+    "input": "Alcune delle parole \"salotto\", \"sedia\", \"ferro\", \"rotaia\" e \"lombrico\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "535",
+    "input": "Alcune delle parole \"nonna\", \"empatia\", \"quartiere\", \"occhiali\" e \"suocero\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "536",
+    "input": "Alcune delle parole \"pescheria\", \"architetto\", \"slavina\", \"fango\" e \"tuta\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "537",
+    "input": "Alcune delle parole \"bronzo\", \"pesce\", \"sciarpa\", \"tennis\" e \"probabilità\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "538",
+    "input": "Alcune delle parole \"sequenza\", \"cugina\", \"tsunami\", \"calze\" e \"labbro\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "539",
+    "input": "Alcune delle parole \"mercato\", \"effetto\", \"politica\", \"edificio\" e \"errore\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "54",
+    "input": "Alcune delle parole \"difesa\", \"dottoressa\", \"città\", \"slavina\" e \"scrivania\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "540",
+    "input": "Alcune delle parole \"scale\", \"comunità\", \"padel\", \"riduzione\" e \"condizione\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "541",
+    "input": "Alcune delle parole \"destinazione\", \"pronome\", \"dente\", \"ferro\" e \"rosso\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "542",
+    "input": "Alcune delle parole \"cravatta\", \"decreto\", \"parrucchiere\", \"fiume\" e \"memoria\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "543",
+    "input": "Alcune delle parole \"luogo\", \"macelleria\", \"valle\", \"commercio\" e \"oggetto\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "544",
+    "input": "Alcune delle parole \"obiettivo\", \"cavallo\", \"fuoco\", \"signore\" e \"bronzo\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "546",
+    "input": "Alcune delle parole \"grammo\", \"noir\", \"transazione\", \"sedano\" e \"surf\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "547",
+    "input": "Alcune delle parole \"schiena\", \"scacchi\", \"copisteria\", \"zanzara\" e \"situazione\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "548",
+    "input": "Alcune delle parole \"scarabeo\", \"cucchiaio\", \"commissione\", \"appartamento\" e \"serpente\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "549",
+    "input": "Alcune delle parole \"aragosta\", \"padel\", \"frana\", \"costa\" e \"ragno\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "55",
+    "input": "Alcune delle parole \"aquila\", \"caso\", \"motocicletta\", \"maglioncino\" e \"metallo\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "550",
+    "input": "Alcune delle parole \"parte\", \"totale\", \"violoncello\", \"avanzamento\" e \"olfatto\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "552",
+    "input": "Alcune delle parole \"cassiere\", \"politica\", \"scarpe\", \"scacchi\" e \"giungla\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "553",
+    "input": "Alcune delle parole \"argento\", \"amore\", \"stinco\", \"cappotto\" e \"spinaci\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "554",
+    "input": "Alcune delle parole \"collina\", \"luogo\", \"segretario\", \"cuore\" e \"bieta\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "555",
+    "input": "Alcune delle parole \"valanga\", \"sicurezza\", \"hotel\", \"forza\" e \"comunità\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "557",
+    "input": "Alcune delle parole \"sci\", \"collo\", \"serpente\", \"flauto\" e \"pentathlon\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "558",
+    "input": "Alcune delle parole \"pantoloni\", \"verbo\", \"nascita\", \"violino\" e \"dimensione\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "559",
+    "input": "Alcune delle parole \"percorso\", \"aereo\", \"diritti\", \"polipo\" e \"genitore\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "56",
+    "input": "Alcune delle parole \"thriller\", \"fase\", \"vista\", \"costituzione\" e \"cuore\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "560",
+    "input": "Alcune delle parole \"luogo\", \"fatturazione\", \"cipolla\", \"sensazione\" e \"sale\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "561",
+    "input": "Alcune delle parole \"libreria\", \"valanga\", \"cavallo\", \"cavo\" e \"pastificio\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "562",
+    "input": "Alcune delle parole \"peperone\", \"obiettivo\", \"biliardo\", \"aquila\" e \"edificio\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "564",
+    "input": "Alcune delle parole \"ospedale\", \"cravatta\", \"binario\", \"zia\" e \"puma\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "565",
+    "input": "Alcune delle parole \"avanzamento\", \"martello\", \"marrone\", \"bimba\" e \"taxi\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "566",
+    "input": "Alcune delle parole \"terra\", \"governatrice\", \"pizzeria\", \"millilitro\" e \"violetto\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "567",
+    "input": "Alcune delle parole \"aggettivo\", \"clarinetto\", \"costo\", \"nave\" e \"potenza\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "568",
+    "input": "Alcune delle parole \"carpentiere\", \"grigio\", \"scarpe\", \"congiunzione\" e \"cappello\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "569",
+    "input": "Alcune delle parole \"spinaci\", \"coccodrillo\", \"nonna\", \"fallimento\" e \"indumento\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "57",
+    "input": "Alcune delle parole \"infante\", \"corso\", \"zip\", \"pescheria\" e \"padel\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "570",
+    "input": "Alcune delle parole \"fuoco\", \"cappotto\", \"biblioteca\", \"scoiattolo\" e \"bianco\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "571",
+    "input": "Alcune delle parole \"ufficio\", \"trasporto\", \"coniuge\", \"madre\" e \"obiettivo\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "572",
+    "input": "Alcune delle parole \"biblioteca\", \"calcio\", \"asparago\", \"maglioncino\" e \"volano\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "573",
+    "input": "Alcune delle parole \"lembo\", \"morte\", \"fune\", \"lombrico\" e \"contenuto\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "574",
+    "input": "Alcune delle parole \"amica\", \"pallamano\", \"madre\", \"oggetto\" e \"sorella\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "575",
+    "input": "Alcune delle parole \"problema\", \"libreria\", \"sabato\", \"umanità\" e \"motocicletta\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "576",
+    "input": "Alcune delle parole \"bieta\", \"scarpe\", \"fermata\", \"stinco\" e \"panettiere\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "577",
+    "input": "Alcune delle parole \"camicia\", \"effetto\", \"mercoledì\", \"progetto\" e \"mano\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "579",
+    "input": "Alcune delle parole \"maglione\", \"palmo\", \"collo\", \"serpente\" e \"piacere\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "58",
+    "input": "Alcune delle parole \"olfatto\", \"empatia\", \"traffico\", \"nero\" e \"origine\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "581",
+    "input": "Alcune delle parole \"fuoco\", \"servizio\", \"mano\", \"guerra\" e \"cucina\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "582",
+    "input": "Alcune delle parole \"regione\", \"nazione\", \"pallavolo\", \"desiderio\" e \"famiglia\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "583",
+    "input": "Alcune delle parole \"persona\", \"domenica\", \"pastificio\", \"indumento\" e \"scarafaggio\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "584",
+    "input": "Alcune delle parole \"pronome\", \"leopardo\", \"vista\", \"cavolfiore\" e \"zia\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "585",
+    "input": "Alcune delle parole \"sedia\", \"significato\", \"magenta\", \"finestra\" e \"nascita\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "586",
+    "input": "Alcune delle parole \"nome\", \"clavicembalo\", \"farfalla\", \"commedia\" e \"colore\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "588",
+    "input": "Alcune delle parole \"posizione\", \"ratto\", \"zaino\", \"cerniera\" e \"pugilato\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "589",
+    "input": "Alcune delle parole \"cucina\", \"giardiniere\", \"reggiseno\", \"partito\" e \"concetto\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "59",
+    "input": "Alcune delle parole \"automobile\", \"flauto\", \"tragedia\", \"diritti\" e \"suocera\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "590",
+    "input": "Alcune delle parole \"individuo\", \"minoranza\", \"vapore\", \"gente\" e \"prezzo\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "591",
+    "input": "Alcune delle parole \"bianco\", \"cipolla\", \"città\", \"volano\" e \"tornado\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "592",
+    "input": "Alcune delle parole \"media\", \"cucchiaio\", \"attacco\", \"situazione\" e \"acqua\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "593",
+    "input": "Alcune delle parole \"figlia\", \"stazione\", \"fermata\", \"pisello\" e \"bosco\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "594",
+    "input": "Alcune delle parole \"pattinaggio\", \"tennis\", \"bar\", \"pizzeria\" e \"giardiniere\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "595",
+    "input": "Alcune delle parole \"incontro\", \"democrazia\", \"rosso\", \"segretario\" e \"costa\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "597",
+    "input": "Alcune delle parole \"inondazione\", \"zip\", \"società\", \"suocera\" e \"giungla\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "600",
+    "input": "Alcune delle parole \"divieto\", \"legge\", \"padre\", \"indice\" e \"spinaci\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "601",
+    "input": "Alcune delle parole \"tavolo\", \"inondazione\", \"dottore\", \"aglio\" e \"cuoco\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "602",
+    "input": "Alcune delle parole \"arrampicata\", \"difesa\", \"trasporto\", \"consumo\" e \"verbo\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "603",
+    "input": "Alcune delle parole \"marrone\", \"libertà\", \"postino\", \"braccio\" e \"cane\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "604",
+    "input": "Alcune delle parole \"regione\", \"sequenza\", \"decelerazione\", \"pesce\" e \"tabaccaio\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "605",
+    "input": "Alcune delle parole \"mutande\", \"chiave\", \"guanti\", \"ufficio\" e \"adulto\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "608",
+    "input": "Alcune delle parole \"terremoto\", \"polipo\", \"serie\", \"obbligo\" e \"spiaggia\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "609",
+    "input": "Alcune delle parole \"parte\", \"paesaggio\", \"salumeria\", \"giudice\" e \"difficoltà\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "61",
+    "input": "Alcune delle parole \"bambino\", \"coscienza\", \"aggettivo\", \"lago\" e \"gatto\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "611",
+    "input": "Alcune delle parole \"compagnia\", \"rosso\", \"sorella\", \"verbo\" e \"cipolla\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "613",
+    "input": "Alcune delle parole \"deputato\", \"dipartimento\", \"zucca\", \"cameriere\" e \"commercio\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "615",
+    "input": "Alcune delle parole \"porro\", \"fattura\", \"preposizione\", \"pantoloni\" e \"settore\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "616",
+    "input": "Alcune delle parole \"gas\", \"escursionismo\", \"economia\", \"scherma\" e \"pantoloni\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "617",
+    "input": "Alcune delle parole \"tariffa\", \"testa\", \"stanza\", \"donna\" e \"fioraio\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "618",
+    "input": "Alcune delle parole \"monte\", \"biblioteca\", \"comunità\", \"governatrice\" e \"terracotta\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "619",
+    "input": "Alcune delle parole \"essere\", \"cetriolo\", \"idraulico\", \"relazione\" e \"bietola\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "620",
+    "input": "Alcune delle parole \"supermercato\", \"vestito\", \"bisnonno\", \"edificio\" e \"arancione\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "623",
+    "input": "Alcune delle parole \"pensiero\", \"aglio\", \"ago\", \"progetto\" e \"orecchio\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "624",
+    "input": "Alcune delle parole \"celeste\", \"miglioramento\", \"tennis\", \"macelleria\" e \"treno\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "625",
+    "input": "Alcune delle parole \"verità\", \"individuo\", \"ingresso\", \"luogo\" e \"broccoli\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "626",
+    "input": "Alcune delle parole \"vapore\", \"farfalla\", \"provincia\", \"scacchi\" e \"giacca\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "627",
+    "input": "Alcune delle parole \"zucca\", \"quartiere\", \"cosa\", \"stazione\" e \"sposo\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "628",
+    "input": "Alcune delle parole \"essere\", \"scarabeo\", \"servizio\", \"minoranza\" e \"regione\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "629",
+    "input": "Alcune delle parole \"naso\", \"autostrada\", \"cavolfiore\", \"topo\" e \"amore\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "63",
+    "input": "Alcune delle parole \"mercato\", \"specie\", \"zia\", \"ginnastica\" e \"metallo\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "630",
+    "input": "Alcune delle parole \"equitazione\", \"violino\", \"caviglia\", \"collina\" e \"scale\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "631",
+    "input": "Alcune delle parole \"cervo\", \"serpente\", \"corso\", \"martedì\" e \"decremento\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "632",
+    "input": "Alcune delle parole \"individuo\", \"carciofo\", \"motocicletta\", \"pattinaggio\" e \"settore\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "633",
+    "input": "Alcune delle parole \"forza\", \"popolo\", \"palude\", \"bianco\" e \"indumento\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "635",
+    "input": "Alcune delle parole \"realtà\", \"successo\", \"pantoloni\", \"carota\" e \"treno\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "636",
+    "input": "Alcune delle parole \"valle\", \"thriller\", \"nave\", \"flauto\" e \"cane\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "637",
+    "input": "Alcune delle parole \"domanda\", \"giardiniere\", \"dittatura\", \"cassiere\" e \"rosa\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "638",
+    "input": "Alcune delle parole \"fava\", \"congiunzione\", \"contenuto\", \"figlio\" e \"fiume\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "639",
+    "input": "Alcune delle parole \"lombrico\", \"sassofono\", \"musical\", \"domanda\" e \"minoranza\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "640",
+    "input": "Alcune delle parole \"nipote\", \"attrice\", \"posizione\", \"narice\" e \"polipo\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "641",
+    "input": "Alcune delle parole \"totale\", \"farfalla\", \"esempio\", \"autostrada\" e \"verbo\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "643",
+    "input": "Alcune delle parole \"panettiere\", \"tipo\", \"altitudine\", \"peso\" e \"riduzione\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "646",
+    "input": "Alcune delle parole \"maglione\", \"muratore\", \"nascita\", \"sorpresa\" e \"amica\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "647",
+    "input": "Alcune delle parole \"situazione\", \"pesce\", \"negozio\", \"tabaccaio\" e \"campo\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "648",
+    "input": "Alcune delle parole \"clavicembalo\", \"ferro\", \"architetto\", \"stomaco\" e \"consumo\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "649",
+    "input": "Alcune delle parole \"risultato\", \"percezione\", \"aereo\", \"caso\" e \"spiaggia\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "65",
+    "input": "Alcune delle parole \"bronzo\", \"ministro\", \"peperone\", \"volta\" e \"bottone\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "650",
+    "input": "Alcune delle parole \"porta\", \"aumento\", \"surf\", \"ghiaccio\" e \"calzolaio\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "651",
+    "input": "Alcune delle parole \"cucchiaino\", \"pensiero\", \"organizzazione\", \"edificio\" e \"lembo\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "652",
+    "input": "Alcune delle parole \"adulto\", \"riunione\", \"porta\", \"viola\" e \"hockey\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "653",
+    "input": "Alcune delle parole \"violoncello\", \"pastificio\", \"regole\", \"accelerazione\" e \"lumaca\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "654",
+    "input": "Alcune delle parole \"cucchiaio\", \"vestito\", \"piombo\", \"tipo\" e \"scrivania\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "655",
+    "input": "Alcune delle parole \"spinaci\", \"memoria\", \"conoscenza\", \"nero\" e \"cavo\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "656",
+    "input": "Alcune delle parole \"bambino\", \"origine\", \"fuoco\", \"pentathlon\" e \"salotto\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "658",
+    "input": "Alcune delle parole \"noia\", \"terra\", \"ricordo\", \"treno\" e \"parola\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "659",
+    "input": "Alcune delle parole \"pattinaggio\", \"bisogno\", \"bugia\", \"rabbia\" e \"slavina\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "66",
+    "input": "Alcune delle parole \"pattinaggio\", \"bianco\", \"coniuge\", \"palmo\" e \"cervo\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "661",
+    "input": "Alcune delle parole \"canottaggio\", \"cavallo\", \"collina\", \"monte\" e \"causa\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "662",
+    "input": "Alcune delle parole \"amore\", \"retrocessione\", \"documentario\", \"signora\" e \"obiettivo\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "664",
+    "input": "Alcune delle parole \"figlio\", \"impresa\", \"lattuga\", \"karate\" e \"rosso\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "665",
+    "input": "Alcune delle parole \"bosco\", \"regole\", \"genero\", \"nuoto\" e \"esperienza\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "666",
+    "input": "Alcune delle parole \"uragano\", \"strada\", \"regione\", \"porta\" e \"dito\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "667",
+    "input": "Alcune delle parole \"ginnastica\", \"carrozza\", \"gamba\", \"organizzazione\" e \"chilometro\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "668",
+    "input": "Alcune delle parole \"suocero\", \"spavento\", \"oreficeria\", \"cuore\" e \"lunedì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "669",
+    "input": "Alcune delle parole \"pronipote\", \"salumeria\", \"campo\", \"riduzione\" e \"carota\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "67",
+    "input": "Alcune delle parole \"albergo\", \"binario\", \"asparago\", \"fattura\" e \"accordo\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "670",
+    "input": "Alcune delle parole \"adulta\", \"libreria\", \"fase\", \"parte\" e \"morte\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "671",
+    "input": "Alcune delle parole \"stomaco\", \"provincia\", \"leone\", \"conclusione\" e \"formalità\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "672",
+    "input": "Alcune delle parole \"equitazione\", \"sindaco\", \"consumo\", \"cucina\" e \"sorella\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "673",
+    "input": "Alcune delle parole \"fantascienza\", \"decremento\", \"sposo\", \"batteria\" e \"medico\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "676",
+    "input": "Alcune delle parole \"bieta\", \"riproduzione\", \"slip\", \"tigre\" e \"figlio\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "677",
+    "input": "Alcune delle parole \"attenzione\", \"biliardo\", \"politico\", \"monopattino\" e \"farmacia\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "678",
+    "input": "Alcune delle parole \"pastificio\", \"broccoli\", \"compagnia\", \"manopola\" e \"attacco\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "68",
+    "input": "Alcune delle parole \"panetteria\", \"libreria\", \"cavo\", \"tsunami\" e \"oceano\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "680",
+    "input": "Alcune delle parole \"divieto\", \"cricket\", \"pugilato\", \"automobile\" e \"giovedì\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "681",
+    "input": "Alcune delle parole \"fallimento\", \"aereo\", \"deserto\", \"ruscello\" e \"ristorante\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "685",
+    "input": "Alcune delle parole \"dottore\", \"amministrazione\", \"carota\", \"larghezza\" e \"bus\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "686",
+    "input": "Alcune delle parole \"politica\", \"differenza\", \"esistenza\", \"concetto\" e \"uomo\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "687",
+    "input": "Alcune delle parole \"bieta\", \"padre\", \"grammo\", \"chiodo\" e \"nuoto\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "688",
+    "input": "Alcune delle parole \"creazione\", \"melanzana\", \"tornado\", \"famiglia\" e \"dente\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "690",
+    "input": "Alcune delle parole \"leopardo\", \"costume\", \"matrimonio\", \"cricket\" e \"manica\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "691",
+    "input": "Alcune delle parole \"noia\", \"tavolo\", \"magenta\", \"traffico\" e \"tassista\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "692",
+    "input": "Alcune delle parole \"gallina\", \"binario\", \"biblioteca\", \"sposa\" e \"gas\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "694",
+    "input": "Alcune delle parole \"congiunzione\", \"falco\", \"strada\", \"mercoledì\" e \"cucchiaio\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "696",
+    "input": "Alcune delle parole \"ghiaccio\", \"scherma\", \"chilometro\", \"passato\" e \"riproduzione\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "697",
+    "input": "Alcune delle parole \"narice\", \"felicità\", \"ravanello\", \"politico\" e \"fiducia\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "698",
+    "input": "Alcune delle parole \"biologo\", \"insetto\", \"sorpresa\", \"pentathlon\" e \"congiunzione\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "699",
+    "input": "Alcune delle parole \"calzolaio\", \"capelli\", \"caviglia\", \"divano\" e \"carrozza\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "7",
+    "input": "Alcune delle parole \"amico\", \"progresso\", \"testa\", \"venerdì\" e \"meta\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "70",
+    "input": "Alcune delle parole \"differenza\", \"barbiere\", \"pelo\", \"grammo\" e \"autorizzazione\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "700",
+    "input": "Alcune delle parole \"ferrovia\", \"hockey\", \"scuola\", \"attacco\" e \"binario\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "701",
+    "input": "Alcune delle parole \"scoiattolo\", \"scacchi\", \"giungla\", \"bieta\" e \"accelerazione\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "702",
+    "input": "Alcune delle parole \"popolo\", \"peso\", \"noir\", \"città\" e \"compagnia\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "705",
+    "input": "Alcune delle parole \"parte\", \"relazione\", \"attrice\", \"consumo\" e \"suocero\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "706",
+    "input": "Alcune delle parole \"impresa\", \"settore\", \"terremoto\", \"treno\" e \"preposizione\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "707",
+    "input": "Alcune delle parole \"concetto\", \"sequenza\", \"strada\", \"ristorante\" e \"tema\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "709",
+    "input": "Alcune delle parole \"pentathlon\", \"hockey\", \"maglietta\", \"adulta\" e \"patate\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "71",
+    "input": "Alcune delle parole \"domenica\", \"banca\", \"direttore\", \"carabiniere\" e \"spavento\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "711",
+    "input": "Alcune delle parole \"valore\", \"costa\", \"essere\", \"binario\" e \"tennis\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "712",
+    "input": "Alcune delle parole \"infermiere\", \"collo\", \"cricket\", \"miglioramento\" e \"regione\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "713",
+    "input": "Alcune delle parole \"lunedì\", \"patate\", \"diritti\", \"senso\" e \"ospedale\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "714",
+    "input": "Alcune delle parole \"cetriolo\", \"tabaccaio\", \"grillo\", \"sale\" e \"dente\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "715",
+    "input": "Alcune delle parole \"empatia\", \"pastificio\", \"memoria\", \"bambino\" e \"quantità\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "716",
+    "input": "Alcune delle parole \"consiglio\", \"flauto\", \"salumeria\", \"salotto\" e \"nazione\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "717",
+    "input": "Alcune delle parole \"pizzeria\", \"situazione\", \"intenzione\", \"calze\" e \"pattinaggio\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "718",
+    "input": "Alcune delle parole \"peggioramento\", \"slavina\", \"sostantivo\", \"grado\" e \"scarpe\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "719",
+    "input": "Alcune delle parole \"presente\", \"tromba\", \"creazione\", \"organizzazione\" e \"preposizione\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "72",
+    "input": "Alcune delle parole \"creazione\", \"difesa\", \"programmatore\", \"tromba\" e \"cavalletta\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "721",
+    "input": "Alcune delle parole \"bus\", \"mano\", \"pastificio\", \"asparago\" e \"violetto\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "722",
+    "input": "Alcune delle parole \"attenzione\", \"gomito\", \"atletica\", \"ago\" e \"fermata\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "723",
+    "input": "Alcune delle parole \"genitore\", \"sensazione\", \"campo\", \"bieta\" e \"calamaro\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "724",
+    "input": "Alcune delle parole \"aragosta\", \"oro\", \"millilitro\", \"fiume\" e \"natura\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "725",
+    "input": "Alcune delle parole \"verbo\", \"lunedì\", \"domanda\", \"avanzamento\" e \"adulto\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "726",
+    "input": "Alcune delle parole \"superstrada\", \"cervo\", \"errore\", \"signore\" e \"metallo\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "728",
+    "input": "Alcune delle parole \"muscolo\", \"leopardo\", \"tennis\", \"programma\" e \"viola\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "729",
+    "input": "Alcune delle parole \"tromba\", \"struttura\", \"bugia\", \"attacco\" e \"grigio\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "73",
+    "input": "Alcune delle parole \"matrimonio\", \"zucca\", \"tuta\", \"commercio\" e \"distruzione\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "730",
+    "input": "Alcune delle parole \"terra\", \"bambina\", \"topo\", \"giovedì\" e \"metallo\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "731",
+    "input": "Alcune delle parole \"idraulico\", \"altitudine\", \"guerra\", \"barba\" e \"consiglio\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "733",
+    "input": "Alcune delle parole \"carciofo\", \"cavalletta\", \"rosso\", \"patate\" e \"guardiano\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "734",
+    "input": "Alcune delle parole \"capacità\", \"caserma\", \"rabbia\", \"metallo\" e \"popolazione\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "735",
+    "input": "Alcune delle parole \"spalla\", \"compagnia\", \"muscolo\", \"umanità\" e \"guardiano\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "736",
+    "input": "Alcune delle parole \"elefante\", \"sposa\", \"reggiseno\", \"problema\" e \"batteria\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "737",
+    "input": "Alcune delle parole \"pronome\", \"marrone\", \"arrampicata\", \"rabbia\" e \"superstrada\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "738",
+    "input": "Alcune delle parole \"conclusione\", \"direttore\", \"bisogno\", \"causa\" e \"rotaia\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "74",
+    "input": "Alcune delle parole \"adulta\", \"biliardo\", \"macellaio\", \"cappello\" e \"lattuga\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "740",
+    "input": "Alcune delle parole \"puma\", \"servizio\", \"tatto\", \"legge\" e \"casa\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "741",
+    "input": "Alcune delle parole \"barbabietola\", \"muscolo\", \"gatto\", \"zaino\" e \"berretto\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "742",
+    "input": "Alcune delle parole \"motocicletta\", \"inizio\", \"coccodrillo\", \"dipendente\" e \"domenica\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "743",
+    "input": "Alcune delle parole \"causa\", \"media\", \"pescheria\", \"indumento\" e \"morte\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "745",
+    "input": "Alcune delle parole \"calze\", \"matrimonio\", \"pallacanestro\", \"fiducia\" e \"decelerazione\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "746",
+    "input": "Alcune delle parole \"celeste\", \"biologo\", \"individuo\", \"autostrada\" e \"barbabietola\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "747",
+    "input": "Alcune delle parole \"cavolfiore\", \"personalità\", \"rosa\", \"ratto\" e \"scale\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "748",
+    "input": "Alcune delle parole \"lingua\", \"adolescente\", \"serpente\", \"corsia\" e \"cipolla\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "749",
+    "input": "Alcune delle parole \"oceano\", \"accelerazione\", \"schiena\", \"domenica\" e \"cavolfiore\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "75",
+    "input": "Alcune delle parole \"scherma\", \"fratello\", \"lumaca\", \"farmacia\" e \"clavicembalo\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "750",
+    "input": "Alcune delle parole \"serpente\", \"reggiseno\", \"motorino\", \"broccoli\" e \"serie\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "751",
+    "input": "Alcune delle parole \"regione\", \"specie\", \"mercoledì\", \"metallo\" e \"ginocchio\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "752",
+    "input": "Alcune delle parole \"autobus\", \"noia\", \"filo\", \"binario\" e \"slavina\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "753",
+    "input": "Alcune delle parole \"serie\", \"testa\", \"aspetto\", \"giudice\" e \"erboristeria\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "754",
+    "input": "Alcune delle parole \"tigre\", \"stazione\", \"gomito\", \"ratto\" e \"gamba\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "755",
+    "input": "Alcune delle parole \"adulto\", \"economia\", \"indice\", \"pattinaggio\" e \"orrore\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "756",
+    "input": "Alcune delle parole \"scarabeo\", \"pecora\", \"lago\", \"maiale\" e \"denaro\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "757",
+    "input": "Alcune delle parole \"paese\", \"tennis\", \"bimba\", \"zanzara\" e \"percezione\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "759",
+    "input": "Alcune delle parole \"sedia\", \"decelerazione\", \"escursionismo\", \"caserma\" e \"pelo\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "76",
+    "input": "Alcune delle parole \"coniglio\", \"mosca\", \"fine\", \"barbiere\" e \"nipote\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "762",
+    "input": "Alcune delle parole \"inondazione\", \"domenica\", \"gatto\", \"governatrice\" e \"scarafaggio\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "763",
+    "input": "Alcune delle parole \"significato\", \"sedere\", \"telecamera\", \"cameriere\" e \"provincia\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "764",
+    "input": "Alcune delle parole \"desiderio\", \"scale\", \"padel\", \"falena\" e \"ufficio\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "765",
+    "input": "Alcune delle parole \"aquila\", \"passato\", \"stanza\", \"broccoli\" e \"qualità\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "766",
+    "input": "Alcune delle parole \"incremento\", \"vite\", \"sciarpa\", \"bisogno\" e \"fatturazione\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "767",
+    "input": "Alcune delle parole \"leopardo\", \"mercoledì\", \"fango\", \"motorino\" e \"clavicembalo\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "768",
+    "input": "Alcune delle parole \"essere\", \"specie\", \"barbiere\", \"labbro\" e \"pompiere\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "769",
+    "input": "Alcune delle parole \"lingua\", \"umanità\", \"stato\", \"differenza\" e \"orecchio\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "77",
+    "input": "Alcune delle parole \"meccanico\", \"macelleria\", \"attività\", \"terra\" e \"magenta\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "770",
+    "input": "Alcune delle parole \"lumaca\", \"campo\", \"adolescente\", \"valle\" e \"ascensore\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "771",
+    "input": "Alcune delle parole \"melanzana\", \"letto\", \"bimbo\", \"edificio\" e \"cane\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "773",
+    "input": "Alcune delle parole \"sposo\", \"corda\", \"miglioramento\", \"persona\" e \"venerdì\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "774",
+    "input": "Alcune delle parole \"nipote\", \"barba\", \"viale\", \"dottoressa\" e \"gatto\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "775",
+    "input": "Alcune delle parole \"scienziato\", \"senatrice\", \"giubbotto\", \"cavalletta\" e \"forza\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "776",
+    "input": "Alcune delle parole \"barba\", \"codice\", \"coscienza\", \"verde\" e \"progetto\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "777",
+    "input": "Alcune delle parole \"scacchi\", \"maglietta\", \"monte\", \"coniuge\" e \"rugby\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "778",
+    "input": "Alcune delle parole \"grado\", \"lattuga\", \"judo\", \"panetteria\" e \"pace\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "78",
+    "input": "Alcune delle parole \"commedia\", \"gamba\", \"creazione\", \"signora\" e \"natura\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "780",
+    "input": "Alcune delle parole \"cavallo\", \"pecora\", \"terra\", \"nonno\" e \"nazione\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "781",
+    "input": "Alcune delle parole \"potenza\", \"amico\", \"adulto\", \"caratteristica\" e \"pianura\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "783",
+    "input": "Alcune delle parole \"deserto\", \"clavicembalo\", \"indice\", \"zip\" e \"associazione\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "784",
+    "input": "Alcune delle parole \"senatrice\", \"magenta\", \"rotta\", \"dipartimento\" e \"avverbio\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "786",
+    "input": "Alcune delle parole \"neonato\", \"tema\", \"ampiezza\", \"violetto\" e \"nuora\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "787",
+    "input": "Alcune delle parole \"senso\", \"scarpe\", \"cervo\", \"nuora\" e \"schiena\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "788",
+    "input": "Alcune delle parole \"paura\", \"persona\", \"equitazione\", \"produzione\" e \"giudice\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "79",
+    "input": "Alcune delle parole \"superstrada\", \"senso\", \"ghiaccio\", \"finestra\" e \"bus\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "792",
+    "input": "Alcune delle parole \"crisi\", \"amministrazione\", \"produzione\", \"parlamentare\" e \"metallo\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "794",
+    "input": "Alcune delle parole \"quartiere\", \"martello\", \"chiocciola\", \"barbabietola\" e \"scarpe\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "795",
+    "input": "Alcune delle parole \"arancione\", \"giubbotto\", \"maglioncino\", \"ragno\" e \"velocità\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "796",
+    "input": "Alcune delle parole \"osso\", \"signore\", \"giacca\", \"ingegnere\" e \"coscienza\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "797",
+    "input": "Alcune delle parole \"pompiere\", \"interesse\", \"bianco\", \"professore\" e \"serie\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "798",
+    "input": "Alcune delle parole \"carciofo\", \"ratto\", \"movimento\", \"congresso\" e \"associazione\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "799",
+    "input": "Alcune delle parole \"piombo\", \"conoscenza\", \"bicicletta\", \"rotta\" e \"ospedale\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "8",
+    "input": "Alcune delle parole \"domanda\", \"chilo\", \"maremoto\", \"violoncello\" e \"impresa\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "80",
+    "input": "Alcune delle parole \"casa\", \"sposo\", \"signora\", \"articolo\" e \"congiunzione\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "800",
+    "input": "Alcune delle parole \"zanzara\", \"regione\", \"erboristeria\", \"domenica\" e \"vela\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "801",
+    "input": "Alcune delle parole \"indice\", \"leone\", \"celeste\", \"corpo\" e \"karate\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "802",
+    "input": "Alcune delle parole \"rotta\", \"insegnante\", \"corda\", \"adolescente\" e \"gamba\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "803",
+    "input": "Alcune delle parole \"decremento\", \"casa\", \"peperone\", \"pastificio\" e \"libreria\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "805",
+    "input": "Alcune delle parole \"clarinetto\", \"dolore\", \"petto\", \"finestra\" e \"spavento\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "806",
+    "input": "Alcune delle parole \"esperienza\", \"cucchiaino\", \"volano\", \"qualità\" e \"ruscello\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "808",
+    "input": "Alcune delle parole \"sardina\", \"larghezza\", \"provincia\", \"potenza\" e \"governatrice\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "809",
+    "input": "Alcune delle parole \"parte\", \"clarinetto\", \"vapore\", \"associazione\" e \"stanza\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "81",
+    "input": "Alcune delle parole \"caso\", \"cuoco\", \"caratteristica\", \"surf\" e \"risultato\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "810",
+    "input": "Alcune delle parole \"riunione\", \"maglione\", \"finestra\", \"campo\" e \"zaino\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "811",
+    "input": "Alcune delle parole \"gatto\", \"cavolfiore\", \"metallo\", \"narice\" e \"servizio\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "812",
+    "input": "Alcune delle parole \"arpa\", \"sorella\", \"ferro\", \"violoncello\" e \"taxi\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "813",
+    "input": "Alcune delle parole \"banca\", \"meta\", \"babbuino\", \"fase\" e \"millimetro\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "814",
+    "input": "Alcune delle parole \"pescheria\", \"venerdì\", \"melanzana\", \"aragosta\" e \"idraulico\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "815",
+    "input": "Alcune delle parole \"sassofono\", \"fuoco\", \"attività\", \"motocicletta\" e \"fotografo\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "816",
+    "input": "Alcune delle parole \"tassista\", \"persona\", \"aggettivo\", \"peperone\" e \"soluzione\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "817",
+    "input": "Alcune delle parole \"triathlon\", \"superstrada\", \"tristezza\", \"attività\" e \"amministrazione\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "818",
+    "input": "Alcune delle parole \"guerra\", \"inizio\", \"paesaggio\", \"maglioncino\" e \"centimetro\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "819",
+    "input": "Alcune delle parole \"pianoforte\", \"lombrico\", \"vapore\", \"panetteria\" e \"coccodrillo\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "820",
+    "input": "Alcune delle parole \"collina\", \"problema\", \"legge\", \"aquila\" e \"lingua\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "821",
+    "input": "Alcune delle parole \"infermiere\", \"pancia\", \"amministrazione\", \"natura\" e \"segreto\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "823",
+    "input": "Alcune delle parole \"bieta\", \"conclusione\", \"forchetta\", \"falena\" e \"giubbotto\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "825",
+    "input": "Alcune delle parole \"barbabietola\", \"triathlon\", \"piombo\", \"bocca\" e \"mosca\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "826",
+    "input": "Alcune delle parole \"vela\", \"attesa\", \"calzini\", \"pronome\" e \"tariffa\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "827",
+    "input": "Alcune delle parole \"coltello\", \"sensazione\", \"tema\", \"larghezza\" e \"mare\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "828",
+    "input": "Alcune delle parole \"canottaggio\", \"verbo\", \"barbiere\", \"commedia\" e \"domanda\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "829",
+    "input": "Alcune delle parole \"pancia\", \"fune\", \"venerdì\", \"campo\" e \"amica\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "83",
+    "input": "Alcune delle parole \"commercio\", \"bisogno\", \"falena\", \"scherma\" e \"felicità\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "830",
+    "input": "Alcune delle parole \"tromba\", \"documentario\", \"scale\", \"netturbino\" e \"occhio\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "831",
+    "input": "Alcune delle parole \"beneficio\", \"judo\", \"naso\", \"commissariato\" e \"venerdì\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "833",
+    "input": "Alcune delle parole \"costo\", \"causa\", \"scarpe\", \"dittatura\" e \"pastificio\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "834",
+    "input": "Alcune delle parole \"quantità\", \"dottoressa\", \"costa\", \"maglietta\" e \"diritti\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "835",
+    "input": "Alcune delle parole \"rosa\", \"scacchi\", \"gorilla\", \"spavento\" e \"triathlon\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "837",
+    "input": "Alcune delle parole \"costo\", \"litro\", \"livello\", \"falegname\" e \"giornalista\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "838",
+    "input": "Alcune delle parole \"sicurezza\", \"pittore\", \"segretario\", \"volta\" e \"bimba\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "839",
+    "input": "Alcune delle parole \"cricket\", \"ginocchio\", \"pompiere\", \"tuta\" e \"letto\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "84",
+    "input": "Alcune delle parole \"aglio\", \"cucchiaio\", \"postino\", \"fune\" e \"monte\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "840",
+    "input": "Alcune delle parole \"rotta\", \"foresta\", \"causa\", \"coscia\" e \"peperone\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "841",
+    "input": "Alcune delle parole \"governatrice\", \"produzione\", \"rugby\", \"economia\" e \"berretto\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "842",
+    "input": "Alcune delle parole \"fase\", \"sardina\", \"mare\", \"cappello\" e \"fratello\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "843",
+    "input": "Alcune delle parole \"decreto\", \"paese\", \"senso\", \"settore\" e \"banca\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "844",
+    "input": "Alcune delle parole \"obbligo\", \"distruzione\", \"lumaca\", \"attitudine\" e \"inizio\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "845",
+    "input": "Alcune delle parole \"condizione\", \"tigre\", \"azienda\", \"montagna\" e \"terra\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "846",
+    "input": "Alcune delle parole \"oceano\", \"maestro\", \"rotaia\", \"governatrice\" e \"governo\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "847",
+    "input": "Alcune delle parole \"interesse\", \"aggettivo\", \"cacciavite\", \"fatica\" e \"progresso\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "849",
+    "input": "Alcune delle parole \"passato\", \"governo\", \"viale\", \"litro\" e \"clavicembalo\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "85",
+    "input": "Alcune delle parole \"pastificio\", \"architetto\", \"struttura\", \"esito\" e \"costo\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "850",
+    "input": "Alcune delle parole \"zanzara\", \"gonna\", \"mais\", \"laguna\" e \"atto\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "851",
+    "input": "Alcune delle parole \"qualità\", \"gallina\", \"genero\", \"drammatico\" e \"narice\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "852",
+    "input": "Alcune delle parole \"distruzione\", \"panetteria\", \"broccoli\", \"stomaco\" e \"spalla\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "854",
+    "input": "Alcune delle parole \"città\", \"ruscello\", \"vapore\", \"mosca\" e \"adolescente\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "855",
+    "input": "Alcune delle parole \"maglietta\", \"interruzione\", \"cassiere\", \"significato\" e \"ragno\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "856",
+    "input": "Alcune delle parole \"autostrada\", \"grigio\", \"specie\", \"livello\" e \"camera\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "857",
+    "input": "Alcune delle parole \"maglione\", \"memoria\", \"similitudine\", \"carota\" e \"giubbotto\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "858",
+    "input": "Alcune delle parole \"aria\", \"paesaggio\", \"idraulico\", \"avvocato\" e \"vestito\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "859",
+    "input": "Alcune delle parole \"corda\", \"cipolla\", \"tromba\", \"testa\" e \"desiderio\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "86",
+    "input": "Alcune delle parole \"autista\", \"padel\", \"strada\", \"hockey\" e \"insegnamento\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "860",
+    "input": "Alcune delle parole \"millimetro\", \"origine\", \"impresa\", \"popolazione\" e \"commissione\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "862",
+    "input": "Alcune delle parole \"direzione\", \"famiglia\", \"tristezza\", \"ragione\" e \"millilitro\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "864",
+    "input": "Alcune delle parole \"dottore\", \"condizione\", \"paesaggio\", \"segretario\" e \"guerra\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "865",
+    "input": "Alcune delle parole \"possibilità\", \"relazione\", \"autostrada\", \"figlio\" e \"telecamera\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "866",
+    "input": "Alcune delle parole \"causa\", \"drammatico\", \"industria\", \"quantità\" e \"carabiniere\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "867",
+    "input": "Alcune delle parole \"edificio\", \"obbligo\", \"argento\", \"dottoressa\" e \"immagine\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "869",
+    "input": "Alcune delle parole \"volta\", \"bronzo\", \"arancione\", \"aggettivo\" e \"monopattino\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "87",
+    "input": "Alcune delle parole \"guanti\", \"ascensore\", \"fattura\", \"forchetta\" e \"cricket\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "871",
+    "input": "Alcune delle parole \"gamba\", \"pecora\", \"partito\", \"automobile\" e \"parrucchiere\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "872",
+    "input": "Alcune delle parole \"ampiezza\", \"riunione\", \"bambina\", \"salumeria\" e \"cacciavite\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "876",
+    "input": "Alcune delle parole \"dimensione\", \"cacciavite\", \"paese\", \"caviglia\" e \"bieta\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "877",
+    "input": "Alcune delle parole \"cervo\", \"paese\", \"scienziato\", \"umano\" e \"prezzo\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "878",
+    "input": "Alcune delle parole \"felicità\", \"collina\", \"forchetta\", \"valle\" e \"collo\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "879",
+    "input": "Alcune delle parole \"cervello\", \"cappotto\", \"carciofo\", \"lunghezza\" e \"aspetto\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "881",
+    "input": "Alcune delle parole \"sedere\", \"aereo\", \"ragno\", \"cravatta\" e \"tennis\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "882",
+    "input": "Alcune delle parole \"programmatore\", \"collo\", \"gente\", \"millimetro\" e \"condizione\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "883",
+    "input": "Alcune delle parole \"fattura\", \"caviglia\", \"luogo\", \"sostantivo\" e \"lombrico\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "884",
+    "input": "Alcune delle parole \"compagnia\", \"presenza\", \"sostantivo\", \"braccio\" e \"tipo\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "885",
+    "input": "Alcune delle parole \"grillo\", \"capitale\", \"carciofo\", \"codice\" e \"puma\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "886",
+    "input": "Alcune delle parole \"pronipote\", \"riduzione\", \"tariffa\", \"montagna\" e \"quantità\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "887",
+    "input": "Alcune delle parole \"tristezza\", \"nuora\", \"vite\", \"caratteristica\" e \"polipo\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "888",
+    "input": "Alcune delle parole \"zucca\", \"inizio\", \"vista\", \"tragedia\" e \"bagno\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "889",
+    "input": "Alcune delle parole \"musical\", \"bianco\", \"pallanuoto\", \"nuora\" e \"bisnonna\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "892",
+    "input": "Alcune delle parole \"dente\", \"significato\", \"rugby\", \"ago\" e \"medico\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "893",
+    "input": "Alcune delle parole \"totale\", \"rugby\", \"gas\", \"vestito\" e \"spiaggia\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "894",
+    "input": "Alcune delle parole \"aeroporto\", \"guanti\", \"segreto\", \"pecora\" e \"amministratore\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "895",
+    "input": "Alcune delle parole \"padre\", \"pesce\", \"domenica\", \"orrore\" e \"relazione\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "896",
+    "input": "Alcune delle parole \"attitudine\", \"orecchio\", \"beneficio\", \"dipendente\" e \"pronome\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "897",
+    "input": "Alcune delle parole \"maremoto\", \"peperone\", \"rugby\", \"difficoltà\" e \"azzurro\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "898",
+    "input": "Alcune delle parole \"labbro\", \"autostrada\", \"cosa\", \"golf\" e \"zaino\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "899",
+    "input": "Alcune delle parole \"incendio\", \"bimba\", \"stivali\", \"amico\" e \"pensiero\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "9",
+    "input": "Alcune delle parole \"peperone\", \"thriller\", \"matrimonio\", \"martedì\" e \"grigio\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "90",
+    "input": "Alcune delle parole \"compagnia\", \"rugby\", \"adulto\", \"difficoltà\" e \"aeroporto\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "900",
+    "input": "Alcune delle parole \"valore\", \"cricket\", \"astronauta\", \"vestito\" e \"passato\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "901",
+    "input": "Alcune delle parole \"lunedì\", \"cucchiaino\", \"monte\", \"ginocchio\" e \"pattinaggio\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "902",
+    "input": "Alcune delle parole \"nome\", \"blu\", \"occasione\", \"vite\" e \"autobus\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "903",
+    "input": "Alcune delle parole \"bar\", \"scale\", \"imprenditore\", \"pallanuoto\" e \"barba\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "904",
+    "input": "Alcune delle parole \"musical\", \"ruscello\", \"treno\", \"adulta\" e \"passato\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "905",
+    "input": "Alcune delle parole \"braccio\", \"vela\", \"aria\", \"cittadina\" e \"suocero\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "907",
+    "input": "Alcune delle parole \"aragosta\", \"oggetto\", \"ginocchio\", \"attenzione\" e \"regione\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "908",
+    "input": "Alcune delle parole \"avvocato\", \"judo\", \"gas\", \"lingua\" e \"divieto\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "91",
+    "input": "Alcune delle parole \"ingresso\", \"ricordo\", \"tragedia\", \"fango\" e \"panetteria\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "910",
+    "input": "Alcune delle parole \"traffico\", \"cugina\", \"batteria\", \"mare\" e \"cavo\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "912",
+    "input": "Alcune delle parole \"operaio\", \"signore\", \"riduzione\", \"supermercato\" e \"pallanuoto\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "913",
+    "input": "Alcune delle parole \"aereo\", \"baseball\", \"tuta\", \"fase\" e \"genero\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "915",
+    "input": "Alcune delle parole \"aspetto\", \"ascensore\", \"zip\", \"sorella\" e \"società\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "916",
+    "input": "Alcune delle parole \"nave\", \"fattura\", \"giovedì\", \"osso\" e \"manopola\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "918",
+    "input": "Alcune delle parole \"pallacanestro\", \"filo\", \"fatica\", \"ferro\" e \"calze\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "919",
+    "input": "Alcune delle parole \"comunità\", \"rotta\", \"batteria\", \"dottoressa\" e \"governatrice\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "92",
+    "input": "Alcune delle parole \"empatia\", \"stivali\", \"equitazione\", \"parlamentare\" e \"esperienza\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "920",
+    "input": "Alcune delle parole \"ferrovia\", \"conoscenza\", \"pattinaggio\", \"cittadina\" e \"carrozza\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "921",
+    "input": "Alcune delle parole \"incontro\", \"bocca\", \"zia\", \"commercio\" e \"arpa\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "922",
+    "input": "Alcune delle parole \"amministrazione\", \"ferro\", \"celeste\", \"volano\" e \"empatia\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "923",
+    "input": "Alcune delle parole \"montagna\", \"giardiniere\", \"aquila\", \"viale\" e \"edificio\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "924",
+    "input": "Alcune delle parole \"altitudine\", \"bus\", \"sequenza\", \"bronzo\" e \"aria\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "925",
+    "input": "Alcune delle parole \"rabbia\", \"pensiero\", \"scherma\", \"osso\" e \"ministro\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "926",
+    "input": "Alcune delle parole \"tallone\", \"sardina\", \"occhio\", \"retrocessione\" e \"golf\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "927",
+    "input": "Alcune delle parole \"vestito\", \"provincia\", \"figlia\", \"judo\" e \"coppia\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "928",
+    "input": "Alcune delle parole \"amico\", \"mosca\", \"pianura\", \"tennis\" e \"ricercatore\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "929",
+    "input": "Alcune delle parole \"noir\", \"stomaco\", \"puma\", \"ristorante\" e \"palmo\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "93",
+    "input": "Alcune delle parole \"compagnia\", \"violoncello\", \"gonna\", \"flauto\" e \"stinco\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "930",
+    "input": "Alcune delle parole \"rosso\", \"provincia\", \"paura\", \"strada\" e \"esistenza\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "932",
+    "input": "Alcune delle parole \"stinco\", \"drammatico\", \"successo\", \"caviglia\" e \"terremoto\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "933",
+    "input": "Alcune delle parole \"occhiali\", \"leone\", \"attore\", \"velocità\" e \"aereo\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "934",
+    "input": "Alcune delle parole \"congiunzione\", \"blu\", \"lombrico\", \"cugino\" e \"mare\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "935",
+    "input": "Alcune delle parole \"foresta\", \"calzini\", \"signora\", \"origine\" e \"treno\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "937",
+    "input": "Alcune delle parole \"lombrico\", \"cane\", \"bottone\", \"chiave\" e \"nonno\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "94",
+    "input": "Alcune delle parole \"velocità\", \"lucertola\", \"pollice\", \"impresa\" e \"essere\" sono tipi di sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "940",
+    "input": "Alcune delle parole \"governo\", \"oggetto\", \"tram\", \"chiave\" e \"oceano\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "941",
+    "input": "Alcune delle parole \"tavolo\", \"corsia\", \"caratteristica\", \"transito\" e \"finestra\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "942",
+    "input": "Alcune delle parole \"esistenza\", \"consiglio\", \"cacciavite\", \"arpa\" e \"giungla\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "943",
+    "input": "Alcune delle parole \"cappello\", \"tallone\", \"governatrice\", \"sorella\" e \"verde\" sono tipi di persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "944",
+    "input": "Alcune delle parole \"millimetro\", \"lattuga\", \"chiave\", \"domanda\" e \"vapore\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "945",
+    "input": "Alcune delle parole \"caffetteria\", \"transazione\", \"oceano\", \"figlio\" e \"adulto\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "947",
+    "input": "Alcune delle parole \"qualità\", \"peperone\", \"bosco\", \"reggiseno\" e \"grado\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "948",
+    "input": "Alcune delle parole \"serie\", \"peso\", \"peperone\", \"giornalista\" e \"attrice\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "949",
+    "input": "Alcune delle parole \"dottoressa\", \"flauto\", \"dito\", \"collo\" e \"difesa\" sono tipi di catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "95",
+    "input": "Alcune delle parole \"cugina\", \"bronzo\", \"zip\", \"attacco\" e \"cavalletta\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "950",
+    "input": "Alcune delle parole \"cavolfiore\", \"topo\", \"programmatore\", \"difesa\" e \"suocera\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "951",
+    "input": "Alcune delle parole \"acqua\", \"cipolla\", \"ristorante\", \"ratto\" e \"broccoli\" sono tipi di utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "953",
+    "input": "Alcune delle parole \"decreto\", \"porta\", \"verità\", \"puma\" e \"sorella\" sono tipi di sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "956",
+    "input": "Alcune delle parole \"settore\", \"fermata\", \"autista\", \"fava\" e \"avverbio\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "957",
+    "input": "Alcune delle parole \"caffetteria\", \"chilo\", \"origine\", \"cricket\" e \"fine\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "959",
+    "input": "Alcune delle parole \"associazione\", \"famiglia\", \"ferro\", \"judo\" e \"musical\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "96",
+    "input": "Alcune delle parole \"argento\", \"sci\", \"maremoto\", \"viale\" e \"superstrada\" sono tipi di posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "960",
+    "input": "Alcune delle parole \"orrore\", \"azzurro\", \"chiave\", \"bocca\" e \"altezza\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "961",
+    "input": "Alcune delle parole \"guanti\", \"grammo\", \"economia\", \"sardina\" e \"judo\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "962",
+    "input": "Alcune delle parole \"causa\", \"aggettivo\", \"consiglio\", \"cameriere\" e \"famiglia\" sono tipi di parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "963",
+    "input": "Alcune delle parole \"canottaggio\", \"libertà\", \"mignolo\", \"mutande\" e \"sviluppo\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "964",
+    "input": "Alcune delle parole \"uomo\", \"grillo\", \"spavento\", \"rabbia\" e \"morte\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "969",
+    "input": "Alcune delle parole \"bianco\", \"tuta\", \"pittore\", \"conseguenza\" e \"sicurezza\" sono tipi di colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "970",
+    "input": "Alcune delle parole \"automobile\", \"attacco\", \"coniuge\", \"risultato\" e \"cosa\" sono tipi di trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "971",
+    "input": "Alcune delle parole \"scoiattolo\", \"drammatico\", \"olfatto\", \"viale\" e \"passero\" sono tipi di giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "975",
+    "input": "Alcune delle parole \"immagine\", \"stazione\", \"giacca\", \"aragosta\" e \"elettricista\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "976",
+    "input": "Alcune delle parole \"nascita\", \"bus\", \"rabbia\", \"porta\" e \"traffico\" sono tipi di aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "977",
+    "input": "Alcune delle parole \"decremento\", \"paese\", \"memoria\", \"centimetro\" e \"carrozza\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "978",
+    "input": "Alcune delle parole \"zucca\", \"decelerazione\", \"posizione\", \"motorino\" e \"forchetta\" sono tipi di parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "98",
+    "input": "Alcune delle parole \"guardiano\", \"valore\", \"provincia\", \"pizzeria\" e \"bronzo\" sono tipi di materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "981",
+    "input": "Alcune delle parole \"retrocessione\", \"centimetro\", \"desiderio\", \"canale\" e \"inondazione\" sono tipi di classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "982",
+    "input": "Alcune delle parole \"porta\", \"immagine\", \"sassofono\", \"falco\" e \"codice\" sono tipi di strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "983",
+    "input": "Alcune delle parole \"ginnastica\", \"pesce\", \"nipote\", \"nero\" e \"infermiere\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "984",
+    "input": "Alcune delle parole \"sostantivo\", \"decathlon\", \"aria\", \"deputato\" e \"ragione\" sono tipi di ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "985",
+    "input": "Alcune delle parole \"miglioramento\", \"giudice\", \"documentario\", \"poliziotto\" e \"nave\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "986",
+    "input": "Alcune delle parole \"costituzione\", \"funzione\", \"falegname\", \"congresso\" e \"percorso\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "987",
+    "input": "Alcune delle parole \"danno\", \"volano\", \"uomo\", \"violino\" e \"chiocciola\" sono tipi di animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "988",
+    "input": "Alcune delle parole \"idraulico\", \"realtà\", \"cacciavite\", \"movimento\" e \"supermercato\" sono tipi di spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "989",
+    "input": "Alcune delle parole \"giraffa\", \"drammatico\", \"fallimento\", \"cugina\" e \"sicurezza\" sono tipi di termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "990",
+    "input": "Alcune delle parole \"muratore\", \"fase\", \"casa\", \"professore\" e \"scienziato\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "992",
+    "input": "Alcune delle parole \"infante\", \"cugina\", \"terra\", \"deputato\" e \"montagna\" sono tipi di misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "993",
+    "input": "Alcune delle parole \"arrampicata\", \"coniuge\", \"miglioramento\", \"libreria\" e \"casa\" sono tipi di arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "994",
+    "input": "Alcune delle parole \"media\", \"noir\", \"pallanuoto\", \"tennis\" e \"piacere\" sono tipi di genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "995",
+    "input": "Alcune delle parole \"aspetto\", \"grammo\", \"pecora\", \"struttura\" e \"cucchiaino\" sono tipi di termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "996",
+    "input": "Alcune delle parole \"legge\", \"effetto\", \"ingegnere\", \"specie\" e \"donna\" sono tipi di vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "997",
+    "input": "Alcune delle parole \"stazione\", \"caviglia\", \"cerniera\", \"edificio\" e \"madre\" sono tipi di verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "999",
+    "input": "Alcune delle parole \"aumento\", \"libreria\", \"comunità\", \"concetto\" e \"mercoledì\" sono tipi di professioni? Rispondi o \"sì\" o \"no\"."
+  }
+]

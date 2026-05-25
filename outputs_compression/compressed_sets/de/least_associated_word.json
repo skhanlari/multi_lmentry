@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1",
+    "input": "Welches der Wörter \"Hüfte\", \"Schnurrbart\", \"Hand\", \"Körper\" und \"grün\" wird am wenigsten mit der Kategorie \"menschlicher Körper\" assoziiert?"
+  },
+  {
+    "id": "22",
+    "input": "Welches der Wörter \"dann\", \"zweiter\", \"dritter\", \"fünfter\" und \"zehnter\" wird am wenigsten mit der Kategorie \"Ordinalzahlen\" assoziiert?"
+  },
+  {
+    "id": "26",
+    "input": "Welches der Wörter \"singen\", \"fest\", \"hinzufügen\", \"finden\" und \"schweigen\" wird am wenigsten mit der Kategorie \"Aktivitätsverben\" assoziiert?"
+  },
+  {
+    "id": "37",
+    "input": "Welches der Wörter \"laut\", \"Kellner\", \"an\", \"über\" und \"von\" wird am wenigsten mit der Kategorie \"Präpositionen\" assoziiert?"
+  },
+  {
+    "id": "41",
+    "input": "Welches der Wörter \"Berg\", \"Fluss\", \"sechs\", \"Teich\" und \"See\" wird am wenigsten mit der Kategorie \"Geografie\" assoziiert?"
+  },
+  {
+    "id": "46",
+    "input": "Welches der Wörter \"zwei\", \"sieben\", \"Chronik\", \"eins\" und \"acht\" wird am wenigsten mit der Kategorie \"Zahlen\" assoziiert?"
+  },
+  {
+    "id": "65",
+    "input": "Welches der Wörter \"Kilometer\", \"hören\", \"berühren\", \"sehen\" und \"wahrnehmen\" wird am wenigsten mit der Kategorie \"Verben der Wahrnehmung\" assoziiert?"
+  },
+  {
+    "id": "73",
+    "input": "Welches der Wörter \"letzter\", \"groß\", \"hundertster\", \"zweiter\" und \"millionster\" wird am wenigsten mit der Kategorie \"Ordinalzahlen\" assoziiert?"
+  },
+  {
+    "id": "83",
+    "input": "Welches der Wörter \"Fischgeschäft\", \"schwach\", \"Friseursalon\", \"Markt\" und \"Bar\" wird am wenigsten mit der Kategorie \"Arbeitsplätze\" assoziiert?"
+  },
+  {
+    "id": "88",
+    "input": "Welches der Wörter \"Kürbis\", \"Radieschen\", \"Lauch\", \"Rote Bete\" und \"sofort\" wird am wenigsten mit der Kategorie \"Gemüse\" assoziiert?"
+  },
+  {
+    "id": "105",
+    "input": "Welches der Wörter \"Gerät\", \"erster\", \"Schnur\", \"Nagel\" und \"Kammer\" wird am wenigsten mit der Kategorie \"Werkzeuge\" assoziiert?"
+  },
+  {
+    "id": "146",
+    "input": "Welches der Wörter \"See\", \"Adverb\", \"Adjektiv\", \"Pronomen\" und \"Artikel\" wird am wenigsten mit der Kategorie \"Wortarten\" assoziiert?"
+  },
+  {
+    "id": "161",
+    "input": "Welches der Wörter \"treten\", \"mein\", \"ihr\", \"euer\" und \"unser\" wird am wenigsten mit der Kategorie \"Possesivpronomen\" assoziiert?"
+  },
+  {
+    "id": "183",
+    "input": "Welches der Wörter \"Herr\", \"Leute\", \"Erwachsener\", \"Mann\" und \"Verwaltung\" wird am wenigsten mit der Kategorie \"Menschen\" assoziiert?"
+  },
+  {
+    "id": "184",
+    "input": "Welches der Wörter \"verschwinden\", \"Geburt\", \"Tod\", \"Wesen\" und \"Art\" wird am wenigsten mit der Kategorie \"Leben\" assoziiert?"
+  },
+  {
+    "id": "201",
+    "input": "Welches der Wörter \"heiß\", \"Blei\", \"lecker\", \"weich\" und \"süß\" wird am wenigsten mit der Kategorie \"wahrnehmungsbezogene Adjektive\" assoziiert?"
+  },
+  {
+    "id": "244",
+    "input": "Welches der Wörter \"Erwachsener\", \"Dame\", \"Mädchen\", \"Jugendlicher\" und \"März\" wird am wenigsten mit der Kategorie \"Menschen\" assoziiert?"
+  },
+  {
+    "id": "252",
+    "input": "Welches der Wörter \"Vertrauen\", \"erfreut\", \"Leistung\", \"Unterbrechung\" und \"Angst\" wird am wenigsten mit der Kategorie \"Abstrakte Substantive\" assoziiert?"
+  },
+  {
+    "id": "266",
+    "input": "Welches der Wörter \"Menge\", \"Kilometer\", \"händisch\", \"Milliliter\" und \"Gramm\" wird am wenigsten mit der Kategorie \"Maßeinheiten\" assoziiert?"
+  },
+  {
+    "id": "288",
+    "input": "Welches der Wörter \"wachsen\", \"sterben\", \"leben\", \"erscheinen\" und \"Gemeinschaft\" wird am wenigsten mit der Kategorie \"Zustandsverben\" assoziiert?"
+  },
+  {
+    "id": "320",
+    "input": "Welches der Wörter \"sieben\", \"nichts\", \"vier\", \"zwei\" und \"zehn\" wird am wenigsten mit der Kategorie \"Zahlen\" assoziiert?"
+  },
+  {
+    "id": "338",
+    "input": "Welches der Wörter \"existieren\", \"sterben\", \"verschwinden\", \"leben\" und \"gering\" wird am wenigsten mit der Kategorie \"Zustandsverben\" assoziiert?"
+  },
+  {
+    "id": "347",
+    "input": "Welches der Wörter \"Beutel\", \"Kette\", \"Wagen\", \"Schnur\" und \"Waffe\" wird am wenigsten mit der Kategorie \"Werkzeuge\" assoziiert?"
+  },
+  {
+    "id": "350",
+    "input": "Welches der Wörter \"etwa\", \"anschließend\", \"demnächst\", \"aktuell\" und \"gleich\" wird am wenigsten mit der Kategorie \"Temporaladverbien\" assoziiert?"
+  },
+  {
+    "id": "366",
+    "input": "Welches der Wörter \"über\", \"um\", \"laut\", \"lila\" und \"von\" wird am wenigsten mit der Kategorie \"Präpositionen\" assoziiert?"
+  },
+  {
+    "id": "367",
+    "input": "Welches der Wörter \"allgemein\", \"alt\", \"stark\", \"breit\" und \"richtig\" wird am wenigsten mit der Kategorie \"Qualitätsadjektive\" assoziiert?"
+  },
+  {
+    "id": "385",
+    "input": "Welches der Wörter \"zehnter\", \"erster\", \"hundertster\", \"millionster\" und \"Frau\" wird am wenigsten mit der Kategorie \"Ordinalzahlen\" assoziiert?"
+  },
+  {
+    "id": "401",
+    "input": "Welches der Wörter \"Artischocke\", \"mitten\", \"vorne\", \"unter\" und \"außen\" wird am wenigsten mit der Kategorie \"Lokaladverbien\" assoziiert?"
+  },
+  {
+    "id": "431",
+    "input": "Welches der Wörter \"Insekt\", \"Huhn\", \"Vogel\", \"Wohnung\" und \"Tintenfisch\" wird am wenigsten mit der Kategorie \"Tiere\" assoziiert?"
+  },
+  {
+    "id": "447",
+    "input": "Welches der Wörter \"Geburt\", \"Leben\", \"Lebewesen\", \"lächeln\" und \"Art\" wird am wenigsten mit der Kategorie \"Leben\" assoziiert?"
+  },
+  {
+    "id": "467",
+    "input": "Welches der Wörter \"Geburt\", \"Fortpflanzung\", \"wie\", \"Leben\" und \"Wesen\" wird am wenigsten mit der Kategorie \"Leben\" assoziiert?"
+  },
+  {
+    "id": "477",
+    "input": "Welches der Wörter \"Gerät\", \"März\", \"Schlüssel\", \"Kette\" und \"Waffe\" wird am wenigsten mit der Kategorie \"Werkzeuge\" assoziiert?"
+  },
+  {
+    "id": "533",
+    "input": "Welches der Wörter \"eins\", \"vier\", \"zehn\", \"fünf\" und \"weit\" wird am wenigsten mit der Kategorie \"Zahlen\" assoziiert?"
+  },
+  {
+    "id": "534",
+    "input": "Welches der Wörter \"anschließend\", \"spät\", \"heute\", \"Journalistin\" und \"sofort\" wird am wenigsten mit der Kategorie \"Temporaladverbien\" assoziiert?"
+  },
+  {
+    "id": "535",
+    "input": "Welches der Wörter \"Elefant\", \"Stechmücke\", \"Hase\", \"Falter\" und \"sieben\" wird am wenigsten mit der Kategorie \"Tiere\" assoziiert?"
+  },
+  {
+    "id": "538",
+    "input": "Welches der Wörter \"Bäckerei\", \"Bibliothek\", \"Geschäft\", \"Markt\" und \"Mann\" wird am wenigsten mit der Kategorie \"Arbeitsplätze\" assoziiert?"
+  },
+  {
+    "id": "541",
+    "input": "Welches der Wörter \"Dschungel\", \"Fluss\", \"Staat\", \"Teich\" und \"Urwald\" wird am wenigsten mit der Kategorie \"Geografie\" assoziiert?"
+  },
+  {
+    "id": "562",
+    "input": "Welches der Wörter \"Produkt\", \"Straßenbahn\", \"Wagen\", \"Straße\" und \"Haltestelle\" wird am wenigsten mit der Kategorie \"Transport\" assoziiert?"
+  },
+  {
+    "id": "579",
+    "input": "Welches der Wörter \"Lawine\", \"Tsunami\", \"Menge\", \"Dürre\" und \"Brand\" wird am wenigsten mit der Kategorie \"Naturkatastrophen\" assoziiert?"
+  },
+  {
+    "id": "594",
+    "input": "Welches der Wörter \"Fluss\", \"da\", \"aber\", \"dann\" und \"wenn\" wird am wenigsten mit der Kategorie \"Konjunktionen\" assoziiert?"
+  },
+  {
+    "id": "596",
+    "input": "Welches der Wörter \"einschließlich\", \"offensichtlich\", \"absichtlich\", \"umgekehrt\" und \"Billard\" wird am wenigsten mit der Kategorie \"Modeladverbien\" assoziiert?"
+  },
+  {
+    "id": "610",
+    "input": "Welches der Wörter \"nie\", \"warm\", \"salzig\", \"kühl\" und \"furchtbar\" wird am wenigsten mit der Kategorie \"wahrnehmungsbezogene Adjektive\" assoziiert?"
+  },
+  {
+    "id": "650",
+    "input": "Welches der Wörter \"Spinat\", \"Rote Bete\", \"Bus\", \"Gurke\" und \"Karotte\" wird am wenigsten mit der Kategorie \"Gemüse\" assoziiert?"
+  },
+  {
+    "id": "691",
+    "input": "Welches der Wörter \"möglicherweise\", \"Februar\", \"vielleicht\", \"ebenfalls\" und \"nie\" wird am wenigsten mit der Kategorie \"Modaladverbien\" assoziiert?"
+  },
+  {
+    "id": "692",
+    "input": "Welches der Wörter \"Faden\", \"Schlüssel\", \"Kammer\", \"Wüste\" und \"Nadel\" wird am wenigsten mit der Kategorie \"Werkzeuge\" assoziiert?"
+  },
+  {
+    "id": "709",
+    "input": "Welches der Wörter \"schlagen\", \"setzen\", \"treten\", \"fünf\" und \"halten\" wird am wenigsten mit der Kategorie \"Verben der Bewegung\" assoziiert?"
+  },
+  {
+    "id": "714",
+    "input": "Welches der Wörter \"Bekanntschaft\", \"Cousine\", \"Tochter\", \"Zerstörung\" und \"Urenkel\" wird am wenigsten mit der Kategorie \"Familie\" assoziiert?"
+  },
+  {
+    "id": "724",
+    "input": "Welches der Wörter \"aber\", \"wann\", \"obwohl\", \"Kopf\" und \"außer\" wird am wenigsten mit der Kategorie \"Konjunktionen\" assoziiert?"
+  },
+  {
+    "id": "763",
+    "input": "Welches der Wörter \"Fortpflanzung\", \"Schlagzeug\", \"Leben\", \"Geburt\" und \"Wesen\" wird am wenigsten mit der Kategorie \"Leben\" assoziiert?"
+  },
+  {
+    "id": "775",
+    "input": "Welches der Wörter \"Juli\", \"genau\", \"so\", \"ziemlich\" und \"nur\" wird am wenigsten mit der Kategorie \"Gradpartikel\" assoziiert?"
+  },
+  {
+    "id": "795",
+    "input": "Welches der Wörter \"Zuhause\", \"etwas\", \"Bett\", \"Raum\" und \"Haus\" wird am wenigsten mit der Kategorie \"Zuhause\" assoziiert?"
+  },
+  {
+    "id": "827",
+    "input": "Welches der Wörter \"Stellvertreterin\", \"kompakt\", \"klein\", \"groß\" und \"breit\" wird am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert?"
+  },
+  {
+    "id": "832",
+    "input": "Welches der Wörter \"Bruder\", \"Urgroßvater\", \"Gitarre\", \"Freund\" und \"Cousin\" wird am wenigsten mit der Kategorie \"Familie\" assoziiert?"
+  },
+  {
+    "id": "843",
+    "input": "Welches der Wörter \"Tisch\", \"Zimmer\", \"Haus\", \"Wohnung\" und \"Eidechse\" wird am wenigsten mit der Kategorie \"Zuhause\" assoziiert?"
+  },
+  {
+    "id": "846",
+    "input": "Welches der Wörter \"sehr\", \"fast\", \"etwas\", \"ungefähr\" und \"Erdbeben\" wird am wenigsten mit der Kategorie \"Gradpartikel\" assoziiert?"
+  },
+  {
+    "id": "853",
+    "input": "Welches der Wörter \"Bart\", \"Teich\", \"Schienbein\", \"Hintern\" und \"Brust\" wird am wenigsten mit der Kategorie \"menschlicher Körper\" assoziiert?"
+  },
+  {
+    "id": "888",
+    "input": "Welches der Wörter \"Nacktschnecke\", \"verlassen\", \"Hirsch\", \"Spinne\" und \"Krokodil\" wird am wenigsten mit der Kategorie \"Tiere\" assoziiert?"
+  },
+  {
+    "id": "890",
+    "input": "Welches der Wörter \"dort\", \"fühlen\", \"vor\", \"hinten\" und \"innen\" wird am wenigsten mit der Kategorie \"Lokaladverbien\" assoziiert?"
+  },
+  {
+    "id": "913",
+    "input": "Welches der Wörter \"während\", \"früher\", \"Mangold\", \"morgen\" und \"eben\" wird am wenigsten mit der Kategorie \"Temporaladverbien\" assoziiert?"
+  },
+  {
+    "id": "940",
+    "input": "Welches der Wörter \"Komödie\", \"Romanze\", \"Musical\", \"Chronik\" und \"September\" wird am wenigsten mit der Kategorie \"Filmgenre\" assoziiert?"
+  },
+  {
+    "id": "958",
+    "input": "Welches der Wörter \"Überraschung\", \"Charakter\", \"Misserfolg\", \"bewegen\" und \"Notwendigkeit\" wird am wenigsten mit der Kategorie \"Abstrakte Substantive\" assoziiert?"
+  },
+  {
+    "id": "967",
+    "input": "Welches der Wörter \"Rücken\", \"Körper\", \"Schulter\", \"Haus\" und \"Hand\" wird am wenigsten mit der Kategorie \"menschlicher Körper\" assoziiert?"
+  },
+  {
+    "id": "979",
+    "input": "Welches der Wörter \"Kegeln\", \"normal\", \"umgekehrt\", \"offensichtlich\" und \"außerdem\" wird am wenigsten mit der Kategorie \"Modeladverbien\" assoziiert?"
+  },
+  {
+    "id": "993",
+    "input": "Welches der Wörter \"Firma\", \"Lawine\", \"Brand\", \"Überschwemmung\" und \"Dürre\" wird am wenigsten mit der Kategorie \"Naturkatastrophen\" assoziiert?"
+  },
+  {
+    "id": "1022",
+    "input": "Welches der Wörter \"dann\", \"zweiter\", \"dritter\", \"fünfter\" und \"zehnter\", ist am wenigsten mit der Kategorie \"Ordinalzahlen\" verwandt?"
+  },
+  {
+    "id": "1047",
+    "input": "Welches der Wörter \"breit\", \"dick\", \"kompakt\", \"dünn\" und \"ziemlich\", ist am wenigsten mit der Kategorie \"formbezogene Adjektive\" verwandt?"
+  },
+  {
+    "id": "1048",
+    "input": "Welches der Wörter \"Milliliter\", \"Summe\", \"Kilometer\", \"Zentimeter\" und \"Taxi\", ist am wenigsten mit der Kategorie \"Maßeinheiten\" verwandt?"
+  },
+  {
+    "id": "1053",
+    "input": "Welches der Wörter \"Verb\", \"Adverb\", \"Artikel\", \"sein\" und \"Präposition\", ist am wenigsten mit der Kategorie \"Wortarten\" verwandt?"
+  },
+  {
+    "id": "1055",
+    "input": "Welches der Wörter \"Friseursalon\", \"mein\", \"Markt\", \"Bäckerei\" und \"Bank\", ist am wenigsten mit der Kategorie \"Arbeitsplätze\" verwandt?"
+  },
+  {
+    "id": "1063",
+    "input": "Welches der Wörter \"Rathaus\", \"riechen\", \"Schule\", \"Büro\" und \"Bäckerei\", ist am wenigsten mit der Kategorie \"Arbeitsplätze\" verwandt?"
+  },
+  {
+    "id": "1072",
+    "input": "Welches der Wörter \"existieren\", \"wachsen\", \"sterben\", \"leben\" und \"Fußball\", ist am wenigsten mit der Kategorie \"Zustandsverben\" verwandt?"
+  },
+  {
+    "id": "1076",
+    "input": "Welches der Wörter \"Summe\", \"Menge\", \"Maß\", \"hier\" und \"Gramm\", ist am wenigsten mit der Kategorie \"Maßeinheiten\" verwandt?"
+  },
+  {
+    "id": "1108",
+    "input": "Welches der Wörter \"öffnen\", \"lassen\", \"verlassen\", \"folgen\" und \"Bildschirm\", ist am wenigsten mit der Kategorie \"Aktivitätsverben\" verwandt?"
+  },
+  {
+    "id": "1111",
+    "input": "Welches der Wörter \"Abgeordneter\", \"Briefträgerin\", \"Astronautin\", \"trösten\" und \"Präsidentin\", ist am wenigsten mit der Kategorie \"Berufe\" verwandt?"
+  },
+  {
+    "id": "1114",
+    "input": "Welches der Wörter \"außen\", \"innen\", \"Restaurant\", \"hinter\" und \"vor\", ist am wenigsten mit der Kategorie \"Lokaladverbien\" verwandt?"
+  },
+  {
+    "id": "1123",
+    "input": "Welches der Wörter \"Adverb\", \"Waffe\", \"Kette\", \"Nagel\" und \"Beutel\", ist am wenigsten mit der Kategorie \"Werkzeuge\" verwandt?"
+  },
+  {
+    "id": "1135",
+    "input": "Welches der Wörter \"Drama\", \"Krimi\", \"Konjunktion\", \"Zeichentrick\" und \"Musical\", ist am wenigsten mit der Kategorie \"Filmgenre\" verwandt?"
+  },
+  {
+    "id": "1148",
+    "input": "Welches der Wörter \"gehen\", \"halten\", \"werfen\", \"nähern\" und \"sehr\", ist am wenigsten mit der Kategorie \"Verben der Bewegung\" verwandt?"
+  },
+  {
+    "id": "1153",
+    "input": "Welches der Wörter \"Art\", \"Geburt\", \"Wesen\", \"Gewicht\" und \"Lebewesen\", ist am wenigsten mit der Kategorie \"Leben\" verwandt?"
+  },
+  {
+    "id": "1167",
+    "input": "Welches der Wörter \"Präposition\", \"Romanze\", \"Komödie\", \"Musical\" und \"Zeichentrick\", ist am wenigsten mit der Kategorie \"Filmgenre\" verwandt?"
+  },
+  {
+    "id": "1179",
+    "input": "Welches der Wörter \"Kürbis\", \"Bohnen\", \"um\", \"Kohl\" und \"Mais\", ist am wenigsten mit der Kategorie \"Gemüse\" verwandt?"
+  },
+  {
+    "id": "1205",
+    "input": "Welches der Wörter \"genießen\", \"Pronomen\", \"lachen\", \"lächeln\" und \"gefallen\", ist am wenigsten mit der Kategorie \"Gefühlsverben\" verwandt?"
+  },
+  {
+    "id": "1210",
+    "input": "Welches der Wörter \"aus\", \"gegen\", \"auf\", \"März\" und \"zwischen\", ist am wenigsten mit der Kategorie \"Präpositionen\" verwandt?"
+  },
+  {
+    "id": "1232",
+    "input": "Welches der Wörter \"mit\", \"Mensch\", \"Mädchen\", \"Rentner\" und \"Mann\", ist am wenigsten mit der Kategorie \"Menschen\" verwandt?"
+  },
+  {
+    "id": "1237",
+    "input": "Welches der Wörter \"absichtlich\", \"schlechter\", \"sogar\", \"Wasser\" und \"umgekehrt\", ist am wenigsten mit der Kategorie \"Modeladverbien\" verwandt?"
+  },
+  {
+    "id": "1253",
+    "input": "Welches der Wörter \"rot\", \"hinten\", \"orange\", \"rosa\" und \"gelb\", ist am wenigsten mit der Kategorie \"Farben\" verwandt?"
+  },
+  {
+    "id": "1259",
+    "input": "Welches der Wörter \"Tod\", \"Turnen\", \"Tennis\", \"Kegeln\" und \"Segeln\", ist am wenigsten mit der Kategorie \"Sport\" verwandt?"
+  },
+  {
+    "id": "1268",
+    "input": "Welches der Wörter \"Artischocke\", \"Rote Bete\", \"Erbsen\", \"Zucchini\" und \"wünschen\", ist am wenigsten mit der Kategorie \"Gemüse\" verwandt?"
+  },
+  {
+    "id": "1319",
+    "input": "Welches der Wörter \"Frau\", \"Luft\", \"Person\", \"Junge\" und \"Mensch\", ist am wenigsten mit der Kategorie \"Menschen\" verwandt?"
+  },
+  {
+    "id": "1343",
+    "input": "Welches der Wörter \"traurig\", \"Lippe\", \"Fuß\", \"Finger\" und \"Muskel\", ist am wenigsten mit der Kategorie \"menschlicher Körper\" verwandt?"
+  },
+  {
+    "id": "1380",
+    "input": "Welches der Wörter \"Neffe\", \"Schnurrbart\", \"Urenkel\", \"Tante\" und \"Schwester\", ist am wenigsten mit der Kategorie \"Familie\" verwandt?"
+  },
+  {
+    "id": "1384",
+    "input": "Welches der Wörter \"ihr\", \"euer\", \"Strecke\", \"sein\" und \"mein\", ist am wenigsten mit der Kategorie \"Possesivpronomen\" verwandt?"
+  },
+  {
+    "id": "1408",
+    "input": "Welches der Wörter \"Handel\", \"Feinkostladen\", \"Nachfrage\", \"Transaktion\" und \"Dienstleistung\", ist am wenigsten mit der Kategorie \"Wirtschaft\" verwandt?"
+  },
+  {
+    "id": "1428",
+    "input": "Welches der Wörter \"nie\", \"ebenfalls\", \"auch\", \"bei\" und \"vielleicht\", ist am wenigsten mit der Kategorie \"Modaladverbien\" verwandt?"
+  },
+  {
+    "id": "1437",
+    "input": "Welches der Wörter \"Tasche\", \"Krawatte\", \"Brille\", \"da\" und \"T-shirt\", ist am wenigsten mit der Kategorie \"Kleidung\" verwandt?"
+  },
+  {
+    "id": "1444",
+    "input": "Welches der Wörter \"absichtlich\", \"müde\", \"schlechter\", \"schnell\" und \"natürlich\", ist am wenigsten mit der Kategorie \"Modeladverbien\" verwandt?"
+  },
+  {
+    "id": "1450",
+    "input": "Welches der Wörter \"Wirbelsturm\", \"Tsunami\", \"Segeln\", \"Brand\" und \"Lawine\", ist am wenigsten mit der Kategorie \"Naturkatastrophen\" verwandt?"
+  },
+  {
+    "id": "1458",
+    "input": "Welches der Wörter \"Bus\", \"Blei\", \"Salz\", \"Erde\" und \"Luft\", ist am wenigsten mit der Kategorie \"Stoffe\" verwandt?"
+  },
+  {
+    "id": "1462",
+    "input": "Welches der Wörter \"Markt\", \"traurig\", \"ängstlich\", \"interessiert\" und \"schmerzhaft\", ist am wenigsten mit der Kategorie \"gefühlsbezogene Adjektive\" verwandt?"
+  },
+  {
+    "id": "1470",
+    "input": "Welches der Wörter \"fühlen\", \"Lebewesen\", \"Geburt\", \"Wesen\" und \"Leben\", ist am wenigsten mit der Kategorie \"Leben\" verwandt?"
+  },
+  {
+    "id": "1473",
+    "input": "Welches der Wörter \"weiterhin\", \"schon\", \"spät\", \"Bildschirm\" und \"schließlich\", ist am wenigsten mit der Kategorie \"Temporaladverbien\" verwandt?"
+  },
+  {
+    "id": "1491",
+    "input": "Welches der Wörter \"Wald\", \"Wüste\", \"Strand\", \"See\" und \"besonders\", ist am wenigsten mit der Kategorie \"Geografie\" verwandt?"
+  },
+  {
+    "id": "1501",
+    "input": "Welches der Wörter \"genießen\", \"gefallen\", \"Tornado\", \"trösten\" und \"wünschen\", ist am wenigsten mit der Kategorie \"Gefühlsverben\" verwandt?"
+  },
+  {
+    "id": "1503",
+    "input": "Welches der Wörter \"Krimi\", \"Märchen\", \"Rollerskates\", \"Chronik\" und \"Romanze\", ist am wenigsten mit der Kategorie \"Filmgenre\" verwandt?"
+  },
+  {
+    "id": "1506",
+    "input": "Welches der Wörter \"Dienstleistung\", \"Fahrschein\", \"Firma\", \"Produkt\" und \"wünschen\", ist am wenigsten mit der Kategorie \"Wirtschaft\" verwandt?"
+  },
+  {
+    "id": "1519",
+    "input": "Welches der Wörter \"dick\", \"breit\", \"hundertster\", \"groß\" und \"schmal\", ist am wenigsten mit der Kategorie \"formbezogene Adjektive\" verwandt?"
+  },
+  {
+    "id": "1536",
+    "input": "Welches der Wörter \"ländlich\", \"stark\", \"Nadel\", \"händisch\" und \"vielfältig\", ist am wenigsten mit der Kategorie \"Qualitätsadjektive\" verwandt?"
+  },
+  {
+    "id": "1540",
+    "input": "Welches der Wörter \"Waffe\", \"genau\", \"viel\", \"fast\" und \"exakt\", ist am wenigsten mit der Kategorie \"Gradpartikel\" verwandt?"
+  },
+  {
+    "id": "1587",
+    "input": "Welches der Wörter \"Komödie\", \"Musical\", \"Romanze\", \"Krimi\" und \"Gebirge\", ist am wenigsten mit der Kategorie \"Filmgenre\" verwandt?"
+  },
+  {
+    "id": "1608",
+    "input": "Welches der Wörter \"Segeln\", \"Fechten\", \"Skifahren\", \"Schwimmen\" und \"klein\", ist am wenigsten mit der Kategorie \"Sport\" verwandt?"
+  },
+  {
+    "id": "1660",
+    "input": "Welches der Wörter \"Affe\", \"euer\", \"sein\", \"unser\" und \"mein\", ist am wenigsten mit der Kategorie \"Possesivpronomen\" verwandt?"
+  },
+  {
+    "id": "1677",
+    "input": "Welches der Wörter \"gemeinsam\", \"weich\", \"salzig\", \"leicht\" und \"mögen\", ist am wenigsten mit der Kategorie \"wahrnehmungsbezogene Adjektive\" verwandt?"
+  },
+  {
+    "id": "1715",
+    "input": "Welches der Wörter \"Informatikerin\", \"Biologe\", \"sterben\", \"Elektrikerin\" und \"Parlamentarier\", ist am wenigsten mit der Kategorie \"Berufe\" verwandt?"
+  },
+  {
+    "id": "1728",
+    "input": "Welches der Wörter \"Leben\", \"Lebewesen\", \"Geburt\", \"Wesen\" und \"Organisation\", ist am wenigsten mit der Kategorie \"Leben\" verwandt?"
+  },
+  {
+    "id": "1744",
+    "input": "Welches der Wörter \"folgend\", \"zusammen\", \"salzig\", \"Millimeter\" und \"leicht\", ist am wenigsten mit der Kategorie \"wahrnehmungsbezogene Adjektive\" verwandt?"
+  },
+  {
+    "id": "1751",
+    "input": "Welches der Wörter \"Großvater\", \"Enkel\", \"Cousine\", \"Sohn\" und \"Mittel\", ist am wenigsten mit der Kategorie \"Familie\" verwandt?"
+  },
+  {
+    "id": "1777",
+    "input": "Welches der Wörter \"Schlüssel\", \"Abteilung\", \"Beutel\", \"Schnur\" und \"Bildschirm\", ist am wenigsten mit der Kategorie \"Werkzeuge\" verwandt?"
+  },
+  {
+    "id": "1783",
+    "input": "Welches der Wörter \"anders\", \"schwierig\", \"automatisch\", \"Verb\" und \"überlegen\", ist am wenigsten mit der Kategorie \"Qualitätsadjektive\" verwandt?"
+  },
+  {
+    "id": "1793",
+    "input": "Welches der Wörter \"vergleichen\", \"hinweisen\", \"versuchen\", \"probieren\" und \"Preis\", ist am wenigsten mit der Kategorie \"Aktivitätsverben\" verwandt?"
+  },
+  {
+    "id": "1796",
+    "input": "Welches der Wörter \"Spatz\", \"Eidechse\", \"Märchen\", \"Insekt\" und \"Stechmücke\", ist am wenigsten mit der Kategorie \"Tiere\" verwandt?"
+  },
+  {
+    "id": "1819",
+    "input": "Welches der Wörter \"Hotel\", \"Buchhandlung\", \"Tabakladen\", \"Juweliergeschäft\" und \"schwarz\", ist am wenigsten mit der Kategorie \"Arbeitsplätze\" verwandt?"
+  },
+  {
+    "id": "1832",
+    "input": "Welches der Wörter \"Bruder\", \"Urgroßvater\", \"Gitarre\", \"Freund\" und \"Cousin\", ist am wenigsten mit der Kategorie \"Familie\" verwandt?"
+  },
+  {
+    "id": "1875",
+    "input": "Welches der Wörter \"Tarif\", \"Transaktion\", \"nichts\", \"Wirtschaft\" und \"Verbrauch\", ist am wenigsten mit der Kategorie \"Wirtschaft\" verwandt?"
+  },
+  {
+    "id": "1902",
+    "input": "Welches der Wörter \"Auto\", \"Bahn\", \"Weg\", \"Taxi\" und \"Provinz\", ist am wenigsten mit der Kategorie \"Transport\" verwandt?"
+  },
+  {
+    "id": "1932",
+    "input": "Welches der Wörter \"selten\", \"neu\", \"tatsächlich\", \"unwahrscheinlich\" und \"zusammen\", ist am wenigsten mit der Kategorie \"Qualitätsadjektive\" verwandt?"
+  },
+  {
+    "id": "1942",
+    "input": "Welches der Wörter \"Transport\", \"fühlen\", \"berühren\", \"wahrnehmen\" und \"sehen\", ist am wenigsten mit der Kategorie \"Verben der Wahrnehmung\" verwandt?"
+  },
+  {
+    "id": "1955",
+    "input": "Welches der Wörter \"Schule\", \"Buchhandlung\", \"erschrecken\", \"Krankenhaus\" und \"Supermarkt\", ist am wenigsten mit der Kategorie \"Arbeitsplätze\" verwandt?"
+  },
+  {
+    "id": "1967",
+    "input": "Welches der Wörter \"Rücken\", \"Körper\", \"Schulter\", \"Haus\" und \"Hand\", ist am wenigsten mit der Kategorie \"menschlicher Körper\" verwandt?"
+  },
+  {
+    "id": "1971",
+    "input": "Welches der Wörter \"Wirbelsturm\", \"Lawine\", \"Dürre\", \"weiß\" und \"Brand\", ist am wenigsten mit der Kategorie \"Naturkatastrophen\" verwandt?"
+  },
+  {
+    "id": "1973",
+    "input": "Welches der Wörter \"Mann\", \"Herr\", \"Mädchen\", \"Preis\" und \"Dame\", ist am wenigsten mit der Kategorie \"Menschen\" verwandt?"
+  },
+  {
+    "id": "2005",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Wortarten\" assoziiert wird - \"Verb\", \"Konjunktion\", \"Dienstleistung\", \"Adverb\", \"Substantiv\":"
+  },
+  {
+    "id": "2041",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Geografie\" assoziiert wird - \"Berg\", \"Fluss\", \"sechs\", \"Teich\", \"See\":"
+  },
+  {
+    "id": "2043",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gemüse\" assoziiert wird - \"Brokkoli\", \"Sellerie\", \"Kohl\", \"Karotte\", \"Straßenfegerin\":"
+  },
+  {
+    "id": "2047",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert wird - \"breit\", \"dick\", \"kompakt\", \"dünn\", \"ziemlich\":"
+  },
+  {
+    "id": "2048",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Maßeinheiten\" assoziiert wird - \"Milliliter\", \"Summe\", \"Kilometer\", \"Zentimeter\", \"Taxi\":"
+  },
+  {
+    "id": "2057",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Verben der Bewegung\" assoziiert wird - \"schlagen\", \"ankommen\", \"nehmen\", \"gegenüber\", \"herausnehmen\":"
+  },
+  {
+    "id": "2076",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Maßeinheiten\" assoziiert wird - \"Summe\", \"Menge\", \"Maß\", \"hier\", \"Gramm\":"
+  },
+  {
+    "id": "2079",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Stoffe\" assoziiert wird - \"Erde\", \"bauen\", \"Eis\", \"Ton\", \"Wasser\":"
+  },
+  {
+    "id": "2084",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert wird - \"dick\", \"national\", \"groß\", \"kompakt\", \"klein\":"
+  },
+  {
+    "id": "2091",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Leben\" assoziiert wird - \"bei\", \"Lebewesen\", \"Art\", \"Leben\", \"Tod\":"
+  },
+  {
+    "id": "2097",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Naturkatastrophen\" assoziiert wird - \"Montag\", \"Tsunami\", \"Brand\", \"Wirbelsturm\", \"Überschwemmung\":"
+  },
+  {
+    "id": "2098",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Berufe\" assoziiert wird - \"Schreinerin\", \"Brokkoli\", \"Friseurin\", \"Architekt\", \"Biologin\":"
+  },
+  {
+    "id": "2118",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Wochentage\" assoziiert wird - \"Donnerstag\", \"gelb\", \"Montag\", \"Sonntag\", \"Samstag\":"
+  },
+  {
+    "id": "2133",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Konjunktionen\" assoziiert wird - \"wenn\", \"wie\", \"weil\", \"aber\", \"Oktober\":"
+  },
+  {
+    "id": "2135",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Filmgenre\" assoziiert wird - \"Drama\", \"Krimi\", \"Konjunktion\", \"Zeichentrick\", \"Musical\":"
+  },
+  {
+    "id": "2148",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Verben der Bewegung\" assoziiert wird - \"gehen\", \"halten\", \"werfen\", \"nähern\", \"sehr\":"
+  },
+  {
+    "id": "2157",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Zahlen\" assoziiert wird - \"fünf\", \"drei\", \"lachen\", \"zwei\", \"neun\":"
+  },
+  {
+    "id": "2164",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gradpartikel\" assoziiert wird - \"nur\", \"ungefähr\", \"Farbe\", \"ziemlich\", \"fast\":"
+  },
+  {
+    "id": "2170",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Wirtschaft\" assoziiert wird - \"künstlerisch\", \"Tarif\", \"Preis\", \"Produkt\", \"Geld\":"
+  },
+  {
+    "id": "2194",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Sport\" assoziiert wird - \"Fußball\", \"hassen\", \"Hockey\", \"Surfen\", \"Schlittschuhlaufen\":"
+  },
+  {
+    "id": "2207",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Stoffe\" assoziiert wird - \"Ton\", \"Dampf\", \"Leichtathletik\", \"Gold\", \"Salz\":"
+  },
+  {
+    "id": "2238",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Filmgenre\" assoziiert wird - \"Romanze\", \"Komödie\", \"Krimi\", \"Freitag\", \"Drama\":"
+  },
+  {
+    "id": "2242",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Qualitätsadjektive\" assoziiert wird - \"März\", \"international\", \"einfach\", \"wahrscheinlich\", \"automatisch\":"
+  },
+  {
+    "id": "2268",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gemüse\" assoziiert wird - \"Artischocke\", \"Rote Bete\", \"Erbsen\", \"Zucchini\", \"wünschen\":"
+  },
+  {
+    "id": "2274",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Arbeitsplätze\" assoziiert wird - \"grün\", \"Fahrschule\", \"Tabakladen\", \"Cafeteria\", \"Fischgeschäft\":"
+  },
+  {
+    "id": "2291",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Possesivpronomen\" assoziiert wird - \"mein\", \"ihr\", \"dick\", \"unser\", \"euer\":"
+  },
+  {
+    "id": "2293",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gefühlsverben\" assoziiert wird - \"erschrecken\", \"hassen\", \"wünschen\", \"Montag\", \"mögen\":"
+  },
+  {
+    "id": "2296",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Leben\" assoziiert wird - \"Tod\", \"Leben\", \"Art\", \"Gesicht\", \"Fortpflanzung\":"
+  },
+  {
+    "id": "2301",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Leben\" assoziiert wird - \"Fortpflanzung\", \"Leben\", \"Zentimeter\", \"Art\", \"Wesen\":"
+  },
+  {
+    "id": "2306",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Leben\" assoziiert wird - \"Leben\", \"Schreibwarenladen\", \"Tod\", \"Lebewesen\", \"Wesen\":"
+  },
+  {
+    "id": "2323",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Familie\" assoziiert wird - \"kompakt\", \"Nichte\", \"Bekannter\", \"Partner\", \"Onkel\":"
+  },
+  {
+    "id": "2331",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Konjunktionen\" assoziiert wird - \"begleiten\", \"obwohl\", \"dann\", \"sondern\", \"wann\":"
+  },
+  {
+    "id": "2369",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Sport\" assoziiert wird - \"Golf\", \"Fechten\", \"Volleyball\", \"gegen\", \"Leichtathletik\":"
+  },
+  {
+    "id": "2377",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Temporaladverbien\" assoziiert wird - \"also\", \"aktuell\", \"noch\", \"können\", \"schließlich\":"
+  },
+  {
+    "id": "2396",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Instrumente\" assoziiert wird - \"Gitarre\", \"Trompete\", \"Flöte\", \"Schlüssel\", \"Geige\":"
+  },
+  {
+    "id": "2409",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Abstrakte Substantive\" assoziiert wird - \"Ereignis\", \"Empfindung\", \"Möglichkeit\", \"stinkend\", \"Erfolg\":"
+  },
+  {
+    "id": "2446",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert wird - \"dünn\", \"dein\", \"groß\", \"breit\", \"klein\":"
+  },
+  {
+    "id": "2453",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Zustandsverben\" assoziiert wird - \"verschwinden\", \"Fortpflanzung\", \"sterben\", \"erscheinen\", \"wachsen\":"
+  },
+  {
+    "id": "2480",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert wird - \"Hase\", \"kompakt\", \"dünn\", \"klein\", \"groß\":"
+  },
+  {
+    "id": "2481",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Präpositionen\" assoziiert wird - \"gegen\", \"Feuer\", \"über\", \"bis\", \"laut\":"
+  },
+  {
+    "id": "2500",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Zahlen\" assoziiert wird - \"drei\", \"eins\", \"vier\", \"sechs\", \"Eidechse\":"
+  },
+  {
+    "id": "2502",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Tiere\" assoziiert wird - \"Kuh\", \"Hase\", \"geben\", \"Krebs\", \"Wal\":"
+  },
+  {
+    "id": "2505",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Tiere\" assoziiert wird - \"Krokodil\", \"genau\", \"Katze\", \"Hase\", \"Fliege\":"
+  },
+  {
+    "id": "2507",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"menschlicher Körper\" assoziiert wird - \"Gramm\", \"Ellenbogen\", \"Gesicht\", \"Auge\", \"Schienbein\":"
+  },
+  {
+    "id": "2570",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Wortarten\" assoziiert wird - \"Adjektiv\", \"Artikel\", \"Pronomen\", \"Substantiv\", \"Komödie\":"
+  },
+  {
+    "id": "2593",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Aktivitätsverben\" assoziiert wird - \"hinweisen\", \"bewerten\", \"ihr\", \"bedeuten\", \"verneinen\":"
+  },
+  {
+    "id": "2597",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Arbeitsplätze\" assoziiert wird - \"Metzgerei\", \"Supermarkt\", \"Geschäft\", \"Apotheke\", \"gleich\":"
+  },
+  {
+    "id": "2599",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Präpositionen\" assoziiert wird - \"um\", \"laut\", \"Kammer\", \"ohne\", \"von\":"
+  },
+  {
+    "id": "2605",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gesellschaft\" assoziiert wird - \"Verein\", \"Recht\", \"Dorf\", \"schmal\", \"Stellung\":"
+  },
+  {
+    "id": "2612",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Konjunktionen\" assoziiert wird - \"wenn\", \"Substantiv\", \"aber\", \"als\", \"da\":"
+  },
+  {
+    "id": "2617",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Zuhause\" assoziiert wird - \"Zuhause\", \"Schreibtisch\", \"Fenster\", \"nichts\", \"Gebäude\":"
+  },
+  {
+    "id": "2625",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Stoffe\" assoziiert wird - \"Eisen\", \"Individuum\", \"Gas\", \"Wasser\", \"Ton\":"
+  },
+  {
+    "id": "2630",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Qualitätsadjektive\" assoziiert wird - \"Länge\", \"gewöhnlich\", \"neu\", \"notwendig\", \"unwahrscheinlich\":"
+  },
+  {
+    "id": "2640",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Possesivpronomen\" assoziiert wird - \"ihr\", \"dein\", \"euer\", \"zwei\", \"mein\":"
+  },
+  {
+    "id": "2641",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"menschlicher Körper\" assoziiert wird - \"Ton\", \"Herz\", \"Rücken\", \"Fingernagel\", \"Ellenbogen\":"
+  },
+  {
+    "id": "2642",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Verben der Wahrnehmung\" assoziiert wird - \"hören\", \"berühren\", \"wahrnehmen\", \"sehen\", \"Geburt\":"
+  },
+  {
+    "id": "2650",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gemüse\" assoziiert wird - \"Spinat\", \"Rote Bete\", \"Bus\", \"Gurke\", \"Karotte\":"
+  },
+  {
+    "id": "2670",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Sport\" assoziiert wird - \"Skifahren\", \"Tanzen\", \"Bürgermeisterin\", \"Billard\", \"Schwimmen\":"
+  },
+  {
+    "id": "2676",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Familie\" assoziiert wird - \"Kollege\", \"Bekannter\", \"Nichte\", \"Bekanntschaft\", \"Katze\":"
+  },
+  {
+    "id": "2678",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"wahrnehmungsbezogene Adjektive\" assoziiert wird - \"zusammen\", \"Polizistin\", \"nachträglich\", \"lecker\", \"kühl\":"
+  },
+  {
+    "id": "2692",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Werkzeuge\" assoziiert wird - \"Faden\", \"Schlüssel\", \"Kammer\", \"Wüste\", \"Nadel\":"
+  },
+  {
+    "id": "2704",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Monate des Jahres\" assoziiert wird - \"Großvater\", \"Januar\", \"November\", \"Mai\", \"Dezember\":"
+  },
+  {
+    "id": "2714",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Familie\" assoziiert wird - \"Bekanntschaft\", \"Cousine\", \"Tochter\", \"Zerstörung\", \"Urenkel\":"
+  },
+  {
+    "id": "2729",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Maßeinheiten\" assoziiert wird - \"Tsunami\", \"Millimeter\", \"Gramm\", \"Kilo\", \"Maß\":"
+  },
+  {
+    "id": "2732",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Gefühlsverben\" assoziiert wird - \"gefallen\", \"weinen\", \"Flugzeug\", \"hassen\", \"genießen\":"
+  },
+  {
+    "id": "2757",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Modeladverbien\" assoziiert wird - \"einschließlich\", \"umgekehrt\", \"Mittel\", \"normal\", \"offensichtlich\":"
+  },
+  {
+    "id": "2781",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Temporaladverbien\" assoziiert wird - \"früh\", \"herausnehmen\", \"gleich\", \"bald\", \"eben\":"
+  },
+  {
+    "id": "2820",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Verben der Bewegung\" assoziiert wird - \"halten\", \"nehmen\", \"zurückkehren\", \"Informatikerin\", \"greifen\":"
+  },
+  {
+    "id": "2827",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert wird - \"Stellvertreterin\", \"kompakt\", \"klein\", \"groß\", \"breit\":"
+  },
+  {
+    "id": "2843",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Zuhause\" assoziiert wird - \"Tisch\", \"Zimmer\", \"Haus\", \"Wohnung\", \"Eidechse\":"
+  },
+  {
+    "id": "2850",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Ordinalzahlen\" assoziiert wird - \"hundertster\", \"nahe\", \"dritter\", \"vorletzter\", \"zweiter\":"
+  },
+  {
+    "id": "2865",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Naturkatastrophen\" assoziiert wird - \"Überschwemmung\", \"Tsunami\", \"Lawine\", \"kalt\", \"Dürre\":"
+  },
+  {
+    "id": "2880",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"formbezogene Adjektive\" assoziiert wird - \"rosa\", \"dick\", \"klein\", \"groß\", \"dünn\":"
+  },
+  {
+    "id": "2889",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Lokaladverbien\" assoziiert wird - \"Fischgeschäft\", \"hier\", \"außen\", \"hinten\", \"hinter\":"
+  },
+  {
+    "id": "2912",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Zuhause\" assoziiert wird - \"Tür\", \"Billard\", \"Eingang\", \"Zimmer\", \"Tisch\":"
+  },
+  {
+    "id": "2916",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Wochentage\" assoziiert wird - \"Montag\", \"Samstag\", \"Donnerstag\", \"Liter\", \"Mittwoch\":"
+  },
+  {
+    "id": "2926",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Wortarten\" assoziiert wird - \"Wirbelsturm\", \"Verb\", \"Artikel\", \"Präposition\", \"Substantiv\":"
+  },
+  {
+    "id": "2930",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Abstrakte Substantive\" assoziiert wird - \"Zukunft\", \"Merkmal\", \"Stadium\", \"Gedächtnis\", \"Slip\":"
+  },
+  {
+    "id": "2975",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Aktivitätsverben\" assoziiert wird - \"zerbrechen\", \"unmöglich\", \"verlassen\", \"öffnen\", \"beabsichtigen\":"
+  },
+  {
+    "id": "2996",
+    "input": "Wähle aus den folgenden Wörtern das Wort aus, das am wenigsten mit der Kategorie \"Verben der Bewegung\" assoziiert wird - \"nach\", \"aufheben\", \"halten\", \"erreichen\", \"heben\":"
+  }
+]

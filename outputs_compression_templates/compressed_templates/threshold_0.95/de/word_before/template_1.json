@@ -1,0 +1,722 @@
+[
+  {
+    "id": "2",
+    "input": "Im Satz \"Über die Burg ist sehr wenig bekannt\", welches Wort kommt direkt vor dem Wort \"Burg\"?"
+  },
+  {
+    "id": "17",
+    "input": "Im Satz \"In dem Dorf befindet sich eine Kapelle\", welches Wort kommt direkt vor dem Wort \"befindet\"?"
+  },
+  {
+    "id": "19",
+    "input": "Im Satz \"Er war verheiratet und hatte zwei Söhne\", welches Wort kommt direkt vor dem Wort \"hatte\"?"
+  },
+  {
+    "id": "25",
+    "input": "Im Satz \"Einiges ist bereits getan worden aber wir müssen auf diesem Wege fortfahren\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "29",
+    "input": "Im Satz \"Aus tiefem Glauben heraus stand sie für einen liberalen Pietismus ein\", welches Wort kommt direkt vor dem Wort \"heraus\"?"
+  },
+  {
+    "id": "34",
+    "input": "Im Satz \"Vier Finger werden durch den Ring gesteckt\", welches Wort kommt direkt vor dem Wort \"Finger\"?"
+  },
+  {
+    "id": "35",
+    "input": "Im Satz \"Dieser befasste sich nun auch mit Eisenwaren und dem Bau von Lokomotiven\", welches Wort kommt direkt vor dem Wort \"von\"?"
+  },
+  {
+    "id": "39",
+    "input": "Im Satz \"Über die Nacht zum Sonntag kam es dann zu einem starken Temperaturanstieg\", welches Wort kommt direkt vor dem Wort \"Nacht\"?"
+  },
+  {
+    "id": "50",
+    "input": "Im Satz \"Seine privaten Immobilien überschrieb er seiner Frau\", welches Wort kommt direkt vor dem Wort \"seiner\"?"
+  },
+  {
+    "id": "54",
+    "input": "Im Satz \"Sie befand sich schon länger in Schwierigkeiten\", welches Wort kommt direkt vor dem Wort \"befand\"?"
+  },
+  {
+    "id": "57",
+    "input": "Im Satz \"Diese standen in ihrer Qualität den Motoren anderer Industrieländer keinesfalls nach\", welches Wort kommt direkt vor dem Wort \"Motoren\"?"
+  },
+  {
+    "id": "67",
+    "input": "Im Satz \"Das Unternehmen hatte belgisches Kapital und seinen Hauptsitz in Brüssel\", welches Wort kommt direkt vor dem Wort \"belgisches\"?"
+  },
+  {
+    "id": "77",
+    "input": "Im Satz \"Für ihre filmischen Arbeiten wurde sie mehrfach ausgezeichnet\", welches Wort kommt direkt vor dem Wort \"ausgezeichnet\"?"
+  },
+  {
+    "id": "86",
+    "input": "Im Satz \"Die Station wurde bis zum Fall von Ostdeutschland und der Berliner Mauer weiter betrieben\", welches Wort kommt direkt vor dem Wort \"betrieben\"?"
+  },
+  {
+    "id": "93",
+    "input": "Im Satz \"Auch die Inflation und ihre Folgen überwand er geschickt\", welches Wort kommt direkt vor dem Wort \"er\"?"
+  },
+  {
+    "id": "114",
+    "input": "Im Satz \"Heute ist der Felsen teilweise mit Graffiti bedeckt\", welches Wort kommt direkt vor dem Wort \"bedeckt\"?"
+  },
+  {
+    "id": "130",
+    "input": "Im Satz \"Es ist der bislang größte internationale Erfolg der Mannschaft\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "150",
+    "input": "Im Satz \"Auch wurden Fossilien von primitiven Pflanzen gefunden\", welches Wort kommt direkt vor dem Wort \"primitiven\"?"
+  },
+  {
+    "id": "151",
+    "input": "Im Satz \"Er erreichte trotz eines nicht unerheblichen Tatverdachts einen Freispruch\", welches Wort kommt direkt vor dem Wort \"Tatverdachts\"?"
+  },
+  {
+    "id": "158",
+    "input": "Im Satz \"Zwischen beiden Varianten gibt es erhebliche Unterschiede bezüglich der Punktevergabe\", welches Wort kommt direkt vor dem Wort \"bezüglich\"?"
+  },
+  {
+    "id": "175",
+    "input": "Im Satz \"Der Preis kann auch an mehrere Personen vergeben werden\", welches Wort kommt direkt vor dem Wort \"mehrere\"?"
+  },
+  {
+    "id": "178",
+    "input": "Im Satz \"Das ist besonders bei der Belastung der Gepäckträger am Vorderrad wichtig\", welches Wort kommt direkt vor dem Wort \"am\"?"
+  },
+  {
+    "id": "185",
+    "input": "Im Satz \"Es entstand innerhalb eines Jahres in Spanien\", welches Wort kommt direkt vor dem Wort \"eines\"?"
+  },
+  {
+    "id": "186",
+    "input": "Im Satz \"Der untere Teil des Turms stammt von der mittelalterlichen Kirche\", welches Wort kommt direkt vor dem Wort \"Turms\"?"
+  },
+  {
+    "id": "189",
+    "input": "Im Satz \"Über seine weitere Verwendung ist nichts bekannt\", welches Wort kommt direkt vor dem Wort \"bekannt\"?"
+  },
+  {
+    "id": "190",
+    "input": "Im Satz \"In einer wiederum eigenständigen Publikation wird zumindest ein gemeinsamer Ursprung als wahrscheinlich angesehen\", welches Wort kommt direkt vor dem Wort \"ein\"?"
+  },
+  {
+    "id": "196",
+    "input": "Im Satz \"Von dort fließt er in südwestliche Richtung zwischen Industriegebiet und Wohnbebauung\", welches Wort kommt direkt vor dem Wort \"Richtung\"?"
+  },
+  {
+    "id": "199",
+    "input": "Im Satz \"Dies ist der einzige bekannte Erfolg eines Hilfskreuzers gegen ein reguläres Kriegsschiff\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "201",
+    "input": "Im Satz \"Holz und Stein sind das Baumaterial\", welches Wort kommt direkt vor dem Wort \"Baumaterial\"?"
+  },
+  {
+    "id": "203",
+    "input": "Im Satz \"Trotzdem gibt es in Schlüsselbereichen immer noch genügend Möglichkeiten für Verbesserungen\", welches Wort kommt direkt vor dem Wort \"noch\"?"
+  },
+  {
+    "id": "211",
+    "input": "Im Satz \"Es gab insbesondere Schäden an der Fassade und dem Dach\", welches Wort kommt direkt vor dem Wort \"an\"?"
+  },
+  {
+    "id": "222",
+    "input": "Im Satz \"Auf diversen Berliner Meisterschaften zeigte er sein Talent und hatte erste Erfolge\", welches Wort kommt direkt vor dem Wort \"Berliner\"?"
+  },
+  {
+    "id": "230",
+    "input": "Im Satz \"Sie liegt im Erzgebirge in Deutschland\", welches Wort kommt direkt vor dem Wort \"in\"?"
+  },
+  {
+    "id": "242",
+    "input": "Im Satz \"Die Station wurde bis zum Fall von Ostdeutschland und der Berliner Mauer weiter betrieben\", welches Wort kommt direkt vor dem Wort \"der\"?"
+  },
+  {
+    "id": "248",
+    "input": "Im Satz \"Der Beschluss des Parlaments über Klimaänderungen wird unseren Partnern eindeutige Signale übermitteln\", welches Wort kommt direkt vor dem Wort \"Beschluss\"?"
+  },
+  {
+    "id": "252",
+    "input": "Im Satz \"Verbunden ist das mit einer Aufrüstung der digitalen Infrastruktur der Schule\", welches Wort kommt direkt vor dem Wort \"Infrastruktur\"?"
+  },
+  {
+    "id": "257",
+    "input": "Im Satz \"Durch geologische Veränderungen wurde die einstige Lagune vom Meer abgeschnitten\", welches Wort kommt direkt vor dem Wort \"einstige\"?"
+  },
+  {
+    "id": "265",
+    "input": "Im Satz \"Damit verloren die bisherigen einzelnen Standorte ihre Eigenständigkeit\", welches Wort kommt direkt vor dem Wort \"Eigenständigkeit\"?"
+  },
+  {
+    "id": "283",
+    "input": "Im Satz \"Dazu bereiste er viele Orte und studierte Quellen und Literatur in Archiven und Bibliotheken\", welches Wort kommt direkt vor dem Wort \"Bibliotheken\"?"
+  },
+  {
+    "id": "288",
+    "input": "Im Satz \"Auf Mauritius passte ihm jedoch der britisch geprägte Lebensstil nicht\", welches Wort kommt direkt vor dem Wort \"passte\"?"
+  },
+  {
+    "id": "291",
+    "input": "Im Satz \"Die Oberfläche ist rötlichbraun und glänzend\", welches Wort kommt direkt vor dem Wort \"glänzend\"?"
+  },
+  {
+    "id": "294",
+    "input": "Im Satz \"Im Doppel war er zunächst weniger erfolgreich\", welches Wort kommt direkt vor dem Wort \"war\"?"
+  },
+  {
+    "id": "299",
+    "input": "Im Satz \"In dieser Zeit fiel auch die Restaurierung der Gärten nach dem Zweiten Weltkrieg\", welches Wort kommt direkt vor dem Wort \"Zweiten\"?"
+  },
+  {
+    "id": "300",
+    "input": "Im Satz \"Danach wurde das ehemalige Fahrgastschiff nicht mehr als Gaststätte genutzt\", welches Wort kommt direkt vor dem Wort \"als\"?"
+  },
+  {
+    "id": "312",
+    "input": "Im Satz \"In den Folgejahren wurden die Häuser des Dorfes dem Verfall überlassen\", welches Wort kommt direkt vor dem Wort \"Verfall\"?"
+  },
+  {
+    "id": "317",
+    "input": "Im Satz \"In dieser Zeit fiel auch die Restaurierung der Gärten nach dem Zweiten Weltkrieg\", welches Wort kommt direkt vor dem Wort \"auch\"?"
+  },
+  {
+    "id": "326",
+    "input": "Im Satz \"Es entstand innerhalb eines Jahres in Spanien\", welches Wort kommt direkt vor dem Wort \"innerhalb\"?"
+  },
+  {
+    "id": "331",
+    "input": "Im Satz \"Dort wurde sie zunächst weiter als Fachärztin für Kinderheilkunde ausgebildet\", welches Wort kommt direkt vor dem Wort \"wurde\"?"
+  },
+  {
+    "id": "335",
+    "input": "Im Satz \"Dennoch entwickelte sie sich unabhängig von den Eltern\", welches Wort kommt direkt vor dem Wort \"den\"?"
+  },
+  {
+    "id": "337",
+    "input": "Im Satz \"Es ist wenig über das Beziehungsgeflecht der Gruppen untereinander bekannt\", welches Wort kommt direkt vor dem Wort \"Beziehungsgeflecht\"?"
+  },
+  {
+    "id": "351",
+    "input": "Im Satz \"Sein zuletzt verwendetes Gewehr soll von dem deutschen Scharfschützen als Trophäe erbeutet worden sein\", welches Wort kommt direkt vor dem Wort \"Gewehr\"?"
+  },
+  {
+    "id": "355",
+    "input": "Im Satz \"Die ziemlich dicke Mauer hat eine einzige Brüstung\", welches Wort kommt direkt vor dem Wort \"hat\"?"
+  },
+  {
+    "id": "356",
+    "input": "Im Satz \"Die meisten davon siedelten sich in Armenien an\", welches Wort kommt direkt vor dem Wort \"davon\"?"
+  },
+  {
+    "id": "360",
+    "input": "Im Satz \"Die Zeit sei jedoch der Feind der Liebenden\", welches Wort kommt direkt vor dem Wort \"sei\"?"
+  },
+  {
+    "id": "362",
+    "input": "Im Satz \"Es ist wenig über das Beziehungsgeflecht der Gruppen untereinander bekannt\", welches Wort kommt direkt vor dem Wort \"das\"?"
+  },
+  {
+    "id": "365",
+    "input": "Im Satz \"Eine entsprechende Satzung besteht beispielsweise in Lüneburg\", welches Wort kommt direkt vor dem Wort \"Lüneburg\"?"
+  },
+  {
+    "id": "366",
+    "input": "Im Satz \"Die beiden Außenseiter verlieben sich\", welches Wort kommt direkt vor dem Wort \"beiden\"?"
+  },
+  {
+    "id": "370",
+    "input": "Im Satz \"Felix trennt sich von ihr und kehrt zu seiner früheren Partnerin zurück\", welches Wort kommt direkt vor dem Wort \"zurück\"?"
+  },
+  {
+    "id": "375",
+    "input": "Im Satz \"Nach der Verteidigung seiner Dissertation wurde er Assistenzprofessor an der Universität\", welches Wort kommt direkt vor dem Wort \"Assistenzprofessor\"?"
+  },
+  {
+    "id": "387",
+    "input": "Im Satz \"Historisch wurden Steuern dieser Art unter sehr unterschiedlichen Bezeichnungen diskutiert und umgesetzt\", welches Wort kommt direkt vor dem Wort \"unterschiedlichen\"?"
+  },
+  {
+    "id": "393",
+    "input": "Im Satz \"Rick lernt hier das Bauernmädchen Marie kennen und freundet sich mit ihr an\", welches Wort kommt direkt vor dem Wort \"mit\"?"
+  },
+  {
+    "id": "394",
+    "input": "Im Satz \"Diskriminierung aus diesen Gründen darf in einer modernen Gesellschaft keinen Platz haben\", welches Wort kommt direkt vor dem Wort \"modernen\"?"
+  },
+  {
+    "id": "397",
+    "input": "Im Satz \"Der Vorsprung der beiden verbliebenen Fahrer betrug nie mehr als drei Minuten\", welches Wort kommt direkt vor dem Wort \"Vorsprung\"?"
+  },
+  {
+    "id": "399",
+    "input": "Im Satz \"Zuvor war er stellvertretender Außenminister seines Landes\", welches Wort kommt direkt vor dem Wort \"war\"?"
+  },
+  {
+    "id": "402",
+    "input": "Im Satz \"Ich teile die Meinung des Ratspräsidenten\", welches Wort kommt direkt vor dem Wort \"des\"?"
+  },
+  {
+    "id": "415",
+    "input": "Im Satz \"Es ist nach wie vor das Standardwerk zu diesem Thema\", welches Wort kommt direkt vor dem Wort \"diesem\"?"
+  },
+  {
+    "id": "418",
+    "input": "Im Satz \"Hier bekam er jedoch nur in dem letzten Gruppenspiel gegen Deutschland Einsatzzeit\", welches Wort kommt direkt vor dem Wort \"Deutschland\"?"
+  },
+  {
+    "id": "419",
+    "input": "Im Satz \"Auch spielte sie in der englischen Liga\", welches Wort kommt direkt vor dem Wort \"spielte\"?"
+  },
+  {
+    "id": "425",
+    "input": "Im Satz \"Desperrier begann mit acht Jahren das Tennisspielen und bevorzugt Hartplätze\", welches Wort kommt direkt vor dem Wort \"Jahren\"?"
+  },
+  {
+    "id": "427",
+    "input": "Im Satz \"Die vier Bände wurden zumindest in die englische und deutsche Sprache übersetzt\", welches Wort kommt direkt vor dem Wort \"zumindest\"?"
+  },
+  {
+    "id": "429",
+    "input": "Im Satz \"Der Chef reagiert überraschend verständnisvoll\", welches Wort kommt direkt vor dem Wort \"verständnisvoll\"?"
+  },
+  {
+    "id": "437",
+    "input": "Im Satz \"Er engagierte sich als Sekretär des Gewerbevereins\", welches Wort kommt direkt vor dem Wort \"als\"?"
+  },
+  {
+    "id": "451",
+    "input": "Im Satz \"Bei jedem Bankett schenkte sie ihm diese Utensilien\", welches Wort kommt direkt vor dem Wort \"diese\"?"
+  },
+  {
+    "id": "452",
+    "input": "Im Satz \"Zur selben Zeit wurde die Sakristei angebaut\", welches Wort kommt direkt vor dem Wort \"Sakristei\"?"
+  },
+  {
+    "id": "462",
+    "input": "Im Satz \"Die Infrastruktur wurde zum größten Teil zerstört\", welches Wort kommt direkt vor dem Wort \"Infrastruktur\"?"
+  },
+  {
+    "id": "464",
+    "input": "Im Satz \"Wir werden über vier Änderungsanträge abstimmen\", welches Wort kommt direkt vor dem Wort \"vier\"?"
+  },
+  {
+    "id": "467",
+    "input": "Im Satz \"Die Innenstadt speichert die Wärmestrahlung am Tag und gibt sie nachts wieder ab\", welches Wort kommt direkt vor dem Wort \"sie\"?"
+  },
+  {
+    "id": "468",
+    "input": "Im Satz \"Zusammen mit dem Rathaus wurde auch das für die Stadtapotheke vorgesehene Gebäude ausgeschrieben\", welches Wort kommt direkt vor dem Wort \"auch\"?"
+  },
+  {
+    "id": "477",
+    "input": "Im Satz \"Es ist noch nicht zu spät dafür\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "484",
+    "input": "Im Satz \"Den restlichen Abschnitt bildet eine kräftige Böschung\", welches Wort kommt direkt vor dem Wort \"Abschnitt\"?"
+  },
+  {
+    "id": "490",
+    "input": "Im Satz \"Sie hat aber kein Interesse an einem Verkauf\", welches Wort kommt direkt vor dem Wort \"aber\"?"
+  },
+  {
+    "id": "491",
+    "input": "Im Satz \"Die Insel ist teils von Mooren bedeckt\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "494",
+    "input": "Im Satz \"Das konspirative Treffen wird jedoch schnell durch ein Klopfen an der Tür unterbrochen\", welches Wort kommt direkt vor dem Wort \"Treffen\"?"
+  },
+  {
+    "id": "497",
+    "input": "Im Satz \"Straße und Park sind durch einen entlang der Straße verlaufenden Graben getrennt\", welches Wort kommt direkt vor dem Wort \"Graben\"?"
+  },
+  {
+    "id": "502",
+    "input": "Im Satz \"Auf ihr waren zwei Dampfloks in Betrieb\", welches Wort kommt direkt vor dem Wort \"waren\"?"
+  },
+  {
+    "id": "507",
+    "input": "Im Satz \"Gespielt wird auf einem Spielfeld aus Naturrasen\", welches Wort kommt direkt vor dem Wort \"Naturrasen\"?"
+  },
+  {
+    "id": "508",
+    "input": "Im Satz \"Während des Ersten Weltkrieges wurde er nicht mehr in den Dienst zurückgerufen\", welches Wort kommt direkt vor dem Wort \"in\"?"
+  },
+  {
+    "id": "509",
+    "input": "Im Satz \"Im Alter von zehn Jahren sah sich Greiner den Film Krieg der Sterne an\", welches Wort kommt direkt vor dem Wort \"Greiner\"?"
+  },
+  {
+    "id": "516",
+    "input": "Im Satz \"Er arbeitete seitdem regelmäßig mit beiden Solisten\", welches Wort kommt direkt vor dem Wort \"regelmäßig\"?"
+  },
+  {
+    "id": "517",
+    "input": "Im Satz \"Ich bitte schon seit drei Minuten um das Wort\", welches Wort kommt direkt vor dem Wort \"seit\"?"
+  },
+  {
+    "id": "523",
+    "input": "Im Satz \"Er war der ehemalige Chefdesigner und Vizepräsident von Gucci\", welches Wort kommt direkt vor dem Wort \"Chefdesigner\"?"
+  },
+  {
+    "id": "524",
+    "input": "Im Satz \"Diese Strategie war erfolgreich\", welches Wort kommt direkt vor dem Wort \"Strategie\"?"
+  },
+  {
+    "id": "528",
+    "input": "Im Satz \"Brandbeschleuniger wurden jedoch nach ersten Erkenntnissen der Polizei nicht verwendet\", welches Wort kommt direkt vor dem Wort \"verwendet\"?"
+  },
+  {
+    "id": "529",
+    "input": "Im Satz \"Es ist ein Straßendorf mit einem Dorfplatz\", welches Wort kommt direkt vor dem Wort \"ein\"?"
+  },
+  {
+    "id": "539",
+    "input": "Im Satz \"Sie wurden aus der Bahn geschleudert und stürzten einen Abhang hinunter\", welches Wort kommt direkt vor dem Wort \"wurden\"?"
+  },
+  {
+    "id": "555",
+    "input": "Im Satz \"Maßgeblicher Zeitraum ist dabei das vergangene Kalenderjahr\", welches Wort kommt direkt vor dem Wort \"dabei\"?"
+  },
+  {
+    "id": "561",
+    "input": "Im Satz \"Es werden weniger Punkte erzielt und ein Tor fällt nur selten\", welches Wort kommt direkt vor dem Wort \"fällt\"?"
+  },
+  {
+    "id": "578",
+    "input": "Im Satz \"Darüber befinden sich fünf Decks mit den Kabinen für die Schiffsbesatzung\", welches Wort kommt direkt vor dem Wort \"Kabinen\"?"
+  },
+  {
+    "id": "582",
+    "input": "Im Satz \"Dadurch kann der Erhalt zahlreicher weiterer Obstsorten kostengünstig und dauerhaft sichergestellt werden\", welches Wort kommt direkt vor dem Wort \"sichergestellt\"?"
+  },
+  {
+    "id": "586",
+    "input": "Im Satz \"Danach wurde es ruhig um den ehemaligen Star\", welches Wort kommt direkt vor dem Wort \"es\"?"
+  },
+  {
+    "id": "587",
+    "input": "Im Satz \"Filigrane Muster und Ornamente unterstreichen den kostbar wirkenden Charakter des Materials\", welches Wort kommt direkt vor dem Wort \"kostbar\"?"
+  },
+  {
+    "id": "590",
+    "input": "Im Satz \"Das Spiel wurde in zahlreichen Rezensionen überwiegend positiv beschrieben\", welches Wort kommt direkt vor dem Wort \"überwiegend\"?"
+  },
+  {
+    "id": "595",
+    "input": "Im Satz \"In dieser Zeit konvertierte er irgendwann zum Katholizismus\", welches Wort kommt direkt vor dem Wort \"konvertierte\"?"
+  },
+  {
+    "id": "597",
+    "input": "Im Satz \"Die Verfahren müssen auf das absolut Notwendige beschränkt werden\", welches Wort kommt direkt vor dem Wort \"Notwendige\"?"
+  },
+  {
+    "id": "607",
+    "input": "Im Satz \"Bekannt ist die Kirche auch durch ihre monumentale Orgel\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "608",
+    "input": "Im Satz \"Moderne Geräte haben ein elektronisches Display das alle relevanten Daten digital anzeigt\", welches Wort kommt direkt vor dem Wort \"Display\"?"
+  },
+  {
+    "id": "613",
+    "input": "Im Satz \"Außerdem ist das Klinikgebäude sehr heruntergekommen\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "615",
+    "input": "Im Satz \"Er ist aus Granit gefertigt und oben abgerundet\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "616",
+    "input": "Im Satz \"Dass man da die Religion hineinmischt ist teilweise falsch\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "623",
+    "input": "Im Satz \"Heute arbeitet er als Kommentator beim Fernsehen\", welches Wort kommt direkt vor dem Wort \"als\"?"
+  },
+  {
+    "id": "631",
+    "input": "Im Satz \"Er verfasste Erzählungen Romane Gedichte und Essays\", welches Wort kommt direkt vor dem Wort \"Erzählungen\"?"
+  },
+  {
+    "id": "632",
+    "input": "Im Satz \"Rick lernt hier das Bauernmädchen Marie kennen und freundet sich mit ihr an\", welches Wort kommt direkt vor dem Wort \"an\"?"
+  },
+  {
+    "id": "638",
+    "input": "Im Satz \"Nach dem Referendariat war er zunächst als Gemeindesekretär tätig\", welches Wort kommt direkt vor dem Wort \"Referendariat\"?"
+  },
+  {
+    "id": "639",
+    "input": "Im Satz \"Es ist jedoch fraglich ob wir das immer können\", welches Wort kommt direkt vor dem Wort \"ob\"?"
+  },
+  {
+    "id": "654",
+    "input": "Im Satz \"Früh beherrschte er mehrere Instrumente\", welches Wort kommt direkt vor dem Wort \"Instrumente\"?"
+  },
+  {
+    "id": "661",
+    "input": "Im Satz \"Bekannt ist die Kirche auch durch ihre monumentale Orgel\", welches Wort kommt direkt vor dem Wort \"ihre\"?"
+  },
+  {
+    "id": "667",
+    "input": "Im Satz \"So wurde er vom Puritanismus beeinflusst\", welches Wort kommt direkt vor dem Wort \"wurde\"?"
+  },
+  {
+    "id": "669",
+    "input": "Im Satz \"Der südliche Turm beherbergte ein Restaurant\", welches Wort kommt direkt vor dem Wort \"Turm\"?"
+  },
+  {
+    "id": "671",
+    "input": "Im Satz \"Auf dem Dachboden wurden die Eisblöcke nach Größe sortiert und im Untergeschoss gestapelt\", welches Wort kommt direkt vor dem Wort \"nach\"?"
+  },
+  {
+    "id": "681",
+    "input": "Im Satz \"Verbesserungen beim Management des Luftverkehrs würden mehr verfügbaren Luftraum schaffen\", welches Wort kommt direkt vor dem Wort \"Luftraum\"?"
+  },
+  {
+    "id": "683",
+    "input": "Im Satz \"Brandbeschleuniger wurden jedoch nach ersten Erkenntnissen der Polizei nicht verwendet\", welches Wort kommt direkt vor dem Wort \"Polizei\"?"
+  },
+  {
+    "id": "689",
+    "input": "Im Satz \"Beim Laden gibt es aber einen Unterschied zwischen den beiden Geräten\", welches Wort kommt direkt vor dem Wort \"einen\"?"
+  },
+  {
+    "id": "694",
+    "input": "Im Satz \"Heute arbeitet er als Kommentator beim Fernsehen\", welches Wort kommt direkt vor dem Wort \"beim\"?"
+  },
+  {
+    "id": "695",
+    "input": "Im Satz \"Tabuisierte Gefühle wie Wut und Verzweiflung sollen zum Ausdruck gebracht werden\", welches Wort kommt direkt vor dem Wort \"wie\"?"
+  },
+  {
+    "id": "703",
+    "input": "Im Satz \"Jeder hat das Recht auf eine Staatsangehörigkeit\", welches Wort kommt direkt vor dem Wort \"hat\"?"
+  },
+  {
+    "id": "714",
+    "input": "Im Satz \"Diese Entwicklung wurde flankiert von einer fortschreitenden Vereinigung der landwirtschaftlichen Sozialversicherungsträger\", welches Wort kommt direkt vor dem Wort \"Vereinigung\"?"
+  },
+  {
+    "id": "721",
+    "input": "Im Satz \"Klare Regelungen und vertrauensbildende Maßnahmen sind daher nötig\", welches Wort kommt direkt vor dem Wort \"sind\"?"
+  },
+  {
+    "id": "728",
+    "input": "Im Satz \"In Konzertprogrammen des Ensembles ist Kammermusik nahezu aller Stilrichtungen und Epochen vertreten\", welches Wort kommt direkt vor dem Wort \"nahezu\"?"
+  },
+  {
+    "id": "732",
+    "input": "Im Satz \"An der Friedenseiche wird alle zwei Jahre das Dorffest gefeiert\", welches Wort kommt direkt vor dem Wort \"Friedenseiche\"?"
+  },
+  {
+    "id": "733",
+    "input": "Im Satz \"Der Preis kann auch an mehrere Personen vergeben werden\", welches Wort kommt direkt vor dem Wort \"Preis\"?"
+  },
+  {
+    "id": "741",
+    "input": "Im Satz \"Dort engagiert er sich aktuell gegen einen geplanten Windpark\", welches Wort kommt direkt vor dem Wort \"engagiert\"?"
+  },
+  {
+    "id": "742",
+    "input": "Im Satz \"Er soll ganzjährig geöffnet sein\", welches Wort kommt direkt vor dem Wort \"soll\"?"
+  },
+  {
+    "id": "745",
+    "input": "Im Satz \"Wie lange braucht man mit dem Zug von Warschau nach Marseille?\", welches Wort kommt direkt vor dem Wort \"Warschau\"?"
+  },
+  {
+    "id": "751",
+    "input": "Im Satz \"Die Station wurde bis zum Fall von Ostdeutschland und der Berliner Mauer weiter betrieben\", welches Wort kommt direkt vor dem Wort \"zum\"?"
+  },
+  {
+    "id": "761",
+    "input": "Im Satz \"Sie selbst trägt ihren zweiten Vornamen als Künstlernamen\", welches Wort kommt direkt vor dem Wort \"zweiten\"?"
+  },
+  {
+    "id": "764",
+    "input": "Im Satz \"Der äußere Ring umfasste auch die Berge im Westen der heutigen Innenstadt\", welches Wort kommt direkt vor dem Wort \"auch\"?"
+  },
+  {
+    "id": "766",
+    "input": "Im Satz \"Außerdem ist die Umsetzung von Brandschutzmaßnahmen organisatorisch zu überwachen\", welches Wort kommt direkt vor dem Wort \"ist\"?"
+  },
+  {
+    "id": "770",
+    "input": "Im Satz \"Dieser sowie der vorletzte Wagen wurden ebenfalls geteilt und über die Straße abtransportiert\", welches Wort kommt direkt vor dem Wort \"über\"?"
+  },
+  {
+    "id": "771",
+    "input": "Im Satz \"Der Name und seine Varianten sind in Brasilien weit verbreitet\", welches Wort kommt direkt vor dem Wort \"weit\"?"
+  },
+  {
+    "id": "773",
+    "input": "Im Satz \"Im selben Monat wurden ihm behördlicherseits seine Mandate als Strafverteidiger in politischen Prozessen entzogen\", welches Wort kommt direkt vor dem Wort \"Prozessen\"?"
+  },
+  {
+    "id": "777",
+    "input": "Im Satz \"Im Finale siegten die Rumänen vor den Spaniern\", welches Wort kommt direkt vor dem Wort \"die\"?"
+  },
+  {
+    "id": "789",
+    "input": "Im Satz \"Er hatte einen jüngeren Bruder\", welches Wort kommt direkt vor dem Wort \"hatte\"?"
+  },
+  {
+    "id": "790",
+    "input": "Im Satz \"Nach dem Dreißigjährigen Krieg war das Gut verwüstet\", welches Wort kommt direkt vor dem Wort \"war\"?"
+  },
+  {
+    "id": "791",
+    "input": "Im Satz \"Das Bakterium kann aber Menschen mit schlechtem Gesundheitszustand ernsthaft befallen\", welches Wort kommt direkt vor dem Wort \"ernsthaft\"?"
+  },
+  {
+    "id": "793",
+    "input": "Im Satz \"Die einzigartigen Felszeichnungen sind sehr wertvoll\", welches Wort kommt direkt vor dem Wort \"wertvoll\"?"
+  },
+  {
+    "id": "798",
+    "input": "Im Satz \"Die Zeitung sieht die Arbeit auf sozialen Medien als einen wichtigen Schwerpunkt\", welches Wort kommt direkt vor dem Wort \"Medien\"?"
+  },
+  {
+    "id": "800",
+    "input": "Im Satz \"Von der achten Klasse an wird Chemie als weitere Naturwissenschaft unterrichtet\", welches Wort kommt direkt vor dem Wort \"Klasse\"?"
+  },
+  {
+    "id": "808",
+    "input": "Im Satz \"Die ehemalige mittelalterliche Ausstattung der Kirche ist weitgehend verschwunden\", welches Wort kommt direkt vor dem Wort \"mittelalterliche\"?"
+  },
+  {
+    "id": "810",
+    "input": "Im Satz \"Anschließend werden die Textzeilen wiederum manuell oder automatisch transkribiert\", welches Wort kommt direkt vor dem Wort \"Textzeilen\"?"
+  },
+  {
+    "id": "817",
+    "input": "Im Satz \"Der Rat vertritt die Interessen und Rechte der Frauen in der Partei\", welches Wort kommt direkt vor dem Wort \"Partei\"?"
+  },
+  {
+    "id": "820",
+    "input": "Im Satz \"Für einige Varianten war ein Anbauzelt verfügbar\", welches Wort kommt direkt vor dem Wort \"Anbauzelt\"?"
+  },
+  {
+    "id": "824",
+    "input": "Im Satz \"Was also spricht dagegen dass die Kommission einen entsprechenden Änderungsvorschlag vorlegt?\", welches Wort kommt direkt vor dem Wort \"Kommission\"?"
+  },
+  {
+    "id": "837",
+    "input": "Im Satz \"Trotzdem will er eine Freundschaft mit ihr aufbauen\", welches Wort kommt direkt vor dem Wort \"eine\"?"
+  },
+  {
+    "id": "843",
+    "input": "Im Satz \"In einer Reihe von Fachartikeln berichtete er über seine Erfahrungen\", welches Wort kommt direkt vor dem Wort \"seine\"?"
+  },
+  {
+    "id": "849",
+    "input": "Im Satz \"Sie starb im selben Jahr an den Folgen einer nicht näher bekannten Krankheit\", welches Wort kommt direkt vor dem Wort \"nicht\"?"
+  },
+  {
+    "id": "865",
+    "input": "Im Satz \"Die Grundmauern und ein Teil des Turms blieben erhalten\", welches Wort kommt direkt vor dem Wort \"erhalten\"?"
+  },
+  {
+    "id": "878",
+    "input": "Im Satz \"Seine Harmonik baut wesentlich auf Quinten und Quarten auf\", welches Wort kommt direkt vor dem Wort \"Harmonik\"?"
+  },
+  {
+    "id": "880",
+    "input": "Im Satz \"Auch weitere Parteien und Einzelkandidaten des linken Spektrums traten bei\", welches Wort kommt direkt vor dem Wort \"und\"?"
+  },
+  {
+    "id": "892",
+    "input": "Im Satz \"Erste Schauspielerfahrungen sammelte sie im Alter von zehn Jahren\", welches Wort kommt direkt vor dem Wort \"Schauspielerfahrungen\"?"
+  },
+  {
+    "id": "896",
+    "input": "Im Satz \"Anschließend begann er für das Ministerium für Landwirtschaft und Forsten zu arbeiten\", welches Wort kommt direkt vor dem Wort \"Ministerium\"?"
+  },
+  {
+    "id": "897",
+    "input": "Im Satz \"Der Film stellt eine Tochter mittleren Alters und ihre ältere Mutter in den Mittelpunkt\", welches Wort kommt direkt vor dem Wort \"eine\"?"
+  },
+  {
+    "id": "903",
+    "input": "Im Satz \"In dieser Zeit fiel auch die Restaurierung der Gärten nach dem Zweiten Weltkrieg\", welches Wort kommt direkt vor dem Wort \"dieser\"?"
+  },
+  {
+    "id": "910",
+    "input": "Im Satz \"Die Zuständigkeiten für Jugend und Familien des Umweltministeriums gingen in das Sozialministerium über\", welches Wort kommt direkt vor dem Wort \"Umweltministeriums\"?"
+  },
+  {
+    "id": "912",
+    "input": "Im Satz \"Die Kapelle verfügt über eine hölzerne Empore mit Orgel\", welches Wort kommt direkt vor dem Wort \"Orgel\"?"
+  },
+  {
+    "id": "918",
+    "input": "Im Satz \"Rund ein Viertel der Arbeitnehmer sind in Dienstleistungsunternehmen oder im öffentlichen Dienst beschäftigt\", welches Wort kommt direkt vor dem Wort \"Dienstleistungsunternehmen\"?"
+  },
+  {
+    "id": "921",
+    "input": "Im Satz \"Als für ihn gemäße Sportart wählt er den Tischtennissport\", welches Wort kommt direkt vor dem Wort \"Sportart\"?"
+  },
+  {
+    "id": "922",
+    "input": "Im Satz \"Die Blüten stehen aufrecht\", welches Wort kommt direkt vor dem Wort \"Blüten\"?"
+  },
+  {
+    "id": "923",
+    "input": "Im Satz \"Er wirkt mit feiner Hoheit und Würde und zugleich mit betonter Schlichtheit festlich\", welches Wort kommt direkt vor dem Wort \"Hoheit\"?"
+  },
+  {
+    "id": "925",
+    "input": "Im Satz \"Joe hatte selbst unter seinem Vater zu leiden\", welches Wort kommt direkt vor dem Wort \"hatte\"?"
+  },
+  {
+    "id": "929",
+    "input": "Im Satz \"Musik und Text der Komposition stammen von Walter Becker und Donald Fagen\", welches Wort kommt direkt vor dem Wort \"stammen\"?"
+  },
+  {
+    "id": "935",
+    "input": "Im Satz \"Seine Filme wurden fast ausschließlich in Deutschland gedreht und vertrieben\", welches Wort kommt direkt vor dem Wort \"Filme\"?"
+  },
+  {
+    "id": "940",
+    "input": "Im Satz \"Als Pressesprecher des Heiligen Stuhls zählt er zu den bekanntesten Personen des Vatikan\", welches Wort kommt direkt vor dem Wort \"bekanntesten\"?"
+  },
+  {
+    "id": "941",
+    "input": "Im Satz \"Über die Nacht zum Sonntag kam es dann zu einem starken Temperaturanstieg\", welches Wort kommt direkt vor dem Wort \"zu\"?"
+  },
+  {
+    "id": "943",
+    "input": "Im Satz \"Das wurde später experimentell bestätigt\", welches Wort kommt direkt vor dem Wort \"wurde\"?"
+  },
+  {
+    "id": "945",
+    "input": "Im Satz \"Auch hier wurde der Text leicht abgeändert und durch ein langgezogenes Gelächter ergänzt\", welches Wort kommt direkt vor dem Wort \"Gelächter\"?"
+  },
+  {
+    "id": "950",
+    "input": "Im Satz \"Am Ende gewann Argentinien die Bronzemedaille und erreichte damit erneut einen großen internationalen Erfolg\", welches Wort kommt direkt vor dem Wort \"großen\"?"
+  },
+  {
+    "id": "960",
+    "input": "Im Satz \"Wegen geringer Bezahlung und schlechter Arbeitsbedingungen beendete sie die Zusammenarbeit bereits nach zwei Monaten\", welches Wort kommt direkt vor dem Wort \"geringer\"?"
+  },
+  {
+    "id": "966",
+    "input": "Im Satz \"Das Herrenhaus ist unbewohnt\", welches Wort kommt direkt vor dem Wort \"Herrenhaus\"?"
+  },
+  {
+    "id": "970",
+    "input": "Im Satz \"Weiterhin existieren ein lokaler Markt und ein Kulturzentrum\", welches Wort kommt direkt vor dem Wort \"existieren\"?"
+  },
+  {
+    "id": "992",
+    "input": "Im Satz \"Außerdem ist das Klinikgebäude sehr heruntergekommen\", welches Wort kommt direkt vor dem Wort \"heruntergekommen\"?"
+  }
+]

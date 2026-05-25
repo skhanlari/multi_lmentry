@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "2",
+    "input": "\"Gizarte osoa zelatapean jartzea? galdetzen du kazetari beteranoak\" esaldian, zein hitz dago \"kazetari\" atze-atzetik?"
+  },
+  {
+    "id": "5",
+    "input": "\"Euskal Herriko futbol selekzioarekin partida bi jokatu zituen\" esaldian, zein hitz dago \"Euskal\" atze-atzetik?"
+  },
+  {
+    "id": "6",
+    "input": "\"Esanahi sinboliko eta erlijiosoa izan ditu\" esaldian, zein hitz dago \"Esanahi\" atze-atzetik?"
+  },
+  {
+    "id": "9",
+    "input": "\"Zer moduz bizi zara espainol izateari utzi zenionetik?\" esaldian, zein hitz dago \"zara\" atze-atzetik?"
+  },
+  {
+    "id": "11",
+    "input": "\"Satitsu arruntak sei azpiespezie ditu\" esaldian, zein hitz dago \"azpiespezie\" atze-atzetik?"
+  },
+  {
+    "id": "13",
+    "input": "\"Bigarren mailan zebilen lehenengo taldea izan zen Kopa irabazten zuena\" esaldian, zein hitz dago \"mailan\" atze-atzetik?"
+  },
+  {
+    "id": "14",
+    "input": "\"Taldeak erantzun gisa izen horixe hartu zuen\" esaldian, zein hitz dago \"gisa\" atze-atzetik?"
+  },
+  {
+    "id": "15",
+    "input": "\"Kaukasoko nazio txiki baten independentzia prozesua\" esaldian, zein hitz dago \"Kaukasoko\" atze-atzetik?"
+  },
+  {
+    "id": "17",
+    "input": "\"Dakigun bezala ordenamendu juridikoan hainbat arau jasotzen dira\" esaldian, zein hitz dago \"juridikoan\" atze-atzetik?"
+  },
+  {
+    "id": "18",
+    "input": "\"Euskal Herrian gertatutako azken aurreko atentatu hilgarria izan zen\" esaldian, zein hitz dago \"hilgarria\" atze-atzetik?"
+  },
+  {
+    "id": "19",
+    "input": "\"Bere baitan jokalekua bera etxebizitzak eta saltokiak hartzen ditu\" esaldian, zein hitz dago \"saltokiak\" atze-atzetik?"
+  },
+  {
+    "id": "21",
+    "input": "\"Generoari dagokionez emakumezkoak dira erabiltzaile gehienak\" esaldian, zein hitz dago \"erabiltzaile\" atze-atzetik?"
+  },
+  {
+    "id": "23",
+    "input": "\"Kale Nagusian okindegiak formatu bera izanen zuen garai batean\" esaldian, zein hitz dago \"okindegiak\" atze-atzetik?"
+  },
+  {
+    "id": "24",
+    "input": "\"Bere izena Herbehereen izen latindarragatik jasotzen du\" esaldian, zein hitz dago \"Bere\" atze-atzetik?"
+  },
+  {
+    "id": "25",
+    "input": "\"Droga honek tonu orokorra suspertzen du eta ulermena hobetzen du\" esaldian, zein hitz dago \"ulermena\" atze-atzetik?"
+  },
+  {
+    "id": "27",
+    "input": "\"Mea-industriaz eta kimika-industriaz arduratu zen batez ere\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "29",
+    "input": "\"Afrikan soldadu zebilela hasi zen bertsoak idazten\" esaldian, zein hitz dago \"bertsoak\" atze-atzetik?"
+  },
+  {
+    "id": "30",
+    "input": "\"Laster ospetsu bilakatu zen mundu osoan zehar\" esaldian, zein hitz dago \"osoan\" atze-atzetik?"
+  },
+  {
+    "id": "32",
+    "input": "\"Jendea hurbiltzeko bidea ere badira\" esaldian, zein hitz dago \"hurbiltzeko\" atze-atzetik?"
+  },
+  {
+    "id": "34",
+    "input": "\"Bi mila eta hamabostean jendartea ehuntzea zuten helburu\" esaldian, zein hitz dago \"zuten\" atze-atzetik?"
+  },
+  {
+    "id": "35",
+    "input": "\"Honek gainera harresiaren ateetako bi lotzen zituen\" esaldian, zein hitz dago \"Honek\" atze-atzetik?"
+  },
+  {
+    "id": "36",
+    "input": "\"Litekeena bezala hartzen da errege hau borrokan hil izana\" esaldian, zein hitz dago \"hartzen\" atze-atzetik?"
+  },
+  {
+    "id": "37",
+    "input": "\"Hainbat taldetako ikaslek bere iruzkinekin bloga osatu egiten zuten\" esaldian, zein hitz dago \"iruzkinekin\" atze-atzetik?"
+  },
+  {
+    "id": "38",
+    "input": "\"Baina egitura hori ez da bat-batean eskumenez osatuko\" esaldian, zein hitz dago \"Baina\" atze-atzetik?"
+  },
+  {
+    "id": "39",
+    "input": "\"Parisen badira beste hiru asiar komunitate txikiago\" esaldian, zein hitz dago \"hiru\" atze-atzetik?"
+  },
+  {
+    "id": "40",
+    "input": "\"Trenbidearen eraikuntzak garrantzi demografiko handia izan zuen\" esaldian, zein hitz dago \"eraikuntzak\" atze-atzetik?"
+  },
+  {
+    "id": "42",
+    "input": "\"Bere liburuak euskaraz gaztelaniaz frantsesez zein ingelesez idatzi zituen\" esaldian, zein hitz dago \"gaztelaniaz\" atze-atzetik?"
+  },
+  {
+    "id": "43",
+    "input": "\"Gainera izen horrekin izan dira zenbait errege eta jaun ere\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "44",
+    "input": "\"Eskarmentua duen norbait ondoan izateak asko laguntzen du\" esaldian, zein hitz dago \"norbait\" atze-atzetik?"
+  },
+  {
+    "id": "46",
+    "input": "\"Hegoaldean harresiz inguraturiko lorategia oraindik mantentzen da\" esaldian, zein hitz dago \"oraindik\" atze-atzetik?"
+  },
+  {
+    "id": "48",
+    "input": "\"Estrategia eraginkorra definitu eta bideratu behar dugu bestalde\" esaldian, zein hitz dago \"dugu\" atze-atzetik?"
+  },
+  {
+    "id": "50",
+    "input": "\"Musika tresnak eta erloju mekaniko bat irudikatzen ditu\" esaldian, zein hitz dago \"bat\" atze-atzetik?"
+  },
+  {
+    "id": "51",
+    "input": "\"Lehoinabarra historian zehar oso erabilgarria izan da gizakiarentzat\" esaldian, zein hitz dago \"historian\" atze-atzetik?"
+  },
+  {
+    "id": "53",
+    "input": "\"Ezker erdilari postuan jokatzen zuen\" esaldian, zein hitz dago \"erdilari\" atze-atzetik?"
+  },
+  {
+    "id": "54",
+    "input": "\"Garrantzi handiko karguak izan ditu Eliza Katolikoaren baitan\" esaldian, zein hitz dago \"karguak\" atze-atzetik?"
+  },
+  {
+    "id": "55",
+    "input": "\"Boise hiriburuan batez ere nabarmena da euskaldunen pisua\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "57",
+    "input": "\"Mendiaren aprobetxamenduaren gaineko auziak jasotzen dituzten dokumentuz gainezka ditugu agiritegiak\" esaldian, zein hitz dago \"jasotzen\" atze-atzetik?"
+  },
+  {
+    "id": "62",
+    "input": "\"Generoaren kideak ur gezan bizi dira\" esaldian, zein hitz dago \"Generoaren\" atze-atzetik?"
+  },
+  {
+    "id": "64",
+    "input": "\"Gure ikastetxean ere debekatuta dago horrela janztea ikasgelan\" esaldian, zein hitz dago \"Gure\" atze-atzetik?"
+  },
+  {
+    "id": "65",
+    "input": "\"Caracaseko komisariako krimenen aurkako sailaren ardurapean utzi dute kasua\" esaldian, zein hitz dago \"komisariako\" atze-atzetik?"
+  },
+  {
+    "id": "67",
+    "input": "\"Gerra Zibilaren garaian politikan esku hartu zuen\" esaldian, zein hitz dago \"garaian\" atze-atzetik?"
+  },
+  {
+    "id": "69",
+    "input": "\"Saio hauek telebista-saio arrunten luzera izan dezakete ordu erdi ingurukoa\" esaldian, zein hitz dago \"erdi\" atze-atzetik?"
+  },
+  {
+    "id": "76",
+    "input": "\"Taldeak erantzun gisa izen horixe hartu zuen\" esaldian, zein hitz dago \"hartu\" atze-atzetik?"
+  },
+  {
+    "id": "77",
+    "input": "\"Bezeroek sistema batetik bestera aldatzeko askatasuna izan dezaten\" esaldian, zein hitz dago \"batetik\" atze-atzetik?"
+  },
+  {
+    "id": "79",
+    "input": "\"Jarduera hauei esker bere garaiko munduko emakumerik aberatsenetakoa zen\" esaldian, zein hitz dago \"garaiko\" atze-atzetik?"
+  },
+  {
+    "id": "80",
+    "input": "\"Hego Hemisferioan alderantziz gertatzen da\" esaldian, zein hitz dago \"gertatzen\" atze-atzetik?"
+  },
+  {
+    "id": "85",
+    "input": "\"Alegia-liburuak osorik latinera itzuli zituen lehenengo idazlea izan zen\" esaldian, zein hitz dago \"lehenengo\" atze-atzetik?"
+  },
+  {
+    "id": "86",
+    "input": "\"Kondairak dio golkoak urteak egunak dituen beste uharte dituela\" esaldian, zein hitz dago \"urteak\" atze-atzetik?"
+  },
+  {
+    "id": "87",
+    "input": "\"Erro kubo erreal funtzioa bakoitia da\" esaldian, zein hitz dago \"bakoitia\" atze-atzetik?"
+  },
+  {
+    "id": "89",
+    "input": "\"Hiru hilabeteko tartea dute horretarako\" esaldian, zein hitz dago \"dute\" atze-atzetik?"
+  },
+  {
+    "id": "91",
+    "input": "\"Ur gezatan ere badira hainbat espezie\" esaldian, zein hitz dago \"Ur\" atze-atzetik?"
+  },
+  {
+    "id": "92",
+    "input": "\"Zortzigarren bukatu zuen eta horrenbestez diploma olinpikoa lortu zuen\" esaldian, zein hitz dago \"bukatu\" atze-atzetik?"
+  },
+  {
+    "id": "93",
+    "input": "\"Administratiboki Frantziako Pirinio Garaiak departamenduan dago Okzitania eskualdean\" esaldian, zein hitz dago \"Administratiboki\" atze-atzetik?"
+  },
+  {
+    "id": "98",
+    "input": "\"Turkia eta Maroko egiten ari dira orain lan zikin hori\" esaldian, zein hitz dago \"zikin\" atze-atzetik?"
+  },
+  {
+    "id": "99",
+    "input": "\"Mekako eskualdearen hiriburu administratiboa da\" esaldian, zein hitz dago \"Mekako\" atze-atzetik?"
+  },
+  {
+    "id": "102",
+    "input": "\"Estatuaren erdialdea nahiko gune menditsua da\" esaldian, zein hitz dago \"menditsua\" atze-atzetik?"
+  },
+  {
+    "id": "103",
+    "input": "\"Trenbidearen eraikuntzak garrantzi demografiko handia izan zuen\" esaldian, zein hitz dago \"Trenbidearen\" atze-atzetik?"
+  },
+  {
+    "id": "106",
+    "input": "\"Egia da asko erakutsi didala erizaintzak\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "107",
+    "input": "\"Haize horrek dunak sortzen ditu gainazalean\" esaldian, zein hitz dago \"horrek\" atze-atzetik?"
+  },
+  {
+    "id": "108",
+    "input": "\"Neska horien lana jai batetik bestera joatea dirudi\" esaldian, zein hitz dago \"batetik\" atze-atzetik?"
+  },
+  {
+    "id": "110",
+    "input": "\"Nahasketa horri azukrea edo edulkoratzailea ere gehitu ohi zaio\" esaldian, zein hitz dago \"ere\" atze-atzetik?"
+  },
+  {
+    "id": "111",
+    "input": "\"Tratamenduari begira nahiko logikoak dira guztiak\" esaldian, zein hitz dago \"begira\" atze-atzetik?"
+  },
+  {
+    "id": "114",
+    "input": "\"Enperadorearen gorteko margolarien familiakoa zen\" esaldian, zein hitz dago \"margolarien\" atze-atzetik?"
+  },
+  {
+    "id": "116",
+    "input": "\"Hainbat barietate erabiltzen dira aukeratu dituzte hostoak dituen koloreengatik\" esaldian, zein hitz dago \"dituzte\" atze-atzetik?"
+  },
+  {
+    "id": "117",
+    "input": "\"Bi taldek hartu dute parte Lehen Mailan biak nafarrak\" esaldian, zein hitz dago \"parte\" atze-atzetik?"
+  },
+  {
+    "id": "119",
+    "input": "\"Aitzakiok egunez egun baliogabetu ditu Erdoganek bere filtrazioekin\" esaldian, zein hitz dago \"Erdoganek\" atze-atzetik?"
+  },
+  {
+    "id": "120",
+    "input": "\"Hiriko ekonomia-jarduera nagusiak lantegiak merkataritza zerbitzuak eta turismoa dira\" esaldian, zein hitz dago \"nagusiak\" atze-atzetik?"
+  },
+  {
+    "id": "121",
+    "input": "\"Herriko eraikinik garrantzitsuenen artean San Pedroko parrokia nabarmentzen da\" esaldian, zein hitz dago \"San\" atze-atzetik?"
+  },
+  {
+    "id": "122",
+    "input": "\"Hainbat barietate erabiltzen dira aukeratu dituzte hostoak dituen koloreengatik\" esaldian, zein hitz dago \"aukeratu\" atze-atzetik?"
+  },
+  {
+    "id": "125",
+    "input": "\"Herriko jaiak irailaren hirugarren asteburuan ospatzen dituzte Done Jakueren omenez\" esaldian, zein hitz dago \"Herriko\" atze-atzetik?"
+  },
+  {
+    "id": "126",
+    "input": "\"Biek elkar maite dute eta elkarrekin jokoari aurre egingo diote\" esaldian, zein hitz dago \"elkar\" atze-atzetik?"
+  },
+  {
+    "id": "127",
+    "input": "\"Jugoslaviako Liga sisteman hirugarren eta bigarren mailen artean aritu zen\" esaldian, zein hitz dago \"hirugarren\" atze-atzetik?"
+  },
+  {
+    "id": "130",
+    "input": "\"Hurrengo mendeetan hiri burgesa bihurtu zen\" esaldian, zein hitz dago \"mendeetan\" atze-atzetik?"
+  },
+  {
+    "id": "131",
+    "input": "\"Gero hedabideetan hasi zen lanean irratian kirol-kazetari gisa\" esaldian, zein hitz dago \"zen\" atze-atzetik?"
+  },
+  {
+    "id": "133",
+    "input": "\"Eraikina Dubai Marina gunean dago hirian eraikitako kirol porturik handienean\" esaldian, zein hitz dago \"hirian\" atze-atzetik?"
+  },
+  {
+    "id": "134",
+    "input": "\"Zeresanik ez botoen erdia galdu duen Geroa Bairentzat\" esaldian, zein hitz dago \"Geroa\" atze-atzetik?"
+  },
+  {
+    "id": "137",
+    "input": "\"Bakterioak eta bestelako partikula organikoak ere jaten dituzte\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "138",
+    "input": "\"Guk bakarrik ezagutzen ditugun lekuen izenak eta zenbakiak erabil ditzakegu\" esaldian, zein hitz dago \"ditugun\" atze-atzetik?"
+  },
+  {
+    "id": "139",
+    "input": "\"Fenomenoa beste hizkuntzetan ere gertatzen da\" esaldian, zein hitz dago \"hizkuntzetan\" atze-atzetik?"
+  },
+  {
+    "id": "140",
+    "input": "\"Tomas bere semea musikagile eta zuzendaria da orobat\" esaldian, zein hitz dago \"bere\" atze-atzetik?"
+  },
+  {
+    "id": "141",
+    "input": "\"Kasu batzuetan badaude mankomunitate baten parte ez diren udalerriak\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "145",
+    "input": "\"Erriberrin jaio arren bost urte zituelarik Tuterara joan zen bizitzera\" esaldian, zein hitz dago \"jaio\" atze-atzetik?"
+  },
+  {
+    "id": "146",
+    "input": "\"Baita tximista eta trumoia harekin lotzen ziren ere\" esaldian, zein hitz dago \"harekin\" atze-atzetik?"
+  },
+  {
+    "id": "148",
+    "input": "\"Bere propietate oxidatzaileak direla eta laborategian erreaktibo oso erabilia da\" esaldian, zein hitz dago \"direla\" atze-atzetik?"
+  },
+  {
+    "id": "149",
+    "input": "\"Errege honen jatorriak oraindik ilun jarraitzen du\" esaldian, zein hitz dago \"jarraitzen\" atze-atzetik?"
+  },
+  {
+    "id": "150",
+    "input": "\"Hogei urtetarako hainbat erakusketetan parte hartzeko aukera izan zuen\" esaldian, zein hitz dago \"aukera\" atze-atzetik?"
+  },
+  {
+    "id": "151",
+    "input": "\"Pirinio eta Alpeak ohiko lekuak dira Europa mailan\" esaldian, zein hitz dago \"Pirinio\" atze-atzetik?"
+  },
+  {
+    "id": "152",
+    "input": "\"Brasilgo kolpe ezti batek uhinak zabalduko ditu munduan\" esaldian, zein hitz dago \"ezti\" atze-atzetik?"
+  },
+  {
+    "id": "153",
+    "input": "\"Dokumentalak egin zituen batez ere\" esaldian, zein hitz dago \"Dokumentalak\" atze-atzetik?"
+  },
+  {
+    "id": "154",
+    "input": "\"Azken urteotan eraldatze sakon baten lekuko izan dira\" esaldian, zein hitz dago \"baten\" atze-atzetik?"
+  },
+  {
+    "id": "155",
+    "input": "\"Ardoa zuria zein beltza taninoak ditu bere baitan\" esaldian, zein hitz dago \"zuria\" atze-atzetik?"
+  },
+  {
+    "id": "156",
+    "input": "\"Laukoteak arrakastaren gailurrean taldea desegitea erabaki zuen arrazoi jakinik gabe\" esaldian, zein hitz dago \"arrakastaren\" atze-atzetik?"
+  },
+  {
+    "id": "158",
+    "input": "\"Bere testamentuan erlikiak gurtzeko baseliza bat eraikitzea eskatu zuen\" esaldian, zein hitz dago \"eskatu\" atze-atzetik?"
+  },
+  {
+    "id": "161",
+    "input": "\"Haren kokapen zehatza ezezaguna da\" esaldian, zein hitz dago \"zehatza\" atze-atzetik?"
+  },
+  {
+    "id": "163",
+    "input": "\"Azken urteotan erreferentzia bihurtu da eta bisitari ugari jasotzen ditu\" esaldian, zein hitz dago \"erreferentzia\" atze-atzetik?"
+  },
+  {
+    "id": "165",
+    "input": "\"Hortik omen dator hiriaren izena\" esaldian, zein hitz dago \"Hortik\" atze-atzetik?"
+  },
+  {
+    "id": "172",
+    "input": "\"Zuon iritzia irakurri nahi luke\" esaldian, zein hitz dago \"irakurri\" atze-atzetik?"
+  },
+  {
+    "id": "173",
+    "input": "\"Harri Handien Txapelketa ere jokatzen da\" esaldian, zein hitz dago \"jokatzen\" atze-atzetik?"
+  },
+  {
+    "id": "174",
+    "input": "\"Erromes-maskor handiaren antzekoa Galizian oso preziatua da jateko\" esaldian, zein hitz dago \"Galizian\" atze-atzetik?"
+  },
+  {
+    "id": "175",
+    "input": "\"Portugaldarrek uhartea aurkitu zutenean ez zuen biztanlerik\" esaldian, zein hitz dago \"uhartea\" atze-atzetik?"
+  },
+  {
+    "id": "177",
+    "input": "\"Alegia-liburuak osorik latinera itzuli zituen lehenengo idazlea izan zen\" esaldian, zein hitz dago \"itzuli\" atze-atzetik?"
+  },
+  {
+    "id": "178",
+    "input": "\"Euskal Herriaren gaineko Bruselako Adierazpena sinatu zutenetakoa da\" esaldian, zein hitz dago \"Bruselako\" atze-atzetik?"
+  },
+  {
+    "id": "179",
+    "input": "\"Normalean eguneko lanari ekin baino lehen hartzen da\" esaldian, zein hitz dago \"eguneko\" atze-atzetik?"
+  },
+  {
+    "id": "180",
+    "input": "\"Molekula hauek funtsezko zeregina bete zuten biziaren jatorrian\" esaldian, zein hitz dago \"zeregina\" atze-atzetik?"
+  },
+  {
+    "id": "181",
+    "input": "\"Etxebizitza eraikinaren Ekialdeko lehen solairuan dago\" esaldian, zein hitz dago \"solairuan\" atze-atzetik?"
+  },
+  {
+    "id": "182",
+    "input": "\"Jugoslaviako Liga sisteman hirugarren eta bigarren mailen artean aritu zen\" esaldian, zein hitz dago \"aritu\" atze-atzetik?"
+  },
+  {
+    "id": "184",
+    "input": "\"Dinastian bere gurtza hirugarren tarteko aroan berrindartu zelarik\" esaldian, zein hitz dago \"aroan\" atze-atzetik?"
+  },
+  {
+    "id": "185",
+    "input": "\"Zerrenda horri Kote Cabezudo argazkilariarena gehitu behar diogu ezinbestean\" esaldian, zein hitz dago \"horri\" atze-atzetik?"
+  },
+  {
+    "id": "186",
+    "input": "\"Orain kautxua eta turismoa nagusiak dira\" esaldian, zein hitz dago \"kautxua\" atze-atzetik?"
+  },
+  {
+    "id": "187",
+    "input": "\"Ezker Batua-Berdeak alderdiko kidea ere izan zen\" esaldian, zein hitz dago \"kidea\" atze-atzetik?"
+  },
+  {
+    "id": "189",
+    "input": "\"Urumea ibaia zeharkatuz Egia Loiola eta Loiolako Erriberak auzoak elkarlotuz\" esaldian, zein hitz dago \"Erriberak\" atze-atzetik?"
+  },
+  {
+    "id": "190",
+    "input": "\"Bertako zuzendari eta irakasle izan da sortu zenetik\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "192",
+    "input": "\"Dakigun bezala ordenamendu juridikoan hainbat arau jasotzen dira\" esaldian, zein hitz dago \"ordenamendu\" atze-atzetik?"
+  },
+  {
+    "id": "193",
+    "input": "\"Ez da erraza azaltzen berben aukeraketarekin daukalako zerikusia\" esaldian, zein hitz dago \"daukalako\" atze-atzetik?"
+  },
+  {
+    "id": "194",
+    "input": "\"Geroztik beste ehun eta gehiago atzerritar hil zituen\" esaldian, zein hitz dago \"hil\" atze-atzetik?"
+  },
+  {
+    "id": "196",
+    "input": "\"Manufaktura-industria bigarren mailako jarduera da prefekturako ekonomian\" esaldian, zein hitz dago \"bigarren\" atze-atzetik?"
+  },
+  {
+    "id": "198",
+    "input": "\"Euskal Herrian gertatutako azken aurreko atentatu hilgarria izan zen\" esaldian, zein hitz dago \"Euskal\" atze-atzetik?"
+  },
+  {
+    "id": "199",
+    "input": "\"Urtea bukatu baino lehen platinozko hiru disko lortu zituen\" esaldian, zein hitz dago \"baino\" atze-atzetik?"
+  },
+  {
+    "id": "200",
+    "input": "\"Baztan haraneko dorretxe zaharrenetakoa da\" esaldian, zein hitz dago \"zaharrenetakoa\" atze-atzetik?"
+  },
+  {
+    "id": "201",
+    "input": "\"Azken urteak saio filosofikoak idazten eman zituen\" esaldian, zein hitz dago \"saio\" atze-atzetik?"
+  },
+  {
+    "id": "202",
+    "input": "\"Neska horien lana jai batetik bestera joatea dirudi\" esaldian, zein hitz dago \"jai\" atze-atzetik?"
+  },
+  {
+    "id": "203",
+    "input": "\"Beraz gutxitutako hizkuntzaren hiztunak euren etxean atzerritar bihurtzen dira\" esaldian, zein hitz dago \"etxean\" atze-atzetik?"
+  },
+  {
+    "id": "205",
+    "input": "\"Munduan zehar Suediako herritarrak eta suediar jatorria duenak daude\" esaldian, zein hitz dago \"suediar\" atze-atzetik?"
+  },
+  {
+    "id": "207",
+    "input": "\"Tamaina eta erabilera asko izan ditzake eraikuntza militarra eta abar\" esaldian, zein hitz dago \"eraikuntza\" atze-atzetik?"
+  },
+  {
+    "id": "208",
+    "input": "\"Ekialdeko fatxada asimetrikoa da eta hiru gorputz desberdinek osatzen dute\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "209",
+    "input": "\"Arroak petrolio eta gas natural depositu handiak ditu\" esaldian, zein hitz dago \"natural\" atze-atzetik?"
+  },
+  {
+    "id": "211",
+    "input": "\"Barnean Gazteluko Ama Birjinaren erromaniko estiloko irudia gordetzen da\" esaldian, zein hitz dago \"erromaniko\" atze-atzetik?"
+  },
+  {
+    "id": "212",
+    "input": "\"Hitz horiek ez dute inongo tradiziorik espainolez\" esaldian, zein hitz dago \"horiek\" atze-atzetik?"
+  },
+  {
+    "id": "213",
+    "input": "\"Zer idatzi ote dudan irailean ekin nionetik hona\" esaldian, zein hitz dago \"nionetik\" atze-atzetik?"
+  },
+  {
+    "id": "214",
+    "input": "\"Gainera dentsitatea urarena baino txikiagoa dute\" esaldian, zein hitz dago \"urarena\" atze-atzetik?"
+  },
+  {
+    "id": "216",
+    "input": "\"Mendi honen tontorrean postontzi bat eta hiru mugarri daude\" esaldian, zein hitz dago \"postontzi\" atze-atzetik?"
+  },
+  {
+    "id": "222",
+    "input": "\"Hau da bi lauki alde batera eta bat horrekiko elkarzut\" esaldian, zein hitz dago \"Hau\" atze-atzetik?"
+  },
+  {
+    "id": "227",
+    "input": "\"Hau da bi lauki alde batera eta bat horrekiko elkarzut\" esaldian, zein hitz dago \"horrekiko\" atze-atzetik?"
+  },
+  {
+    "id": "228",
+    "input": "\"Entzefalo enborrean kokatzen da zehazki zubian\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "230",
+    "input": "\"Lege hau Espainian eta Europan aitzindaria izan zen\" esaldian, zein hitz dago \"Lege\" atze-atzetik?"
+  },
+  {
+    "id": "232",
+    "input": "\"Gaur egun gehienetan hinduismoa jarraitzen duenari esaten zaio\" esaldian, zein hitz dago \"jarraitzen\" atze-atzetik?"
+  },
+  {
+    "id": "233",
+    "input": "\"Peruko armadan lotinant koronel izatera iritsi zen\" esaldian, zein hitz dago \"koronel\" atze-atzetik?"
+  },
+  {
+    "id": "237",
+    "input": "\"Hostoetan sokak egiteko erabiltzen diren zuntz gogorrak ditu\" esaldian, zein hitz dago \"egiteko\" atze-atzetik?"
+  },
+  {
+    "id": "238",
+    "input": "\"Zuzenbidean lizentziaduna da eta gizarte-politikan eta gizarte-zerbitzuetan aditua\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "240",
+    "input": "\"Gerra zaldia bezala ospetsua bilakatu zen Frantses armadaren aldetik\" esaldian, zein hitz dago \"armadaren\" atze-atzetik?"
+  },
+  {
+    "id": "242",
+    "input": "\"Bere familia artearekin oso lotuta zegoen tradizioz\" esaldian, zein hitz dago \"Bere\" atze-atzetik?"
+  },
+  {
+    "id": "248",
+    "input": "\"Mila bederatziehun eta laurogeita hemeretzian hasi zinen antzerkian?\" esaldian, zein hitz dago \"laurogeita\" atze-atzetik?"
+  },
+  {
+    "id": "250",
+    "input": "\"Euskal filologian liburu eta artikulu zenbaiten egilea da\" esaldian, zein hitz dago \"filologian\" atze-atzetik?"
+  },
+  {
+    "id": "252",
+    "input": "\"Errepublika eta demokrazia berreskuratu behar ziren\" esaldian, zein hitz dago \"demokrazia\" atze-atzetik?"
+  },
+  {
+    "id": "257",
+    "input": "\"Goizean goiz armada karlista ere martxan zegoen\" esaldian, zein hitz dago \"Goizean\" atze-atzetik?"
+  },
+  {
+    "id": "259",
+    "input": "\"Gaur egun merkatuan erabilienak diren ordenagailuak ordenagailu eramangarriak dira\" esaldian, zein hitz dago \"eramangarriak\" atze-atzetik?"
+  },
+  {
+    "id": "260",
+    "input": "\"Niri gehien gustatzen zaidan kirola esku-pilota da eta zen\" esaldian, zein hitz dago \"esku-pilota\" atze-atzetik?"
+  },
+  {
+    "id": "261",
+    "input": "\"Eskola ikasketak berriz sei urterekin hasi zituen\" esaldian, zein hitz dago \"hasi\" atze-atzetik?"
+  },
+  {
+    "id": "262",
+    "input": "\"Arrisku galanta izan zen hura eremu hori oso korapilatsua baitzen\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "263",
+    "input": "\"Ziurra da gainera Karlistaldietan gotorleku bat eraiki zela bertan\" esaldian, zein hitz dago \"zela\" atze-atzetik?"
+  },
+  {
+    "id": "264",
+    "input": "\"Eta hala ere sortu beharra dago\" esaldian, zein hitz dago \"beharra\" atze-atzetik?"
+  },
+  {
+    "id": "265",
+    "input": "\"Zazpi minutuko hitzalditik hautatutako esaldiak dira\" esaldian, zein hitz dago \"minutuko\" atze-atzetik?"
+  },
+  {
+    "id": "266",
+    "input": "\"Bestela zuk zeuk sortu beharko duzu artikulu berria\" esaldian, zein hitz dago \"Bestela\" atze-atzetik?"
+  },
+  {
+    "id": "267",
+    "input": "\"Emeek egingo zituzten lehen sexu-hurbilketak eta bortxaketa ez-ohikoa litzateke\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "269",
+    "input": "\"Hala ere eleberria eta filma ez dira guztiz berdinak\" esaldian, zein hitz dago \"eleberria\" atze-atzetik?"
+  },
+  {
+    "id": "273",
+    "input": "\"Gotzainak ez zituen torturaren arrastoak ikusi nahi izan\" esaldian, zein hitz dago \"zituen\" atze-atzetik?"
+  },
+  {
+    "id": "276",
+    "input": "\"Hasieratik amaierara oholtzako beste kideen gainetik aritu zen Bartra\" esaldian, zein hitz dago \"aritu\" atze-atzetik?"
+  },
+  {
+    "id": "278",
+    "input": "\"Estatuaren erdialdea nahiko gune menditsua da\" esaldian, zein hitz dago \"gune\" atze-atzetik?"
+  },
+  {
+    "id": "279",
+    "input": "\"Bere izena jarri zitzaion zeren oinarrizko xaflaren goialdean jartzen zen\" esaldian, zein hitz dago \"zitzaion\" atze-atzetik?"
+  },
+  {
+    "id": "280",
+    "input": "\"Negutegi batean mota askotako aktibitateak egiten dira erakusketak kontzertuak tailerrak\" esaldian, zein hitz dago \"erakusketak\" atze-atzetik?"
+  },
+  {
+    "id": "281",
+    "input": "\"Alaskako golkoan dagoen erloju-orratzen noranzkoaren aurkako biraren parte bat da\" esaldian, zein hitz dago \"bat\" atze-atzetik?"
+  },
+  {
+    "id": "283",
+    "input": "\"Liburu hau trilogia baten zati da\" esaldian, zein hitz dago \"baten\" atze-atzetik?"
+  },
+  {
+    "id": "284",
+    "input": "\"Ingeniaria edo topografo ona izan behar mapa bateko erdigunea aurkitzeko\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "287",
+    "input": "\"Bereziki ezaguna izan zen bere erretratu eta horma irudiei esker\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "288",
+    "input": "\"Amigdalarekin gertatzen den moduan batzuetan aho-gingilekin nahasten dute\" esaldian, zein hitz dago \"Amigdalarekin\" atze-atzetik?"
+  },
+  {
+    "id": "289",
+    "input": "\"Larrua ilea dela eta oso aintzat hartua da jantziak egiteko\" esaldian, zein hitz dago \"jantziak\" atze-atzetik?"
+  },
+  {
+    "id": "290",
+    "input": "\"Geroago harekin borroka egin eta galdu zuen\" esaldian, zein hitz dago \"egin\" atze-atzetik?"
+  },
+  {
+    "id": "291",
+    "input": "\"Hil zenean Germaniako tribu guztiak erresuma bakar batean bilduta zeuden\" esaldian, zein hitz dago \"bakar\" atze-atzetik?"
+  },
+  {
+    "id": "292",
+    "input": "\"Gainera dentsitatea urarena baino txikiagoa dute\" esaldian, zein hitz dago \"Gainera\" atze-atzetik?"
+  },
+  {
+    "id": "294",
+    "input": "\"Azaltzen dutenez instituzioetatik hainbestetan errepikatzen zitzaien\" esaldian, zein hitz dago \"errepikatzen\" atze-atzetik?"
+  },
+  {
+    "id": "295",
+    "input": "\"Aurrera begira hartu beharreko erabakien eztabaidaran txanda da\" esaldian, zein hitz dago \"erabakien\" atze-atzetik?"
+  },
+  {
+    "id": "296",
+    "input": "\"Bere karrera politikoa oso gazte hasi zuen\" esaldian, zein hitz dago \"gazte\" atze-atzetik?"
+  },
+  {
+    "id": "298",
+    "input": "\"Horren bitartez norbanakoaren sexu-ezaugarriak bere genero-nortasunarekin bat etortzea lortzen da\" esaldian, zein hitz dago \"genero-nortasunarekin\" atze-atzetik?"
+  },
+  {
+    "id": "299",
+    "input": "\"Lanbide Heziketa eta oinarrizko bestelako ikasketak ere eskaintzen dituzte\" esaldian, zein hitz dago \"ikasketak\" atze-atzetik?"
+  },
+  {
+    "id": "300",
+    "input": "\"Zinemara joatea liburutegira joatea baino gehiago gustatzen zait\" esaldian, zein hitz dago \"gehiago\" atze-atzetik?"
+  },
+  {
+    "id": "302",
+    "input": "\"Lehen urteetan zaila izan zen trenbidea eraikitzeko inbertsioari buelta ematea\" esaldian, zein hitz dago \"zaila\" atze-atzetik?"
+  },
+  {
+    "id": "303",
+    "input": "\"Gero bi urtez institutuko irakasle izan zen\" esaldian, zein hitz dago \"irakasle\" atze-atzetik?"
+  },
+  {
+    "id": "305",
+    "input": "\"Hitza italierazko jatorria du non edo gudua hitzetik erakarri zuten\" esaldian, zein hitz dago \"erakarri\" atze-atzetik?"
+  },
+  {
+    "id": "307",
+    "input": "\"Leo zeinuaren aldiarekin bat dator gutxi gorabehera\" esaldian, zein hitz dago \"dator\" atze-atzetik?"
+  },
+  {
+    "id": "309",
+    "input": "\"Amaordeak sasikoa zelako baztertuta Quitoko Santa Katalina komentuan hartu zuten\" esaldian, zein hitz dago \"Katalina\" atze-atzetik?"
+  },
+  {
+    "id": "310",
+    "input": "\"Eta onddo ziztrin batzuek ireki dizkigute begiak\" esaldian, zein hitz dago \"ziztrin\" atze-atzetik?"
+  },
+  {
+    "id": "311",
+    "input": "\"Tenperatura jaitsi pil-pila kendu arte\" esaldian, zein hitz dago \"pil-pila\" atze-atzetik?"
+  },
+  {
+    "id": "312",
+    "input": "\"Dagoeneko hamaika aldiz erabili dudan trikimailua da\" esaldian, zein hitz dago \"erabili\" atze-atzetik?"
+  },
+  {
+    "id": "313",
+    "input": "\"Esaterako garraio publikoa posta eta telefono zerbitzuak\" esaldian, zein hitz dago \"posta\" atze-atzetik?"
+  },
+  {
+    "id": "314",
+    "input": "\"Barne Mongoliako eskualde autonomoaren berezko egiturak dira\" esaldian, zein hitz dago \"berezko\" atze-atzetik?"
+  },
+  {
+    "id": "316",
+    "input": "\"Uhartearen proiektuak ere txikizio handia egingo luke itsaslabarrak suntsitu\" esaldian, zein hitz dago \"egingo\" atze-atzetik?"
+  },
+  {
+    "id": "317",
+    "input": "\"Elizaren fatxada nagusia erromaniko estiloko da\" esaldian, zein hitz dago \"nagusia\" atze-atzetik?"
+  },
+  {
+    "id": "318",
+    "input": "\"Beheko grafikoan urriaren bira arteko datuak erakusten dira\" esaldian, zein hitz dago \"bira\" atze-atzetik?"
+  },
+  {
+    "id": "319",
+    "input": "\"Nekazari askok beren tresnak deuseztatu eta galera handiak eragin zituzten\" esaldian, zein hitz dago \"askok\" atze-atzetik?"
+  },
+  {
+    "id": "321",
+    "input": "\"Hasieratik amaierara oholtzako beste kideen gainetik aritu zen Bartra\" esaldian, zein hitz dago \"beste\" atze-atzetik?"
+  },
+  {
+    "id": "325",
+    "input": "\"Gero hedabideetan hasi zen lanean irratian kirol-kazetari gisa\" esaldian, zein hitz dago \"hasi\" atze-atzetik?"
+  },
+  {
+    "id": "326",
+    "input": "\"Gaur egun ematen du eraikuntzak ez zuela gehiegi iraun\" esaldian, zein hitz dago \"Gaur\" atze-atzetik?"
+  },
+  {
+    "id": "327",
+    "input": "\"Herriaren hegoaldeko sarreran dago Jasokundeko Andre Mariaren elizaren alboan\" esaldian, zein hitz dago \"sarreran\" atze-atzetik?"
+  },
+  {
+    "id": "328",
+    "input": "\"Australian eta Ginea Berrian bizi dira\" esaldian, zein hitz dago \"Australian\" atze-atzetik?"
+  },
+  {
+    "id": "329",
+    "input": "\"Eta hala ere sortu beharra dago\" esaldian, zein hitz dago \"hala\" atze-atzetik?"
+  },
+  {
+    "id": "330",
+    "input": "\"Batzar honetan Aste Santuaren datak zehaztu ziren\" esaldian, zein hitz dago \"Santuaren\" atze-atzetik?"
+  },
+  {
+    "id": "331",
+    "input": "\"Taldeak beti demokratikoki egin du lan\" esaldian, zein hitz dago \"du\" atze-atzetik?"
+  },
+  {
+    "id": "334",
+    "input": "\"Mundu Gerran Sobietar Batasunaren alde eta Alemania naziaren kontra\" esaldian, zein hitz dago \"Gerran\" atze-atzetik?"
+  },
+  {
+    "id": "335",
+    "input": "\"Portadaren hegoaldean dagoen fatxadako inskripzioak ematen digu ermitaren eraikitze-dataren berri\" esaldian, zein hitz dago \"hegoaldean\" atze-atzetik?"
+  },
+  {
+    "id": "336",
+    "input": "\"Hitzaren etimologia ez dago oso garbi\" esaldian, zein hitz dago \"dago\" atze-atzetik?"
+  },
+  {
+    "id": "337",
+    "input": "\"Arraunketa elkarte bezala hasi bazen ere errugbi taldearengatik da ezaguna\" esaldian, zein hitz dago \"Arraunketa\" atze-atzetik?"
+  },
+  {
+    "id": "338",
+    "input": "\"Kontzeptua hobeto ulertzeko hainbat azalpen emango dira\" esaldian, zein hitz dago \"hobeto\" atze-atzetik?"
+  },
+  {
+    "id": "340",
+    "input": "\"Gaur egun dorre hau Pragako toki turistiko bat da\" esaldian, zein hitz dago \"Gaur\" atze-atzetik?"
+  },
+  {
+    "id": "341",
+    "input": "\"Oro har hurrengo estatu hauek hartzen dituela jotzen da\" esaldian, zein hitz dago \"hurrengo\" atze-atzetik?"
+  },
+  {
+    "id": "342",
+    "input": "\"Zeresanik ez botoen erdia galdu duen Geroa Bairentzat\" esaldian, zein hitz dago \"botoen\" atze-atzetik?"
+  },
+  {
+    "id": "343",
+    "input": "\"Gaztelua ez zen berreraiki eta ondorioz hondakinetan geratu zen\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "344",
+    "input": "\"Manifestua ez zen oso urrutira iritsi hurrengo bi hamarkadetan\" esaldian, zein hitz dago \"zen\" atze-atzetik?"
+  },
+  {
+    "id": "346",
+    "input": "\"Estudioko musikagileek jo zuten bere ordez\" esaldian, zein hitz dago \"musikagileek\" atze-atzetik?"
+  },
+  {
+    "id": "350",
+    "input": "\"Segoviako probintzian kokaturik dago Segovia hiritik kilometro gutxira\" esaldian, zein hitz dago \"dago\" atze-atzetik?"
+  },
+  {
+    "id": "351",
+    "input": "\"Zer erre duzu hona etorri aurretik\" esaldian, zein hitz dago \"etorri\" atze-atzetik?"
+  },
+  {
+    "id": "352",
+    "input": "\"Kontzeptua hobeto ulertzeko hainbat azalpen emango dira\" esaldian, zein hitz dago \"emango\" atze-atzetik?"
+  },
+  {
+    "id": "354",
+    "input": "\"Portua maiatzetik abendura egoten da irekita\" esaldian, zein hitz dago \"maiatzetik\" atze-atzetik?"
+  },
+  {
+    "id": "355",
+    "input": "\"Gerra Zibila hastean errepublikaren legezkotasuna defendatu zuen\" esaldian, zein hitz dago \"Zibila\" atze-atzetik?"
+  },
+  {
+    "id": "356",
+    "input": "\"Antza jokoa garaiko mahai-jolas ezagun batean oinarritu zen\" esaldian, zein hitz dago \"jokoa\" atze-atzetik?"
+  },
+  {
+    "id": "357",
+    "input": "\"Aitzakiok egunez egun baliogabetu ditu Erdoganek bere filtrazioekin\" esaldian, zein hitz dago \"bere\" atze-atzetik?"
+  },
+  {
+    "id": "358",
+    "input": "\"Hiriko zubi mendebaldekoena da eta hirigunetik urrunen dagoena\" esaldian, zein hitz dago \"hirigunetik\" atze-atzetik?"
+  },
+  {
+    "id": "359",
+    "input": "\"Hala ere urte batzuk geroago nafarrek bere jabetza berreskuratu zuten\" esaldian, zein hitz dago \"geroago\" atze-atzetik?"
+  },
+  {
+    "id": "360",
+    "input": "\"Berrogeita hamalau urtez izan zen abesbatzaren zuzendari\" esaldian, zein hitz dago \"hamalau\" atze-atzetik?"
+  },
+  {
+    "id": "361",
+    "input": "\"Teknika horren desabantaila nagusia kamera askeak erabiltzeko garaian ageri zen\" esaldian, zein hitz dago \"nagusia\" atze-atzetik?"
+  },
+  {
+    "id": "362",
+    "input": "\"Boise hiriburuan batez ere nabarmena da euskaldunen pisua\" esaldian, zein hitz dago \"batez\" atze-atzetik?"
+  },
+  {
+    "id": "365",
+    "input": "\"Gaitzak larruazala nerbio-sistema eta barrunbeak jotzen ditu\" esaldian, zein hitz dago \"jotzen\" atze-atzetik?"
+  },
+  {
+    "id": "366",
+    "input": "\"Barnean Gazteluko Ama Birjinaren erromaniko estiloko irudia gordetzen da\" esaldian, zein hitz dago \"gordetzen\" atze-atzetik?"
+  },
+  {
+    "id": "367",
+    "input": "\"Elkarte honek munduko lehen aldizkari homosexual erregularra kaleratu zuen\" esaldian, zein hitz dago \"kaleratu\" atze-atzetik?"
+  },
+  {
+    "id": "369",
+    "input": "\"Dokumentala estreinatu eta gutxira sexua berresleitzeko ebakuntza jaso zuen\" esaldian, zein hitz dago \"gutxira\" atze-atzetik?"
+  },
+  {
+    "id": "370",
+    "input": "\"Bere semea herrialdeko independentziaren alde borrokatu zuen\" esaldian, zein hitz dago \"Bere\" atze-atzetik?"
+  },
+  {
+    "id": "373",
+    "input": "\"Zati bakoitzean leiho txiki bat dago ia karratua\" esaldian, zein hitz dago \"txiki\" atze-atzetik?"
+  },
+  {
+    "id": "375",
+    "input": "\"Hasieran dena ondo badoa laster agertuko dira lehendabiziko arazoak\" esaldian, zein hitz dago \"laster\" atze-atzetik?"
+  },
+  {
+    "id": "376",
+    "input": "\"Munduko xake Txapelketa antolatzen du\" esaldian, zein hitz dago \"Munduko\" atze-atzetik?"
+  },
+  {
+    "id": "377",
+    "input": "\"Pirinio eta Alpeak ohiko lekuak dira Europa mailan\" esaldian, zein hitz dago \"Alpeak\" atze-atzetik?"
+  },
+  {
+    "id": "378",
+    "input": "\"Egia da asko erakutsi didala erizaintzak\" esaldian, zein hitz dago \"didala\" atze-atzetik?"
+  },
+  {
+    "id": "379",
+    "input": "\"Guztira ehun bat ponpa daude kanalaren lana mantendu ahal izateko\" esaldian, zein hitz dago \"ahal\" atze-atzetik?"
+  },
+  {
+    "id": "381",
+    "input": "\"Honetaz gain lau barruti ditu\" esaldian, zein hitz dago \"lau\" atze-atzetik?"
+  },
+  {
+    "id": "382",
+    "input": "\"Orduan erbesteko gobernu monarkikoarekin adostu zuten Jugoslavia Federal Demokratikoaren sorrera\" esaldian, zein hitz dago \"Federal\" atze-atzetik?"
+  },
+  {
+    "id": "384",
+    "input": "\"Bigarren zatia geroago eliza katolikoak jarritako osaketa da\" esaldian, zein hitz dago \"eliza\" atze-atzetik?"
+  },
+  {
+    "id": "385",
+    "input": "\"Anjelek ez omen zuen buruz ondo gogoratzen protagonistaren izena\" esaldian, zein hitz dago \"gogoratzen\" atze-atzetik?"
+  },
+  {
+    "id": "386",
+    "input": "\"Dagoeneko hamaika aldiz erabili dudan trikimailua da\" esaldian, zein hitz dago \"trikimailua\" atze-atzetik?"
+  },
+  {
+    "id": "387",
+    "input": "\"Europan demokrazia ahuldu egin zen\" esaldian, zein hitz dago \"egin\" atze-atzetik?"
+  },
+  {
+    "id": "392",
+    "input": "\"Ziurra da gainera Karlistaldietan gotorleku bat eraiki zela bertan\" esaldian, zein hitz dago \"Ziurra\" atze-atzetik?"
+  },
+  {
+    "id": "393",
+    "input": "\"Ongi da orain goazen ikustera nola hedatzen diren\" esaldian, zein hitz dago \"nola\" atze-atzetik?"
+  },
+  {
+    "id": "394",
+    "input": "\"Andra Mari hori Serbiako babeslea da\" esaldian, zein hitz dago \"hori\" atze-atzetik?"
+  },
+  {
+    "id": "396",
+    "input": "\"Lehenengo Gerra Punikoan askotan aipatzen da hiria\" esaldian, zein hitz dago \"askotan\" atze-atzetik?"
+  },
+  {
+    "id": "397",
+    "input": "\"Pirinio eta Alpeak ohiko lekuak dira Europa mailan\" esaldian, zein hitz dago \"ohiko\" atze-atzetik?"
+  },
+  {
+    "id": "398",
+    "input": "\"Horregatik Balmaseda merkataritza eta aduana leku garrantzitsua bilakatu zen\" esaldian, zein hitz dago \"aduana\" atze-atzetik?"
+  },
+  {
+    "id": "399",
+    "input": "\"Guztiarekin ere hil ondoren independentziaren heroitzat hartua izan zen\" esaldian, zein hitz dago \"independentziaren\" atze-atzetik?"
+  },
+  {
+    "id": "401",
+    "input": "\"Oso harrera eta kritika txarrak izan zituen\" esaldian, zein hitz dago \"Oso\" atze-atzetik?"
+  },
+  {
+    "id": "402",
+    "input": "\"Gerraz gero gudarosteak esku handia izan du Paraguaiko gobernuan\" esaldian, zein hitz dago \"Paraguaiko\" atze-atzetik?"
+  },
+  {
+    "id": "403",
+    "input": "\"Erdilari-aurrelari moduan jokatu izan zuen\" esaldian, zein hitz dago \"jokatu\" atze-atzetik?"
+  },
+  {
+    "id": "404",
+    "input": "\"Aro baten akabantzaren bezperan gaude\" esaldian, zein hitz dago \"baten\" atze-atzetik?"
+  },
+  {
+    "id": "405",
+    "input": "\"Gerra Zibilaren garaian politikan esku hartu zuen\" esaldian, zein hitz dago \"esku\" atze-atzetik?"
+  },
+  {
+    "id": "407",
+    "input": "\"Jarduera hauei esker bere garaiko munduko emakumerik aberatsenetakoa zen\" esaldian, zein hitz dago \"hauei\" atze-atzetik?"
+  },
+  {
+    "id": "408",
+    "input": "\"Bigarren mailan zebilen lehenengo taldea izan zen Kopa irabazten zuena\" esaldian, zein hitz dago \"taldea\" atze-atzetik?"
+  },
+  {
+    "id": "410",
+    "input": "\"Urumea ibaia zeharkatuz Egia Loiola eta Loiolako Erriberak auzoak elkarlotuz\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "412",
+    "input": "\"Berehala mekanismo ezezagun batek altxatu egiten du sarea\" esaldian, zein hitz dago \"ezezagun\" atze-atzetik?"
+  },
+  {
+    "id": "415",
+    "input": "\"Tomas Jauregi gipuzkoarra izan zen bestetik erretaula nagusiaren egilea\" esaldian, zein hitz dago \"Tomas\" atze-atzetik?"
+  },
+  {
+    "id": "416",
+    "input": "\"Gerra Zibila hastean errepublikaren legezkotasuna defendatu zuen\" esaldian, zein hitz dago \"errepublikaren\" atze-atzetik?"
+  },
+  {
+    "id": "418",
+    "input": "\"Filologia klasiko arkeologia eta historiako ikasketak egin zituen Madrilen\" esaldian, zein hitz dago \"egin\" atze-atzetik?"
+  },
+  {
+    "id": "419",
+    "input": "\"Donibane Garazi ondorengo herri eta hiriekin senidetuta dago\" esaldian, zein hitz dago \"herri\" atze-atzetik?"
+  },
+  {
+    "id": "420",
+    "input": "\"Bikoizketa arloan ere egin du lan\" esaldian, zein hitz dago \"ere\" atze-atzetik?"
+  },
+  {
+    "id": "422",
+    "input": "\"Baina Satanek lortu zuen denak konbentzitzea\" esaldian, zein hitz dago \"denak\" atze-atzetik?"
+  },
+  {
+    "id": "423",
+    "input": "\"Osasunaren Mundu Erakundeak baztangaren aurka prestatutako programaren azken fasearen zuzendaria\" esaldian, zein hitz dago \"prestatutako\" atze-atzetik?"
+  },
+  {
+    "id": "424",
+    "input": "\"Arroak petrolio eta gas natural depositu handiak ditu\" esaldian, zein hitz dago \"depositu\" atze-atzetik?"
+  },
+  {
+    "id": "425",
+    "input": "\"Antzezlea izateaz gain irakasle lanetan ere aritzen da\" esaldian, zein hitz dago \"ere\" atze-atzetik?"
+  },
+  {
+    "id": "426",
+    "input": "\"Laukoteak arrakastaren gailurrean taldea desegitea erabaki zuen arrazoi jakinik gabe\" esaldian, zein hitz dago \"taldea\" atze-atzetik?"
+  },
+  {
+    "id": "427",
+    "input": "\"Nola heldu naiz ni honaino\" esaldian, zein hitz dago \"Nola\" atze-atzetik?"
+  },
+  {
+    "id": "428",
+    "input": "\"Trikuharriak eta kastro herrixka zaharrak eraiki zituzten\" esaldian, zein hitz dago \"herrixka\" atze-atzetik?"
+  },
+  {
+    "id": "429",
+    "input": "\"Ur kirolak ere egin daitezke inguruko ibai eta aintziretan\" esaldian, zein hitz dago \"Ur\" atze-atzetik?"
+  },
+  {
+    "id": "431",
+    "input": "\"Amamari deituko diozu gaur gauean\" esaldian, zein hitz dago \"deituko\" atze-atzetik?"
+  },
+  {
+    "id": "432",
+    "input": "\"Krakovia ondorengo hiriekin senidetuta dago\" esaldian, zein hitz dago \"hiriekin\" atze-atzetik?"
+  },
+  {
+    "id": "435",
+    "input": "\"Zipreko lehen mailan lortu duen posturik hoberena hirugarrena da\" esaldian, zein hitz dago \"posturik\" atze-atzetik?"
+  },
+  {
+    "id": "436",
+    "input": "\"Baina hori ez zen nahikoa behin-behineko patentea berritu ahal izateko\" esaldian, zein hitz dago \"berritu\" atze-atzetik?"
+  },
+  {
+    "id": "437",
+    "input": "\"Bere izena Angola herrialdeagatik jasotzen du\" esaldian, zein hitz dago \"Bere\" atze-atzetik?"
+  },
+  {
+    "id": "438",
+    "input": "\"Animalia familia bakoitzean hortzeria ezberdina denez aldaketak egon daitezke\" esaldian, zein hitz dago \"aldaketak\" atze-atzetik?"
+  },
+  {
+    "id": "440",
+    "input": "\"Geroztik beste ehun eta gehiago atzerritar hil zituen\" esaldian, zein hitz dago \"beste\" atze-atzetik?"
+  },
+  {
+    "id": "441",
+    "input": "\"Bertan industriagunea eta hainbat industria eta negozio txiki daude\" esaldian, zein hitz dago \"Bertan\" atze-atzetik?"
+  },
+  {
+    "id": "443",
+    "input": "\"Antzezlea izateaz gain irakasle lanetan ere aritzen da\" esaldian, zein hitz dago \"Antzezlea\" atze-atzetik?"
+  },
+  {
+    "id": "444",
+    "input": "\"Jaurtitzailerik onena ere ezin da haraino heldu\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "445",
+    "input": "\"Beraz hemendik eskatuko diegu hezkuntzako arduradun guztiei ordenagailu bana\" esaldian, zein hitz dago \"guztiei\" atze-atzetik?"
+  },
+  {
+    "id": "447",
+    "input": "\"Bestela zuk zeuk sortu beharko duzu artikulu berria\" esaldian, zein hitz dago \"beharko\" atze-atzetik?"
+  },
+  {
+    "id": "448",
+    "input": "\"Azken hauteskundeetan zerrenda bozkatuena izatea lortu zuten\" esaldian, zein hitz dago \"zerrenda\" atze-atzetik?"
+  },
+  {
+    "id": "450",
+    "input": "\"Bertan industriagunea eta hainbat industria eta negozio txiki daude\" esaldian, zein hitz dago \"txiki\" atze-atzetik?"
+  },
+  {
+    "id": "451",
+    "input": "\"Gaztela eta Leongo Juntaren gaineko kontrola du\" esaldian, zein hitz dago \"kontrola\" atze-atzetik?"
+  },
+  {
+    "id": "452",
+    "input": "\"Turkia eta Maroko egiten ari dira orain lan zikin hori\" esaldian, zein hitz dago \"Turkia\" atze-atzetik?"
+  },
+  {
+    "id": "453",
+    "input": "\"Etxebizitzak betetzen du eraikinaren hego-mendebaldeko aldeko behe-solairua eta lehen solairua\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "455",
+    "input": "\"Eraikinaren alboan Euskotren Tranbiaren Europa geltokia dago\" esaldian, zein hitz dago \"alboan\" atze-atzetik?"
+  },
+  {
+    "id": "456",
+    "input": "\"Amamari deituko diozu gaur gauean\" esaldian, zein hitz dago \"gaur\" atze-atzetik?"
+  },
+  {
+    "id": "457",
+    "input": "\"Bi hilabetean behin argitaratzen da\" esaldian, zein hitz dago \"Bi\" atze-atzetik?"
+  },
+  {
+    "id": "458",
+    "input": "\"Gotzainak ez zituen torturaren arrastoak ikusi nahi izan\" esaldian, zein hitz dago \"Gotzainak\" atze-atzetik?"
+  },
+  {
+    "id": "459",
+    "input": "\"Bilboko musika bandan jotzen du\" esaldian, zein hitz dago \"Bilboko\" atze-atzetik?"
+  },
+  {
+    "id": "461",
+    "input": "\"Jesusen Lagundiaren aiten egoitza gertu zegoen hortik izena\" esaldian, zein hitz dago \"hortik\" atze-atzetik?"
+  },
+  {
+    "id": "462",
+    "input": "\"Pertsonaiak egiteari utzi eta bakarrizketak egiten hasi zeuretik abiatuta\" esaldian, zein hitz dago \"hasi\" atze-atzetik?"
+  },
+  {
+    "id": "464",
+    "input": "\"Gaua da eta etxeratzean telebista piztu duzu\" esaldian, zein hitz dago \"etxeratzean\" atze-atzetik?"
+  },
+  {
+    "id": "467",
+    "input": "\"Gaur egun ematen du eraikuntzak ez zuela gehiegi iraun\" esaldian, zein hitz dago \"eraikuntzak\" atze-atzetik?"
+  },
+  {
+    "id": "468",
+    "input": "\"Anarkismoaren hurbileko posizio politikoak izan zituen\" esaldian, zein hitz dago \"hurbileko\" atze-atzetik?"
+  },
+  {
+    "id": "472",
+    "input": "\"Gaur egun dorre hau Pragako toki turistiko bat da\" esaldian, zein hitz dago \"turistiko\" atze-atzetik?"
+  },
+  {
+    "id": "473",
+    "input": "\"Pobrezia mota honek oztopatu egiten du ekonomia eta gizartearen garapena\" esaldian, zein hitz dago \"ekonomia\" atze-atzetik?"
+  },
+  {
+    "id": "475",
+    "input": "\"Egunkarian eta Berrian artikuluak idatzi ditu\" esaldian, zein hitz dago \"idatzi\" atze-atzetik?"
+  },
+  {
+    "id": "476",
+    "input": "\"Teoria honen oinarria egitura elektronikoan dago\" esaldian, zein hitz dago \"Teoria\" atze-atzetik?"
+  },
+  {
+    "id": "477",
+    "input": "\"Gerra bukatu arte itxaron behar izan zuen argitaratzeko\" esaldian, zein hitz dago \"Gerra\" atze-atzetik?"
+  },
+  {
+    "id": "478",
+    "input": "\"Bisitariek historian murgiltzeko aukera ere izanen dute gune natural honetan\" esaldian, zein hitz dago \"murgiltzeko\" atze-atzetik?"
+  },
+  {
+    "id": "481",
+    "input": "\"Era berean monumentu bat zaintzen ari zen soldadua hil zen\" esaldian, zein hitz dago \"berean\" atze-atzetik?"
+  },
+  {
+    "id": "482",
+    "input": "\"Beheko grafikoan urriaren bira arteko datuak erakusten dira\" esaldian, zein hitz dago \"grafikoan\" atze-atzetik?"
+  },
+  {
+    "id": "483",
+    "input": "\"Azpimarratzekoa da ordea terraza moduko solairuak eta sabai lauak dituela\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "484",
+    "input": "\"Haatik egungo eskubide publikoan egitura batzuk badaude zuen eskakizunei erantzuteko\" esaldian, zein hitz dago \"zuen\" atze-atzetik?"
+  },
+  {
+    "id": "486",
+    "input": "\"Burmuina edo pankrea erakusteko adibidez ez dira baliagarriak\" esaldian, zein hitz dago \"dira\" atze-atzetik?"
+  },
+  {
+    "id": "488",
+    "input": "\"Bertan hitz egiten den hizkuntza nagusia frantsesa da\" esaldian, zein hitz dago \"nagusia\" atze-atzetik?"
+  },
+  {
+    "id": "490",
+    "input": "\"Estonbak froga hauek zalantzan jarri ditu\" esaldian, zein hitz dago \"hauek\" atze-atzetik?"
+  },
+  {
+    "id": "491",
+    "input": "\"Linea honetako ibilbidea oso zaila zen\" esaldian, zein hitz dago \"honetako\" atze-atzetik?"
+  },
+  {
+    "id": "492",
+    "input": "\"Tankea alde guztietatik hegoaldetik izan ezik zutabez inguratuta zegoen\" esaldian, zein hitz dago \"inguratuta\" atze-atzetik?"
+  },
+  {
+    "id": "494",
+    "input": "\"Eta onddo ziztrin batzuek ireki dizkigute begiak\" esaldian, zein hitz dago \"Eta\" atze-atzetik?"
+  },
+  {
+    "id": "495",
+    "input": "\"Bertan ibilaldi hitzaldi lantegi eta kontzertuak egiten dira\" esaldian, zein hitz dago \"egiten\" atze-atzetik?"
+  },
+  {
+    "id": "496",
+    "input": "\"Parisen badira beste hiru asiar komunitate txikiago\" esaldian, zein hitz dago \"badira\" atze-atzetik?"
+  },
+  {
+    "id": "497",
+    "input": "\"Baimena ematen dietenean esaten ari dira\" esaldian, zein hitz dago \"ematen\" atze-atzetik?"
+  },
+  {
+    "id": "500",
+    "input": "\"Bertan Japonian bizi izan zituen lan gorabeherak kontatzen ditu\" esaldian, zein hitz dago \"bizi\" atze-atzetik?"
+  },
+  {
+    "id": "502",
+    "input": "\"Unibertsoaren hasieratik gaur arteko historia laburturik jendarteratzeko zientzia-kazetaritza lana da\" esaldian, zein hitz dago \"gaur\" atze-atzetik?"
+  },
+  {
+    "id": "503",
+    "input": "\"Zaude segur euskarak iraunen duela\" esaldian, zein hitz dago \"euskarak\" atze-atzetik?"
+  },
+  {
+    "id": "504",
+    "input": "\"Itzulpena gehi ohar berri batzuk egin eta erregistratu ahal da\" esaldian, zein hitz dago \"erregistratu\" atze-atzetik?"
+  },
+  {
+    "id": "505",
+    "input": "\"Hainbat euskal nahiz erdal abeslari famatu eman ditu Euskal Herriak\" esaldian, zein hitz dago \"famatu\" atze-atzetik?"
+  },
+  {
+    "id": "507",
+    "input": "\"Hirurogeita hamalau urte zituela hil omen zen madarikazio baten ondorioz\" esaldian, zein hitz dago \"hil\" atze-atzetik?"
+  },
+  {
+    "id": "508",
+    "input": "\"Nekazari askok beren tresnak deuseztatu eta galera handiak eragin zituzten\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "509",
+    "input": "\"Faila-blokeen arteko mugimenduak marruskadura eragiten du faila-planoan\" esaldian, zein hitz dago \"du\" atze-atzetik?"
+  },
+  {
+    "id": "510",
+    "input": "\"Euskal Herriko futbol selekzioarekin partida bi jokatu zituen\" esaldian, zein hitz dago \"bi\" atze-atzetik?"
+  },
+  {
+    "id": "511",
+    "input": "\"Argitaratu zen astean Espainiako disko salduena izatea lortu zuen\" esaldian, zein hitz dago \"Argitaratu\" atze-atzetik?"
+  },
+  {
+    "id": "514",
+    "input": "\"Auzia epaitegietara eraman zuen arren ez zuen mantentzearen helburua lortu\" esaldian, zein hitz dago \"arren\" atze-atzetik?"
+  },
+  {
+    "id": "516",
+    "input": "\"Gaur egun monasterioaren alde batzuk berreskuratzen ari dira\" esaldian, zein hitz dago \"egun\" atze-atzetik?"
+  },
+  {
+    "id": "517",
+    "input": "\"Ehun helduen artean espezializazio mailarik txikiena du\" esaldian, zein hitz dago \"artean\" atze-atzetik?"
+  },
+  {
+    "id": "519",
+    "input": "\"Baita ere laborategi lanak aipatu behar ditugu hemen\" esaldian, zein hitz dago \"lanak\" atze-atzetik?"
+  },
+  {
+    "id": "523",
+    "input": "\"Talde txikietan elkartu ohi dira\" esaldian, zein hitz dago \"elkartu\" atze-atzetik?"
+  },
+  {
+    "id": "524",
+    "input": "\"Antiguo auzoan eraiki zuten El Leon fabrika\" esaldian, zein hitz dago \"auzoan\" atze-atzetik?"
+  },
+  {
+    "id": "525",
+    "input": "\"Edozeri buruz idatz dezakegula esan digu\" esaldian, zein hitz dago \"idatz\" atze-atzetik?"
+  },
+  {
+    "id": "526",
+    "input": "\"Dokumentalak egin zituen batez ere\" esaldian, zein hitz dago \"egin\" atze-atzetik?"
+  },
+  {
+    "id": "528",
+    "input": "\"Azpimarratzekoa da ordea terraza moduko solairuak eta sabai lauak dituela\" esaldian, zein hitz dago \"lauak\" atze-atzetik?"
+  },
+  {
+    "id": "529",
+    "input": "\"Laukoteak arrakastaren gailurrean taldea desegitea erabaki zuen arrazoi jakinik gabe\" esaldian, zein hitz dago \"zuen\" atze-atzetik?"
+  },
+  {
+    "id": "531",
+    "input": "\"Familia eta kuadrilla girorako leku txukuna da\" esaldian, zein hitz dago \"kuadrilla\" atze-atzetik?"
+  },
+  {
+    "id": "532",
+    "input": "\"Beraz hemendik eskatuko diegu hezkuntzako arduradun guztiei ordenagailu bana\" esaldian, zein hitz dago \"Beraz\" atze-atzetik?"
+  },
+  {
+    "id": "533",
+    "input": "\"Musika tresnak eta erloju mekaniko bat irudikatzen ditu\" esaldian, zein hitz dago \"erloju\" atze-atzetik?"
+  },
+  {
+    "id": "534",
+    "input": "\"Atenas eta Erromara bidaiatu zuen betiere ikasteko eta irakasteko grinarekin\" esaldian, zein hitz dago \"irakasteko\" atze-atzetik?"
+  },
+  {
+    "id": "535",
+    "input": "\"Aurkikuntza horiek meskitaren hegoaldean egin ziren\" esaldian, zein hitz dago \"horiek\" atze-atzetik?"
+  },
+  {
+    "id": "537",
+    "input": "\"Erbestetik itzulita ezagutarazi zuen bere burua idazle gisa\" esaldian, zein hitz dago \"ezagutarazi\" atze-atzetik?"
+  },
+  {
+    "id": "538",
+    "input": "\"Bikoizketa arloan ere egin du lan\" esaldian, zein hitz dago \"Bikoizketa\" atze-atzetik?"
+  },
+  {
+    "id": "539",
+    "input": "\"Azken bi hauek Galar Zendeako kontzejuak dira\" esaldian, zein hitz dago \"Zendeako\" atze-atzetik?"
+  },
+  {
+    "id": "540",
+    "input": "\"Baina guzti horietatik bizirik soilik gutxi batzuk jarraitu zuten\" esaldian, zein hitz dago \"gutxi\" atze-atzetik?"
+  },
+  {
+    "id": "543",
+    "input": "\"Osagai nagusiak barazkiak dira askotan okelarekin prestatzen dituztenak\" esaldian, zein hitz dago \"barazkiak\" atze-atzetik?"
+  },
+  {
+    "id": "545",
+    "input": "\"Bikoizketa arloan ere egin du lan\" esaldian, zein hitz dago \"arloan\" atze-atzetik?"
+  },
+  {
+    "id": "548",
+    "input": "\"Gerra Zibilean bertatik pasa ziren erbestera zihoazen hainbat errepublikano\" esaldian, zein hitz dago \"Zibilean\" atze-atzetik?"
+  },
+  {
+    "id": "549",
+    "input": "\"Hango portutik merkataritza-harreman estuak bideratzen dira Errusia Korea eta Txinarekin\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "551",
+    "input": "\"Nabigatzaile hori gaztelaniaz erabili behar zen hasieran halabeharrez\" esaldian, zein hitz dago \"zen\" atze-atzetik?"
+  },
+  {
+    "id": "555",
+    "input": "\"Bi mila eta hamabostean jendartea ehuntzea zuten helburu\" esaldian, zein hitz dago \"hamabostean\" atze-atzetik?"
+  },
+  {
+    "id": "557",
+    "input": "\"Horrek Paraguaiko eraikinik garaiena bihurtzen du\" esaldian, zein hitz dago \"Paraguaiko\" atze-atzetik?"
+  },
+  {
+    "id": "558",
+    "input": "\"Hala ere eleberria eta filma ez dira guztiz berdinak\" esaldian, zein hitz dago \"dira\" atze-atzetik?"
+  },
+  {
+    "id": "560",
+    "input": "\"Gero Gipuzkoako Ahaldun Nagusi hautatu zuten\" esaldian, zein hitz dago \"Gipuzkoako\" atze-atzetik?"
+  },
+  {
+    "id": "561",
+    "input": "\"Norbaitek euskaraz ez badu egiten denok gaztelaniara jotzen dugu\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "562",
+    "input": "\"Lekuko batek ezetz zioen webgune horretan\" esaldian, zein hitz dago \"webgune\" atze-atzetik?"
+  },
+  {
+    "id": "565",
+    "input": "\"Barne zatiketak ordea hustar mugimendua ahuldu zuen\" esaldian, zein hitz dago \"ahuldu\" atze-atzetik?"
+  },
+  {
+    "id": "569",
+    "input": "\"Soria Duero ibaiaren goiko atalean kokatuta dago\" esaldian, zein hitz dago \"kokatuta\" atze-atzetik?"
+  },
+  {
+    "id": "572",
+    "input": "\"Talde txikietan elkartu ohi dira\" esaldian, zein hitz dago \"txikietan\" atze-atzetik?"
+  },
+  {
+    "id": "573",
+    "input": "\"Ipar-amerikarrek Bigarren Mundu Gerran euskara erabili omen zuten\" esaldian, zein hitz dago \"Gerran\" atze-atzetik?"
+  },
+  {
+    "id": "574",
+    "input": "\"Kontzeptua hobeto ulertzeko hainbat azalpen emango dira\" esaldian, zein hitz dago \"azalpen\" atze-atzetik?"
+  },
+  {
+    "id": "576",
+    "input": "\"Txiste onak kontatzen ditu mozkortuta ez dagoenean\" esaldian, zein hitz dago \"onak\" atze-atzetik?"
+  },
+  {
+    "id": "577",
+    "input": "\"Erromes-maskor handiaren antzekoa Galizian oso preziatua da jateko\" esaldian, zein hitz dago \"handiaren\" atze-atzetik?"
+  },
+  {
+    "id": "578",
+    "input": "\"Hegazti askorentzat elikagai garrantzitsuak dira\" esaldian, zein hitz dago \"askorentzat\" atze-atzetik?"
+  },
+  {
+    "id": "580",
+    "input": "\"Beraz gutxitutako hizkuntzaren hiztunak euren etxean atzerritar bihurtzen dira\" esaldian, zein hitz dago \"hiztunak\" atze-atzetik?"
+  },
+  {
+    "id": "582",
+    "input": "\"Nafarroa etorbidea eta San Frantzisko kalearen arteko kantoian dago\" esaldian, zein hitz dago \"Frantzisko\" atze-atzetik?"
+  },
+  {
+    "id": "583",
+    "input": "\"Hala ere ulergarritasuna mantentzeko ez zuten beti egin\" esaldian, zein hitz dago \"ulergarritasuna\" atze-atzetik?"
+  },
+  {
+    "id": "586",
+    "input": "\"Ur azpian ere lehor mantentzen den materiala\" esaldian, zein hitz dago \"ere\" atze-atzetik?"
+  },
+  {
+    "id": "587",
+    "input": "\"Epaile pribatuek honela menderatu dute estatua\" esaldian, zein hitz dago \"menderatu\" atze-atzetik?"
+  },
+  {
+    "id": "588",
+    "input": "\"Bertan hitz egiten den hizkuntza nagusia frantsesa da\" esaldian, zein hitz dago \"hizkuntza\" atze-atzetik?"
+  },
+  {
+    "id": "589",
+    "input": "\"Erabakien onespenerako nahikoa dute gehiengo sinplea\" esaldian, zein hitz dago \"Erabakien\" atze-atzetik?"
+  },
+  {
+    "id": "590",
+    "input": "\"Osasunaren Mundu Erakundeak baztangaren aurka prestatutako programaren azken fasearen zuzendaria\" esaldian, zein hitz dago \"Osasunaren\" atze-atzetik?"
+  },
+  {
+    "id": "595",
+    "input": "\"Plastikoa egiteko eta gai organikoak sintetizatzeko erabiltzen da batez ere\" esaldian, zein hitz dago \"Plastikoa\" atze-atzetik?"
+  },
+  {
+    "id": "596",
+    "input": "\"Baionako Lizeoan ikasi eta Bordelen goi-mailako ikasketak burutu zituen\" esaldian, zein hitz dago \"Lizeoan\" atze-atzetik?"
+  },
+  {
+    "id": "597",
+    "input": "\"Baliteke beraz Euskal Herriko mendebaldera hedatua izatea ere\" esaldian, zein hitz dago \"Herriko\" atze-atzetik?"
+  },
+  {
+    "id": "600",
+    "input": "\"Hiri nagusiak izen bera du\" esaldian, zein hitz dago \"bera\" atze-atzetik?"
+  },
+  {
+    "id": "601",
+    "input": "\"Hego Hemisferioan alderantziz gertatzen da\" esaldian, zein hitz dago \"alderantziz\" atze-atzetik?"
+  },
+  {
+    "id": "602",
+    "input": "\"Ondorioz espeziea duten estatuek haren kontserbaziorako neurriak hartu behar dituzte\" esaldian, zein hitz dago \"neurriak\" atze-atzetik?"
+  },
+  {
+    "id": "606",
+    "input": "\"Droga honek tonu orokorra suspertzen du eta ulermena hobetzen du\" esaldian, zein hitz dago \"tonu\" atze-atzetik?"
+  },
+  {
+    "id": "607",
+    "input": "\"Herrialdeko hiru hiriburuetako bat da botere betearazlea hor baitago\" esaldian, zein hitz dago \"botere\" atze-atzetik?"
+  },
+  {
+    "id": "608",
+    "input": "\"Erroman Madrilen eta Parisen egin zituen pinturako ikasketak\" esaldian, zein hitz dago \"Parisen\" atze-atzetik?"
+  },
+  {
+    "id": "612",
+    "input": "\"Garai haietan goseteak eta atzerapena ziren nagusi\" esaldian, zein hitz dago \"ziren\" atze-atzetik?"
+  },
+  {
+    "id": "613",
+    "input": "\"Patroiek armadak eta Guardia Zibilek lagunduta errepresio gogorra antolatu zuten\" esaldian, zein hitz dago \"Zibilek\" atze-atzetik?"
+  },
+  {
+    "id": "615",
+    "input": "\"Deustuko Unibertsitatean zuzenbidean lizentziaturik abokatu-ekonomialaria eta idazlea da\" esaldian, zein hitz dago \"idazlea\" atze-atzetik?"
+  },
+  {
+    "id": "616",
+    "input": "\"Egun honetan zaldien lasterketak antzerki bihurtzen dira\" esaldian, zein hitz dago \"antzerki\" atze-atzetik?"
+  },
+  {
+    "id": "618",
+    "input": "\"Gaixotasun hau agertzen denean azkura sortzen da begian\" esaldian, zein hitz dago \"Gaixotasun\" atze-atzetik?"
+  },
+  {
+    "id": "620",
+    "input": "\"Bertoko txirrindularirik ospetsuenetariko bat izan zen\" esaldian, zein hitz dago \"txirrindularirik\" atze-atzetik?"
+  },
+  {
+    "id": "621",
+    "input": "\"Sinbolikoki bandera honek Marteren etorkizuna adierazi nahi du\" esaldian, zein hitz dago \"etorkizuna\" atze-atzetik?"
+  },
+  {
+    "id": "623",
+    "input": "\"Beste batzuk hotza eta egun laburrak baliatzen dituzte zikloa osatzeko\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "625",
+    "input": "\"Faila-blokeen arteko mugimenduak marruskadura eragiten du faila-planoan\" esaldian, zein hitz dago \"eragiten\" atze-atzetik?"
+  },
+  {
+    "id": "626",
+    "input": "\"Probatu duenak badaki zein ona den\" esaldian, zein hitz dago \"badaki\" atze-atzetik?"
+  },
+  {
+    "id": "627",
+    "input": "\"Frantsesez idazten duen aljeriar idazle handientzat hartzen da\" esaldian, zein hitz dago \"idazten\" atze-atzetik?"
+  },
+  {
+    "id": "628",
+    "input": "\"Munduan zehar Suediako herritarrak eta suediar jatorria duenak daude\" esaldian, zein hitz dago \"Munduan\" atze-atzetik?"
+  },
+  {
+    "id": "629",
+    "input": "\"Bestela zuk zeuk sortu beharko duzu artikulu berria\" esaldian, zein hitz dago \"zeuk\" atze-atzetik?"
+  },
+  {
+    "id": "630",
+    "input": "\"Sarean hasten zarete idazketa esanguratsuenak egiten\" esaldian, zein hitz dago \"esanguratsuenak\" atze-atzetik?"
+  },
+  {
+    "id": "631",
+    "input": "\"Burmuina edo pankrea erakusteko adibidez ez dira baliagarriak\" esaldian, zein hitz dago \"edo\" atze-atzetik?"
+  },
+  {
+    "id": "632",
+    "input": "\"Urtea bukatu baino lehen platinozko hiru disko lortu zituen\" esaldian, zein hitz dago \"lortu\" atze-atzetik?"
+  },
+  {
+    "id": "633",
+    "input": "\"Gerra amaitzean Espainiako armada erregularrean koronel kargua lortu zuen\" esaldian, zein hitz dago \"kargua\" atze-atzetik?"
+  },
+  {
+    "id": "635",
+    "input": "\"Estonbak froga hauek zalantzan jarri ditu\" esaldian, zein hitz dago \"Estonbak\" atze-atzetik?"
+  },
+  {
+    "id": "636",
+    "input": "\"Lehen bazen arriskutsua oraingo hauek erabat moderno eta seguruak dira\" esaldian, zein hitz dago \"oraingo\" atze-atzetik?"
+  },
+  {
+    "id": "637",
+    "input": "\"Kausa bakoitza borroka bakoitza bere esparrutxora mugatzen da\" esaldian, zein hitz dago \"borroka\" atze-atzetik?"
+  },
+  {
+    "id": "638",
+    "input": "\"Bere baitan jokalekua bera etxebizitzak eta saltokiak hartzen ditu\" esaldian, zein hitz dago \"hartzen\" atze-atzetik?"
+  },
+  {
+    "id": "639",
+    "input": "\"Talde hura Fronte Zabalaren barnean sartu zen\" esaldian, zein hitz dago \"Fronte\" atze-atzetik?"
+  },
+  {
+    "id": "640",
+    "input": "\"Krakovia ondorengo hiriekin senidetuta dago\" esaldian, zein hitz dago \"senidetuta\" atze-atzetik?"
+  },
+  {
+    "id": "645",
+    "input": "\"Bertan hirien demografia-arazoei eta garapen industrialari konponbideak bilatzen saiatu zen\" esaldian, zein hitz dago \"konponbideak\" atze-atzetik?"
+  },
+  {
+    "id": "646",
+    "input": "\"Deitu ezazu Kai ea bera bakarrik etortzeko gai den\" esaldian, zein hitz dago \"bera\" atze-atzetik?"
+  },
+  {
+    "id": "648",
+    "input": "\"Txiste onak kontatzen ditu mozkortuta ez dagoenean\" esaldian, zein hitz dago \"mozkortuta\" atze-atzetik?"
+  },
+  {
+    "id": "649",
+    "input": "\"Panama Ekuador eta Kolonbian bizi dira\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "650",
+    "input": "\"Minbizi mota batzuk oso hilkorrak dira\" esaldian, zein hitz dago \"batzuk\" atze-atzetik?"
+  },
+  {
+    "id": "652",
+    "input": "\"Osagai nagusiak barazkiak dira askotan okelarekin prestatzen dituztenak\" esaldian, zein hitz dago \"okelarekin\" atze-atzetik?"
+  },
+  {
+    "id": "653",
+    "input": "\"Horregatik entzuten da hain musika klasiko gutxi irrati orokorretan?\" esaldian, zein hitz dago \"musika\" atze-atzetik?"
+  },
+  {
+    "id": "654",
+    "input": "\"Gerora Madrilen Kimika Zientzietan lizentziatu zen\" esaldian, zein hitz dago \"Kimika\" atze-atzetik?"
+  },
+  {
+    "id": "658",
+    "input": "\"Gomezek Aldundiaren jokabidea salatu du\" esaldian, zein hitz dago \"Gomezek\" atze-atzetik?"
+  },
+  {
+    "id": "660",
+    "input": "\"Hiru gunetan banatzen da Nepalgo Erdialdeko eskualdea\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "661",
+    "input": "\"Plastikoa egiteko eta gai organikoak sintetizatzeko erabiltzen da batez ere\" esaldian, zein hitz dago \"sintetizatzeko\" atze-atzetik?"
+  },
+  {
+    "id": "663",
+    "input": "\"Azpijoko ugari izanen dira hura ordezkatzeko\" esaldian, zein hitz dago \"Azpijoko\" atze-atzetik?"
+  },
+  {
+    "id": "665",
+    "input": "\"Denda handietarako eta beste diseinatzaileentzako lanak egiten hasi zen\" esaldian, zein hitz dago \"lanak\" atze-atzetik?"
+  },
+  {
+    "id": "667",
+    "input": "\"Ordutik mendi sakratua izan da\" esaldian, zein hitz dago \"mendi\" atze-atzetik?"
+  },
+  {
+    "id": "669",
+    "input": "\"Amets eta Maddalen Arzallus bertsolari ezagunen aita da\" esaldian, zein hitz dago \"ezagunen\" atze-atzetik?"
+  },
+  {
+    "id": "671",
+    "input": "\"Croupierrak nahi zuenean geldiarazten zuen gurpila botoi bat sakatuta\" esaldian, zein hitz dago \"zuenean\" atze-atzetik?"
+  },
+  {
+    "id": "674",
+    "input": "\"Harena estatu batean bihurtu zen beste estatu baten barruan\" esaldian, zein hitz dago \"Harena\" atze-atzetik?"
+  },
+  {
+    "id": "677",
+    "input": "\"Esan daiteke beraz kafe hori txarragoa dela eta oso garestia\" esaldian, zein hitz dago \"hori\" atze-atzetik?"
+  },
+  {
+    "id": "679",
+    "input": "\"Amets eta Maddalen Arzallus bertsolari ezagunen aita da\" esaldian, zein hitz dago \"Maddalen\" atze-atzetik?"
+  },
+  {
+    "id": "680",
+    "input": "\"Aspaldian gainera rock instrumentalera erabat lerratu da\" esaldian, zein hitz dago \"lerratu\" atze-atzetik?"
+  },
+  {
+    "id": "681",
+    "input": "\"Zuzenbidea eta musika ikasi zituen\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "682",
+    "input": "\"Guztiarekin ere hil ondoren independentziaren heroitzat hartua izan zen\" esaldian, zein hitz dago \"hartua\" atze-atzetik?"
+  },
+  {
+    "id": "683",
+    "input": "\"Halaber Euskaltzain urgazlea ere ba da\" esaldian, zein hitz dago \"ere\" atze-atzetik?"
+  },
+  {
+    "id": "684",
+    "input": "\"Gaixotasun hau agertzen denean azkura sortzen da begian\" esaldian, zein hitz dago \"sortzen\" atze-atzetik?"
+  },
+  {
+    "id": "685",
+    "input": "\"Hamazortzi urterekin idazten hasten da\" esaldian, zein hitz dago \"hasten\" atze-atzetik?"
+  },
+  {
+    "id": "689",
+    "input": "\"Emakumezko santuari santa deitzen zaio\" esaldian, zein hitz dago \"santa\" atze-atzetik?"
+  },
+  {
+    "id": "691",
+    "input": "\"Orduan erbesteko gobernu monarkikoarekin adostu zuten Jugoslavia Federal Demokratikoaren sorrera\" esaldian, zein hitz dago \"adostu\" atze-atzetik?"
+  },
+  {
+    "id": "694",
+    "input": "\"Ezaugarri hauengatik segurtasun arloan erabiliena bilakatu da\" esaldian, zein hitz dago \"Ezaugarri\" atze-atzetik?"
+  },
+  {
+    "id": "695",
+    "input": "\"Ardoa zuria zein beltza taninoak ditu bere baitan\" esaldian, zein hitz dago \"ditu\" atze-atzetik?"
+  },
+  {
+    "id": "696",
+    "input": "\"Hala ere ulergarritasuna mantentzeko ez zuten beti egin\" esaldian, zein hitz dago \"Hala\" atze-atzetik?"
+  },
+  {
+    "id": "698",
+    "input": "\"Suediak urte bateko eten baten ostean bueltatu zen\" esaldian, zein hitz dago \"eten\" atze-atzetik?"
+  },
+  {
+    "id": "701",
+    "input": "\"Burmuina edo pankrea erakusteko adibidez ez dira baliagarriak\" esaldian, zein hitz dago \"adibidez\" atze-atzetik?"
+  },
+  {
+    "id": "703",
+    "input": "\"Ebro eta Duero ibaien haranen artean kokatuta dago\" esaldian, zein hitz dago \"haranen\" atze-atzetik?"
+  },
+  {
+    "id": "704",
+    "input": "\"Taldeen futbol zelaien diseinatzailea ere izan zelarik\" esaldian, zein hitz dago \"ere\" atze-atzetik?"
+  },
+  {
+    "id": "708",
+    "input": "\"Parisko Komunako kide izan zen\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "709",
+    "input": "\"Planeta sistemaren bizitza-zonan dago edo gertu izarraren benetako tamainaren arabera\" esaldian, zein hitz dago \"dago\" atze-atzetik?"
+  },
+  {
+    "id": "711",
+    "input": "\"Formazioak bi osagai hartu behar ditu aintzat\" esaldian, zein hitz dago \"hartu\" atze-atzetik?"
+  },
+  {
+    "id": "712",
+    "input": "\"Gerrak aurrera egin ahala karlisten taldean bi multzo agertu ziren\" esaldian, zein hitz dago \"taldean\" atze-atzetik?"
+  },
+  {
+    "id": "713",
+    "input": "\"Maien aztarnategi asko daude eta horrek turismoa erakarri du\" esaldian, zein hitz dago \"horrek\" atze-atzetik?"
+  },
+  {
+    "id": "714",
+    "input": "\"Santanderko traineru bat ere aritu zen ekitaldi honetan\" esaldian, zein hitz dago \"aritu\" atze-atzetik?"
+  },
+  {
+    "id": "720",
+    "input": "\"Zabalgune bakarra baino ez du puntu erdiko arku forman\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "721",
+    "input": "\"Bere jatorria zein den ezezaguna da\" esaldian, zein hitz dago \"jatorria\" atze-atzetik?"
+  },
+  {
+    "id": "723",
+    "input": "\"Gerra Zibilak kalte handiak ekarri zizkion taldeari\" esaldian, zein hitz dago \"zizkion\" atze-atzetik?"
+  },
+  {
+    "id": "727",
+    "input": "\"Kataluniako Biltzar Nazionalak hainbat pertsonaren babesa jaso du\" esaldian, zein hitz dago \"hainbat\" atze-atzetik?"
+  },
+  {
+    "id": "728",
+    "input": "\"Gerora futbol sekzio hori desagertu egin zen\" esaldian, zein hitz dago \"Gerora\" atze-atzetik?"
+  },
+  {
+    "id": "730",
+    "input": "\"Garai hartakoak dira hain zuzen harlanduzko hormak eta egurrezko egitura\" esaldian, zein hitz dago \"zuzen\" atze-atzetik?"
+  },
+  {
+    "id": "732",
+    "input": "\"Hala ere eleberria eta filma ez dira guztiz berdinak\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "733",
+    "input": "\"Portua maiatzetik abendura egoten da irekita\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "738",
+    "input": "\"Hasieran kargua behin-behinekoa izan zen gatazkaren bat zegoen bitartean\" esaldian, zein hitz dago \"behin-behinekoa\" atze-atzetik?"
+  },
+  {
+    "id": "741",
+    "input": "\"Gaztela eta Leongo Juntaren gaineko kontrola du\" esaldian, zein hitz dago \"gaineko\" atze-atzetik?"
+  },
+  {
+    "id": "742",
+    "input": "\"Bi interesgune zituen umeak eta euskara\" esaldian, zein hitz dago \"umeak\" atze-atzetik?"
+  },
+  {
+    "id": "743",
+    "input": "\"Uhartearen proiektuak ere txikizio handia egingo luke itsaslabarrak suntsitu\" esaldian, zein hitz dago \"luke\" atze-atzetik?"
+  },
+  {
+    "id": "744",
+    "input": "\"Euskal Herrian gertatutako azken aurreko atentatu hilgarria izan zen\" esaldian, zein hitz dago \"gertatutako\" atze-atzetik?"
+  },
+  {
+    "id": "745",
+    "input": "\"Larrua ilea dela eta oso aintzat hartua da jantziak egiteko\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "746",
+    "input": "\"Bereziki ezaguna izan zen bere erretratu eta horma irudiei esker\" esaldian, zein hitz dago \"erretratu\" atze-atzetik?"
+  },
+  {
+    "id": "749",
+    "input": "\"Teoria honen oinarria egitura elektronikoan dago\" esaldian, zein hitz dago \"egitura\" atze-atzetik?"
+  },
+  {
+    "id": "751",
+    "input": "\"Ardoa zuria zein beltza taninoak ditu bere baitan\" esaldian, zein hitz dago \"taninoak\" atze-atzetik?"
+  },
+  {
+    "id": "753",
+    "input": "\"Hamarka olerki eta zazpi eliz-kanta eginda utzi zituen\" esaldian, zein hitz dago \"zazpi\" atze-atzetik?"
+  },
+  {
+    "id": "757",
+    "input": "\"Honekin batera doa elementu psikologiko bat atsegin izateko borondatea\" esaldian, zein hitz dago \"doa\" atze-atzetik?"
+  },
+  {
+    "id": "758",
+    "input": "\"Geltokiaren kanpoaldean Bizkaibus zerbitzua hornitzen dituzten bi autobus geraleku daude\" esaldian, zein hitz dago \"zerbitzua\" atze-atzetik?"
+  },
+  {
+    "id": "761",
+    "input": "\"Etxe-zahar hau Erdi Aroan apezpikuaren erresidentzia izan zen\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "762",
+    "input": "\"Arraunketa elkarte bezala hasi bazen ere errugbi taldearengatik da ezaguna\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "764",
+    "input": "\"Beste iturri batzuk aldiz egoera guztiz kontrakoa zela diote\" esaldian, zein hitz dago \"egoera\" atze-atzetik?"
+  },
+  {
+    "id": "766",
+    "input": "\"Hasieran kargua behin-behinekoa izan zen gatazkaren bat zegoen bitartean\" esaldian, zein hitz dago \"gatazkaren\" atze-atzetik?"
+  },
+  {
+    "id": "770",
+    "input": "\"Hau da bi lauki alde batera eta bat horrekiko elkarzut\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "771",
+    "input": "\"Patroiek armadak eta Guardia Zibilek lagunduta errepresio gogorra antolatu zuten\" esaldian, zein hitz dago \"gogorra\" atze-atzetik?"
+  },
+  {
+    "id": "772",
+    "input": "\"Baionan eta Parisen egin zituen margolaritza-ikasketak\" esaldian, zein hitz dago \"egin\" atze-atzetik?"
+  },
+  {
+    "id": "773",
+    "input": "\"Etxe-zahar hau Erdi Aroan apezpikuaren erresidentzia izan zen\" esaldian, zein hitz dago \"hau\" atze-atzetik?"
+  },
+  {
+    "id": "775",
+    "input": "\"Testuak editatuko ditut termino arraroak ordezkatzeko\" esaldian, zein hitz dago \"Testuak\" atze-atzetik?"
+  },
+  {
+    "id": "776",
+    "input": "\"Bere testamentuan erlikiak gurtzeko baseliza bat eraikitzea eskatu zuen\" esaldian, zein hitz dago \"gurtzeko\" atze-atzetik?"
+  },
+  {
+    "id": "777",
+    "input": "\"Gazte-gaztetatik irakurle amorratua izan zen\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "779",
+    "input": "\"Gorriak eta gorriagoak ezagutu eta igarotzeko dago oraindik\" esaldian, zein hitz dago \"ezagutu\" atze-atzetik?"
+  },
+  {
+    "id": "780",
+    "input": "\"Ofizialki komunistak izan ziren hogeigarren mendean munduko estatu asko\" esaldian, zein hitz dago \"munduko\" atze-atzetik?"
+  },
+  {
+    "id": "783",
+    "input": "\"Paperean argitaratuta Espainia osoan banatzen da\" esaldian, zein hitz dago \"osoan\" atze-atzetik?"
+  },
+  {
+    "id": "786",
+    "input": "\"Dokumentuan Anuk-ek abuztuan izan zuen atxiloketaren berri eman zuen\" esaldian, zein hitz dago \"Dokumentuan\" atze-atzetik?"
+  },
+  {
+    "id": "789",
+    "input": "\"Hamabost neba-arrebaren artean zortzigarrena Donapaleun jaio zen\" esaldian, zein hitz dago \"jaio\" atze-atzetik?"
+  },
+  {
+    "id": "790",
+    "input": "\"Abesti konposaketan oso emankorra izan zen\" esaldian, zein hitz dago \"emankorra\" atze-atzetik?"
+  },
+  {
+    "id": "791",
+    "input": "\"Nahasketa horri azukrea edo edulkoratzailea ere gehitu ohi zaio\" esaldian, zein hitz dago \"ohi\" atze-atzetik?"
+  },
+  {
+    "id": "793",
+    "input": "\"Hondarribiko abade-etxean bizi izan zen harrezkero\" esaldian, zein hitz dago \"abade-etxean\" atze-atzetik?"
+  },
+  {
+    "id": "794",
+    "input": "\"Baionan eta Parisen egin zituen margolaritza-ikasketak\" esaldian, zein hitz dago \"Parisen\" atze-atzetik?"
+  },
+  {
+    "id": "796",
+    "input": "\"Ehun helduen artean espezializazio mailarik txikiena du\" esaldian, zein hitz dago \"txikiena\" atze-atzetik?"
+  },
+  {
+    "id": "798",
+    "input": "\"Kolore zein beste hainbat ezaugarri dagokienez itxura ezberdinetakoak\" esaldian, zein hitz dago \"zein\" atze-atzetik?"
+  },
+  {
+    "id": "800",
+    "input": "\"Armada talde bat armada batean era daitekeen unitaterik handiena da\" esaldian, zein hitz dago \"bat\" atze-atzetik?"
+  },
+  {
+    "id": "801",
+    "input": "\"Esanahi sinboliko eta erlijiosoa izan ditu\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "802",
+    "input": "\"Tenplua eta bere objektuak ikertzen jarraitzen da\" esaldian, zein hitz dago \"ikertzen\" atze-atzetik?"
+  },
+  {
+    "id": "803",
+    "input": "\"Margolanean neska bat uretan sartzeko momentuan ikusten dugu\" esaldian, zein hitz dago \"Margolanean\" atze-atzetik?"
+  },
+  {
+    "id": "804",
+    "input": "\"Finean sistema politiko osoa aldatu baino eboluzionatu zezan nahi zuten\" esaldian, zein hitz dago \"baino\" atze-atzetik?"
+  },
+  {
+    "id": "805",
+    "input": "\"Udalerria lau auzo nagusik osatzen dute\" esaldian, zein hitz dago \"Udalerria\" atze-atzetik?"
+  },
+  {
+    "id": "807",
+    "input": "\"Enperadorearen gorteko margolarien familiakoa zen\" esaldian, zein hitz dago \"familiakoa\" atze-atzetik?"
+  },
+  {
+    "id": "808",
+    "input": "\"Ur azpian ere lehor mantentzen den materiala\" esaldian, zein hitz dago \"azpian\" atze-atzetik?"
+  },
+  {
+    "id": "810",
+    "input": "\"Urbasa karstifikatutako gunea da hau da kareharriz sortua da\" esaldian, zein hitz dago \"kareharriz\" atze-atzetik?"
+  },
+  {
+    "id": "811",
+    "input": "\"Dena albo batera uztearen izenean?\" esaldian, zein hitz dago \"batera\" atze-atzetik?"
+  },
+  {
+    "id": "813",
+    "input": "\"Litekeena bezala hartzen da errege hau borrokan hil izana\" esaldian, zein hitz dago \"errege\" atze-atzetik?"
+  },
+  {
+    "id": "814",
+    "input": "\"Hitza italierazko jatorria du non edo gudua hitzetik erakarri zuten\" esaldian, zein hitz dago \"hitzetik\" atze-atzetik?"
+  },
+  {
+    "id": "816",
+    "input": "\"Hala ere bere aita zen etxe-burua\" esaldian, zein hitz dago \"aita\" atze-atzetik?"
+  },
+  {
+    "id": "817",
+    "input": "\"Elantxobeko portua txikia baina polita da\" esaldian, zein hitz dago \"baina\" atze-atzetik?"
+  },
+  {
+    "id": "818",
+    "input": "\"Bigarren mailan zebilen lehenengo taldea izan zen Kopa irabazten zuena\" esaldian, zein hitz dago \"irabazten\" atze-atzetik?"
+  },
+  {
+    "id": "819",
+    "input": "\"Auziaren oihartzuna ere ez zen makala izan\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "820",
+    "input": "\"Afrikako kolonizazioa adostu zenean Europako herrialdeen artean banatu zen kontinentea\" esaldian, zein hitz dago \"zen\" atze-atzetik?"
+  },
+  {
+    "id": "821",
+    "input": "\"Herrialdeko hiru hiriburuetako bat da botere betearazlea hor baitago\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "822",
+    "input": "\"Aipatzeko elementu arkitektoniko nagusiak honako hauek dira\" esaldian, zein hitz dago \"hauek\" atze-atzetik?"
+  },
+  {
+    "id": "823",
+    "input": "\"Ondorioz gabezia ez-ohikoa izaten da\" esaldian, zein hitz dago \"gabezia\" atze-atzetik?"
+  },
+  {
+    "id": "824",
+    "input": "\"Gero Gipuzkoako Ahaldun Nagusi hautatu zuten\" esaldian, zein hitz dago \"Nagusi\" atze-atzetik?"
+  },
+  {
+    "id": "833",
+    "input": "\"Urtea bukatu baino lehen platinozko hiru disko lortu zituen\" esaldian, zein hitz dago \"hiru\" atze-atzetik?"
+  },
+  {
+    "id": "834",
+    "input": "\"Hegoaldean norabide berean Orbaizeta eta Otsagabia herri nafarrak ditugu\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "836",
+    "input": "\"Gure hezkuntza sistema kanpotik ebaluatzea beharrezkoa zen\" esaldian, zein hitz dago \"sistema\" atze-atzetik?"
+  },
+  {
+    "id": "837",
+    "input": "\"Zer erre duzu hona etorri aurretik\" esaldian, zein hitz dago \"hona\" atze-atzetik?"
+  },
+  {
+    "id": "839",
+    "input": "\"Arrisku galanta izan zen hura eremu hori oso korapilatsua baitzen\" esaldian, zein hitz dago \"galanta\" atze-atzetik?"
+  },
+  {
+    "id": "840",
+    "input": "\"Martinen izpiritu sortzaileak ez du inoiz behera egin\" esaldian, zein hitz dago \"inoiz\" atze-atzetik?"
+  },
+  {
+    "id": "841",
+    "input": "\"Nola eman zieten egurra katolikoek protestanteei?\" esaldian, zein hitz dago \"zieten\" atze-atzetik?"
+  },
+  {
+    "id": "843",
+    "input": "\"Ez dugu dirua atzera eskatzeko asmorik\" esaldian, zein hitz dago \"atzera\" atze-atzetik?"
+  },
+  {
+    "id": "844",
+    "input": "\"Bavaria estatuan kokatuta dago barrutian\" esaldian, zein hitz dago \"estatuan\" atze-atzetik?"
+  },
+  {
+    "id": "847",
+    "input": "\"Beste batzuk hotza eta egun laburrak baliatzen dituzte zikloa osatzeko\" esaldian, zein hitz dago \"laburrak\" atze-atzetik?"
+  },
+  {
+    "id": "849",
+    "input": "\"Ingeniaria edo topografo ona izan behar mapa bateko erdigunea aurkitzeko\" esaldian, zein hitz dago \"edo\" atze-atzetik?"
+  },
+  {
+    "id": "851",
+    "input": "\"Bere margolanak oso ezagunak dira mundu mailan\" esaldian, zein hitz dago \"mundu\" atze-atzetik?"
+  },
+  {
+    "id": "852",
+    "input": "\"Bere propietate oxidatzaileak direla eta laborategian erreaktibo oso erabilia da\" esaldian, zein hitz dago \"erreaktibo\" atze-atzetik?"
+  },
+  {
+    "id": "853",
+    "input": "\"Medikuntza fakultatean anatomia eta fisiologia ikastaroak egin zituen\" esaldian, zein hitz dago \"Medikuntza\" atze-atzetik?"
+  },
+  {
+    "id": "857",
+    "input": "\"Amaordeak sasikoa zelako baztertuta Quitoko Santa Katalina komentuan hartu zuten\" esaldian, zein hitz dago \"Quitoko\" atze-atzetik?"
+  },
+  {
+    "id": "859",
+    "input": "\"Euren herenaitonaren esaldi bat euskaratzeagatik ez didate dirurik eskatuko\" esaldian, zein hitz dago \"bat\" atze-atzetik?"
+  },
+  {
+    "id": "861",
+    "input": "\"Hegazti askorentzat elikagai garrantzitsuak dira\" esaldian, zein hitz dago \"Hegazti\" atze-atzetik?"
+  },
+  {
+    "id": "862",
+    "input": "\"Ofizialtasunak salbatuko gaituela diote euskaraz bihirik ez dakiten iparraldeko euskualdunek?\" esaldian, zein hitz dago \"dakiten\" atze-atzetik?"
+  },
+  {
+    "id": "863",
+    "input": "\"Kongresuan Bizkaiko arduraduna aukeratu zuten\" esaldian, zein hitz dago \"Bizkaiko\" atze-atzetik?"
+  },
+  {
+    "id": "865",
+    "input": "\"Ondorioz espeziea duten estatuek haren kontserbaziorako neurriak hartu behar dituzte\" esaldian, zein hitz dago \"behar\" atze-atzetik?"
+  },
+  {
+    "id": "869",
+    "input": "\"Berez armarria azteken kondaira batean oinarrituta dago\" esaldian, zein hitz dago \"azteken\" atze-atzetik?"
+  },
+  {
+    "id": "872",
+    "input": "\"Andra Mari hori Serbiako babeslea da\" esaldian, zein hitz dago \"Serbiako\" atze-atzetik?"
+  },
+  {
+    "id": "874",
+    "input": "\"Bi mila eta hamalauan hainbat ekintzailek tranbia geratu zuten\" esaldian, zein hitz dago \"ekintzailek\" atze-atzetik?"
+  },
+  {
+    "id": "878",
+    "input": "\"Niri gehien gustatzen zaidan kirola esku-pilota da eta zen\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "879",
+    "input": "\"Bengalako tigrea bizi da bertan\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "880",
+    "input": "\"Hala ere ulergarritasuna mantentzeko ez zuten beti egin\" esaldian, zein hitz dago \"beti\" atze-atzetik?"
+  },
+  {
+    "id": "881",
+    "input": "\"Suitzan ere ireki zuen beste bat\" esaldian, zein hitz dago \"beste\" atze-atzetik?"
+  },
+  {
+    "id": "884",
+    "input": "\"Nafarroako hirugarren futbol talde zaharrena kontsideratzen da\" esaldian, zein hitz dago \"hirugarren\" atze-atzetik?"
+  },
+  {
+    "id": "886",
+    "input": "\"Plastikoa egiteko eta gai organikoak sintetizatzeko erabiltzen da batez ere\" esaldian, zein hitz dago \"da\" atze-atzetik?"
+  },
+  {
+    "id": "889",
+    "input": "\"Europako herrialde askotan ezagunak dira batez ere futbol arloan\" esaldian, zein hitz dago \"Europako\" atze-atzetik?"
+  },
+  {
+    "id": "890",
+    "input": "\"Oso harrera eta kritika txarrak izan zituen\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "892",
+    "input": "\"Konstituzio honek eraginkorra gardena eta demokratikoa izan behar zuen\" esaldian, zein hitz dago \"eraginkorra\" atze-atzetik?"
+  },
+  {
+    "id": "893",
+    "input": "\"Horra baina Espainiako selekzioarekin joan ginen lau pilotari euskaldun\" esaldian, zein hitz dago \"Espainiako\" atze-atzetik?"
+  },
+  {
+    "id": "894",
+    "input": "\"Kopa eta Superkopa irabazi ditu\" esaldian, zein hitz dago \"Superkopa\" atze-atzetik?"
+  },
+  {
+    "id": "896",
+    "input": "\"Eskola ikasketak berriz sei urterekin hasi zituen\" esaldian, zein hitz dago \"urterekin\" atze-atzetik?"
+  },
+  {
+    "id": "897",
+    "input": "\"Atzoko ume hilak bihar lurruna idatz lezake Elorriagak\" esaldian, zein hitz dago \"idatz\" atze-atzetik?"
+  },
+  {
+    "id": "899",
+    "input": "\"Ardoaren polifenolari esker odoleko kolesterol on kopurua igo egiten da\" esaldian, zein hitz dago \"Ardoaren\" atze-atzetik?"
+  },
+  {
+    "id": "901",
+    "input": "\"Hainbat taldetako ikaslek bere iruzkinekin bloga osatu egiten zuten\" esaldian, zein hitz dago \"bloga\" atze-atzetik?"
+  },
+  {
+    "id": "902",
+    "input": "\"Baina beltzak ez zituzten jazarri sistematikoki juduak edo ijitoak bezala\" esaldian, zein hitz dago \"sistematikoki\" atze-atzetik?"
+  },
+  {
+    "id": "903",
+    "input": "\"Erbestean dagoenean bere izena zikinduko da\" esaldian, zein hitz dago \"Erbestean\" atze-atzetik?"
+  },
+  {
+    "id": "904",
+    "input": "\"Uhartearen proiektuak ere txikizio handia egingo luke itsaslabarrak suntsitu\" esaldian, zein hitz dago \"Uhartearen\" atze-atzetik?"
+  },
+  {
+    "id": "905",
+    "input": "\"Baserritarren bizi-kalitatea hobetzea nabarmena izan zen\" esaldian, zein hitz dago \"nabarmena\" atze-atzetik?"
+  },
+  {
+    "id": "906",
+    "input": "\"Azpijoko ugari izanen dira hura ordezkatzeko\" esaldian, zein hitz dago \"izanen\" atze-atzetik?"
+  },
+  {
+    "id": "910",
+    "input": "\"Somorrostro Harana Bizkaia Euskal Herria\" esaldian, zein hitz dago \"Euskal\" atze-atzetik?"
+  },
+  {
+    "id": "911",
+    "input": "\"Kartagora itzuli zenean hil zuten\" esaldian, zein hitz dago \"Kartagora\" atze-atzetik?"
+  },
+  {
+    "id": "912",
+    "input": "\"Hori dela eta debekatuta dago bere erabilpena umeetan\" esaldian, zein hitz dago \"Hori\" atze-atzetik?"
+  },
+  {
+    "id": "915",
+    "input": "\"Biek elkar maite dute eta elkarrekin jokoari aurre egingo diote\" esaldian, zein hitz dago \"elkarrekin\" atze-atzetik?"
+  },
+  {
+    "id": "916",
+    "input": "\"Eta horien atzetik etorri ziren besteak egoera irauli zutenak\" esaldian, zein hitz dago \"besteak\" atze-atzetik?"
+  },
+  {
+    "id": "917",
+    "input": "\"Hiru urte zituenean aita galdu zuen\" esaldian, zein hitz dago \"aita\" atze-atzetik?"
+  },
+  {
+    "id": "918",
+    "input": "\"Bestetik arrazakeria barruan sartuta darama zenbaitek\" esaldian, zein hitz dago \"darama\" atze-atzetik?"
+  },
+  {
+    "id": "919",
+    "input": "\"Ez gara ari toxikotasun akutuaz kronikoaz baizik\" esaldian, zein hitz dago \"kronikoaz\" atze-atzetik?"
+  },
+  {
+    "id": "920",
+    "input": "\"Euria eta elurra ugaria izaten da abendua eta maiatza bitartean\" esaldian, zein hitz dago \"ugaria\" atze-atzetik?"
+  },
+  {
+    "id": "921",
+    "input": "\"Etimologiaren ikuspegitik elizbarrutian Elizaren legeak bete daitezela kontrolatu behar du\" esaldian, zein hitz dago \"ikuspegitik\" atze-atzetik?"
+  },
+  {
+    "id": "922",
+    "input": "\"San Fernando Arte Ederretako Akademiako kide izan zen\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "923",
+    "input": "\"Hiletan Julio Zesar ilobak hitzaldi ederra eskaini zion\" esaldian, zein hitz dago \"Hiletan\" atze-atzetik?"
+  },
+  {
+    "id": "925",
+    "input": "\"Norbaitek baliogabetu nahi bazaitu elefante zuria oparitzen dizula\" esaldian, zein hitz dago \"elefante\" atze-atzetik?"
+  },
+  {
+    "id": "927",
+    "input": "\"Trenbidearen eraikuntzak garrantzi demografiko handia izan zuen\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "928",
+    "input": "\"Geroztik beste ehun eta gehiago atzerritar hil zituen\" esaldian, zein hitz dago \"atzerritar\" atze-atzetik?"
+  },
+  {
+    "id": "929",
+    "input": "\"Bere loreak udaberrian eta fruituak udazkenean agertzen dira\" esaldian, zein hitz dago \"loreak\" atze-atzetik?"
+  },
+  {
+    "id": "930",
+    "input": "\"Urte hauetan Norvegiako erresumak bere luzera handiena lortu zuen\" esaldian, zein hitz dago \"Norvegiako\" atze-atzetik?"
+  },
+  {
+    "id": "933",
+    "input": "\"Bakterioak eta bestelako partikula organikoak ere jaten dituzte\" esaldian, zein hitz dago \"organikoak\" atze-atzetik?"
+  },
+  {
+    "id": "935",
+    "input": "\"Udalerriaren topografia oso malkartsua da gorabehera askorekin\" esaldian, zein hitz dago \"topografia\" atze-atzetik?"
+  },
+  {
+    "id": "936",
+    "input": "\"Ez dugu dirua atzera eskatzeko asmorik\" esaldian, zein hitz dago \"dirua\" atze-atzetik?"
+  },
+  {
+    "id": "938",
+    "input": "\"Eleberriak olerkiak eta saioak ere landu izan ditu\" esaldian, zein hitz dago \"landu\" atze-atzetik?"
+  },
+  {
+    "id": "940",
+    "input": "\"Norbaitek baliogabetu nahi bazaitu elefante zuria oparitzen dizula\" esaldian, zein hitz dago \"zuria\" atze-atzetik?"
+  },
+  {
+    "id": "941",
+    "input": "\"Itzulpena gehi ohar berri batzuk egin eta erregistratu ahal da\" esaldian, zein hitz dago \"eta\" atze-atzetik?"
+  },
+  {
+    "id": "942",
+    "input": "\"Erregeak Henrike matxinatu ez zezan eman zizkion\" esaldian, zein hitz dago \"ez\" atze-atzetik?"
+  },
+  {
+    "id": "943",
+    "input": "\"Ardoaren polifenolari esker odoleko kolesterol on kopurua igo egiten da\" esaldian, zein hitz dago \"igo\" atze-atzetik?"
+  },
+  {
+    "id": "944",
+    "input": "\"Bide honen amaieran beste bidegurutze bat dago\" esaldian, zein hitz dago \"amaieran\" atze-atzetik?"
+  },
+  {
+    "id": "945",
+    "input": "\"Planeta sistemaren bizitza-zonan dago edo gertu izarraren benetako tamainaren arabera\" esaldian, zein hitz dago \"Planeta\" atze-atzetik?"
+  },
+  {
+    "id": "946",
+    "input": "\"Lanbidez Haur Hezkuntzako irakaslea da\" esaldian, zein hitz dago \"Haur\" atze-atzetik?"
+  },
+  {
+    "id": "949",
+    "input": "\"Bertan hitz egiten den hizkuntza nagusia frantsesa da\" esaldian, zein hitz dago \"frantsesa\" atze-atzetik?"
+  },
+  {
+    "id": "950",
+    "input": "\"Bilboko hirugarren barrutian kokatuta dago Otxarkoaga-Txurdinagako barrutian alegia\" esaldian, zein hitz dago \"Bilboko\" atze-atzetik?"
+  },
+  {
+    "id": "951",
+    "input": "\"Biarritzeko taldeak denboraldi oso ona egiten du\" esaldian, zein hitz dago \"oso\" atze-atzetik?"
+  },
+  {
+    "id": "953",
+    "input": "\"Zer iruditzen zaizu Belakok egin duen azkena?\" esaldian, zein hitz dago \"duen\" atze-atzetik?"
+  },
+  {
+    "id": "954",
+    "input": "\"Manufaktura-industria bigarren mailako jarduera da prefekturako ekonomian\" esaldian, zein hitz dago \"Manufaktura-industria\" atze-atzetik?"
+  },
+  {
+    "id": "958",
+    "input": "\"Elizaren hondarren azpian erromatarren garaiko aztarnak topatu zituzten\" esaldian, zein hitz dago \"topatu\" atze-atzetik?"
+  },
+  {
+    "id": "960",
+    "input": "\"Atenas eta Erromara bidaiatu zuen betiere ikasteko eta irakasteko grinarekin\" esaldian, zein hitz dago \"Erromara\" atze-atzetik?"
+  },
+  {
+    "id": "961",
+    "input": "\"Horrelako hainbat figura direnean multzoari konpartsa esaten zaio\" esaldian, zein hitz dago \"konpartsa\" atze-atzetik?"
+  },
+  {
+    "id": "962",
+    "input": "\"Geroztik beste ehun eta gehiago atzerritar hil zituen\" esaldian, zein hitz dago \"ehun\" atze-atzetik?"
+  },
+  {
+    "id": "963",
+    "input": "\"Krakovia ondorengo hiriekin senidetuta dago\" esaldian, zein hitz dago \"ondorengo\" atze-atzetik?"
+  },
+  {
+    "id": "966",
+    "input": "\"Bere izena Herbehereen izen latindarragatik jasotzen du\" esaldian, zein hitz dago \"izena\" atze-atzetik?"
+  },
+  {
+    "id": "970",
+    "input": "\"Eta egoera ez da hobea Sri Lankan tamil etniaren lurraldean\" esaldian, zein hitz dago \"etniaren\" atze-atzetik?"
+  },
+  {
+    "id": "973",
+    "input": "\"Kale Nagusian okindegiak formatu bera izanen zuen garai batean\" esaldian, zein hitz dago \"bera\" atze-atzetik?"
+  },
+  {
+    "id": "976",
+    "input": "\"Artikulu horrek eragin handia izan zuen geometria diferentzialaren arloan\" esaldian, zein hitz dago \"geometria\" atze-atzetik?"
+  },
+  {
+    "id": "977",
+    "input": "\"Hiri osoa lehertu beharrean zegoen\" esaldian, zein hitz dago \"lehertu\" atze-atzetik?"
+  },
+  {
+    "id": "978",
+    "input": "\"Zati bakoitzean leiho txiki bat dago ia karratua\" esaldian, zein hitz dago \"leiho\" atze-atzetik?"
+  },
+  {
+    "id": "980",
+    "input": "\"Ehiztari-mamuak heriotza izan daitezke ala maitagarriak\" esaldian, zein hitz dago \"izan\" atze-atzetik?"
+  },
+  {
+    "id": "982",
+    "input": "\"Jendearen gehiengoa eremu honetan bizi da\" esaldian, zein hitz dago \"eremu\" atze-atzetik?"
+  },
+  {
+    "id": "985",
+    "input": "\"Eneko Ezkerra Haro leinukoa izan zen\" esaldian, zein hitz dago \"Haro\" atze-atzetik?"
+  },
+  {
+    "id": "986",
+    "input": "\"Barrualdean ere baselizak bitxikeria dezente erakusten ditu\" esaldian, zein hitz dago \"Barrualdean\" atze-atzetik?"
+  },
+  {
+    "id": "988",
+    "input": "\"Ondoren Euskal selekzioaren entrenatzailea bilakatu zen\" esaldian, zein hitz dago \"bilakatu\" atze-atzetik?"
+  },
+  {
+    "id": "992",
+    "input": "\"Hala ere emaitzak ez dira argigarriak\" esaldian, zein hitz dago \"Hala\" atze-atzetik?"
+  },
+  {
+    "id": "994",
+    "input": "\"Kristalen egiturari buruzko lanak egin zituen batez ere\" esaldian, zein hitz dago \"zituen\" atze-atzetik?"
+  },
+  {
+    "id": "996",
+    "input": "\"Ikastetxeek eta familiek jasoko dituzte txostenak\" esaldian, zein hitz dago \"familiek\" atze-atzetik?"
+  },
+  {
+    "id": "997",
+    "input": "\"Kanpoan hainbat ekitaldi sinboliko egin zituzten\" esaldian, zein hitz dago \"egin\" atze-atzetik?"
+  },
+  {
+    "id": "998",
+    "input": "\"Pobrezia mota honek oztopatu egiten du ekonomia eta gizartearen garapena\" esaldian, zein hitz dago \"egiten\" atze-atzetik?"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "1000",
+    "input": "Todas as palavras \"romance\", \"suspense\", \"idoso\", \"drama\" e \"terror\" são tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "101",
+    "input": "Todas as palavras \"martelo\", \"fio\", \"agulha\", \"câmera\" e \"corda\" são tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "106",
+    "input": "Todas as palavras \"contrabaixo\", \"piano\", \"saxofone\", \"violão\" e \"flauta\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "109",
+    "input": "Todas as palavras \"barba\", \"pulso\", \"dente\", \"peito\" e \"unha\" são tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "112",
+    "input": "Todas as palavras \"endereço\", \"posição\", \"diminuição\", \"aceleração\" e \"redução\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "114",
+    "input": "Todas as palavras \"quantidade\", \"substantivo\", \"pronome\", \"advérbio\" e \"determinante\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "118",
+    "input": "Todas as palavras \"reunião\", \"proibição\", \"anarquia\", \"administração\" e \"ditadura\" são tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "119",
+    "input": "Todas as palavras \"amarelo\", \"terça-feira\", \"cor\", \"preto\" e \"marrom\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "129",
+    "input": "Todas as palavras \"gás\", \"pronome\", \"metal\", \"água\" e \"gelo\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "130",
+    "input": "Todas as palavras \"total\", \"quilômetro\", \"solução\", \"milímetro\" e \"peso\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "135",
+    "input": "Todas as palavras \"bigode\", \"estômago\", \"osso\", \"pele\" e \"coxa\" são tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "136",
+    "input": "Todas as palavras \"nascimento\", \"humano\", \"espécie\", \"vida\" e \"morte\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "143",
+    "input": "Todas as palavras \"quinta-feira\", \"domingo\", \"segunda-feira\", \"terça-feira\" e \"quarta-feira\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "15",
+    "input": "Todas as palavras \"elefante\", \"veado\", \"seca\", \"mariposa\" e \"falcão\" são tipos de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "167",
+    "input": "Todas as palavras \"suspense\", \"musical\", \"drama\", \"cadarço\" e \"fantasia\" são tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "168",
+    "input": "Todas as palavras \"abdômen\", \"unha\", \"cabelo\", \"costas\" e \"perna\" são tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "176",
+    "input": "Todas as palavras \"movimento\", \"diminuição\", \"crescimento\", \"lugar\" e \"largura\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "18",
+    "input": "Todas as palavras \"cadeira\", \"varanda\", \"banheiro\", \"edifício\" e \"mesa\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "189",
+    "input": "Todas as palavras \"mar\", \"campo\", \"rio\", \"montanha\" e \"abdômen\" são tipos de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "199",
+    "input": "Todas as palavras \"costa\", \"montanha\", \"praia\", \"rio\" e \"lago\" são tipos de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "2",
+    "input": "Todas as palavras \"avô\", \"mãe\", \"neto\", \"irmã\" e \"prima\" são tipos de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "200",
+    "input": "Todas as palavras \"açougueiro\", \"corvo\", \"galinha\", \"mosca\" e \"lagarto\" são tipos de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "204",
+    "input": "Todas as palavras \"irmão\", \"conhecido\", \"namorado\", \"bisneto\" e \"cabeça\" são tipos de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "214",
+    "input": "Todas as palavras \"joalheria\", \"biblioteca\", \"escola\", \"padaria\" e \"bar\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "227",
+    "input": "Todas as palavras \"peso\", \"grama\", \"centímetro\", \"milímetro\" e \"quantidade\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "241",
+    "input": "Todas as palavras \"acerto\", \"sábado\", \"domingo\", \"quinta-feira\" e \"sexta-feira\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "255",
+    "input": "Todas as palavras \"comprimento\", \"aceleração\", \"velocidade\", \"maioria\" e \"aumento\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "258",
+    "input": "Todas as palavras \"bilhete\", \"economia\", \"valor\", \"serviço\" e \"dinheiro\" são tipos de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "267",
+    "input": "Todas as palavras \"ginástica\", \"corrida\", \"boliche\", \"basquete\" e \"veado\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "270",
+    "input": "Todas as palavras \"alface\", \"brócolis\", \"couve-flor\", \"cenoura\" e \"construção\" são tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "271",
+    "input": "Todas as palavras \"mesa\", \"varanda\", \"casa\", \"borboleta\" e \"banheiro\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "272",
+    "input": "Todas as palavras \"parada\", \"elefante\", \"peixe\", \"falcão\" e \"barata\" são tipos de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "274",
+    "input": "Todas as palavras \"saxofone\", \"violão\", \"piano\", \"razão\" e \"clarinete\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "298",
+    "input": "Todas as palavras \"indivíduo\", \"humanidade\", \"avó\", \"idosa\" e \"menina\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "308",
+    "input": "Todas as palavras \"futebol\", \"vôlei\", \"yoga\", \"vida\" e \"golfe\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "314",
+    "input": "Todas as palavras \"espinafre\", \"acelga\", \"milho\", \"repolho\" e \"favas\" são tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "32",
+    "input": "Todas as palavras \"rota\", \"trem\", \"moto\", \"patins\" e \"aeroporto\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "320",
+    "input": "Todas as palavras \"roxo\", \"preto\", \"azul\", \"verde\" e \"assistente\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "325",
+    "input": "Todas as palavras \"fantasia\", \"drama\", \"musical\", \"comédia\" e \"suspense\" são tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "329",
+    "input": "Todas as palavras \"padaria\", \"sábado\", \"prefeitura\", \"cafeteria\" e \"floricultura\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "338",
+    "input": "Todas as palavras \"atenção\", \"abobrinha\", \"parte\", \"tédio\" e \"vez\" são tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "34",
+    "input": "Todas as palavras \"espécie\", \"vida\", \"reprodução\", \"nascimento\" e \"criatura\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "340",
+    "input": "Todas as palavras \"adjetivo\", \"advérbio\", \"substantivo\", \"decreto\" e \"determinante\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "348",
+    "input": "Todas as palavras \"encanador\", \"carteiro\", \"senador\", \"empresário\" e \"jornalista\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "349",
+    "input": "Todas as palavras \"espécie\", \"nascimento\", \"criatura\", \"morte\" e \"reprodução\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "36",
+    "input": "Todas as palavras \"farmácia\", \"joalheria\", \"auto-escola\", \"prefeitura\" e \"tabacaria\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "360",
+    "input": "Todas as palavras \"conquista\", \"ato\", \"coisa\", \"atenção\" e \"vez\" são tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "37",
+    "input": "Todas as palavras \"criatura\", \"morte\", \"nascimento\", \"reprodução\" e \"vida\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "373",
+    "input": "Todas as palavras \"fundo\", \"diminuição\", \"aumento\", \"velocidade\" e \"largura\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "375",
+    "input": "Todas as palavras \"saia\", \"cueca\", \"sutiã\", \"suéter\" e \"monte\" são tipos de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "378",
+    "input": "Todas as palavras \"bebê\", \"idosa\", \"adulta\", \"coração\" e \"indivíduo\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "380",
+    "input": "Todas as palavras \"comprimento\", \"aumento\", \"equipe\", \"fundo\" e \"posição\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "385",
+    "input": "Todas as palavras \"quilômetro\", \"litro\", \"medida\", \"milímetro\" e \"consumo\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "394",
+    "input": "Todas as palavras \"flauta\", \"clarinete\", \"violão\", \"bateria\" e \"trompete\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "395",
+    "input": "Todas as palavras \"indivíduo\", \"idosa\", \"gente\", \"mulher\" e \"menina\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "398",
+    "input": "Todas as palavras \"halterofilismo\", \"esgrima\", \"handebol\", \"esqui\" e \"velejo\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "405",
+    "input": "Todas as palavras \"hóquei\", \"capoeira\", \"patinação\", \"esqui\" e \"natação\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "408",
+    "input": "Todas as palavras \"patinete\", \"barco\", \"transporte\", \"avenida\" e \"automóvel\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "41",
+    "input": "Todas as palavras \"quarto\", \"casa\", \"bicicleta\", \"escritório\" e \"janela\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "413",
+    "input": "Todas as palavras \"veículo\", \"transporte\", \"estrada\", \"avião\" e \"reprodução\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "415",
+    "input": "Todas as palavras \"lavabo\", \"quarta-feira\", \"sábado\", \"terça-feira\" e \"quinta-feira\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "418",
+    "input": "Todas as palavras \"fogo\", \"gás\", \"chumbo\", \"barro\" e \"água\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "419",
+    "input": "Todas as palavras \"quilômetro\", \"peso\", \"medida\", \"banheiro\" e \"mililitro\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "424",
+    "input": "Todas as palavras \"halterofilismo\", \"esqui\", \"boliche\", \"futsal\" e \"ginástica\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "460",
+    "input": "Todas as palavras \"decreto\", \"reunião\", \"nação\", \"clube\" e \"cargo\" são tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "465",
+    "input": "Todas as palavras \"quilômetro\", \"trem\", \"centímetro\", \"quilo\" e \"quantidade\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "466",
+    "input": "Todas as palavras \"grama\", \"medida\", \"total\", \"peso\" e \"enchente\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "473",
+    "input": "Todas as palavras \"homem\", \"adulta\", \"adolescente\", \"liberdade\" e \"mulher\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "488",
+    "input": "Todas as palavras \"parlamentar\", \"empresário\", \"juiz\", \"advogado\" e \"boliche\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "501",
+    "input": "Todas as palavras \"colega\", \"neto\", \"avó\", \"irmã\" e \"tio\" são tipos de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "504",
+    "input": "Todas as palavras \"joalheria\", \"bar\", \"biblioteca\", \"objeto\" e \"mercearia\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "51",
+    "input": "Todas as palavras \"humano\", \"bebê\", \"encontro\", \"adulta\" e \"idoso\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "511",
+    "input": "Todas as palavras \"avalanche\", \"tornado\", \"inundação\", \"enchente\" e \"furacão\" são tipos de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "52",
+    "input": "Todas as palavras \"cadeira\", \"edifício\", \"escada\", \"veículo\" e \"escritório\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "528",
+    "input": "Todas as palavras \"contrabaixo\", \"ervilha\", \"clarinete\", \"bateria\" e \"violino\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "530",
+    "input": "Todas as palavras \"edifício\", \"presença\", \"solução\", \"coisa\" e \"guerra\" são tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "536",
+    "input": "Todas as palavras \"verbo\", \"conjunção\", \"determinante\", \"advérbio\" e \"preposição\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "537",
+    "input": "Todas as palavras \"fígado\", \"tédio\", \"boca\", \"pele\" e \"unha\" são tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "541",
+    "input": "Todas as palavras \"sábado\", \"quinta-feira\", \"monte\", \"terça-feira\" e \"quarta-feira\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "543",
+    "input": "Todas as palavras \"mar\", \"lagoa\", \"selva\", \"lago\" e \"natureza\" são tipos de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "552",
+    "input": "Todas as palavras \"ator\", \"açougueiro\", \"político\", \"jornalista\" e \"eletricista\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "556",
+    "input": "Todas as palavras \"governo\", \"organização\", \"autoridade\", \"pensamento\" e \"obrigação\" são tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "559",
+    "input": "Todas as palavras \"hotel\", \"padaria\", \"pousada\", \"açougue\" e \"peixaria\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "564",
+    "input": "Todas as palavras \"avião\", \"patins\", \"veículo\", \"bicicleta\" e \"patinete\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "569",
+    "input": "Todas as palavras \"produto\", \"comércio\", \"serviço\", \"consumo\" e \"mercado\" são tipos de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "575",
+    "input": "Todas as palavras \"agulha\", \"corda\", \"câmera\", \"tela\" e \"aparelho\" são tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "576",
+    "input": "Todas as palavras \"rodovia\", \"bicicleta\", \"barco\", \"automóvel\" e \"veículo\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "589",
+    "input": "Todas as palavras \"futebol\", \"golfe\", \"handebol\", \"sinuca\" e \"atletismo\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "592",
+    "input": "Todas as palavras \"branco\", \"preto\", \"rosa\", \"verde\" e \"cinza\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "593",
+    "input": "Todas as palavras \"vida\", \"skate\", \"reprodução\", \"espécie\" e \"nascimento\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "596",
+    "input": "Todas as palavras \"praia\", \"natureza\", \"monte\", \"pasto\" e \"montanha\" são tipos de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "599",
+    "input": "Todas as palavras \"lanchonete\", \"hospital\", \"bar\", \"restaurante\" e \"permissão\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "6",
+    "input": "Todas as palavras \"rosa\", \"verde\", \"roxo\", \"vermelho\" e \"cor\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "604",
+    "input": "Todas as palavras \"economia\", \"mercado\", \"bilhete\", \"tarifa\" e \"serviço\" são tipos de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "609",
+    "input": "Todas as palavras \"quilômetro\", \"peso\", \"mililitro\", \"centímetro\" e \"grama\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "61",
+    "input": "Todas as palavras \"preposição\", \"determinante\", \"verbo\", \"adjetivo\" e \"advérbio\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "616",
+    "input": "Todas as palavras \"natureza\", \"praia\", \"montanha\", \"olho\" e \"costa\" são tipos de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "618",
+    "input": "Todas as palavras \"açougue\", \"bar\", \"tabacaria\", \"prefeitura\" e \"gás\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "628",
+    "input": "Todas as palavras \"pimentão\", \"couve\", \"alho\", \"cebola\" e \"alho-poró\" são tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "630",
+    "input": "Todas as palavras \"filha\", \"tio\", \"avô\", \"neto\" e \"amiga\" são tipos de família? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "640",
+    "input": "Todas as palavras \"saia\", \"serviço\", \"sutiã\", \"biquíni\" e \"gorro\" são tipos de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "641",
+    "input": "Todas as palavras \"defesa\", \"nome\", \"probabilidade\", \"criação\" e \"falta\" são tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "644",
+    "input": "Todas as palavras \"badminton\", \"mergulho\", \"menino\", \"boliche\" e \"futebol\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "648",
+    "input": "Todas as palavras \"tela\", \"saco\", \"yoga\", \"corda\" e \"martelo\" são tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "650",
+    "input": "Todas as palavras \"laranja\", \"rabanete\", \"verde\", \"branco\" e \"cinza\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "652",
+    "input": "Todas as palavras \"joalheria\", \"peixaria\", \"farmácia\", \"supermercado\" e \"tabacaria\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "667",
+    "input": "Todas as palavras \"pintor\", \"gari\", \"deputado\", \"ator\" e \"fotógrafo\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "671",
+    "input": "Todas as palavras \"cientista\", \"engenheiro\", \"ministro\", \"prefeito\" e \"advogado\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "672",
+    "input": "Todas as palavras \"joalheria\", \"lanchonete\", \"prefeitura\", \"delegacia\" e \"prata\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "674",
+    "input": "Todas as palavras \"encontro\", \"capital\", \"constituição\", \"administração\" e \"aldeia\" são tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "676",
+    "input": "Todas as palavras \"automóvel\", \"parada\", \"transporte\", \"skate\" e \"patins\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "68",
+    "input": "Todas as palavras \"campo\", \"oceano\", \"ato\", \"rio\" e \"selva\" são tipos de geografia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "683",
+    "input": "Todas as palavras \"vermelho\", \"preto\", \"marrom\", \"branco\" e \"laranja\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "689",
+    "input": "Todas as palavras \"reprodução\", \"espécie\", \"macaco\", \"nascimento\" e \"criatura\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "697",
+    "input": "Todas as palavras \"água\", \"desenvolvimento\", \"fogo\", \"gás\" e \"sal\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "699",
+    "input": "Todas as palavras \"peso\", \"litro\", \"milímetro\", \"grama\" e \"centímetro\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "702",
+    "input": "Todas as palavras \"segunda-feira\", \"quinta-feira\", \"terça-feira\", \"quarta-feira\" e \"domingo\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "704",
+    "input": "Todas as palavras \"adulto\", \"mulher\", \"pessoa\", \"gente\" e \"indivíduo\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "711",
+    "input": "Todas as palavras \"escritório\", \"apartamento\", \"janela\", \"construção\" e \"crocodilo\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "717",
+    "input": "Todas as palavras \"palavra\", \"atitude\", \"necessidade\", \"tigre\" e \"origem\" são tipos de substantivo abstrato? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "727",
+    "input": "Todas as palavras \"boné\", \"luvas\", \"jaqueta\", \"véu\" e \"carteiro\" são tipos de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "728",
+    "input": "Todas as palavras \"estrada\", \"tráfego\", \"quantidade\", \"rua\" e \"via\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "74",
+    "input": "Todas as palavras \"pulso\", \"rabanete\", \"costas\", \"nariz\" e \"corpo\" são tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "746",
+    "input": "Todas as palavras \"ouro\", \"ar\", \"gelo\", \"terra\" e \"vapor\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "752",
+    "input": "Todas as palavras \"psicólogo\", \"dente\", \"parlamentar\", \"mecânico\" e \"encanador\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "757",
+    "input": "Todas as palavras \"açougue\", \"biblioteca\", \"joalheria\", \"pousada\" e \"escola\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "760",
+    "input": "Todas as palavras \"musical\", \"terror\", \"comédia\", \"falta\" e \"suspense\" são tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "761",
+    "input": "Todas as palavras \"vôlei\", \"corrida\", \"yoga\", \"surf\" e \"golfe\" são tipos de esporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "765",
+    "input": "Todas as palavras \"escritório\", \"calça\", \"varanda\", \"escada\" e \"porta\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "766",
+    "input": "Todas as palavras \"lodo\", \"furacão\", \"água\", \"lama\" e \"chumbo\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "770",
+    "input": "Todas as palavras \"comprimento\", \"aumento\", \"tamanho\", \"posição\" e \"largura\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "781",
+    "input": "Todas as palavras \"sexta-feira\", \"quarta-feira\", \"terça-feira\", \"quinta-feira\" e \"segunda-feira\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "786",
+    "input": "Todas as palavras \"produto\", \"demanda\", \"serviço\", \"consumo\" e \"preço\" são tipos de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "798",
+    "input": "Todas as palavras \"conflito\", \"aparelho\", \"corda\", \"martelo\" e \"arma\" são tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "802",
+    "input": "Todas as palavras \"saxofone\", \"bateria\", \"trompete\", \"quinta-feira\" e \"violino\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "811",
+    "input": "Todas as palavras \"camarão\", \"tigre\", \"égua\", \"caracol\" e \"açougue\" são tipos de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "820",
+    "input": "Todas as palavras \"abóbora\", \"alface\", \"alho-poró\", \"cenoura\" e \"pimentão\" são tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "823",
+    "input": "Todas as palavras \"bateria\", \"clarinete\", \"saxofone\", \"piano\" e \"guitarra\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "828",
+    "input": "Todas as palavras \"restaurante\", \"peixaria\", \"farmácia\", \"supermercado\" e \"banco\" são tipos de local de trabalho? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "839",
+    "input": "Todas as palavras \"nação\", \"população\", \"permissão\", \"direito\" e \"comissão\" são tipos de sociedade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "844",
+    "input": "Todas as palavras \"adulto\", \"menino\", \"idoso\", \"mulher\" e \"senhor\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "848",
+    "input": "Todas as palavras \"tráfego\", \"avenida\", \"transporte\", \"bonde\" e \"estação\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "851",
+    "input": "Todas as palavras \"vida\", \"espécie\", \"morte\", \"nascimento\" e \"capital\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "855",
+    "input": "Todas as palavras \"memória\", \"terça-feira\", \"quarta-feira\", \"sábado\" e \"domingo\" são tipos de dia da semana? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "861",
+    "input": "Todas as palavras \"ferro\", \"água\", \"sal\", \"lodo\" e \"cotovelo\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "865",
+    "input": "Todas as palavras \"cadeira\", \"escada\", \"edifício\", \"varanda\" e \"banheiro\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "866",
+    "input": "Todas as palavras \"guitarra\", \"idoso\", \"clarinete\", \"bateria\" e \"violino\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "869",
+    "input": "Todas as palavras \"metal\", \"sal\", \"barro\", \"ouro\" e \"bisneta\" são tipos de material? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "874",
+    "input": "Todas as palavras \"ator\", \"médico\", \"professor\", \"artista\" e \"padeiro\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "879",
+    "input": "Todas as palavras \"pronome\", \"substantivo\", \"advérbio\", \"verbo\" e \"adjetivo\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "890",
+    "input": "Todas as palavras \"conjunção\", \"pronome\", \"casa\", \"determinante\" e \"adjetivo\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "897",
+    "input": "Todas as palavras \"zíper\", \"legging\", \"biquíni\", \"mochila\" e \"sunga\" são tipos de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "898",
+    "input": "Todas as palavras \"tornado\", \"tarifa\", \"tsunami\", \"seca\" e \"terremoto\" são tipos de catástrofe natural? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "899",
+    "input": "Todas as palavras \"contrabaixo\", \"piano\", \"flauta\", \"violão\" e \"acerto\" são tipos de instrumento musical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "904",
+    "input": "Todas as palavras \"jacaré\", \"inseto\", \"bicho\", \"ovelha\" e \"lagosta\" são tipos de animal? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "909",
+    "input": "Todas as palavras \"quilômetro\", \"centímetro\", \"medida\", \"peso\" e \"milímetro\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "916",
+    "input": "Todas as palavras \"gato\", \"terror\", \"drama\", \"romance\" e \"suspense\" são tipos de gênero cinematográfico? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "918",
+    "input": "Todas as palavras \"banco\", \"vermelho\", \"marrom\", \"azul\" e \"rosa\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "92",
+    "input": "Todas as palavras \"adjetivo\", \"substantivo\", \"pronome\", \"cabeça\" e \"conjunção\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "930",
+    "input": "Todas as palavras \"aspargos\", \"abóbora\", \"rabanete\", \"aipo\" e \"alcachofra\" são tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "931",
+    "input": "Todas as palavras \"azul\", \"verde\", \"marrom\", \"cor\" e \"roxo\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "935",
+    "input": "Todas as palavras \"varanda\", \"entrada\", \"nariz\", \"escritório\" e \"elevador\" são tipos de cômodo da casa ou mobília? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "937",
+    "input": "Todas as palavras \"nascimento\", \"criatura\", \"vida\", \"morte\" e \"espécie\" são tipos de etapa da vida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "938",
+    "input": "Todas as palavras \"presente\", \"tarifa\", \"produção\", \"mercado\" e \"bilhete\" são tipos de termo relacionados a economia? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "939",
+    "input": "Todas as palavras \"verde\", \"branco\", \"cor\", \"cinza\" e \"marrom\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "947",
+    "input": "Todas as palavras \"advogado\", \"dentista\", \"parlamentar\", \"professor\" e \"faxineiro\" são tipos de profissão? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "950",
+    "input": "Todas as palavras \"comprimento\", \"velocidade\", \"movimento\", \"fundo\" e \"posição\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "951",
+    "input": "Todas as palavras \"quantidade\", \"medida\", \"total\", \"milímetro\" e \"peso\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "960",
+    "input": "Todas as palavras \"arma\", \"aparelho\", \"corda\", \"cabo\" e \"tela\" são tipos de ferramenta? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "962",
+    "input": "Todas as palavras \"peso\", \"quantidade\", \"quilômetro\", \"centímetro\" e \"mililitro\" são tipos de medida? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "965",
+    "input": "Todas as palavras \"clarinete\", \"movimento\", \"posição\", \"velocidade\" e \"aceleração\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "968",
+    "input": "Todas as palavras \"marrom\", \"vermelho\", \"roxo\", \"preto\" e \"laranja\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "970",
+    "input": "Todas as palavras \"pronome\", \"advérbio\", \"verbo\", \"determinante\" e \"adjetivo\" são tipos de categoria gramatical? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "973",
+    "input": "Todas as palavras \"aspargos\", \"espinafre\", \"alcachofra\", \"pepino\" e \"marido\" são tipos de verdura ou legume? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "975",
+    "input": "Todas as palavras \"cor\", \"vermelho\", \"laranja\", \"verde\" e \"preto\" são tipos de cor? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "985",
+    "input": "Todas as palavras \"fígado\", \"palma\", \"boca\", \"orelha\" e \"estômago\" são tipos de parte do corpo humano? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "988",
+    "input": "Todas as palavras \"moto\", \"transporte\", \"governo\", \"parada\" e \"estação\" são tipos de transporte? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "989",
+    "input": "Todas as palavras \"sapato\", \"jaqueta\", \"legging\", \"luvas\" e \"lagarto\" são tipos de peça de roupa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "994",
+    "input": "Todas as palavras \"adolescente\", \"idosa\", \"pessoa\", \"ato\" e \"menina\" são tipos de pessoa? Responda exclusivamente com \"sim\" ou \"não\"."
+  },
+  {
+    "id": "999",
+    "input": "Todas as palavras \"comprimento\", \"endereço\", \"tamanho\", \"movimento\" e \"aceleração\" são tipos de espaço e quantidade? Responda exclusivamente com \"sim\" ou \"não\"."
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "2",
+    "input": "Im Satz \"Seine Harmonik baut wesentlich auf Quinten und Quarten auf\", welches Wort kommt gleich nach dem Wort \"Seine\"?"
+  },
+  {
+    "id": "5",
+    "input": "Im Satz \"Im Wohnzimmer brannte noch Licht\", welches Wort kommt gleich nach dem Wort \"Im\"?"
+  },
+  {
+    "id": "6",
+    "input": "Im Satz \"Sein Vater war Börsenmakler\", welches Wort kommt gleich nach dem Wort \"Sein\"?"
+  },
+  {
+    "id": "11",
+    "input": "Im Satz \"Es ist ein Straßendorf mit einem Dorfplatz\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "14",
+    "input": "Im Satz \"Rund ein Viertel der Arbeitnehmer sind in Dienstleistungsunternehmen oder im öffentlichen Dienst beschäftigt\", welches Wort kommt gleich nach dem Wort \"sind\"?"
+  },
+  {
+    "id": "17",
+    "input": "Im Satz \"Mustafa wurde nach erfolgreichem Abschluss seiner Abschlussprüfung mit einer Ehrennadel ausgezeichnet\", welches Wort kommt gleich nach dem Wort \"nach\"?"
+  },
+  {
+    "id": "18",
+    "input": "Im Satz \"Wir werden über vier Änderungsanträge abstimmen\", welches Wort kommt gleich nach dem Wort \"über\"?"
+  },
+  {
+    "id": "19",
+    "input": "Im Satz \"Damit legte er ein Standardwerk zur gotischen Kunst vor\", welches Wort kommt gleich nach dem Wort \"Damit\"?"
+  },
+  {
+    "id": "21",
+    "input": "Im Satz \"Sie dürfen ihre Fahrt nach Frankreich fortsetzen\", welches Wort kommt gleich nach dem Wort \"Sie\"?"
+  },
+  {
+    "id": "24",
+    "input": "Im Satz \"Noch zu Lebzeiten verlieh ihm seine Heimatstadt das Ehrenbürgerrecht\", welches Wort kommt gleich nach dem Wort \"Heimatstadt\"?"
+  },
+  {
+    "id": "25",
+    "input": "Im Satz \"Nach seiner Spielerkarriere begann er eine Laufbahn als Trainer\", welches Wort kommt gleich nach dem Wort \"Spielerkarriere\"?"
+  },
+  {
+    "id": "27",
+    "input": "Im Satz \"Die silberne Medaille ist identisch gestaltet und aus Silber hergestellt\", welches Wort kommt gleich nach dem Wort \"und\"?"
+  },
+  {
+    "id": "29",
+    "input": "Im Satz \"Dort engagiert er sich aktuell gegen einen geplanten Windpark\", welches Wort kommt gleich nach dem Wort \"aktuell\"?"
+  },
+  {
+    "id": "30",
+    "input": "Im Satz \"So soll er durch ein Gleichnis des Pythagoras sein Leben verloren haben\", welches Wort kommt gleich nach dem Wort \"durch\"?"
+  },
+  {
+    "id": "32",
+    "input": "Im Satz \"Irgendwie sind wir doch alle Opfer des Drogenmissbrauchs\", welches Wort kommt gleich nach dem Wort \"wir\"?"
+  },
+  {
+    "id": "34",
+    "input": "Im Satz \"Straße und Park sind durch einen entlang der Straße verlaufenden Graben getrennt\", welches Wort kommt gleich nach dem Wort \"entlang\"?"
+  },
+  {
+    "id": "35",
+    "input": "Im Satz \"Verbesserungen beim Management des Luftverkehrs würden mehr verfügbaren Luftraum schaffen\", welches Wort kommt gleich nach dem Wort \"beim\"?"
+  },
+  {
+    "id": "38",
+    "input": "Im Satz \"Diese gesetzlichen Regelungen waren allerdings auch in seiner fünfjährigen Tätigkeit nicht umsetzbar\", welches Wort kommt gleich nach dem Wort \"auch\"?"
+  },
+  {
+    "id": "39",
+    "input": "Im Satz \"Die Echtheit der Urkunde ist jedoch umstritten\", welches Wort kommt gleich nach dem Wort \"Die\"?"
+  },
+  {
+    "id": "42",
+    "input": "Im Satz \"Danach wurde er Pressesprecher des Verbands\", welches Wort kommt gleich nach dem Wort \"des\"?"
+  },
+  {
+    "id": "44",
+    "input": "Im Satz \"Nach Kriegsende wurde das Lazarett geräumt und die Schäden am Gebäude wurden notdürftig repariert\", welches Wort kommt gleich nach dem Wort \"Gebäude\"?"
+  },
+  {
+    "id": "48",
+    "input": "Im Satz \"Die Statue zeigt Ella Fitzgerald während eines Gesangvortrags mit offenen Armen\", welches Wort kommt gleich nach dem Wort \"zeigt\"?"
+  },
+  {
+    "id": "50",
+    "input": "Im Satz \"Der Vorsprung der beiden verbliebenen Fahrer betrug nie mehr als drei Minuten\", welches Wort kommt gleich nach dem Wort \"betrug\"?"
+  },
+  {
+    "id": "51",
+    "input": "Im Satz \"Anschließend absolvierte er mehrere Praktika bei Redaktionen deutscher Fernsehsender in Moskau\", welches Wort kommt gleich nach dem Wort \"Redaktionen\"?"
+  },
+  {
+    "id": "54",
+    "input": "Im Satz \"Weder Lösungen oder Auflösungen der quälenden Situationen werden präsentiert\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "55",
+    "input": "Im Satz \"Dies gehört zum neuen Abkommen\", welches Wort kommt gleich nach dem Wort \"neuen\"?"
+  },
+  {
+    "id": "57",
+    "input": "Im Satz \"Für gewöhnlich fällt er im Sommer und in der späten Wintersaison trocken\", welches Wort kommt gleich nach dem Wort \"Sommer\"?"
+  },
+  {
+    "id": "62",
+    "input": "Im Satz \"Auf ihr waren zwei Dampfloks in Betrieb\", welches Wort kommt gleich nach dem Wort \"Dampfloks\"?"
+  },
+  {
+    "id": "65",
+    "input": "Im Satz \"Nach der Verteidigung seiner Dissertation wurde er Assistenzprofessor an der Universität\", welches Wort kommt gleich nach dem Wort \"Nach\"?"
+  },
+  {
+    "id": "67",
+    "input": "Im Satz \"Bei diesen Arten haben die Männchen aber auch ein blaues Abdomen\", welches Wort kommt gleich nach dem Wort \"die\"?"
+  },
+  {
+    "id": "69",
+    "input": "Im Satz \"Durch den Rücktritt des Präsidenten wurde eine Neuwahl durch das Parlament erforderlich\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "77",
+    "input": "Im Satz \"Die meisten seiner Umsätze erbringt das Unternehmen außerhalb von Deutschland\", welches Wort kommt gleich nach dem Wort \"seiner\"?"
+  },
+  {
+    "id": "79",
+    "input": "Im Satz \"Eine Informationstafel erläutert das Museumskonzept\", welches Wort kommt gleich nach dem Wort \"Informationstafel\"?"
+  },
+  {
+    "id": "80",
+    "input": "Im Satz \"Von der achten Klasse an wird Chemie als weitere Naturwissenschaft unterrichtet\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "85",
+    "input": "Im Satz \"Weitere Übersetzungen sind in Arbeit\", welches Wort kommt gleich nach dem Wort \"sind\"?"
+  },
+  {
+    "id": "86",
+    "input": "Im Satz \"So wurde er vom Puritanismus beeinflusst\", welches Wort kommt gleich nach dem Wort \"er\"?"
+  },
+  {
+    "id": "87",
+    "input": "Im Satz \"Moderne Geräte haben ein elektronisches Display das alle relevanten Daten digital anzeigt\", welches Wort kommt gleich nach dem Wort \"elektronisches\"?"
+  },
+  {
+    "id": "89",
+    "input": "Im Satz \"Früh beherrschte er mehrere Instrumente\", welches Wort kommt gleich nach dem Wort \"beherrschte\"?"
+  },
+  {
+    "id": "91",
+    "input": "Im Satz \"Er studierte Philosophie und Rechtswissenschaften an den Universitäten Stuttgart und Tübingen\", welches Wort kommt gleich nach dem Wort \"den\"?"
+  },
+  {
+    "id": "93",
+    "input": "Im Satz \"Das Mittelschiff ist mit einem hölzernen Tonnengewölbe überspannt\", welches Wort kommt gleich nach dem Wort \"hölzernen\"?"
+  },
+  {
+    "id": "102",
+    "input": "Im Satz \"Die Herkunft der Blumen ist unbekannt\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "114",
+    "input": "Im Satz \"Die Kopflänge lag bei weniger als einem Drittel der Standardlänge\", welches Wort kommt gleich nach dem Wort \"Kopflänge\"?"
+  },
+  {
+    "id": "116",
+    "input": "Im Satz \"Hier sind auch Rennen mit abweichender Distanz geplant\", welches Wort kommt gleich nach dem Wort \"mit\"?"
+  },
+  {
+    "id": "120",
+    "input": "Im Satz \"Beim Laden gibt es aber einen Unterschied zwischen den beiden Geräten\", welches Wort kommt gleich nach dem Wort \"zwischen\"?"
+  },
+  {
+    "id": "121",
+    "input": "Im Satz \"Zu diesem Zeitpunkt war der Text weitgehend noch unfertig\", welches Wort kommt gleich nach dem Wort \"Text\"?"
+  },
+  {
+    "id": "122",
+    "input": "Im Satz \"Alle Begegnungen werden in einem Spiel ausgetragen\", welches Wort kommt gleich nach dem Wort \"einem\"?"
+  },
+  {
+    "id": "125",
+    "input": "Im Satz \"Dabei findet fast ausschließlich eine männliche Wahrnehmung statt\", welches Wort kommt gleich nach dem Wort \"ausschließlich\"?"
+  },
+  {
+    "id": "126",
+    "input": "Im Satz \"Das wird viele Fragen aufwerfen\", welches Wort kommt gleich nach dem Wort \"Das\"?"
+  },
+  {
+    "id": "127",
+    "input": "Im Satz \"Was also spricht dagegen dass die Kommission einen entsprechenden Änderungsvorschlag vorlegt?\", welches Wort kommt gleich nach dem Wort \"einen\"?"
+  },
+  {
+    "id": "130",
+    "input": "Im Satz \"Eine Reihe seiner Arbeiten sind im öffentlichen Raum in Wien und Niederösterreich zu finden\", welches Wort kommt gleich nach dem Wort \"Arbeiten\"?"
+  },
+  {
+    "id": "133",
+    "input": "Im Satz \"In den Folgejahren wurden die Häuser des Dorfes dem Verfall überlassen\", welches Wort kommt gleich nach dem Wort \"wurden\"?"
+  },
+  {
+    "id": "137",
+    "input": "Im Satz \"Ich dachte nämlich ich hätte noch zwei Minuten\", welches Wort kommt gleich nach dem Wort \"nämlich\"?"
+  },
+  {
+    "id": "139",
+    "input": "Im Satz \"Es handelt sich dabei um ein Hämatom\", welches Wort kommt gleich nach dem Wort \"dabei\"?"
+  },
+  {
+    "id": "140",
+    "input": "Im Satz \"In den Folgejahren wurden die Häuser des Dorfes dem Verfall überlassen\", welches Wort kommt gleich nach dem Wort \"Folgejahren\"?"
+  },
+  {
+    "id": "141",
+    "input": "Im Satz \"Die Kanzel und ihr Schalldeckel wurden am Chorbogen angebracht\", welches Wort kommt gleich nach dem Wort \"Die\"?"
+  },
+  {
+    "id": "145",
+    "input": "Im Satz \"Dass man da die Religion hineinmischt ist teilweise falsch\", welches Wort kommt gleich nach dem Wort \"hineinmischt\"?"
+  },
+  {
+    "id": "146",
+    "input": "Im Satz \"Die Kammer enthielt mehrere Beigaben\", welches Wort kommt gleich nach dem Wort \"mehrere\"?"
+  },
+  {
+    "id": "148",
+    "input": "Im Satz \"Viele Gebäude sind in einer von Jugendstil und Bauhaus beeinflussten Architektur gestaltet\", welches Wort kommt gleich nach dem Wort \"einer\"?"
+  },
+  {
+    "id": "149",
+    "input": "Im Satz \"Die Zeiten aller drei Medaillengewinner lagen weniger als eine Sekunde auseinander\", welches Wort kommt gleich nach dem Wort \"drei\"?"
+  },
+  {
+    "id": "150",
+    "input": "Im Satz \"Unterrichten ist grundsätzlich ein zielgerichtetes Handeln\", welches Wort kommt gleich nach dem Wort \"ein\"?"
+  },
+  {
+    "id": "151",
+    "input": "Im Satz \"Im Nordteil des Hügels befindet sich eine Grabkammer\", welches Wort kommt gleich nach dem Wort \"des\"?"
+  },
+  {
+    "id": "158",
+    "input": "Im Satz \"Ein einheitlicher Erweiterungsbau entlang der Langhaussüdwand zieht sich bis zum Turm\", welches Wort kommt gleich nach dem Wort \"Ein\"?"
+  },
+  {
+    "id": "163",
+    "input": "Im Satz \"Rund ein Viertel der Arbeitnehmer sind in Dienstleistungsunternehmen oder im öffentlichen Dienst beschäftigt\", welches Wort kommt gleich nach dem Wort \"Dienst\"?"
+  },
+  {
+    "id": "172",
+    "input": "Im Satz \"Den Schallplattenauszeichnungen zufolge verkaufte die Band bisher mehr als zehn Millionen Tonträger\", welches Wort kommt gleich nach dem Wort \"bisher\"?"
+  },
+  {
+    "id": "173",
+    "input": "Im Satz \"Sie wird in der katholischen und der orthodoxen Kirche als Märtyrerin verehrt\", welches Wort kommt gleich nach dem Wort \"und\"?"
+  },
+  {
+    "id": "174",
+    "input": "Im Satz \"Auf Mauritius passte ihm jedoch der britisch geprägte Lebensstil nicht\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "175",
+    "input": "Im Satz \"Sie selbst trägt ihren zweiten Vornamen als Künstlernamen\", welches Wort kommt gleich nach dem Wort \"als\"?"
+  },
+  {
+    "id": "178",
+    "input": "Im Satz \"Die Stiftungen in Kroatien können damit gut leben\", welches Wort kommt gleich nach dem Wort \"in\"?"
+  },
+  {
+    "id": "179",
+    "input": "Im Satz \"Außerdem befinden sich hier weitere technische Betriebsräume sowie ein Konferenzraum mit einer Bibliothek\", welches Wort kommt gleich nach dem Wort \"hier\"?"
+  },
+  {
+    "id": "181",
+    "input": "Im Satz \"In einem Bereich fand man Kochgeschirr und feine Keramik\", welches Wort kommt gleich nach dem Wort \"In\"?"
+  },
+  {
+    "id": "185",
+    "input": "Im Satz \"Die Entsorgung solcher Abfallstoffe muss über den Restmüll erfolgen\", welches Wort kommt gleich nach dem Wort \"Die\"?"
+  },
+  {
+    "id": "186",
+    "input": "Im Satz \"Der Name und seine Varianten sind in Brasilien weit verbreitet\", welches Wort kommt gleich nach dem Wort \"seine\"?"
+  },
+  {
+    "id": "189",
+    "input": "Im Satz \"Seine privaten Immobilien überschrieb er seiner Frau\", welches Wort kommt gleich nach dem Wort \"Seine\"?"
+  },
+  {
+    "id": "190",
+    "input": "Im Satz \"Vier Finger werden durch den Ring gesteckt\", welches Wort kommt gleich nach dem Wort \"werden\"?"
+  },
+  {
+    "id": "192",
+    "input": "Im Satz \"Die Ehe blieb ohne Kinder\", welches Wort kommt gleich nach dem Wort \"blieb\"?"
+  },
+  {
+    "id": "193",
+    "input": "Im Satz \"Fünf Jahre später wurde sie stellvertretende Leiterin der Abteilung für europäische Angelegenheiten im Außenministerium\", welches Wort kommt gleich nach dem Wort \"später\"?"
+  },
+  {
+    "id": "194",
+    "input": "Im Satz \"Nach und nach wurde die Welt mit Menschen und Tieren überfüllt\", welches Wort kommt gleich nach dem Wort \"Welt\"?"
+  },
+  {
+    "id": "196",
+    "input": "Im Satz \"Der äußere Ring umfasste auch die Berge im Westen der heutigen Innenstadt\", welches Wort kommt gleich nach dem Wort \"umfasste\"?"
+  },
+  {
+    "id": "199",
+    "input": "Im Satz \"Das Spiel erhielt gemischte Kritiken\", welches Wort kommt gleich nach dem Wort \"erhielt\"?"
+  },
+  {
+    "id": "200",
+    "input": "Im Satz \"Holz und Stein sind das Baumaterial\", welches Wort kommt gleich nach dem Wort \"sind\"?"
+  },
+  {
+    "id": "201",
+    "input": "Im Satz \"Die Brutzeit liegt zwischen März und April\", welches Wort kommt gleich nach dem Wort \"liegt\"?"
+  },
+  {
+    "id": "202",
+    "input": "Im Satz \"Eine große demographische Herausforderung stellten Abwanderung und Überalterung der Bevölkerung dar\", welches Wort kommt gleich nach dem Wort \"demographische\"?"
+  },
+  {
+    "id": "203",
+    "input": "Im Satz \"Die Kapelle verfügt über eine hölzerne Empore mit Orgel\", welches Wort kommt gleich nach dem Wort \"hölzerne\"?"
+  },
+  {
+    "id": "211",
+    "input": "Im Satz \"Darüber befinden sich fünf Decks mit den Kabinen für die Schiffsbesatzung\", welches Wort kommt gleich nach dem Wort \"Decks\"?"
+  },
+  {
+    "id": "212",
+    "input": "Im Satz \"Im westlichen Teil des Verbreitungsgebiets sind die Populationen weit verstreut\", welches Wort kommt gleich nach dem Wort \"sind\"?"
+  },
+  {
+    "id": "213",
+    "input": "Im Satz \"Bei den Milchprodukten dominieren Joghurt und Feta\", welches Wort kommt gleich nach dem Wort \"Milchprodukten\"?"
+  },
+  {
+    "id": "214",
+    "input": "Im Satz \"Schon ein Jahr später soll es seinen Besitzer gewechselt haben\", welches Wort kommt gleich nach dem Wort \"seinen\"?"
+  },
+  {
+    "id": "222",
+    "input": "Im Satz \"Er wird von Experten als einer der vielversprechendsten Spieler seiner Generation angesehen\", welches Wort kommt gleich nach dem Wort \"Er\"?"
+  },
+  {
+    "id": "230",
+    "input": "Im Satz \"Damit war er Vertreter des Landesherrn und für richterliche und militärische Angelegenheiten zuständig\", welches Wort kommt gleich nach dem Wort \"des\"?"
+  },
+  {
+    "id": "232",
+    "input": "Im Satz \"Als Anbau befand sich daneben ebenerdig das Maschinenhaus\", welches Wort kommt gleich nach dem Wort \"das\"?"
+  },
+  {
+    "id": "233",
+    "input": "Im Satz \"Dort vertreibt er sich die Zeit mit einer Kiste alter Bücher\", welches Wort kommt gleich nach dem Wort \"er\"?"
+  },
+  {
+    "id": "237",
+    "input": "Im Satz \"Am Ende eröffnet sie eine Ausstellung und spricht mit einem Interviewer\", welches Wort kommt gleich nach dem Wort \"Ausstellung\"?"
+  },
+  {
+    "id": "238",
+    "input": "Im Satz \"Der konsularische Amtsbezirk der Botschaft umfasst die ganze Dominikanische Republik sowie das Nachbarland Haiti\", welches Wort kommt gleich nach dem Wort \"Amtsbezirk\"?"
+  },
+  {
+    "id": "240",
+    "input": "Im Satz \"Der Grundbesitz konnte im Laufe der Zeit erheblich erweitert werden\", welches Wort kommt gleich nach dem Wort \"erheblich\"?"
+  },
+  {
+    "id": "242",
+    "input": "Im Satz \"Neben klassischen Rollen widmete er sich zunehmend auch der Komik\", welches Wort kommt gleich nach dem Wort \"widmete\"?"
+  },
+  {
+    "id": "248",
+    "input": "Im Satz \"In Konzertprogrammen des Ensembles ist Kammermusik nahezu aller Stilrichtungen und Epochen vertreten\", welches Wort kommt gleich nach dem Wort \"Stilrichtungen\"?"
+  },
+  {
+    "id": "250",
+    "input": "Im Satz \"Gefundene Keramikscherben konnten ebenfalls auf das Spätmittelalter datiert werden\", welches Wort kommt gleich nach dem Wort \"ebenfalls\"?"
+  },
+  {
+    "id": "252",
+    "input": "Im Satz \"Das englische shrine ist ein Schrein\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "257",
+    "input": "Im Satz \"Zudem stehen die beiden Beichtstühle an dieser Seite\", welches Wort kommt gleich nach dem Wort \"die\"?"
+  },
+  {
+    "id": "259",
+    "input": "Im Satz \"Heute befinden sich die Objekte im British Museum in London\", welches Wort kommt gleich nach dem Wort \"Heute\"?"
+  },
+  {
+    "id": "263",
+    "input": "Im Satz \"Zuvor war er Staatssekretär und Chef der Staatskanzlei des Landes Baden-Württemberg\", welches Wort kommt gleich nach dem Wort \"des\"?"
+  },
+  {
+    "id": "264",
+    "input": "Im Satz \"Die Infrastruktur wurde zum größten Teil zerstört\", welches Wort kommt gleich nach dem Wort \"wurde\"?"
+  },
+  {
+    "id": "265",
+    "input": "Im Satz \"Auf dem Schalldeckel über der steinernen Kanzel ist die Taube dargestellt\", welches Wort kommt gleich nach dem Wort \"Kanzel\"?"
+  },
+  {
+    "id": "266",
+    "input": "Im Satz \"Der Angriff fand unter extrem schlechten Wetterbedingungen statt\", welches Wort kommt gleich nach dem Wort \"extrem\"?"
+  },
+  {
+    "id": "273",
+    "input": "Im Satz \"Ebenso zeigt sich der Einfluss des Jugendstils sich in ihren Bauten\", welches Wort kommt gleich nach dem Wort \"des\"?"
+  },
+  {
+    "id": "278",
+    "input": "Im Satz \"Dort konnte er sich nicht nachhaltig durchsetzen und wechselte häufiger die Vereine\", welches Wort kommt gleich nach dem Wort \"die\"?"
+  },
+  {
+    "id": "280",
+    "input": "Im Satz \"Mit mehr als einem Jahr Verzögerung wurden die Arbeiten abgeschlossen\", welches Wort kommt gleich nach dem Wort \"einem\"?"
+  },
+  {
+    "id": "283",
+    "input": "Im Satz \"In einer Reihe von Fachartikeln berichtete er über seine Erfahrungen\", welches Wort kommt gleich nach dem Wort \"Fachartikeln\"?"
+  },
+  {
+    "id": "287",
+    "input": "Im Satz \"Landstraßen führen zu den Nachbargemeinden\", welches Wort kommt gleich nach dem Wort \"zu\"?"
+  },
+  {
+    "id": "288",
+    "input": "Im Satz \"Seither verkehren keine Straßenbahnen mehr durch die Straße\", welches Wort kommt gleich nach dem Wort \"durch\"?"
+  },
+  {
+    "id": "290",
+    "input": "Im Satz \"Das heilige römische Reich war reich an verschiedenen Kulturen\", welches Wort kommt gleich nach dem Wort \"römische\"?"
+  },
+  {
+    "id": "291",
+    "input": "Im Satz \"Er fließt steil hangabwärts durch den Wald in Richtung Osten\", welches Wort kommt gleich nach dem Wort \"hangabwärts\"?"
+  },
+  {
+    "id": "294",
+    "input": "Im Satz \"Es handelt sich um ein viergeschossiges Mietshaus\", welches Wort kommt gleich nach dem Wort \"handelt\"?"
+  },
+  {
+    "id": "295",
+    "input": "Im Satz \"Heute gehört das Grundstück zur Bundesdruckerei und nur eine Gedenktafel erinnert an die Kirche\", welches Wort kommt gleich nach dem Wort \"erinnert\"?"
+  },
+  {
+    "id": "299",
+    "input": "Im Satz \"Aber das ist weder verbraucherfreundlich noch ökologisch vertretbar\", welches Wort kommt gleich nach dem Wort \"weder\"?"
+  },
+  {
+    "id": "300",
+    "input": "Im Satz \"Weder Lösungen oder Auflösungen der quälenden Situationen werden präsentiert\", welches Wort kommt gleich nach dem Wort \"Auflösungen\"?"
+  },
+  {
+    "id": "302",
+    "input": "Im Satz \"Sie begann ein weltliches Berufsleben und engagierte sich in ihrer Freizeit für kirchliche Aktivitäten\", welches Wort kommt gleich nach dem Wort \"ein\"?"
+  },
+  {
+    "id": "303",
+    "input": "Im Satz \"Maßgeblicher Zeitraum ist dabei das vergangene Kalenderjahr\", welches Wort kommt gleich nach dem Wort \"vergangene\"?"
+  },
+  {
+    "id": "305",
+    "input": "Im Satz \"Bezüglich der Ruheplätze dieser nachtaktiven Fledermaus gibt es nur Vermutungen\", welches Wort kommt gleich nach dem Wort \"Bezüglich\"?"
+  },
+  {
+    "id": "309",
+    "input": "Im Satz \"Momentan enthält der Backsteinbau ein Lager und ein Geschäft\", welches Wort kommt gleich nach dem Wort \"Lager\"?"
+  },
+  {
+    "id": "312",
+    "input": "Im Satz \"Italien gewann den Wettbewerb im Finale gegen Brasilien\", welches Wort kommt gleich nach dem Wort \"Wettbewerb\"?"
+  },
+  {
+    "id": "314",
+    "input": "Im Satz \"Diskriminierung aus diesen Gründen darf in einer modernen Gesellschaft keinen Platz haben\", welches Wort kommt gleich nach dem Wort \"modernen\"?"
+  },
+  {
+    "id": "317",
+    "input": "Im Satz \"Darüber befinden sich fünf Decks mit den Kabinen für die Schiffsbesatzung\", welches Wort kommt gleich nach dem Wort \"sich\"?"
+  },
+  {
+    "id": "318",
+    "input": "Im Satz \"Als Pressesprecher des Heiligen Stuhls zählt er zu den bekanntesten Personen des Vatikan\", welches Wort kommt gleich nach dem Wort \"zählt\"?"
+  },
+  {
+    "id": "319",
+    "input": "Im Satz \"Der Rundweg um den Teich wurde gesperrt\", welches Wort kommt gleich nach dem Wort \"Der\"?"
+  },
+  {
+    "id": "321",
+    "input": "Im Satz \"Dort vertreibt er sich die Zeit mit einer Kiste alter Bücher\", welches Wort kommt gleich nach dem Wort \"Zeit\"?"
+  },
+  {
+    "id": "325",
+    "input": "Im Satz \"Trotzdem blieb das Trio beliebt bei den Kritikern\", welches Wort kommt gleich nach dem Wort \"beliebt\"?"
+  },
+  {
+    "id": "326",
+    "input": "Im Satz \"Durch Export der verschiedensten Biersorten konnte die Produktion weiter gesteigert werden\", welches Wort kommt gleich nach dem Wort \"Export\"?"
+  },
+  {
+    "id": "327",
+    "input": "Im Satz \"Meistens befinden sie sich in der Nähe von Wohnhäusern\", welches Wort kommt gleich nach dem Wort \"Nähe\"?"
+  },
+  {
+    "id": "328",
+    "input": "Im Satz \"Das schräg stehende Maul ist endständig und relativ groß\", welches Wort kommt gleich nach dem Wort \"und\"?"
+  },
+  {
+    "id": "330",
+    "input": "Im Satz \"Der Fluss hat ein hohes Potenzial für die Erzeugung von Wasserkraft\", welches Wort kommt gleich nach dem Wort \"Erzeugung\"?"
+  },
+  {
+    "id": "331",
+    "input": "Im Satz \"Es gibt sicher noch vieles zu berichten aber ich kann es wohl dabei belassen\", welches Wort kommt gleich nach dem Wort \"zu\"?"
+  },
+  {
+    "id": "334",
+    "input": "Im Satz \"Dass es uns an Glauben fehle kann man nicht sagen\", welches Wort kommt gleich nach dem Wort \"nicht\"?"
+  },
+  {
+    "id": "335",
+    "input": "Im Satz \"Er gibt wieder Vorlesungen und nach außen hin scheint alles wieder normal\", welches Wort kommt gleich nach dem Wort \"hin\"?"
+  },
+  {
+    "id": "337",
+    "input": "Im Satz \"Das Gebäude ist eines der wenigen in dem doppelstöckige Lifte eingesetzt werden\", welches Wort kommt gleich nach dem Wort \"doppelstöckige\"?"
+  },
+  {
+    "id": "343",
+    "input": "Im Satz \"Dieser verläuft entlang der nördlichen Grenze\", welches Wort kommt gleich nach dem Wort \"nördlichen\"?"
+  },
+  {
+    "id": "350",
+    "input": "Im Satz \"Die Herkunft der Blumen ist unbekannt\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "351",
+    "input": "Im Satz \"Er selbst stand der Firma als Geschäftsführer vor\", welches Wort kommt gleich nach dem Wort \"Er\"?"
+  },
+  {
+    "id": "354",
+    "input": "Im Satz \"Nach dem Krieg trat er dem Deutschen Künstlerbund bei\", welches Wort kommt gleich nach dem Wort \"Nach\"?"
+  },
+  {
+    "id": "355",
+    "input": "Im Satz \"Es geht eben auch um das Marketing\", welches Wort kommt gleich nach dem Wort \"eben\"?"
+  },
+  {
+    "id": "356",
+    "input": "Im Satz \"Teile des Parks werden heute landwirtschaftlich genutzt\", welches Wort kommt gleich nach dem Wort \"heute\"?"
+  },
+  {
+    "id": "360",
+    "input": "Im Satz \"Er gibt wieder Vorlesungen und nach außen hin scheint alles wieder normal\", welches Wort kommt gleich nach dem Wort \"außen\"?"
+  },
+  {
+    "id": "361",
+    "input": "Im Satz \"Er arbeitete anfangs als Roadie und T-Shirt-Verkäufer auf Festivals\", welches Wort kommt gleich nach dem Wort \"auf\"?"
+  },
+  {
+    "id": "362",
+    "input": "Im Satz \"Während des Krieges war er beim Landkreis Berchtesgaden angestellt\", welches Wort kommt gleich nach dem Wort \"Während\"?"
+  },
+  {
+    "id": "365",
+    "input": "Im Satz \"Der Junge beeindruckt sie durch seinen Wissensdurst\", welches Wort kommt gleich nach dem Wort \"Der\"?"
+  },
+  {
+    "id": "366",
+    "input": "Im Satz \"Rick lernt hier das Bauernmädchen Marie kennen und freundet sich mit ihr an\", welches Wort kommt gleich nach dem Wort \"mit\"?"
+  },
+  {
+    "id": "370",
+    "input": "Im Satz \"Ihr Mitgefühl heilt ihn jedoch augenblicklich\", welches Wort kommt gleich nach dem Wort \"ihn\"?"
+  },
+  {
+    "id": "373",
+    "input": "Im Satz \"Sie wurde recht erfolgreich\", welches Wort kommt gleich nach dem Wort \"recht\"?"
+  },
+  {
+    "id": "375",
+    "input": "Im Satz \"Auch aus wissenschaftlicher Sicht war die Mission ein Erfolg\", welches Wort kommt gleich nach dem Wort \"Auch\"?"
+  },
+  {
+    "id": "376",
+    "input": "Im Satz \"Nach der dritten Staffel wurde die Serie eingestellt\", welches Wort kommt gleich nach dem Wort \"wurde\"?"
+  },
+  {
+    "id": "377",
+    "input": "Im Satz \"Diese Datenquellen befinden sich zumeist in der Hand der staatlichen Wetterdienste\", welches Wort kommt gleich nach dem Wort \"Datenquellen\"?"
+  },
+  {
+    "id": "381",
+    "input": "Im Satz \"Die extravagante Raumstruktur ist bis heute nahezu unverändert erhalten\", welches Wort kommt gleich nach dem Wort \"unverändert\"?"
+  },
+  {
+    "id": "382",
+    "input": "Im Satz \"Die Aufstockung der Liga um diese zwei Teams galt ziemlich schnell als ein Fehler\", welches Wort kommt gleich nach dem Wort \"als\"?"
+  },
+  {
+    "id": "385",
+    "input": "Im Satz \"Im Nordteil des Hügels befindet sich eine Grabkammer\", welches Wort kommt gleich nach dem Wort \"Nordteil\"?"
+  },
+  {
+    "id": "386",
+    "input": "Im Satz \"Sie zählt somit zur ersten Generation studierter Frauen in Deutschland\", welches Wort kommt gleich nach dem Wort \"studierter\"?"
+  },
+  {
+    "id": "387",
+    "input": "Im Satz \"Die Unterseite ist bei beiden Arten weiß oder hellgelb\", welches Wort kommt gleich nach dem Wort \"bei\"?"
+  },
+  {
+    "id": "393",
+    "input": "Im Satz \"Der Spieler muss hierbei darauf achten nicht selbst gegen eine Wand zu fahren\", welches Wort kommt gleich nach dem Wort \"zu\"?"
+  },
+  {
+    "id": "394",
+    "input": "Im Satz \"Aus tiefem Glauben heraus stand sie für einen liberalen Pietismus ein\", welches Wort kommt gleich nach dem Wort \"Glauben\"?"
+  },
+  {
+    "id": "397",
+    "input": "Im Satz \"Wie lange braucht man mit dem Zug von Warschau nach Marseille?\", welches Wort kommt gleich nach dem Wort \"lange\"?"
+  },
+  {
+    "id": "398",
+    "input": "Im Satz \"Dies ist der einzige bekannte Erfolg eines Hilfskreuzers gegen ein reguläres Kriegsschiff\", welches Wort kommt gleich nach dem Wort \"eines\"?"
+  },
+  {
+    "id": "399",
+    "input": "Im Satz \"Zusätzlich wittert eine Journalistin schon den nächsten Skandal um den Politiker\", welches Wort kommt gleich nach dem Wort \"wittert\"?"
+  },
+  {
+    "id": "401",
+    "input": "Im Satz \"Es ist ein wichtiges Dokument in der Verfassungsgeschichte Großbritanniens und der Geschichte der Menschenrechte\", welches Wort kommt gleich nach dem Wort \"Großbritanniens\"?"
+  },
+  {
+    "id": "402",
+    "input": "Im Satz \"Hier würde er sie wiedersehen\", welches Wort kommt gleich nach dem Wort \"sie\"?"
+  },
+  {
+    "id": "405",
+    "input": "Im Satz \"Die Aufstockung der Liga um diese zwei Teams galt ziemlich schnell als ein Fehler\", welches Wort kommt gleich nach dem Wort \"diese\"?"
+  },
+  {
+    "id": "407",
+    "input": "Im Satz \"Ich finde die Meinung des Haushaltsausschusses verdient auch unsere Unterstützung\", welches Wort kommt gleich nach dem Wort \"verdient\"?"
+  },
+  {
+    "id": "410",
+    "input": "Im Satz \"Die deutsche Synchronisation dauerte nur eine Woche\", welches Wort kommt gleich nach dem Wort \"Synchronisation\"?"
+  },
+  {
+    "id": "412",
+    "input": "Im Satz \"Auch andere kirchliche und diakonische Werke unterstützte sie\", welches Wort kommt gleich nach dem Wort \"Werke\"?"
+  },
+  {
+    "id": "415",
+    "input": "Im Satz \"Ich finde die Meinung des Haushaltsausschusses verdient auch unsere Unterstützung\", welches Wort kommt gleich nach dem Wort \"Ich\"?"
+  },
+  {
+    "id": "416",
+    "input": "Im Satz \"Anschließend folgten zwei weitere Razzien im Club\", welches Wort kommt gleich nach dem Wort \"Anschließend\"?"
+  },
+  {
+    "id": "418",
+    "input": "Im Satz \"Sie betonte die Bedeutung der Einbeziehung von Pädagogen in die klinische Arbeit\", welches Wort kommt gleich nach dem Wort \"klinische\"?"
+  },
+  {
+    "id": "419",
+    "input": "Im Satz \"Die Entwicklung wird in Deutschland anhand zweier Pilotprojekte vorangetrieben\", welches Wort kommt gleich nach dem Wort \"wird\"?"
+  },
+  {
+    "id": "420",
+    "input": "Im Satz \"Er verlor aber in späteren Jahren wegen eines Fehlverhaltens seine Anstellung\", welches Wort kommt gleich nach dem Wort \"verlor\"?"
+  },
+  {
+    "id": "424",
+    "input": "Im Satz \"Dabei wurden sowohl der neue Staatspräsident als auch zwei Vizepräsidenten gewählt\", welches Wort kommt gleich nach dem Wort \"auch\"?"
+  },
+  {
+    "id": "425",
+    "input": "Im Satz \"Es wurden neun Wohnungen neu errichtet\", welches Wort kommt gleich nach dem Wort \"neun\"?"
+  },
+  {
+    "id": "426",
+    "input": "Im Satz \"Er hatte auch Gastauftritte in Filmen\", welches Wort kommt gleich nach dem Wort \"hatte\"?"
+  },
+  {
+    "id": "427",
+    "input": "Im Satz \"Inmitten dieser Krise wurde ihm der Tod seines älteren Sohnes bei einem Flugunfall mitgeteilt\", welches Wort kommt gleich nach dem Wort \"Krise\"?"
+  },
+  {
+    "id": "428",
+    "input": "Im Satz \"Nach dieser Saison löste sich das Franchise auf\", welches Wort kommt gleich nach dem Wort \"dieser\"?"
+  },
+  {
+    "id": "429",
+    "input": "Im Satz \"Die Afterflosse beginnt unterhalb der Mitte der Rückenflosse\", welches Wort kommt gleich nach dem Wort \"beginnt\"?"
+  },
+  {
+    "id": "431",
+    "input": "Im Satz \"Die zunehmende Versandung der Weser erschwerte und verhinderte schließlich den Schiffsverkehr nach Bremen\", welches Wort kommt gleich nach dem Wort \"Weser\"?"
+  },
+  {
+    "id": "436",
+    "input": "Im Satz \"Dieser Bereich ist nicht öffentlich zugänglich\", welches Wort kommt gleich nach dem Wort \"öffentlich\"?"
+  },
+  {
+    "id": "437",
+    "input": "Im Satz \"Trotzdem blieb das Trio beliebt bei den Kritikern\", welches Wort kommt gleich nach dem Wort \"bei\"?"
+  },
+  {
+    "id": "440",
+    "input": "Im Satz \"Burkhardt stammte aus einem musischen Elternhaus\", welches Wort kommt gleich nach dem Wort \"musischen\"?"
+  },
+  {
+    "id": "444",
+    "input": "Im Satz \"Danach wurde es ruhig um den ehemaligen Star\", welches Wort kommt gleich nach dem Wort \"ehemaligen\"?"
+  },
+  {
+    "id": "445",
+    "input": "Im Satz \"Der Nachtwächter geht durch die Straßen und ruft die Stunden aus\", welches Wort kommt gleich nach dem Wort \"ruft\"?"
+  },
+  {
+    "id": "451",
+    "input": "Im Satz \"Damit konnte der Bahnsteig halbseitig für die Fernzüge verlängert werden\", welches Wort kommt gleich nach dem Wort \"konnte\"?"
+  },
+  {
+    "id": "452",
+    "input": "Im Satz \"In Abwesenheit der Mutter durchsucht sie ihr Zimmer und findet ein altes Gerichtsschreiben\", welches Wort kommt gleich nach dem Wort \"Mutter\"?"
+  },
+  {
+    "id": "455",
+    "input": "Im Satz \"Eine entsprechende Satzung besteht beispielsweise in Lüneburg\", welches Wort kommt gleich nach dem Wort \"Satzung\"?"
+  },
+  {
+    "id": "456",
+    "input": "Im Satz \"Sie selbst trägt ihren zweiten Vornamen als Künstlernamen\", welches Wort kommt gleich nach dem Wort \"Sie\"?"
+  },
+  {
+    "id": "457",
+    "input": "Im Satz \"Danach hielt er eine Reihe von Vorträgen im religiösen Bereich\", welches Wort kommt gleich nach dem Wort \"religiösen\"?"
+  },
+  {
+    "id": "458",
+    "input": "Im Satz \"Für ihre Plastiken benutzte sie exotische Holzarten\", welches Wort kommt gleich nach dem Wort \"Plastiken\"?"
+  },
+  {
+    "id": "462",
+    "input": "Im Satz \"Heute möchte ich es bei einigen grundsätzlichen Bemerkungen belassen\", welches Wort kommt gleich nach dem Wort \"Bemerkungen\"?"
+  },
+  {
+    "id": "464",
+    "input": "Im Satz \"Unter der neuen Besitzerin konnte eine weitgehende Sanierung der Infrastruktur ausgeführt werden\", welches Wort kommt gleich nach dem Wort \"Infrastruktur\"?"
+  },
+  {
+    "id": "467",
+    "input": "Im Satz \"Die Dozenten sind Hochschulprofessoren und Führungskräfte aus der Wirtschaft und Verwaltung\", welches Wort kommt gleich nach dem Wort \"Die\"?"
+  },
+  {
+    "id": "468",
+    "input": "Im Satz \"Dann jedoch kommt der Kommandant früher als erwartet nach Hause\", welches Wort kommt gleich nach dem Wort \"Kommandant\"?"
+  },
+  {
+    "id": "475",
+    "input": "Im Satz \"Trotzdem gibt es in Schlüsselbereichen immer noch genügend Möglichkeiten für Verbesserungen\", welches Wort kommt gleich nach dem Wort \"Trotzdem\"?"
+  },
+  {
+    "id": "476",
+    "input": "Im Satz \"Es werden weniger Punkte erzielt und ein Tor fällt nur selten\", welches Wort kommt gleich nach dem Wort \"Tor\"?"
+  },
+  {
+    "id": "477",
+    "input": "Im Satz \"Danach gab es noch je eine Niederlage und einen Sieg in Freundschaftsspielen\", welches Wort kommt gleich nach dem Wort \"Sieg\"?"
+  },
+  {
+    "id": "478",
+    "input": "Im Satz \"Er war Vorsitzender des sozialpolitischen Ausschusses\", welches Wort kommt gleich nach dem Wort \"Er\"?"
+  },
+  {
+    "id": "483",
+    "input": "Im Satz \"Für einige Varianten war ein Anbauzelt verfügbar\", welches Wort kommt gleich nach dem Wort \"Für\"?"
+  },
+  {
+    "id": "484",
+    "input": "Im Satz \"Er studierte Philosophie und Rechtswissenschaften an den Universitäten Stuttgart und Tübingen\", welches Wort kommt gleich nach dem Wort \"Philosophie\"?"
+  },
+  {
+    "id": "486",
+    "input": "Im Satz \"Da kannst du sagen was du willst aber mein Holzbein hat sich wirklich bewährt\", welches Wort kommt gleich nach dem Wort \"sich\"?"
+  },
+  {
+    "id": "490",
+    "input": "Im Satz \"Auch die anschließende Welttournee war ein großer Erfolg\", welches Wort kommt gleich nach dem Wort \"großer\"?"
+  },
+  {
+    "id": "491",
+    "input": "Im Satz \"Die Strafe wurde zu fünf Jahren Haftzeit abgemildert\", welches Wort kommt gleich nach dem Wort \"Strafe\"?"
+  },
+  {
+    "id": "492",
+    "input": "Im Satz \"Das konspirative Treffen wird jedoch schnell durch ein Klopfen an der Tür unterbrochen\", welches Wort kommt gleich nach dem Wort \"Klopfen\"?"
+  },
+  {
+    "id": "494",
+    "input": "Im Satz \"Dabei wurden sowohl der neue Staatspräsident als auch zwei Vizepräsidenten gewählt\", welches Wort kommt gleich nach dem Wort \"Vizepräsidenten\"?"
+  },
+  {
+    "id": "495",
+    "input": "Im Satz \"Sie betonte die Bedeutung der Einbeziehung von Pädagogen in die klinische Arbeit\", welches Wort kommt gleich nach dem Wort \"betonte\"?"
+  },
+  {
+    "id": "497",
+    "input": "Im Satz \"Was betrachten wir als wesentlich?\", welches Wort kommt gleich nach dem Wort \"Was\"?"
+  },
+  {
+    "id": "500",
+    "input": "Im Satz \"Ich bitte schon seit drei Minuten um das Wort\", welches Wort kommt gleich nach dem Wort \"seit\"?"
+  },
+  {
+    "id": "502",
+    "input": "Im Satz \"Danach arbeitete sie in Dresden als freiberufliche Malerin\", welches Wort kommt gleich nach dem Wort \"in\"?"
+  },
+  {
+    "id": "505",
+    "input": "Im Satz \"Die Zugehörigkeit wird vom Einwohner selbst festgelegt\", welches Wort kommt gleich nach dem Wort \"Einwohner\"?"
+  },
+  {
+    "id": "507",
+    "input": "Im Satz \"Im Finale siegten die Rumänen vor den Spaniern\", welches Wort kommt gleich nach dem Wort \"vor\"?"
+  },
+  {
+    "id": "508",
+    "input": "Im Satz \"Die Stiftungen in Kroatien können damit gut leben\", welches Wort kommt gleich nach dem Wort \"können\"?"
+  },
+  {
+    "id": "509",
+    "input": "Im Satz \"Er nahm als Soldat in den letzten Monaten am Ersten Weltkrieg teil\", welches Wort kommt gleich nach dem Wort \"als\"?"
+  },
+  {
+    "id": "510",
+    "input": "Im Satz \"Sie widmete sich danach ihrer Familie\", welches Wort kommt gleich nach dem Wort \"widmete\"?"
+  },
+  {
+    "id": "511",
+    "input": "Im Satz \"Hierbei wurde auch das Portal im Süden des Langhauses in seiner jetzigen Form erstellt\", welches Wort kommt gleich nach dem Wort \"Langhauses\"?"
+  },
+  {
+    "id": "516",
+    "input": "Im Satz \"Nach anfänglichen Erfolgen wurden die Russen durch das Eingreifen der Franzosen wieder zurückgedrängt\", welches Wort kommt gleich nach dem Wort \"Russen\"?"
+  },
+  {
+    "id": "517",
+    "input": "Im Satz \"Der äußere Ring umfasste auch die Berge im Westen der heutigen Innenstadt\", welches Wort kommt gleich nach dem Wort \"Berge\"?"
+  },
+  {
+    "id": "523",
+    "input": "Im Satz \"Bauliche Überreste aus der deutschen Siedlungstätigkeit sind nicht erhalten\", welches Wort kommt gleich nach dem Wort \"Bauliche\"?"
+  },
+  {
+    "id": "524",
+    "input": "Im Satz \"Insbesondere rekonstruierte er die Gesichter der Zarenfamilie\", welches Wort kommt gleich nach dem Wort \"Gesichter\"?"
+  },
+  {
+    "id": "526",
+    "input": "Im Satz \"Ihre Druckgrafiken sind auf dem Kunstmarkt präsent\", welches Wort kommt gleich nach dem Wort \"auf\"?"
+  },
+  {
+    "id": "528",
+    "input": "Im Satz \"Er verlor aber in späteren Jahren wegen eines Fehlverhaltens seine Anstellung\", welches Wort kommt gleich nach dem Wort \"wegen\"?"
+  },
+  {
+    "id": "529",
+    "input": "Im Satz \"Während des Ersten Weltkrieges wurde er nicht mehr in den Dienst zurückgerufen\", welches Wort kommt gleich nach dem Wort \"wurde\"?"
+  },
+  {
+    "id": "531",
+    "input": "Im Satz \"Die ehemalige mittelalterliche Ausstattung der Kirche ist weitgehend verschwunden\", welches Wort kommt gleich nach dem Wort \"mittelalterliche\"?"
+  },
+  {
+    "id": "533",
+    "input": "Im Satz \"Zusammen mit seiner Schwester Alina zog er sich auf den Familienbesitz zurück\", welches Wort kommt gleich nach dem Wort \"zog\"?"
+  },
+  {
+    "id": "535",
+    "input": "Im Satz \"Nach der darauf folgenden Ausmusterung wurden sie zum Verkauf angeboten\", welches Wort kommt gleich nach dem Wort \"folgenden\"?"
+  },
+  {
+    "id": "538",
+    "input": "Im Satz \"Ihr späterer Verbleib scheint ungeklärt\", welches Wort kommt gleich nach dem Wort \"Ihr\"?"
+  },
+  {
+    "id": "539",
+    "input": "Im Satz \"Manche Arbeit muss man sehr häufig verschieben bis man sie vergessen hat\", welches Wort kommt gleich nach dem Wort \"häufig\"?"
+  },
+  {
+    "id": "548",
+    "input": "Im Satz \"Das können persönliche Erlebnisse oder auch aktuelle Nachrichten sein\", welches Wort kommt gleich nach dem Wort \"Erlebnisse\"?"
+  },
+  {
+    "id": "549",
+    "input": "Im Satz \"Schon früh interessierte er sich für die Insektenkunde\", welches Wort kommt gleich nach dem Wort \"früh\"?"
+  },
+  {
+    "id": "555",
+    "input": "Im Satz \"Diese Versuche scheiterten\", welches Wort kommt gleich nach dem Wort \"Diese\"?"
+  },
+  {
+    "id": "558",
+    "input": "Im Satz \"Mit dem Niedergang des Goldbergbaus veränderte sich die Wirtschaftsstruktur wieder hin zur Agrarwirtschaft\", welches Wort kommt gleich nach dem Wort \"Mit\"?"
+  },
+  {
+    "id": "561",
+    "input": "Im Satz \"Die Verwerfung ist allein aufgrund ihrer Länge in mehrere unterschiedliche Abschnitte segmentiert\", welches Wort kommt gleich nach dem Wort \"Die\"?"
+  },
+  {
+    "id": "562",
+    "input": "Im Satz \"Im nordwestlichen Teil liegt ein kleines Industriegebiet\", welches Wort kommt gleich nach dem Wort \"liegt\"?"
+  },
+  {
+    "id": "572",
+    "input": "Im Satz \"Die Zeitung sieht die Arbeit auf sozialen Medien als einen wichtigen Schwerpunkt\", welches Wort kommt gleich nach dem Wort \"sozialen\"?"
+  },
+  {
+    "id": "573",
+    "input": "Im Satz \"Sie wurde recht erfolgreich\", welches Wort kommt gleich nach dem Wort \"Sie\"?"
+  },
+  {
+    "id": "574",
+    "input": "Im Satz \"Jetzt sind wir am Abschluss der Arbeiten\", welches Wort kommt gleich nach dem Wort \"wir\"?"
+  },
+  {
+    "id": "576",
+    "input": "Im Satz \"Die Band löste sich kurz darauf auf\", welches Wort kommt gleich nach dem Wort \"löste\"?"
+  },
+  {
+    "id": "578",
+    "input": "Im Satz \"Biografische Einzelheiten sind nur aus seiner Veröffentlichung bekannt\", welches Wort kommt gleich nach dem Wort \"Einzelheiten\"?"
+  },
+  {
+    "id": "580",
+    "input": "Im Satz \"Heute ist der Felsen teilweise mit Graffiti bedeckt\", welches Wort kommt gleich nach dem Wort \"Heute\"?"
+  },
+  {
+    "id": "582",
+    "input": "Im Satz \"Lediglich im Falle einer allgemeinen Epidemie oder Pandemie kann der Gesetzgeber auch Maßnahmen verordnen\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "583",
+    "input": "Im Satz \"Danach wurde es ruhig um den ehemaligen Star\", welches Wort kommt gleich nach dem Wort \"den\"?"
+  },
+  {
+    "id": "586",
+    "input": "Im Satz \"In Konzertprogrammen des Ensembles ist Kammermusik nahezu aller Stilrichtungen und Epochen vertreten\", welches Wort kommt gleich nach dem Wort \"Ensembles\"?"
+  },
+  {
+    "id": "587",
+    "input": "Im Satz \"Das Innere ist gegenüber der Umgebung tiefergelegt\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "590",
+    "input": "Im Satz \"Die Beine sind rötlich gefärbt mit verdunkelten Partien\", welches Wort kommt gleich nach dem Wort \"Beine\"?"
+  },
+  {
+    "id": "595",
+    "input": "Im Satz \"In dem Gebiet gibt es mehrere Seen\", welches Wort kommt gleich nach dem Wort \"gibt\"?"
+  },
+  {
+    "id": "596",
+    "input": "Im Satz \"Das könnte der beschriebene Hubschrauberlandeplatz sein\", welches Wort kommt gleich nach dem Wort \"Das\"?"
+  },
+  {
+    "id": "597",
+    "input": "Im Satz \"Der Siegeszug der Kommerzialisierung und der sozialen Medien scheint unaufhaltsam\", welches Wort kommt gleich nach dem Wort \"Siegeszug\"?"
+  },
+  {
+    "id": "606",
+    "input": "Im Satz \"An der Friedenseiche wird alle zwei Jahre das Dorffest gefeiert\", welches Wort kommt gleich nach dem Wort \"alle\"?"
+  },
+  {
+    "id": "607",
+    "input": "Im Satz \"Er erhielt in Regensburg zunächst Privatunterricht\", welches Wort kommt gleich nach dem Wort \"erhielt\"?"
+  },
+  {
+    "id": "608",
+    "input": "Im Satz \"Erste Schauspielerfahrungen sammelte sie im Alter von zehn Jahren\", welches Wort kommt gleich nach dem Wort \"Schauspielerfahrungen\"?"
+  },
+  {
+    "id": "613",
+    "input": "Im Satz \"Er ist in allen romanischen Sprachen verbreitet\", welches Wort kommt gleich nach dem Wort \"allen\"?"
+  },
+  {
+    "id": "615",
+    "input": "Im Satz \"Die meisten Tiere haben besondere Atmungsorgane wie Tracheen Kiemen und Lungen entwickelt\", welches Wort kommt gleich nach dem Wort \"haben\"?"
+  },
+  {
+    "id": "616",
+    "input": "Im Satz \"Später engagierte er sich auch als Vertreter deutscher Wirtschaftsverbände europaweit\", welches Wort kommt gleich nach dem Wort \"Wirtschaftsverbände\"?"
+  },
+  {
+    "id": "618",
+    "input": "Im Satz \"Auch andere kirchliche und diakonische Werke unterstützte sie\", welches Wort kommt gleich nach dem Wort \"und\"?"
+  },
+  {
+    "id": "623",
+    "input": "Im Satz \"Die Ehe blieb ohne Nachkommen\", welches Wort kommt gleich nach dem Wort \"Ehe\"?"
+  },
+  {
+    "id": "625",
+    "input": "Im Satz \"Danach gab es noch je eine Niederlage und einen Sieg in Freundschaftsspielen\", welches Wort kommt gleich nach dem Wort \"gab\"?"
+  },
+  {
+    "id": "626",
+    "input": "Im Satz \"Die Produktion kann mit vergleichbaren internationalen Songs mithalten\", welches Wort kommt gleich nach dem Wort \"Die\"?"
+  },
+  {
+    "id": "627",
+    "input": "Im Satz \"Ein vermutlich früher vorhandener Wassergraben ist nicht mehr vorhanden\", welches Wort kommt gleich nach dem Wort \"Wassergraben\"?"
+  },
+  {
+    "id": "628",
+    "input": "Im Satz \"Ein Großteil der Debatte drehte sich um das Urheberrecht und um illegales Material\", welches Wort kommt gleich nach dem Wort \"illegales\"?"
+  },
+  {
+    "id": "629",
+    "input": "Im Satz \"Gelagert wurden die Produkte in Basel\", welches Wort kommt gleich nach dem Wort \"Gelagert\"?"
+  },
+  {
+    "id": "631",
+    "input": "Im Satz \"Jetzt sind wir am Abschluss der Arbeiten\", welches Wort kommt gleich nach dem Wort \"Abschluss\"?"
+  },
+  {
+    "id": "632",
+    "input": "Im Satz \"Das Schiff nahm Kurs Richtung Norden\", welches Wort kommt gleich nach dem Wort \"Das\"?"
+  },
+  {
+    "id": "633",
+    "input": "Im Satz \"Die Färbung ist noch unbekannt\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "636",
+    "input": "Im Satz \"Er selbst ging nach Belgien\", welches Wort kommt gleich nach dem Wort \"Er\"?"
+  },
+  {
+    "id": "638",
+    "input": "Im Satz \"Dabei bestritt er sechs Partien und gewann davon die beiden letzten\", welches Wort kommt gleich nach dem Wort \"Dabei\"?"
+  },
+  {
+    "id": "639",
+    "input": "Im Satz \"Fünf Jahre später wurde sie stellvertretende Leiterin der Abteilung für europäische Angelegenheiten im Außenministerium\", welches Wort kommt gleich nach dem Wort \"Angelegenheiten\"?"
+  },
+  {
+    "id": "640",
+    "input": "Im Satz \"Der Durchbruch als Künstler und eine nachhaltige Anerkennung blieben ihm jedoch versagt\", welches Wort kommt gleich nach dem Wort \"Künstler\"?"
+  },
+  {
+    "id": "645",
+    "input": "Im Satz \"Die Unterseite ist bei beiden Arten weiß oder hellgelb\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "648",
+    "input": "Im Satz \"Einige Hersteller von Rotorblättern für Windkraftanlagen produzieren diese aus glasfaserverstärkten Polyestern\", welches Wort kommt gleich nach dem Wort \"Windkraftanlagen\"?"
+  },
+  {
+    "id": "654",
+    "input": "Im Satz \"Sie wuchs mit drei Schwestern in Berlin auf\", welches Wort kommt gleich nach dem Wort \"wuchs\"?"
+  },
+  {
+    "id": "658",
+    "input": "Im Satz \"Auch war die Sicht des Piloten nach vorne ausgezeichnet\", welches Wort kommt gleich nach dem Wort \"vorne\"?"
+  },
+  {
+    "id": "661",
+    "input": "Im Satz \"Ein Hauptwirtschaftszweig der Stadt ist die Produktion von Obst- und Gemüsekonserven\", welches Wort kommt gleich nach dem Wort \"Obst-\"?"
+  },
+  {
+    "id": "665",
+    "input": "Im Satz \"Seine Lehre basierte immer auf einer großen Offenheit gegenüber den Studenten\", welches Wort kommt gleich nach dem Wort \"einer\"?"
+  },
+  {
+    "id": "667",
+    "input": "Im Satz \"Zum Zeitpunkt seiner Ernennung war er weltweit der jüngste katholische Bischof\", welches Wort kommt gleich nach dem Wort \"Zum\"?"
+  },
+  {
+    "id": "669",
+    "input": "Im Satz \"In dem Grab wurden unverbrannte Knochen gefunden\", welches Wort kommt gleich nach dem Wort \"wurden\"?"
+  },
+  {
+    "id": "671",
+    "input": "Im Satz \"Sein eigentlicher Beruf war der eines Wirtschaftswissenschaftlers\", welches Wort kommt gleich nach dem Wort \"Beruf\"?"
+  },
+  {
+    "id": "679",
+    "input": "Im Satz \"Teile des Parks werden heute landwirtschaftlich genutzt\", welches Wort kommt gleich nach dem Wort \"werden\"?"
+  },
+  {
+    "id": "680",
+    "input": "Im Satz \"Ihre Druckgrafiken sind auf dem Kunstmarkt präsent\", welches Wort kommt gleich nach dem Wort \"Druckgrafiken\"?"
+  },
+  {
+    "id": "681",
+    "input": "Im Satz \"Die Innenstadt speichert die Wärmestrahlung am Tag und gibt sie nachts wieder ab\", welches Wort kommt gleich nach dem Wort \"Innenstadt\"?"
+  },
+  {
+    "id": "682",
+    "input": "Im Satz \"Sie endet an der Marktstraße\", welches Wort kommt gleich nach dem Wort \"Sie\"?"
+  },
+  {
+    "id": "683",
+    "input": "Im Satz \"Sie wird heute als eigene Art geführt\", welches Wort kommt gleich nach dem Wort \"Art\"?"
+  },
+  {
+    "id": "684",
+    "input": "Im Satz \"Bei einem Glas Wein versöhnen sich Adam und Billy\", welches Wort kommt gleich nach dem Wort \"Glas\"?"
+  },
+  {
+    "id": "689",
+    "input": "Im Satz \"Durch geologische Veränderungen wurde die einstige Lagune vom Meer abgeschnitten\", welches Wort kommt gleich nach dem Wort \"Meer\"?"
+  },
+  {
+    "id": "694",
+    "input": "Im Satz \"Es ist ein wichtiges Dokument in der Verfassungsgeschichte Großbritanniens und der Geschichte der Menschenrechte\", welches Wort kommt gleich nach dem Wort \"ein\"?"
+  },
+  {
+    "id": "695",
+    "input": "Im Satz \"Letztendlich sei der Film aber ein ziemlich langweiliger Thriller ohne eigenes Flair\", welches Wort kommt gleich nach dem Wort \"aber\"?"
+  },
+  {
+    "id": "698",
+    "input": "Im Satz \"Es gibt aber auch Turniere bei denen nach jeder Runde neu gelost wird\", welches Wort kommt gleich nach dem Wort \"bei\"?"
+  },
+  {
+    "id": "703",
+    "input": "Im Satz \"Wegen geringer Bezahlung und schlechter Arbeitsbedingungen beendete sie die Zusammenarbeit bereits nach zwei Monaten\", welches Wort kommt gleich nach dem Wort \"und\"?"
+  },
+  {
+    "id": "704",
+    "input": "Im Satz \"Bei dieser war er auch als Regisseur tätig\", welches Wort kommt gleich nach dem Wort \"auch\"?"
+  },
+  {
+    "id": "709",
+    "input": "Im Satz \"Anschließend werden die Textzeilen wiederum manuell oder automatisch transkribiert\", welches Wort kommt gleich nach dem Wort \"die\"?"
+  },
+  {
+    "id": "711",
+    "input": "Im Satz \"Ich möchte die Kommissarin fragen ob sie antworten möchte\", welches Wort kommt gleich nach dem Wort \"ob\"?"
+  },
+  {
+    "id": "714",
+    "input": "Im Satz \"Die Kopflänge lag bei weniger als einem Drittel der Standardlänge\", welches Wort kommt gleich nach dem Wort \"lag\"?"
+  },
+  {
+    "id": "720",
+    "input": "Im Satz \"Die Orgel befindet sich über dem Altar\", welches Wort kommt gleich nach dem Wort \"dem\"?"
+  },
+  {
+    "id": "721",
+    "input": "Im Satz \"Er wirkt mit feiner Hoheit und Würde und zugleich mit betonter Schlichtheit festlich\", welches Wort kommt gleich nach dem Wort \"betonter\"?"
+  },
+  {
+    "id": "723",
+    "input": "Im Satz \"Sie wurden aus der Bahn geschleudert und stürzten einen Abhang hinunter\", welches Wort kommt gleich nach dem Wort \"Bahn\"?"
+  },
+  {
+    "id": "728",
+    "input": "Im Satz \"In ihrer Haltung und der Aufmachung ist die Reihe kolonial\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "730",
+    "input": "Im Satz \"Auf Mauritius passte ihm jedoch der britisch geprägte Lebensstil nicht\", welches Wort kommt gleich nach dem Wort \"Mauritius\"?"
+  },
+  {
+    "id": "732",
+    "input": "Im Satz \"Der ganze Trubel um seine Person stört ihn allerdings\", welches Wort kommt gleich nach dem Wort \"ihn\"?"
+  },
+  {
+    "id": "733",
+    "input": "Im Satz \"In dem Grab wurden unverbrannte Knochen gefunden\", welches Wort kommt gleich nach dem Wort \"unverbrannte\"?"
+  },
+  {
+    "id": "741",
+    "input": "Im Satz \"Der Tod wartet nicht\", welches Wort kommt gleich nach dem Wort \"Der\"?"
+  },
+  {
+    "id": "742",
+    "input": "Im Satz \"Er gerät fast in einen Verkehrsunfall und verschwindet\", welches Wort kommt gleich nach dem Wort \"fast\"?"
+  },
+  {
+    "id": "743",
+    "input": "Im Satz \"Sie freunden sich an und verschweigen ihre wahre Identität\", welches Wort kommt gleich nach dem Wort \"Sie\"?"
+  },
+  {
+    "id": "745",
+    "input": "Im Satz \"Erste Schauspielerfahrungen sammelte sie im Alter von zehn Jahren\", welches Wort kommt gleich nach dem Wort \"Erste\"?"
+  },
+  {
+    "id": "751",
+    "input": "Im Satz \"Auch die Inflation und ihre Folgen überwand er geschickt\", welches Wort kommt gleich nach dem Wort \"er\"?"
+  },
+  {
+    "id": "753",
+    "input": "Im Satz \"Im selben Monat wurden ihm behördlicherseits seine Mandate als Strafverteidiger in politischen Prozessen entzogen\", welches Wort kommt gleich nach dem Wort \"Im\"?"
+  },
+  {
+    "id": "761",
+    "input": "Im Satz \"Der äußere Ring umfasste auch die Berge im Westen der heutigen Innenstadt\", welches Wort kommt gleich nach dem Wort \"im\"?"
+  },
+  {
+    "id": "762",
+    "input": "Im Satz \"Die Zeitung sieht die Arbeit auf sozialen Medien als einen wichtigen Schwerpunkt\", welches Wort kommt gleich nach dem Wort \"als\"?"
+  },
+  {
+    "id": "764",
+    "input": "Im Satz \"Es wird heute als Bauernhaus verwendet\", welches Wort kommt gleich nach dem Wort \"als\"?"
+  },
+  {
+    "id": "766",
+    "input": "Im Satz \"Felix trennt sich von ihr und kehrt zu seiner früheren Partnerin zurück\", welches Wort kommt gleich nach dem Wort \"früheren\"?"
+  },
+  {
+    "id": "770",
+    "input": "Im Satz \"Er wandte sich stattdessen dem Jazz zu\", welches Wort kommt gleich nach dem Wort \"dem\"?"
+  },
+  {
+    "id": "771",
+    "input": "Im Satz \"Das gilt sowohl für das Europäische Parlament als auch für jedes Land\", welches Wort kommt gleich nach dem Wort \"auch\"?"
+  },
+  {
+    "id": "772",
+    "input": "Im Satz \"Zudem fordert sie gerechte Studienbedingungen unabhängig von der Herkunft\", welches Wort kommt gleich nach dem Wort \"von\"?"
+  },
+  {
+    "id": "773",
+    "input": "Im Satz \"Im Vordergrund stand zunächst die Suche nach einem geeigneten und ansprechenden Grundstück\", welches Wort kommt gleich nach dem Wort \"einem\"?"
+  },
+  {
+    "id": "775",
+    "input": "Im Satz \"In den folgenden Jahren reiste er mehrmals zwecks Erfüllung wissenschaftlicher Aufgaben ins Ausland\", welches Wort kommt gleich nach dem Wort \"reiste\"?"
+  },
+  {
+    "id": "776",
+    "input": "Im Satz \"Anschließend brach eine Panik in der Menge aus\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "777",
+    "input": "Im Satz \"Fünf Jahre später wurde sie stellvertretende Leiterin der Abteilung für europäische Angelegenheiten im Außenministerium\", welches Wort kommt gleich nach dem Wort \"Jahre\"?"
+  },
+  {
+    "id": "789",
+    "input": "Im Satz \"Damit ist der Turm weit sichtbar im Stadtgebiet und der Umgebung\", welches Wort kommt gleich nach dem Wort \"sichtbar\"?"
+  },
+  {
+    "id": "790",
+    "input": "Im Satz \"In dem Dorf befindet sich eine Kapelle\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "791",
+    "input": "Im Satz \"Letztendlich sei der Film aber ein ziemlich langweiliger Thriller ohne eigenes Flair\", welches Wort kommt gleich nach dem Wort \"Letztendlich\"?"
+  },
+  {
+    "id": "793",
+    "input": "Im Satz \"Auf diversen Berliner Meisterschaften zeigte er sein Talent und hatte erste Erfolge\", welches Wort kommt gleich nach dem Wort \"Talent\"?"
+  },
+  {
+    "id": "796",
+    "input": "Im Satz \"Der Film stellt eine Tochter mittleren Alters und ihre ältere Mutter in den Mittelpunkt\", welches Wort kommt gleich nach dem Wort \"Film\"?"
+  },
+  {
+    "id": "798",
+    "input": "Im Satz \"Der Nachtwächter geht durch die Straßen und ruft die Stunden aus\", welches Wort kommt gleich nach dem Wort \"Der\"?"
+  },
+  {
+    "id": "800",
+    "input": "Im Satz \"Er spielte bei der Aufnahme wahrscheinlich auch Orgel\", welches Wort kommt gleich nach dem Wort \"Er\"?"
+  },
+  {
+    "id": "801",
+    "input": "Im Satz \"Das Werk selbst beschäftigte eine beträchtliche Zahl Zwangsarbeiter\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "803",
+    "input": "Im Satz \"Auf dem Schalldeckel über der steinernen Kanzel ist die Taube dargestellt\", welches Wort kommt gleich nach dem Wort \"Schalldeckel\"?"
+  },
+  {
+    "id": "805",
+    "input": "Im Satz \"Alle drei Bauwerke stehen unter Denkmalschutz\", welches Wort kommt gleich nach dem Wort \"Bauwerke\"?"
+  },
+  {
+    "id": "808",
+    "input": "Im Satz \"Beim Glühen absorbiert das Mineral Sauerstoff aus der Luft\", welches Wort kommt gleich nach dem Wort \"Sauerstoff\"?"
+  },
+  {
+    "id": "810",
+    "input": "Im Satz \"Diese Entwicklung wurde flankiert von einer fortschreitenden Vereinigung der landwirtschaftlichen Sozialversicherungsträger\", welches Wort kommt gleich nach dem Wort \"wurde\"?"
+  },
+  {
+    "id": "811",
+    "input": "Im Satz \"Der Film wurde im Laufe eines Jahrzehnts gedreht\", welches Wort kommt gleich nach dem Wort \"wurde\"?"
+  },
+  {
+    "id": "814",
+    "input": "Im Satz \"An der Friedenseiche wird alle zwei Jahre das Dorffest gefeiert\", welches Wort kommt gleich nach dem Wort \"Jahre\"?"
+  },
+  {
+    "id": "817",
+    "input": "Im Satz \"Die Zuständigkeiten für Jugend und Familien des Umweltministeriums gingen in das Sozialministerium über\", welches Wort kommt gleich nach dem Wort \"in\"?"
+  },
+  {
+    "id": "818",
+    "input": "Im Satz \"In Abwesenheit der Mutter durchsucht sie ihr Zimmer und findet ein altes Gerichtsschreiben\", welches Wort kommt gleich nach dem Wort \"In\"?"
+  },
+  {
+    "id": "820",
+    "input": "Im Satz \"Danach werden sechs Spielsteine umgedreht und bilden entsprechend eine offene Auslage\", welches Wort kommt gleich nach dem Wort \"bilden\"?"
+  },
+  {
+    "id": "824",
+    "input": "Im Satz \"So wird die teils verzerrte Körperlichkeit hervorgehoben\", welches Wort kommt gleich nach dem Wort \"teils\"?"
+  },
+  {
+    "id": "834",
+    "input": "Im Satz \"Er wendet sich allmählich nach Osten\", welches Wort kommt gleich nach dem Wort \"wendet\"?"
+  },
+  {
+    "id": "836",
+    "input": "Im Satz \"Alle fünf Sänger haben eine musikalische Ausbildung beziehungsweise ein Studium\", welches Wort kommt gleich nach dem Wort \"Ausbildung\"?"
+  },
+  {
+    "id": "837",
+    "input": "Im Satz \"Während des Krieges war er beim Landkreis Berchtesgaden angestellt\", welches Wort kommt gleich nach dem Wort \"war\"?"
+  },
+  {
+    "id": "839",
+    "input": "Im Satz \"Er wurde zu lebenslanger Haft verurteilt und sein Eigentum beschlagnahmt\", welches Wort kommt gleich nach dem Wort \"und\"?"
+  },
+  {
+    "id": "840",
+    "input": "Im Satz \"Keinesfalls darf eine solche Regelung schwerfällig oder nutzerunfreundlich sein\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "841",
+    "input": "Im Satz \"Die Armee blieb jedoch uninteressiert\", welches Wort kommt gleich nach dem Wort \"Armee\"?"
+  },
+  {
+    "id": "843",
+    "input": "Im Satz \"Anschließend folgten zwei weitere Razzien im Club\", welches Wort kommt gleich nach dem Wort \"Razzien\"?"
+  },
+  {
+    "id": "844",
+    "input": "Im Satz \"Diese Region ist sehr dünn besiedelt und ermöglicht nur an wenigen Stellen Landwirtschaft\", welches Wort kommt gleich nach dem Wort \"Region\"?"
+  },
+  {
+    "id": "847",
+    "input": "Im Satz \"Heute möchte ich es bei einigen grundsätzlichen Bemerkungen belassen\", welches Wort kommt gleich nach dem Wort \"grundsätzlichen\"?"
+  },
+  {
+    "id": "849",
+    "input": "Im Satz \"Alle fünf Sänger haben eine musikalische Ausbildung beziehungsweise ein Studium\", welches Wort kommt gleich nach dem Wort \"musikalische\"?"
+  },
+  {
+    "id": "851",
+    "input": "Im Satz \"Dazu bereiste er viele Orte und studierte Quellen und Literatur in Archiven und Bibliotheken\", welches Wort kommt gleich nach dem Wort \"Orte\"?"
+  },
+  {
+    "id": "859",
+    "input": "Im Satz \"Der Bautrupp verarbeitete allein für diese Schule eine Million Ziegel\", welches Wort kommt gleich nach dem Wort \"Million\"?"
+  },
+  {
+    "id": "861",
+    "input": "Im Satz \"Nach wenigen Kilometern rollte der Wagen aus\", welches Wort kommt gleich nach dem Wort \"Nach\"?"
+  },
+  {
+    "id": "863",
+    "input": "Im Satz \"Wir wissen dass die Europäische Union das Regime bereits verurteilt hat\", welches Wort kommt gleich nach dem Wort \"Union\"?"
+  },
+  {
+    "id": "865",
+    "input": "Im Satz \"Er gründete auch einen eigenen Musikverlag in Mailand\", welches Wort kommt gleich nach dem Wort \"in\"?"
+  },
+  {
+    "id": "872",
+    "input": "Im Satz \"Bei der Landebahn handelte es sich um eine von Gras bewachsene Piste\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "874",
+    "input": "Im Satz \"Diese Würde muss für alle und jeden verteidigt und gefördert werden\", welches Wort kommt gleich nach dem Wort \"gefördert\"?"
+  },
+  {
+    "id": "878",
+    "input": "Im Satz \"Ihr Mitgefühl heilt ihn jedoch augenblicklich\", welches Wort kommt gleich nach dem Wort \"jedoch\"?"
+  },
+  {
+    "id": "879",
+    "input": "Im Satz \"Dort vertreibt er sich die Zeit mit einer Kiste alter Bücher\", welches Wort kommt gleich nach dem Wort \"die\"?"
+  },
+  {
+    "id": "880",
+    "input": "Im Satz \"Die Kirche ist bemerkenswert ausgestattet\", welches Wort kommt gleich nach dem Wort \"ist\"?"
+  },
+  {
+    "id": "881",
+    "input": "Im Satz \"Die Texte widmen sich größtenteils sozial- und globalisierungskritischen Themen aus linker Sicht\", welches Wort kommt gleich nach dem Wort \"linker\"?"
+  },
+  {
+    "id": "884",
+    "input": "Im Satz \"Er war als Tischlermeister tätig und baute die Firma wieder auf\", welches Wort kommt gleich nach dem Wort \"baute\"?"
+  },
+  {
+    "id": "886",
+    "input": "Im Satz \"Es ist uns bewusst dass hierin die notwendige Grundlage zur Schaffung neuer Arbeitsplätze besteht\", welches Wort kommt gleich nach dem Wort \"bewusst\"?"
+  },
+  {
+    "id": "892",
+    "input": "Im Satz \"Anschließend begann er für das Ministerium für Landwirtschaft und Forsten zu arbeiten\", welches Wort kommt gleich nach dem Wort \"er\"?"
+  },
+  {
+    "id": "893",
+    "input": "Im Satz \"Der Film stellt eine Tochter mittleren Alters und ihre ältere Mutter in den Mittelpunkt\", welches Wort kommt gleich nach dem Wort \"ältere\"?"
+  },
+  {
+    "id": "896",
+    "input": "Im Satz \"Ihre Dissertation konnte sie aus diesem Grund nicht abschließen\", welches Wort kommt gleich nach dem Wort \"aus\"?"
+  },
+  {
+    "id": "897",
+    "input": "Im Satz \"Die Dozenten sind Hochschulprofessoren und Führungskräfte aus der Wirtschaft und Verwaltung\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "899",
+    "input": "Im Satz \"Eigentlich müsste das Haus „Villa Raumer“ heißen\", welches Wort kommt gleich nach dem Wort \"„Villa\"?"
+  },
+  {
+    "id": "901",
+    "input": "Im Satz \"Dadurch verloren seine Reifen die Haftung\", welches Wort kommt gleich nach dem Wort \"verloren\"?"
+  },
+  {
+    "id": "902",
+    "input": "Im Satz \"Beide Ausführungen verfügen über einen zylinderförmigen Rumpf mit einem kreisrunden Querschnitt\", welches Wort kommt gleich nach dem Wort \"kreisrunden\"?"
+  },
+  {
+    "id": "903",
+    "input": "Im Satz \"Er wendet sich allmählich nach Osten\", welches Wort kommt gleich nach dem Wort \"sich\"?"
+  },
+  {
+    "id": "910",
+    "input": "Im Satz \"Wir wissen dass die Europäische Union das Regime bereits verurteilt hat\", welches Wort kommt gleich nach dem Wort \"wissen\"?"
+  },
+  {
+    "id": "911",
+    "input": "Im Satz \"Er gehört keiner politischen Partei an\", welches Wort kommt gleich nach dem Wort \"keiner\"?"
+  },
+  {
+    "id": "912",
+    "input": "Im Satz \"Neben einem größeren Supermarkt mit Postagentur gibt es einen kleinen Supermarkt\", welches Wort kommt gleich nach dem Wort \"größeren\"?"
+  },
+  {
+    "id": "915",
+    "input": "Im Satz \"Diesmal aber stellte jedes Land fünf statt drei Städte\", welches Wort kommt gleich nach dem Wort \"Land\"?"
+  },
+  {
+    "id": "916",
+    "input": "Im Satz \"Kritisch setzt Beckmann sich mit den Auswüchsen der Kommerzialisierung im Buchhandel auseinander\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "918",
+    "input": "Im Satz \"Danach wurde es bald wieder aufgebaut\", welches Wort kommt gleich nach dem Wort \"wieder\"?"
+  },
+  {
+    "id": "919",
+    "input": "Im Satz \"Er wirkt mit feiner Hoheit und Würde und zugleich mit betonter Schlichtheit festlich\", welches Wort kommt gleich nach dem Wort \"feiner\"?"
+  },
+  {
+    "id": "921",
+    "input": "Im Satz \"Diese Änderungsanträge sind nicht Teil des Kompromisses\", welches Wort kommt gleich nach dem Wort \"Diese\"?"
+  },
+  {
+    "id": "922",
+    "input": "Im Satz \"Beim Laden gibt es aber einen Unterschied zwischen den beiden Geräten\", welches Wort kommt gleich nach dem Wort \"Laden\"?"
+  },
+  {
+    "id": "923",
+    "input": "Im Satz \"In einer wiederum eigenständigen Publikation wird zumindest ein gemeinsamer Ursprung als wahrscheinlich angesehen\", welches Wort kommt gleich nach dem Wort \"ein\"?"
+  },
+  {
+    "id": "925",
+    "input": "Im Satz \"Musik und Text der Komposition stammen von Walter Becker und Donald Fagen\", welches Wort kommt gleich nach dem Wort \"von\"?"
+  },
+  {
+    "id": "927",
+    "input": "Im Satz \"Das gleichnamige Gnadenbild befindet sich über dem Hochaltar\", welches Wort kommt gleich nach dem Wort \"sich\"?"
+  },
+  {
+    "id": "929",
+    "input": "Im Satz \"Anschließend brach eine Panik in der Menge aus\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "933",
+    "input": "Im Satz \"Was also spricht dagegen dass die Kommission einen entsprechenden Änderungsvorschlag vorlegt?\", welches Wort kommt gleich nach dem Wort \"Änderungsvorschlag\"?"
+  },
+  {
+    "id": "935",
+    "input": "Im Satz \"Die Tournee wurde überwiegend positiv aufgenommen\", welches Wort kommt gleich nach dem Wort \"positiv\"?"
+  },
+  {
+    "id": "936",
+    "input": "Im Satz \"Neben einem größeren Supermarkt mit Postagentur gibt es einen kleinen Supermarkt\", welches Wort kommt gleich nach dem Wort \"einem\"?"
+  },
+  {
+    "id": "940",
+    "input": "Im Satz \"Heutzutage wird je nach Rezept auf unterschiedliche Fleischmischungen zurückgegriffen\", welches Wort kommt gleich nach dem Wort \"Heutzutage\"?"
+  },
+  {
+    "id": "941",
+    "input": "Im Satz \"Im Vordergrund stand zunächst die Suche nach einem geeigneten und ansprechenden Grundstück\", welches Wort kommt gleich nach dem Wort \"nach\"?"
+  },
+  {
+    "id": "943",
+    "input": "Im Satz \"Er war der ehemalige Chefdesigner und Vizepräsident von Gucci\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "944",
+    "input": "Im Satz \"Mir ist klar dass es extrem schwierig ist eine Einigung im Rat zu erzielen\", welches Wort kommt gleich nach dem Wort \"eine\"?"
+  },
+  {
+    "id": "945",
+    "input": "Im Satz \"Danach gab es noch je eine Niederlage und einen Sieg in Freundschaftsspielen\", welches Wort kommt gleich nach dem Wort \"noch\"?"
+  },
+  {
+    "id": "946",
+    "input": "Im Satz \"Sie kann auch als kalte Dillsauce hergestellt werden\", welches Wort kommt gleich nach dem Wort \"kalte\"?"
+  },
+  {
+    "id": "950",
+    "input": "Im Satz \"Der Gesang wird hier auf mehrere Stimmen verteilt\", welches Wort kommt gleich nach dem Wort \"hier\"?"
+  },
+  {
+    "id": "951",
+    "input": "Im Satz \"Der Schwanz besitzt eine hellere Unterseite\", welches Wort kommt gleich nach dem Wort \"Schwanz\"?"
+  },
+  {
+    "id": "958",
+    "input": "Im Satz \"Sie legen Ihr Augenmerk erneut auf die Schlüsselfrage\", welches Wort kommt gleich nach dem Wort \"Augenmerk\"?"
+  },
+  {
+    "id": "960",
+    "input": "Im Satz \"Im Alter von fünf Jahren begann sie mit dem Schwimmen\", welches Wort kommt gleich nach dem Wort \"sie\"?"
+  },
+  {
+    "id": "962",
+    "input": "Im Satz \"Es sind sehr agile Hunde mit einem schlanken und muskulösen Körperbau\", welches Wort kommt gleich nach dem Wort \"schlanken\"?"
+  },
+  {
+    "id": "966",
+    "input": "Im Satz \"Dieses Gestein findet man auch in der Region\", welches Wort kommt gleich nach dem Wort \"man\"?"
+  },
+  {
+    "id": "970",
+    "input": "Im Satz \"Eine bloße Reduzierung der Schulden reicht jedoch nicht aus\", welches Wort kommt gleich nach dem Wort \"der\"?"
+  },
+  {
+    "id": "976",
+    "input": "Im Satz \"Durch ihn kamen die Jesuiten ins Land\", welches Wort kommt gleich nach dem Wort \"die\"?"
+  },
+  {
+    "id": "977",
+    "input": "Im Satz \"Ich teile die Meinung des Ratspräsidenten\", welches Wort kommt gleich nach dem Wort \"Meinung\"?"
+  },
+  {
+    "id": "982",
+    "input": "Im Satz \"Ich finde die Meinung des Haushaltsausschusses verdient auch unsere Unterstützung\", welches Wort kommt gleich nach dem Wort \"Haushaltsausschusses\"?"
+  },
+  {
+    "id": "985",
+    "input": "Im Satz \"Die Band erreichte zum neunten Mal die österreichischen Albumcharts\", welches Wort kommt gleich nach dem Wort \"neunten\"?"
+  },
+  {
+    "id": "992",
+    "input": "Im Satz \"Eine Reihe seiner Arbeiten sind im öffentlichen Raum in Wien und Niederösterreich zu finden\", welches Wort kommt gleich nach dem Wort \"Niederösterreich\"?"
+  },
+  {
+    "id": "994",
+    "input": "Im Satz \"Investitionen wurden daher vorwiegend im Zonenrandgebiet mit entsprechenden Fördergeldern vorgenommen\", welches Wort kommt gleich nach dem Wort \"wurden\"?"
+  },
+  {
+    "id": "996",
+    "input": "Im Satz \"Der Innenraum ist mit umlaufenden Emporen ausgestattet\", welches Wort kommt gleich nach dem Wort \"Innenraum\"?"
+  }
+]

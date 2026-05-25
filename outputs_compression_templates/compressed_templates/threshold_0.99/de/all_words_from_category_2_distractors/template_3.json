@@ -1,0 +1,998 @@
+[
+  {
+    "id": "2002",
+    "input": "Enthält die Liste [\"Unterhose\", \"Handel\", \"Turnschuh\", \"Wüste\", \"Pullover\"] nur Kleidung? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2005",
+    "input": "Enthält die Liste [\"Gesicht\", \"Brille\", \"Brokkoli\", \"Verschluss\", \"Handschuhe\"] nur Kleidung? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2006",
+    "input": "Enthält die Liste [\"dein\", \"euer\", \"ihr\", \"Länge\", \"Geschäftsmann\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2017",
+    "input": "Enthält die Liste [\"Bewusstsein\", \"Krawatte\", \"Sonntag\", \"Stadium\", \"Fall\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2018",
+    "input": "Enthält die Liste [\"Lehm\", \"Oberschenkel\", \"Gesicht\", \"Wahrheit\", \"Muskel\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2019",
+    "input": "Enthält die Liste [\"Billard\", \"Anwältin\", \"Schmerz\", \"Mechanikerin\", \"Schauspieler\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2021",
+    "input": "Enthält die Liste [\"Produktion\", \"Klarinette\", \"Verbrauch\", \"Nachfrage\", \"Grund\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2025",
+    "input": "Enthält die Liste [\"Schule\", \"Briefträger\", \"Büro\", \"Markt\", \"Elefant\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2027",
+    "input": "Enthält die Liste [\"mein\", \"Feld\", \"dein\", \"sein\", \"Hase\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2029",
+    "input": "Enthält die Liste [\"Restaurant\", \"Sohn\", \"Ehe\", \"Kennzeichen\", \"Partner\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2030",
+    "input": "Enthält die Liste [\"Zucchini\", \"Artischocke\", \"Fotografin\", \"Verwaltung\", \"Brokkoli\"] nur Gemüse? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2034",
+    "input": "Enthält die Liste [\"Haltestelle\", \"Wissenschaftlerin\", \"Artikel\", \"Substantiv\", \"Adjektiv\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2035",
+    "input": "Enthält die Liste [\"Bus\", \"Ehe\", \"Spinat\", \"Ehefrau\", \"Bekannter\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2039",
+    "input": "Enthält die Liste [\"Aufzug\", \"Geburt\", \"Bibliothek\", \"Tod\", \"Wesen\"] nur Leben? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2050",
+    "input": "Enthält die Liste [\"Eis\", \"Maler\", \"Hotel\", \"Feinkostladen\", \"Fahrschule\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2051",
+    "input": "Enthält die Liste [\"Fortpflanzung\", \"Art\", \"Wesen\", \"Herstellung\", \"Ärztin\"] nur Leben? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2054",
+    "input": "Enthält die Liste [\"Überschwemmung\", \"Klarinette\", \"Schlagzeug\", \"Gerechtigkeit\", \"Flöte\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2057",
+    "input": "Enthält die Liste [\"Wandern\", \"Verb\", \"Adjektiv\", \"Artikel\", \"Art\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2062",
+    "input": "Enthält die Liste [\"Haltung\", \"Sonntag\", \"Kraft\", \"Fehler\", \"Tankstellenwart\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2067",
+    "input": "Enthält die Liste [\"Diktatur\", \"Gramm\", \"Kilometer\", \"Maß\", \"Bildschirm\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2077",
+    "input": "Enthält die Liste [\"Haut\", \"Substantiv\", \"Präposition\", \"Konjunktion\", \"Schmerz\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2080",
+    "input": "Enthält die Liste [\"Wasserball\", \"Sache\", \"September\", \"Basketball\", \"Volleyball\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2086",
+    "input": "Enthält die Liste [\"Socken\", \"Zwiebel\", \"T-shirt\", \"Badeanzug\", \"Kollege\"] nur Kleidung? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2089",
+    "input": "Enthält die Liste [\"Allee\", \"Huhn\", \"Krieg\", \"Haltestelle\", \"Landstraße\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2093",
+    "input": "Enthält die Liste [\"Polizistin\", \"Tochter\", \"Nichte\", \"Großmutter\", \"Cafeteria\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2114",
+    "input": "Enthält die Liste [\"Handfläche\", \"Stiefel\", \"Rote Bete\", \"Leber\", \"Haare\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2120",
+    "input": "Enthält die Liste [\"Adresse\", \"Länge\", \"Reißverschluss\", \"Zunahme\", \"Leute\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2122",
+    "input": "Enthält die Liste [\"Schlafzimmer\", \"Dürre\", \"Komödie\", \"Fenster\", \"Schreibtisch\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2130",
+    "input": "Enthält die Liste [\"Waffe\", \"Faden\", \"Kette\", \"Kaninchen\", \"Metall\"] nur Werkzeuge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2137",
+    "input": "Enthält die Liste [\"Pronomen\", \"Verb\", \"Dienstleistung\", \"Präposition\", \"Mangold\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2139",
+    "input": "Enthält die Liste [\"Aufmerksamkeit\", \"Produkt\", \"Nachfrage\", \"Fahrschein\", \"Friseurin\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2145",
+    "input": "Enthält die Liste [\"Krieg\", \"Gebirge\", \"Küste\", \"Krebs\", \"Feld\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2148",
+    "input": "Enthält die Liste [\"Ohr\", \"Hals\", \"Märchen\", \"Mund\", \"Reihenfolge\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2149",
+    "input": "Enthält die Liste [\"Dezember\", \"Cello\", \"Klavier\", \"Kellner\", \"Gitarre\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2150",
+    "input": "Enthält die Liste [\"Finger\", \"Polizistin\", \"November\", \"Bein\", \"Taille\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2151",
+    "input": "Enthält die Liste [\"Dezember\", \"Oktober\", \"Zunahme\", \"Ehe\", \"Mai\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2158",
+    "input": "Enthält die Liste [\"Existenz\", \"Auge\", \"Gramm\", \"Kilo\", \"Millimeter\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2174",
+    "input": "Enthält die Liste [\"Leichtathletik\", \"Mannschaft\", \"Volleyball\", \"Schnürsenkel\", \"Wasserball\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2175",
+    "input": "Enthält die Liste [\"Gesellschaft\", \"Politik\", \"Wahrnehmung\", \"Individuum\", \"Treffen\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2178",
+    "input": "Enthält die Liste [\"Zuhause\", \"Treppenhaus\", \"Bank\", \"Sellerie\", \"Tisch\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2179",
+    "input": "Enthält die Liste [\"Architekt\", \"Bäckerin\", \"Unterleib\", \"Verkäuferin\", \"Kennzeichen\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2185",
+    "input": "Enthält die Liste [\"Liebe\", \"Bibliothek\", \"Geschäft\", \"Feinkostladen\", \"Krebs\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2186",
+    "input": "Enthält die Liste [\"Geburt\", \"Kapazität\", \"Lebewesen\", \"Art\", \"Kappe\"] nur Leben? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2189",
+    "input": "Enthält die Liste [\"Ziel\", \"Haus\", \"Wirbelsturm\", \"Lawine\", \"Erdbeben\"] nur Naturkatastrophen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2190",
+    "input": "Enthält die Liste [\"Samstag\", \"Freitag\", \"Konzept\", \"Montag\", \"Spinne\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2192",
+    "input": "Enthält die Liste [\"Wal\", \"Misserfolg\", \"Sache\", \"Überschwemmung\", \"Funktion\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2194",
+    "input": "Enthält die Liste [\"Rote Bete\", \"Pronomen\", \"Verteidigung\", \"Adjektiv\", \"Präposition\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2196",
+    "input": "Enthält die Liste [\"Typ\", \"Feld\", \"Ozean\", \"Fluss\", \"Erbsen\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2199",
+    "input": "Enthält die Liste [\"Liter\", \"Gewicht\", \"Tarif\", \"Gramm\", \"Notwendigkeit\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2201",
+    "input": "Enthält die Liste [\"Ehe\", \"Urenkelin\", \"Firma\", \"Sohn\", \"Berührung\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2203",
+    "input": "Enthält die Liste [\"Aussehen\", \"Stelle\", \"Herstellung\", \"Leistung\", \"Oktopus\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2211",
+    "input": "Enthält die Liste [\"Erlass\", \"Romanze\", \"Fingernagel\", \"Oberschenkel\", \"Hüfte\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2212",
+    "input": "Enthält die Liste [\"Samstag\", \"Zuhause\", \"Kraft\", \"Montag\", \"Mittwoch\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2214",
+    "input": "Enthält die Liste [\"Turnen\", \"Krimi\", \"Musical\", \"Horror\", \"Urgroßmutter\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2222",
+    "input": "Enthält die Liste [\"Reißverschluss\", \"Tsunami\", \"Wirbelsturm\", \"Tornado\", \"Kopf\"] nur Naturkatastrophen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2230",
+    "input": "Enthält die Liste [\"Komödie\", \"Horror\", \"Straßenfegerin\", \"Gas\", \"Krimi\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2232",
+    "input": "Enthält die Liste [\"Person\", \"Regierung\", \"Herr\", \"Arzt\", \"Mann\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2242",
+    "input": "Enthält die Liste [\"Motorrad\", \"Jugendlicher\", \"Ratte\", \"Dame\", \"Individuum\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2248",
+    "input": "Enthält die Liste [\"Empfindung\", \"Mittwoch\", \"Dienstag\", \"Samstag\", \"Minderheit\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2252",
+    "input": "Enthält die Liste [\"Gitarre\", \"Bildschirm\", \"Cello\", \"Flughafen\", \"Schlagzeug\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2257",
+    "input": "Enthält die Liste [\"Handel\", \"Insekt\", \"Hirsch\", \"Kollege\", \"Käfer\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2263",
+    "input": "Enthält die Liste [\"Natur\", \"Urwald\", \"Persönlichkeit\", \"Vertrauen\", \"Fluss\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2265",
+    "input": "Enthält die Liste [\"Sache\", \"Gas\", \"Feuer\", \"Ton\", \"Flugzeug\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2273",
+    "input": "Enthält die Liste [\"Person\", \"Wachstum\", \"Ergebnis\", \"Adresse\", \"Dauer\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2283",
+    "input": "Enthält die Liste [\"Hintern\", \"Adjektiv\", \"Müdigkeit\", \"Pronomen\", \"Substantiv\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2289",
+    "input": "Enthält die Liste [\"Bibliothek\", \"Mund\", \"Flughafen\", \"Fuß\", \"Handfläche\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2291",
+    "input": "Enthält die Liste [\"Tarif\", \"Erfolg\", \"Höhe\", \"Umfang\", \"Mittel\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2292",
+    "input": "Enthält die Liste [\"Arm\", \"Schreibwarenladen\", \"Cafeteria\", \"Buchhandlung\", \"Radfahren\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2300",
+    "input": "Enthält die Liste [\"Dienstag\", \"Kragen\", \"Zucchini\", \"Aubergine\", \"Radieschen\"] nur Gemüse? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2303",
+    "input": "Enthält die Liste [\"Wasserball\", \"Gold\", \"Eis\", \"Schule\", \"Ton\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2304",
+    "input": "Enthält die Liste [\"dein\", \"Firma\", \"Schreibtisch\", \"mein\", \"unser\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2310",
+    "input": "Enthält die Liste [\"Ehefrau\", \"Bekannter\", \"Bekanntschaft\", \"Sicht\", \"Schienbein\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2313",
+    "input": "Enthält die Liste [\"Käfer\", \"Lawine\", \"Überschwemmung\", \"Frosch\", \"Tsunami\"] nur Naturkatastrophen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2320",
+    "input": "Enthält die Liste [\"Astronaut\", \"Tintenfisch\", \"Frosch\", \"Phase\", \"Schwein\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2327",
+    "input": "Enthält die Liste [\"Tsunami\", \"Elektrikerin\", \"Wirbelsturm\", \"Dürre\", \"Rollerskates\"] nur Naturkatastrophen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2329",
+    "input": "Enthält die Liste [\"Stellung\", \"Tiger\", \"Flöte\", \"Verbot\", \"Kampagne\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2331",
+    "input": "Enthält die Liste [\"Stadt\", \"Salz\", \"Wunsch\", \"Wasser\", \"Lehm\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2332",
+    "input": "Enthält die Liste [\"Beispiel\", \"Lauch\", \"Mangold\", \"Mais\", \"Straßenfegerin\"] nur Gemüse? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2335",
+    "input": "Enthält die Liste [\"Regierung\", \"Lehrerin\", \"Staat\", \"Kleidung\", \"Abteilung\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2336",
+    "input": "Enthält die Liste [\"Mangel\", \"Handel\", \"Ähnlichkeit\", \"Aufmerksamkeit\", \"Schwein\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2338",
+    "input": "Enthält die Liste [\"Überraschung\", \"mein\", \"ihr\", \"Märchen\", \"euer\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2351",
+    "input": "Enthält die Liste [\"Bildschirm\", \"Gerät\", \"Urgroßvater\", \"Apotheke\", \"Kette\"] nur Werkzeuge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2355",
+    "input": "Enthält die Liste [\"Kopf\", \"Bürgermeisterin\", \"Lust\", \"Muskel\", \"Schienbein\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2357",
+    "input": "Enthält die Liste [\"Produktion\", \"Maus\", \"Fahrschein\", \"Gitarre\", \"Wirtschaft\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2360",
+    "input": "Enthält die Liste [\"Urwald\", \"Strand\", \"Handgelenk\", \"Berg\", \"Arzt\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2361",
+    "input": "Enthält die Liste [\"Folge\", \"Sonntag\", \"Freitag\", \"Dienstag\", \"Salz\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2362",
+    "input": "Enthält die Liste [\"Zeichentrick\", \"Objekt\", \"Lösung\", \"Blei\", \"Fortschritt\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2363",
+    "input": "Enthält die Liste [\"Partei\", \"Person\", \"Gurke\", \"Jugendlicher\", \"Rentner\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2367",
+    "input": "Enthält die Liste [\"Cello\", \"Saxofon\", \"Jugendlicher\", \"Schlagzeug\", \"Tanzen\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2374",
+    "input": "Enthält die Liste [\"Geheimnis\", \"Notwendigkeit\", \"Hase\", \"Unterbrechung\", \"Blumenkohl\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2376",
+    "input": "Enthält die Liste [\"März\", \"Handschuhe\", \"Januar\", \"Juni\", \"Buchhandlung\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2377",
+    "input": "Enthält die Liste [\"Märchen\", \"Krimi\", \"Turnen\", \"Hals\", \"Chronik\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2382",
+    "input": "Enthält die Liste [\"Rathaus\", \"Krankenhaus\", \"Kegeln\", \"Markt\", \"Elektriker\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2383",
+    "input": "Enthält die Liste [\"Schlagzeug\", \"Schmetterling\", \"Turnen\", \"Kanufahren\", \"Volleyball\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2387",
+    "input": "Enthält die Liste [\"Mensch\", \"Leute\", \"Karotte\", \"Baby\", \"Garnele\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2394",
+    "input": "Enthält die Liste [\"Schlittschuhlaufen\", \"Golf\", \"Klettern\", \"Hintern\", \"Krise\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2395",
+    "input": "Enthält die Liste [\"Eisen\", \"Erinnerung\", \"Briefträgerin\", \"Salz\", \"Metall\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2399",
+    "input": "Enthält die Liste [\"Firma\", \"Junge\", \"Jugendlicher\", \"Person\", \"Erdbeben\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2403",
+    "input": "Enthält die Liste [\"Turnen\", \"Hirsch\", \"Partner\", \"Fechten\", \"Kanufahren\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2405",
+    "input": "Enthält die Liste [\"Abgeordnete\", \"Romanze\", \"Zeichentrick\", \"Krimi\", \"Bürgermeister\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2406",
+    "input": "Enthält die Liste [\"Ergebnis\", \"Reihe\", \"Programm\", \"Artikel\", \"Tankstellenwart\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2408",
+    "input": "Enthält die Liste [\"Heuschrecke\", \"Individuum\", \"Fliege\", \"Gitarre\", \"Falter\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2411",
+    "input": "Enthält die Liste [\"Strecke\", \"Kegeln\", \"November\", \"Tennis\", \"Handball\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2416",
+    "input": "Enthält die Liste [\"Wissenschaftler\", \"Sache\", \"Journalist\", \"Briefträger\", \"Macht\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2417",
+    "input": "Enthält die Liste [\"Erhöhung\", \"Küste\", \"Erlaubnis\", \"Breite\", \"Länge\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2419",
+    "input": "Enthält die Liste [\"Donnerstag\", \"Zimmer\", \"Konflikt\", \"Dienstag\", \"Samstag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2426",
+    "input": "Enthält die Liste [\"Metall\", \"Luft\", \"Februar\", \"Dampf\", \"Versuch\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2427",
+    "input": "Enthält die Liste [\"Rollerskates\", \"Trompete\", \"Klettern\", \"Boxen\", \"Skifahren\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2429",
+    "input": "Enthält die Liste [\"Individuum\", \"Leute\", \"Zimmer\", \"Vergangenheit\", \"Senior\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2437",
+    "input": "Enthält die Liste [\"Partei\", \"Tür\", \"Kegeln\", \"Tennis\", \"Basketball\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2438",
+    "input": "Enthält die Liste [\"Name\", \"Sache\", \"Adresse\", \"Umfang\", \"Beschleunigung\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2441",
+    "input": "Enthält die Liste [\"Unterschied\", \"Schreibtisch\", \"Gebäude\", \"Tisch\", \"Wirklichkeit\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2446",
+    "input": "Enthält die Liste [\"Silber\", \"Metall\", \"Entwicklung\", \"Wasser\", \"Behörde\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2458",
+    "input": "Enthält die Liste [\"See\", \"Berg\", \"Fahrschein\", \"Käfer\", \"Küste\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2459",
+    "input": "Enthält die Liste [\"Provinz\", \"Vogel\", \"Arzt\", \"Fliege\", \"Krähe\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2460",
+    "input": "Enthält die Liste [\"Horror\", \"Chronik\", \"Romanze\", \"Rücken\", \"Heuschrecke\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2465",
+    "input": "Enthält die Liste [\"Autobahn\", \"Allee\", \"Friseursalon\", \"Transport\", \"mein\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2473",
+    "input": "Enthält die Liste [\"Kanzlerin\", \"Gewicht\", \"Kragen\", \"Kilo\", \"Gramm\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2474",
+    "input": "Enthält die Liste [\"Samstag\", \"Montag\", \"Restaurant\", \"Schritt\", \"Donnerstag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2476",
+    "input": "Enthält die Liste [\"Gebäude\", \"Nadel\", \"Politiker\", \"Schauspielerin\", \"Kassiererin\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2477",
+    "input": "Enthält die Liste [\"Bank\", \"Montag\", \"Ingenieurin\", \"Schule\", \"Hotel\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2478",
+    "input": "Enthält die Liste [\"Cafeteria\", \"Friseursalon\", \"Verbesserung\", \"Schule\", \"Bett\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2479",
+    "input": "Enthält die Liste [\"Produkt\", \"Golf\", \"Produktion\", \"Musical\", \"Wert\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2491",
+    "input": "Enthält die Liste [\"Skifahren\", \"Metzgerei\", \"Leichtathletik\", \"Artikel\", \"Fechten\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2492",
+    "input": "Enthält die Liste [\"Präposition\", \"Trompete\", \"Geige\", \"Journalistin\", \"Schlagzeug\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2493",
+    "input": "Enthält die Liste [\"Bildschirm\", \"Herr\", \"Bild\", \"Nadel\", \"Gerät\"] nur Werkzeuge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2496",
+    "input": "Enthält die Liste [\"Preis\", \"Dienstleistung\", \"Klettern\", \"Transaktion\", \"Eis\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2498",
+    "input": "Enthält die Liste [\"Liebe\", \"euer\", \"unser\", \"Adresse\", \"dein\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2503",
+    "input": "Enthält die Liste [\"Straßenfegerin\", \"Arzt\", \"Anwältin\", \"Bibliothek\", \"Klarinette\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2504",
+    "input": "Enthält die Liste [\"Krankenhaus\", \"Oktopus\", \"Büro\", \"Schule\", \"Fisch\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2505",
+    "input": "Enthält die Liste [\"März\", \"Kollege\", \"Cousin\", \"Liebe\", \"unser\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2508",
+    "input": "Enthält die Liste [\"Ehe\", \"Erde\", \"Wasser\", \"Existenz\", \"Ton\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2510",
+    "input": "Enthält die Liste [\"Inhalt\", \"Gesicht\", \"Knie\", \"Erschrecken\", \"Zukunft\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2511",
+    "input": "Enthält die Liste [\"Lawine\", \"Tornado\", \"Dürre\", \"Karotte\", \"Dame\"] nur Naturkatastrophen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2512",
+    "input": "Enthält die Liste [\"Supermarkt\", \"Geschäft\", \"Apotheke\", \"Krebs\", \"Informatikerin\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2518",
+    "input": "Enthält die Liste [\"Ozean\", \"Urwald\", \"Schnur\", \"Blei\", \"Fluss\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2524",
+    "input": "Enthält die Liste [\"Summe\", \"Schmerz\", \"Anwalt\", \"Millimeter\", \"Gramm\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2526",
+    "input": "Enthält die Liste [\"Kleid\", \"Abgeordnete\", \"Richter\", \"Tankstellenwart\", \"Golf\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2527",
+    "input": "Enthält die Liste [\"Geld\", \"Kassiererin\", \"Verbrauch\", \"Urgroßmutter\", \"Transaktion\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2534",
+    "input": "Enthält die Liste [\"Jacke\", \"Geburt\", \"Schnürsenkel\", \"Gebirge\", \"Halstuch\"] nur Kleidung? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2536",
+    "input": "Enthält die Liste [\"Oktopus\", \"Schlange\", \"Tür\", \"Schmetterling\", \"Gewicht\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2544",
+    "input": "Enthält die Liste [\"Menge\", \"Nutzen\", \"Gewicht\", \"Nase\", \"Zentimeter\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2549",
+    "input": "Enthält die Liste [\"Mann\", \"Unterhose\", \"Struktur\", \"Verpflichtung\", \"Verbot\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2559",
+    "input": "Enthält die Liste [\"Partei\", \"Cello\", \"Klavier\", \"Saxofon\", \"Erde\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2561",
+    "input": "Enthält die Liste [\"Lösung\", \"Romanze\", \"Chronik\", \"Apotheke\", \"Märchen\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2562",
+    "input": "Enthält die Liste [\"Krähe\", \"Heuschrecke\", \"Käfer\", \"Schnürsenkel\", \"Straßenfeger\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2570",
+    "input": "Enthält die Liste [\"Geruch\", \"Lüge\", \"Erwachsener\", \"Situation\", \"Gewicht\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2577",
+    "input": "Enthält die Liste [\"Weg\", \"Roller\", \"Arzt\", \"Tod\", \"Flughafen\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2584",
+    "input": "Enthält die Liste [\"Handel\", \"Taxi\", \"Stelle\", \"Wirtschaft\", \"Tarif\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2588",
+    "input": "Enthält die Liste [\"Adverb\", \"Autobahn\", \"Adjektiv\", \"Pronomen\", \"Architekt\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2590",
+    "input": "Enthält die Liste [\"Müdigkeit\", \"Merkmal\", \"Vereinbarung\", \"Urwald\", \"Mai\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2597",
+    "input": "Enthält die Liste [\"Dienstag\", \"Freitag\", \"Tür\", \"Kind\", \"Samstag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2598",
+    "input": "Enthält die Liste [\"ihr\", \"unser\", \"mein\", \"Elektrikerin\", \"Straße\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2601",
+    "input": "Enthält die Liste [\"Bild\", \"Bein\", \"Straßenbahn\", \"Wagen\", \"Taxi\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2602",
+    "input": "Enthält die Liste [\"Treffen\", \"Großmutter\", \"Liebe\", \"Lippe\", \"Freund\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2609",
+    "input": "Enthält die Liste [\"Lippe\", \"Ohr\", \"Müdigkeit\", \"Verlauf\", \"Fingernagel\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2613",
+    "input": "Enthält die Liste [\"Erhöhung\", \"Blei\", \"Mehrheit\", \"Minderheit\", \"Lehrer\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2614",
+    "input": "Enthält die Liste [\"Bürgermeisterin\", \"Bein\", \"Kürbis\", \"Brokkoli\", \"Karotte\"] nur Gemüse? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2616",
+    "input": "Enthält die Liste [\"Eidechse\", \"Tante\", \"Fisch\", \"Pferd\", \"Wüste\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2617",
+    "input": "Enthält die Liste [\"Organisation\", \"Ratte\", \"Gemeinschaft\", \"Bauch\", \"Kongress\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2621",
+    "input": "Enthält die Liste [\"Urenkel\", \"Name\", \"Enkelin\", \"Partei\", \"Partner\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2622",
+    "input": "Enthält die Liste [\"Kilometer\", \"Adverb\", \"Gerechtigkeit\", \"Milliliter\", \"Millimeter\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2624",
+    "input": "Enthält die Liste [\"Freund\", \"Partner\", \"Cousine\", \"Zwiebel\", \"Gedächtnis\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2627",
+    "input": "Enthält die Liste [\"Millimeter\", \"Bein\", \"Partei\", \"Kilometer\", \"Gewicht\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2629",
+    "input": "Enthält die Liste [\"Halstuch\", \"Politikerin\", \"Brille\", \"Affe\", \"Socken\"] nur Kleidung? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2630",
+    "input": "Enthält die Liste [\"Fortpflanzung\", \"Geruch\", \"Leben\", \"Art\", \"Märchen\"] nur Leben? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2632",
+    "input": "Enthält die Liste [\"Urgroßvater\", \"Bildschirm\", \"Bruder\", \"Dampf\", \"Ehe\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2634",
+    "input": "Enthält die Liste [\"Tasche\", \"Knoblauch\", \"Kohl\", \"Konzept\", \"Mais\"] nur Gemüse? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2638",
+    "input": "Enthält die Liste [\"Badeanzug\", \"Saxofon\", \"Klavier\", \"Klarinette\", \"Persönlichkeit\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2643",
+    "input": "Enthält die Liste [\"Abgeordneter\", \"Waffe\", \"Nadel\", \"Millimeter\", \"Faden\"] nur Werkzeuge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2646",
+    "input": "Enthält die Liste [\"Stellvertreterin\", \"Tornado\", \"Musical\", \"Schreinerin\", \"Tankstellenwart\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2650",
+    "input": "Enthält die Liste [\"Liter\", \"Menge\", \"Krieg\", \"Gramm\", \"Partei\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2659",
+    "input": "Enthält die Liste [\"Menge\", \"Köchin\", \"Milliliter\", \"Mehrheit\", \"Gramm\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2668",
+    "input": "Enthält die Liste [\"Horror\", \"Drama\", \"Schlittschuhlaufen\", \"Märchen\", \"Neffe\"] nur Filmgenre? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2680",
+    "input": "Enthält die Liste [\"Horror\", \"Knopf\", \"Geburt\", \"Art\", \"Fortpflanzung\"] nur Leben? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2681",
+    "input": "Enthält die Liste [\"Artikel\", \"Konjunktion\", \"Tankstellenwärterin\", \"Gesellschaft\", \"Adverb\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2682",
+    "input": "Enthält die Liste [\"Produkt\", \"Gurke\", \"Nachfrage\", \"Brust\", \"Wert\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2715",
+    "input": "Enthält die Liste [\"Kaninchen\", \"Substantiv\", \"Artikel\", \"Onkel\", \"Konjunktion\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2718",
+    "input": "Enthält die Liste [\"Faden\", \"Informatikerin\", \"Verkäuferin\", \"Stellvertreter\", \"Verwaltung\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2719",
+    "input": "Enthält die Liste [\"Herr\", \"Gebäude\", \"Gefühl\", \"Stuhl\", \"Aufzug\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2728",
+    "input": "Enthält die Liste [\"Stellvertreter\", \"Flöte\", \"Klarinette\", \"Parlamentarier\", \"Klavier\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2730",
+    "input": "Enthält die Liste [\"Milliliter\", \"Taxi\", \"Wachstum\", \"Zunahme\", \"Mittel\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2734",
+    "input": "Enthält die Liste [\"Dienstag\", \"Bürgermeister\", \"Frieden\", \"Sonntag\", \"Montag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2739",
+    "input": "Enthält die Liste [\"Urenkelin\", \"Neffe\", \"Handball\", \"Partner\", \"Problem\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2744",
+    "input": "Enthält die Liste [\"Schnur\", \"Metzgerei\", \"Restaurant\", \"Blumenladen\", \"Hase\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2753",
+    "input": "Enthält die Liste [\"Fahrrad\", \"Skateboard\", \"Hund\", \"Freude\", \"Flughafen\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2762",
+    "input": "Enthält die Liste [\"Fotografin\", \"Stuhl\", \"Bewegung\", \"Politikerin\", \"Ministerin\"] nur Berufe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2763",
+    "input": "Enthält die Liste [\"Freitag\", \"Montag\", \"Pullover\", \"Slip\", \"Samstag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2767",
+    "input": "Enthält die Liste [\"Senior\", \"Ton\", \"Leben\", \"Metall\", \"Gold\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2768",
+    "input": "Enthält die Liste [\"Jacke\", \"Jeans\", \"Adresse\", \"Wirkung\", \"Hemd\"] nur Kleidung? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2769",
+    "input": "Enthält die Liste [\"Stuhl\", \"Geburt\", \"Schlafzimmer\", \"Eingang\", \"Thema\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2771",
+    "input": "Enthält die Liste [\"Eis\", \"Schlange\", \"Krokodil\", \"Krebs\", \"Erwachsener\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2774",
+    "input": "Enthält die Liste [\"Stellung\", \"Erdbeben\", \"November\", \"Abteilung\", \"Recht\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2775",
+    "input": "Enthält die Liste [\"Millimeter\", \"Eidechse\", \"Schlange\", \"Vergangenheit\", \"Insekt\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2791",
+    "input": "Enthält die Liste [\"Kennzeichen\", \"Zahnarzt\", \"Adler\", \"Oktopus\", \"Affe\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2799",
+    "input": "Enthält die Liste [\"Trompete\", \"Cello\", \"Tanzen\", \"Gitarre\", \"Rote Bete\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2800",
+    "input": "Enthält die Liste [\"Schwester\", \"Tochter\", \"Handgelenk\", \"Schreibtisch\", \"Enkel\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2802",
+    "input": "Enthält die Liste [\"Schaf\", \"Falter\", \"Rückschritt\", \"Affe\", \"Tod\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2806",
+    "input": "Enthält die Liste [\"Bohnen\", \"Feld\", \"Natur\", \"Malerin\", \"Dschungel\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2807",
+    "input": "Enthält die Liste [\"Luft\", \"Herz\", \"Donnerstag\", \"Silber\", \"Metall\"] nur Stoffe? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2809",
+    "input": "Enthält die Liste [\"Luft\", \"Pferd\", \"Insekt\", \"Taube\", \"Bevölkerung\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2811",
+    "input": "Enthält die Liste [\"Gewicht\", \"Maß\", \"Wandern\", \"Feuer\", \"Kilometer\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2813",
+    "input": "Enthält die Liste [\"Radieschen\", \"Gedanken\", \"Dienstag\", \"Donnerstag\", \"Sonntag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2816",
+    "input": "Enthält die Liste [\"Cello\", \"Rat\", \"Klarinette\", \"Geige\", \"Thema\"] nur Instrumente? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2817",
+    "input": "Enthält die Liste [\"Art\", \"Geburt\", \"Bekanntschaft\", \"Geschäftsfrau\", \"Lebewesen\"] nur Leben? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2819",
+    "input": "Enthält die Liste [\"Baby\", \"Mensch\", \"Gefühl\", \"Surfen\", \"Senior\"] nur Menschen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2825",
+    "input": "Enthält die Liste [\"Körper\", \"Reißverschluss\", \"Hand\", \"Wert\", \"Finger\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2826",
+    "input": "Enthält die Liste [\"Schauspielerin\", \"Sohn\", \"Freund\", \"Großvater\", \"Verb\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2836",
+    "input": "Enthält die Liste [\"Eingang\", \"Fenster\", \"Gebäude\", \"Unterbrechung\", \"Flugzeug\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2837",
+    "input": "Enthält die Liste [\"Boxen\", \"Haut\", \"Herz\", \"Verb\", \"Arm\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2842",
+    "input": "Enthält die Liste [\"Herstellung\", \"Artikel\", \"unser\", \"dein\", \"sein\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2847",
+    "input": "Enthält die Liste [\"Diktatur\", \"Provinz\", \"Erlaubnis\", \"Stiefel\", \"Journalist\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2851",
+    "input": "Enthält die Liste [\"Abnahme\", \"Präposition\", \"Blei\", \"Mehrheit\", \"Minderheit\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2852",
+    "input": "Enthält die Liste [\"Schlagzeug\", \"Erdbeben\", \"Krokodil\", \"Huhn\", \"Ratte\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2859",
+    "input": "Enthält die Liste [\"Bauwerk\", \"Ferse\", \"Schreibtisch\", \"Aufzug\", \"Drama\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2862",
+    "input": "Enthält die Liste [\"Landstraße\", \"Auto\", \"Dorf\", \"Allee\", \"Freund\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2868",
+    "input": "Enthält die Liste [\"dein\", \"Kampagne\", \"ihr\", \"mein\", \"November\"] nur Possesivpronomen? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2876",
+    "input": "Enthält die Liste [\"Juli\", \"November\", \"Urwald\", \"Existenz\", \"März\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2877",
+    "input": "Enthält die Liste [\"März\", \"August\", \"Mechanikerin\", \"Länge\", \"Juni\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2878",
+    "input": "Enthält die Liste [\"Klempnerin\", \"Gemeinde\", \"Verwaltung\", \"Karotte\", \"Partei\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2880",
+    "input": "Enthält die Liste [\"Flughafen\", \"Bank\", \"Cafeteria\", \"Stellvertreterin\", \"Apotheke\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2881",
+    "input": "Enthält die Liste [\"Vogel\", \"Oktopus\", \"sein\", \"Informatiker\", \"Heuschrecke\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2884",
+    "input": "Enthält die Liste [\"Regierung\", \"Samstag\", \"Erlaubnis\", \"Flughafen\", \"Mannschaft\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2885",
+    "input": "Enthält die Liste [\"Zunahme\", \"Hauptstadt\", \"Verein\", \"Verfassung\", \"Lauch\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2893",
+    "input": "Enthält die Liste [\"Motorrad\", \"Volleyball\", \"Grund\", \"Skateboard\", \"Allee\"] nur Transport? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2896",
+    "input": "Enthält die Liste [\"Zahn\", \"Bohnen\", \"Angestellter\", \"Bart\", \"Haut\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2897",
+    "input": "Enthält die Liste [\"Stelle\", \"Vorschrift\", \"Erhöhung\", \"Erschrecken\", \"Dauer\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2899",
+    "input": "Enthält die Liste [\"Mal\", \"Produkt\", \"Beutel\", \"Fahrschein\", \"Geld\"] nur Wirtschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2903",
+    "input": "Enthält die Liste [\"Waffe\", \"Hirsch\", \"Kammer\", \"Schnur\", \"Erlaubnis\"] nur Werkzeuge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2911",
+    "input": "Enthält die Liste [\"Natur\", \"Kennzeichen\", \"Ozean\", \"Wald\", \"Sache\"] nur Geografie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2912",
+    "input": "Enthält die Liste [\"Weg\", \"Spinat\", \"Mai\", \"Karotte\", \"Paprika\"] nur Gemüse? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2918",
+    "input": "Enthält die Liste [\"Biologe\", \"Mittwoch\", \"Ortschaft\", \"Sonntag\", \"Montag\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2920",
+    "input": "Enthält die Liste [\"Persönlichkeit\", \"Preis\", \"Wirkung\", \"Mitgefühl\", \"Giraffe\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2921",
+    "input": "Enthält die Liste [\"August\", \"Februar\", \"Käfer\", \"Dezember\", \"Tisch\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2923",
+    "input": "Enthält die Liste [\"Mutter\", \"Knoblauch\", \"Gehör\", \"Freund\", \"Enkel\"] nur Familie? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2925",
+    "input": "Enthält die Liste [\"Reißverschluss\", \"Verpflichtung\", \"Kleidungsstück\", \"Kommission\", \"Regierung\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2935",
+    "input": "Enthält die Liste [\"Maß\", \"Menge\", \"Umfang\", \"Kilometer\", \"Bäckerin\"] nur Maßeinheiten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2940",
+    "input": "Enthält die Liste [\"Rathaus\", \"Bar\", \"Cafeteria\", \"Radieschen\", \"Tennis\"] nur Arbeitsplätze? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2946",
+    "input": "Enthält die Liste [\"Anwalt\", \"Gehirn\", \"Handschuhe\", \"Schienbein\", \"Hand\"] nur menschlicher Körper? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2950",
+    "input": "Enthält die Liste [\"Vertrauen\", \"Juli\", \"August\", \"Juni\", \"Schritt\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2962",
+    "input": "Enthält die Liste [\"Struktur\", \"Demokratie\", \"Berg\", \"Sache\", \"Kampagne\"] nur Gesellschaft? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2963",
+    "input": "Enthält die Liste [\"Mai\", \"Artikel\", \"Konjunktion\", \"Hotel\", \"Präposition\"] nur Wortarten? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2966",
+    "input": "Enthält die Liste [\"Umfang\", \"Reihe\", \"Länge\", \"Dauer\", \"Schulter\"] nur Raum und Menge? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2970",
+    "input": "Enthält die Liste [\"Sache\", \"Astronautin\", \"Funktion\", \"Supermarkt\", \"Aussehen\"] nur Abstrakte Substantive? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2976",
+    "input": "Enthält die Liste [\"Summe\", \"Mai\", \"Frieden\", \"April\", \"Oktober\"] nur Monate des Jahres? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2982",
+    "input": "Enthält die Liste [\"Liter\", \"Wal\", \"Tiger\", \"Elefant\", \"Handlung\"] nur Tiere? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2989",
+    "input": "Enthält die Liste [\"Beziehung\", \"Ingenieur\", \"Wohnung\", \"Schlafzimmer\", \"Treppenhaus\"] nur Zuhause? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2996",
+    "input": "Enthält die Liste [\"September\", \"Dienstag\", \"Minderheit\", \"Freitag\", \"Mittwoch\"] nur Wochentage? Antworte entweder mit \"ja\" oder \"nein\"."
+  },
+  {
+    "id": "2997",
+    "input": "Enthält die Liste [\"Knopf\", \"Schlittschuhlaufen\", \"Badminton\", \"Basketball\", \"Schnur\"] nur Sport? Antworte entweder mit \"ja\" oder \"nein\"."
+  }
+]

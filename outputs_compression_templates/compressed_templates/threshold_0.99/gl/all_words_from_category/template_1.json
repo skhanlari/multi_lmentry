@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "1",
+    "input": "Son tódalas palabras \"tornado\", \"avalancha\", \"terremoto\", \"uña\" e \"tsunami\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "10",
+    "input": "Son tódalas palabras \"violín\", \"batería\", \"clarinete\", \"piano\" e \"trompeta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "102",
+    "input": "Son tódalas palabras \"lugar\", \"largo\", \"brócoli\", \"fondo\" e \"tamaño\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "103",
+    "input": "Son tódalas palabras \"meta\", \"obxectivo\", \"negro\", \"paz\" e \"ocasión\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "104",
+    "input": "Son tódalas palabras \"centímetro\", \"total\", \"actitude\", \"litro\" e \"milímetro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "106",
+    "input": "Son tódalas palabras \"verbo\", \"adxectivo\", \"autoescola\", \"determinante\" e \"substantivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "107",
+    "input": "Son tódalas palabras \"aparato\", \"cravo\", \"codo\", \"cámara\" e \"pantalla\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "109",
+    "input": "Son tódalas palabras \"pecho\", \"acordo\", \"coxa\", \"barba\" e \"boneca\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "111",
+    "input": "Son tódalas palabras \"cociñeira\", \"metal\", \"chumbo\", \"gas\" e \"prata\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "112",
+    "input": "Son tódalas palabras \"adxectivo\", \"verbo\", \"celeste\", \"preposición\" e \"determinante\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "113",
+    "input": "Son tódalas palabras \"coñecido\", \"irmán\", \"tío\", \"fillo\" e \"parella\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "114",
+    "input": "Son tódalas palabras \"laranxa\", \"gris\", \"color\", \"marrón\" e \"morado\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "116",
+    "input": "Son tódalas palabras \"oso\", \"codo\", \"ombreiro\", \"fígado\" e \"lombo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "117",
+    "input": "Son tódalas palabras \"lume\", \"aire\", \"gas\", \"auga\" e \"sal\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "118",
+    "input": "Son tódalas palabras \"mércores\", \"sábado\", \"martes\", \"venres\" e \"luns\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "119",
+    "input": "Son tódalas palabras \"prohibición\", \"democracia\", \"organización\", \"escalada\" e \"política\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "120",
+    "input": "Son tódalas palabras \"adxectivo\", \"determinante\", \"substantivo\", \"verbo\" e \"preposición\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "121",
+    "input": "Son tódalas palabras \"costa\", \"xungla\", \"mar\", \"río\" e \"lago\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "122",
+    "input": "Son tódalas palabras \"adulto\", \"adolescente\", \"bota\", \"anciá\" e \"don\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "126",
+    "input": "Son tódalas palabras \"palabra\", \"olfacto\", \"avance\", \"carácter\" e \"tacto\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "128",
+    "input": "Son tódalas palabras \"curmán\", \"adxectivo\", \"adverbio\", \"determinante\" e \"preposición\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "13",
+    "input": "Son tódalas palabras \"bebé\", \"balonmán\", \"cabaleiro\", \"neno\" e \"nena\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "131",
+    "input": "Son tódalas palabras \"lagarto\", \"xoves\", \"martes\", \"sábado\" e \"domingo\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "133",
+    "input": "Son tódalas palabras \"dependente\", \"carpinteira\", \"peiteador\", \"médica\" e \"avogada\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "134",
+    "input": "Son tódalas palabras \"lagarto\", \"señor\", \"don\", \"cabaleiro\" e \"adolescente\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "135",
+    "input": "Son tódalas palabras \"estrada\", \"patíns\", \"vía\", \"automóbil\" e \"gorro\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "137",
+    "input": "Son tódalas palabras \"científico\", \"electricista\", \"congresista\", \"senador\" e \"astronauta\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "138",
+    "input": "Son tódalas palabras \"aumento\", \"pintora\", \"aceleración\", \"largo\" e \"ancho\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "14",
+    "input": "Son tódalas palabras \"azul\", \"laranxa\", \"branco\", \"verde\" e \"gris\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "140",
+    "input": "Son tódalas palabras \"policía\", \"bicicleta\", \"avenida\", \"rúa\" e \"tren\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "142",
+    "input": "Son tódalas palabras \"cadera\", \"man\", \"estómago\", \"fígado\" e \"espiña\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "143",
+    "input": "Son tódalas palabras \"produto\", \"diñeiro\", \"economía\", \"consumo\" e \"produción\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "145",
+    "input": "Son tódalas palabras \"carniceira\", \"panadeiro\", \"enxeñeira\", \"astronauta\" e \"bombeira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "146",
+    "input": "Son tódalas palabras \"lago\", \"mar\", \"montaña\", \"gris\" e \"monte\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "147",
+    "input": "Son tódalas palabras \"xoves\", \"médica\", \"martes\", \"sábado\" e \"mércores\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "149",
+    "input": "Son tódalas palabras \"apartamento\", \"demanda\", \"dormitorio\", \"cama\" e \"casa\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "15",
+    "input": "Son tódalas palabras \"mércores\", \"martes\", \"medida\", \"luns\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "150",
+    "input": "Son tódalas palabras \"comedia\", \"terror\", \"musical\", \"drama\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "151",
+    "input": "Son tódalas palabras \"trompeta\", \"batería\", \"piano\", \"frauta\" e \"guitarra\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "153",
+    "input": "Son tódalas palabras \"costa\", \"deserto\", \"mar\", \"lago\" e \"tenis\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "156",
+    "input": "Son tódalas palabras \"batería\", \"frauta\", \"saxofón\", \"guitarra\" e \"violín\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "157",
+    "input": "Son tódalas palabras \"compañía\", \"produción\", \"billete\", \"mercado\" e \"economía\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "158",
+    "input": "Son tódalas palabras \"xeo\", \"gas\", \"ouro\", \"prata\" e \"cadera\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "159",
+    "input": "Son tódalas palabras \"carácter\", \"pasado\", \"aburrimento\", \"galiña\" e \"oído\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "160",
+    "input": "Son tódalas palabras \"servizo\", \"diñeiro\", \"prezo\", \"comercio\" e \"valor\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "162",
+    "input": "Son tódalas palabras \"cabelo\", \"uña\", \"xeonllo\", \"lombo\" e \"barba\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "163",
+    "input": "Son tódalas palabras \"gramo\", \"quilómetro\", \"velocidade\", \"milímetro\" e \"litro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "166",
+    "input": "Son tódalas palabras \"produción\", \"tarifa\", \"billete\", \"prezo\" e \"consumo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "17",
+    "input": "Son tódalas palabras \"fío\", \"pantalla\", \"lagarto\", \"agulla\" e \"cordón\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "170",
+    "input": "Son tódalas palabras \"chumbo\", \"meta\", \"ouro\", \"auga\" e \"vapor\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "171",
+    "input": "Son tódalas palabras \"cenorias\", \"alcachofa\", \"col\", \"repolo\" e \"porro\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "173",
+    "input": "Son tódalas palabras \"corazón\", \"man\", \"nome\", \"cu\" e \"abdome\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "174",
+    "input": "Son tódalas palabras \"drama\", \"musical\", \"fantasía\", \"comedia\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "175",
+    "input": "Son tódalas palabras \"verde\", \"adverbio\", \"verbo\", \"preposición\" e \"conxunción\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "176",
+    "input": "Son tódalas palabras \"posición\", \"velocidade\", \"lugar\", \"ancho\" e \"largo\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "177",
+    "input": "Son tódalas palabras \"seca\", \"avalancha\", \"tsunami\", \"terremoto\" e \"tornado\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "179",
+    "input": "Son tódalas palabras \"adxectivo\", \"preposición\", \"adverbio\", \"pronombre\" e \"conxunción\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "18",
+    "input": "Son tódalas palabras \"escalada\", \"fútbol\", \"bádminton\", \"cabalo\" e \"béisbol\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "180",
+    "input": "Son tódalas palabras \"sábado\", \"venres\", \"mércores\", \"neta\" e \"domingo\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "181",
+    "input": "Son tódalas palabras \"consumo\", \"demanda\", \"comercio\", \"produto\" e \"xersei\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "182",
+    "input": "Son tódalas palabras \"mellora\", \"proxecto\", \"xersei\", \"meta\" e \"segredo\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "183",
+    "input": "Son tódalas palabras \"xeo\", \"sal\", \"terra\", \"vapor\" e \"auga\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "184",
+    "input": "Son tódalas palabras \"clarinete\", \"guitarra\", \"frauta\", \"piano\" e \"batería\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "185",
+    "input": "Son tódalas palabras \"escritorio\", \"apartamento\", \"fiestra\", \"edificio\" e \"ascensor\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "189",
+    "input": "Son tódalas palabras \"bragas\", \"abrigo\", \"lentes\", \"xersei\" e \"avenida\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "19",
+    "input": "Son tódalas palabras \"adverbio\", \"pronombre\", \"substantivo\", \"autoestrada\" e \"adxectivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "190",
+    "input": "Son tódalas palabras \"avoa\", \"amigo\", \"matrimonio\", \"bisavoa\" e \"curmá\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "191",
+    "input": "Son tódalas palabras \"interese\", \"luvas\", \"suxeitador\", \"chaqueta\" e \"veo\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "194",
+    "input": "Son tódalas palabras \"billete\", \"apartamento\", \"edificio\", \"panel\" e \"cadeira\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "195",
+    "input": "Son tódalas palabras \"venres\", \"tema\", \"mércores\", \"domingo\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "196",
+    "input": "Son tódalas palabras \"fontaneira\", \"electricista\", \"administrativo\", \"vermello\" e \"actriz\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "197",
+    "input": "Son tódalas palabras \"produción\", \"demanda\", \"diñeiro\", \"tarifa\" e \"produto\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "198",
+    "input": "Son tódalas palabras \"criatura\", \"morte\", \"nacemento\", \"reprodución\" e \"gas\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "199",
+    "input": "Son tódalas palabras \"capital\", \"comisión\", \"liberdade\", \"senador\" e \"provincia\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "2",
+    "input": "Son tódalas palabras \"bisneta\", \"neto\", \"sobriño\", \"matrimonio\" e \"tío\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "203",
+    "input": "Son tódalas palabras \"taxi\", \"automóbil\", \"parada\", \"estación\" e \"empresario\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "205",
+    "input": "Son tódalas palabras \"aburrimento\", \"sentido\", \"imaxe\", \"proceso\" e \"prexuízo\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "206",
+    "input": "Son tódalas palabras \"musical\", \"xuíz\", \"terror\", \"fantasía\" e \"comedia\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "207",
+    "input": "Son tódalas palabras \"barba\", \"codo\", \"aspecto\", \"man\" e \"lombo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "208",
+    "input": "Son tódalas palabras \"nacemento\", \"especie\", \"criatura\", \"reprodución\" e \"vida\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "21",
+    "input": "Son tódalas palabras \"ascensor\", \"avenida\", \"construcción\", \"panel\" e \"fogar\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "210",
+    "input": "Son tódalas palabras \"sardiña\", \"porco\", \"bolboreta\", \"aguia\" e \"corvo\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "211",
+    "input": "Son tódalas palabras \"sábado\", \"luns\", \"xoves\", \"compañía\" e \"domingo\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "215",
+    "input": "Son tódalas palabras \"seca\", \"consumo\", \"inundación\", \"incendio\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "217",
+    "input": "Son tódalas palabras \"monte\", \"deserto\", \"mar\", \"montaña\" e \"lago\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "218",
+    "input": "Son tódalas palabras \"cámara\", \"chave\", \"agulla\", \"fío\" e \"varredora\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "219",
+    "input": "Son tódalas palabras \"auga\", \"xeo\", \"terra\", \"gas\" e \"ouro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "22",
+    "input": "Son tódalas palabras \"construcción\", \"comisión\", \"departamento\", \"congreso\" e \"norma\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "220",
+    "input": "Son tódalas palabras \"provincia\", \"organización\", \"poboación\", \"vila\" e \"política\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "221",
+    "input": "Son tódalas palabras \"patinete\", \"avión\", \"estación\", \"estrada\" e \"bicicleta\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "222",
+    "input": "Son tódalas palabras \"violín\", \"piano\", \"frauta\", \"guitarra\" e \"saxofón\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "223",
+    "input": "Son tódalas palabras \"irmán\", \"traxe de baño\", \"bisneta\", \"bisneto\" e \"colega\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "224",
+    "input": "Son tódalas palabras \"director\", \"médica\", \"policía\", \"quilo\" e \"carpinteira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "225",
+    "input": "Son tódalas palabras \"tren\", \"ferrocarril\", \"autoestrada\", \"tránsito\" e \"maioría\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "226",
+    "input": "Son tódalas palabras \"xuíz\", \"empresario\", \"actor\", \"deputada\" e \"profesor\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "227",
+    "input": "Son tódalas palabras \"reprodución\", \"ser\", \"especie\", \"criatura\" e \"vida\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "228",
+    "input": "Son tódalas palabras \"bolsa\", \"aparato\", \"agulla\", \"chave\" e \"cordel\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "229",
+    "input": "Son tódalas palabras \"tenis\", \"atletismo\", \"baloncesto\", \"gimnasia\" e \"fútbol\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "23",
+    "input": "Son tódalas palabras \"sal\", \"perna\", \"man\", \"espiña\" e \"barba\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "230",
+    "input": "Son tódalas palabras \"maioría\", \"altura\", \"minoría\", \"alto\" e \"lonxitude\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "231",
+    "input": "Son tódalas palabras \"mércores\", \"domingo\", \"luns\", \"sábado\" e \"intento\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "233",
+    "input": "Son tódalas palabras \"valor\", \"billete\", \"transacción\", \"consumo\" e \"camarón\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "234",
+    "input": "Son tódalas palabras \"pomo\", \"permiso\", \"fío\", \"cordón\" e \"arma\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "235",
+    "input": "Son tódalas palabras \"can\", \"coello\", \"pronombre\", \"paxaro\" e \"falcón\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "236",
+    "input": "Son tódalas palabras \"espinacas\", \"domingo\", \"chícharos\", \"coliflor\" e \"berenxena\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "238",
+    "input": "Son tódalas palabras \"costa\", \"xungla\", \"terremoto\", \"monte\" e \"selva\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "239",
+    "input": "Son tódalas palabras \"adxectivo\", \"substantivo\", \"preposición\", \"determinante\" e \"verbo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "241",
+    "input": "Son tódalas palabras \"cabaleiro\", \"humano\", \"xente\", \"dona\" e \"ancián\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "242",
+    "input": "Son tódalas palabras \"seca\", \"terremoto\", \"incendio\", \"tornado\" e \"tsunami\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "243",
+    "input": "Son tódalas palabras \"botón\", \"gorra\", \"suxeitador\", \"roupa\" e \"xersei\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "245",
+    "input": "Son tódalas palabras \"contido\", \"presente\", \"significado\", \"produto\" e \"aburrimento\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "246",
+    "input": "Son tódalas palabras \"fantasía\", \"suspense\", \"fígado\", \"musical\" e \"drama\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "248",
+    "input": "Son tódalas palabras \"esposo\", \"sobriño\", \"bisneto\", \"bolboreta\" e \"matrimonio\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "249",
+    "input": "Son tódalas palabras \"escritorio\", \"escalera\", \"porta\", \"ascensor\" e \"cama\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "25",
+    "input": "Son tódalas palabras \"terremoto\", \"pemento\", \"avalancha\", \"incendio\" e \"tornado\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "250",
+    "input": "Son tódalas palabras \"agulla\", \"acto\", \"pantalla\", \"chave\" e \"arma\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "251",
+    "input": "Son tódalas palabras \"diñeiro\", \"tarifa\", \"demanda\", \"berenxena\" e \"servizo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "252",
+    "input": "Son tódalas palabras \"musical\", \"fantasía\", \"destrución\", \"drama\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "253",
+    "input": "Son tódalas palabras \"acto\", \"ouro\", \"xeo\", \"lume\" e \"sal\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "254",
+    "input": "Son tódalas palabras \"pescozo\", \"beizo\", \"billete\", \"nariz\" e \"músculo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "255",
+    "input": "Son tódalas palabras \"lei\", \"cidade\", \"xirafa\", \"democracia\" e \"provincia\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "257",
+    "input": "Son tódalas palabras \"natureza\", \"clarinete\", \"xungla\", \"laguna\" e \"montaña\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "258",
+    "input": "Son tódalas palabras \"perna\", \"dente\", \"boca\", \"cu\" e \"cabeza\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "26",
+    "input": "Son tódalas palabras \"pantalón\", \"bufanda\", \"peche\", \"lentes\" e \"vestido\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "261",
+    "input": "Son tódalas palabras \"redución\", \"altura\", \"ancho\", \"fondo\" e \"dirección\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "262",
+    "input": "Son tódalas palabras \"pemento\", \"beneficio\", \"cenorias\", \"espinacas\" e \"ravo\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "263",
+    "input": "Son tódalas palabras \"sal\", \"cabelo\", \"xeo\", \"auga\" e \"barro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "264",
+    "input": "Son tódalas palabras \"economía\", \"demanda\", \"billete\", \"diñeiro\" e \"relación\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "265",
+    "input": "Son tódalas palabras \"autobús\", \"bus\", \"tráfico\", \"rúa\" e \"tren\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "268",
+    "input": "Son tódalas palabras \"chumbo\", \"gas\", \"tranvía\", \"ferro\" e \"auga\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "27",
+    "input": "Son tódalas palabras \"determinante\", \"verbo\", \"adverbio\", \"conxunción\" e \"preposición\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "270",
+    "input": "Son tódalas palabras \"fío\", \"agulla\", \"pantalla\", \"cámara\" e \"cravo\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "272",
+    "input": "Son tódalas palabras \"fase\", \"espiña\", \"boneca\", \"codo\" e \"pé\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "273",
+    "input": "Son tódalas palabras \"aburrimento\", \"gramo\", \"mililitro\", \"cantidade\" e \"peso\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "275",
+    "input": "Son tódalas palabras \"bicicleta\", \"barco\", \"aeroporto\", \"vehículo\" e \"gobernadora\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "277",
+    "input": "Son tódalas palabras \"restaurante\", \"autoescola\", \"salón de peiteado\", \"froitaría\" e \"farmacia\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "278",
+    "input": "Son tódalas palabras \"lodo\", \"chumbo\", \"ferro\", \"prata\" e \"vapor\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "280",
+    "input": "Son tódalas palabras \"filla\", \"coñecido\", \"coñecida\", \"curmá\" e \"neto\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "281",
+    "input": "Son tódalas palabras \"traxe de baño\", \"cravo\", \"camisola\", \"roupa\" e \"lentes\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "282",
+    "input": "Son tódalas palabras \"comisión\", \"democracia\", \"norma\", \"comunidade\" e \"club\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "283",
+    "input": "Son tódalas palabras \"gramo\", \"litro\", \"milímetro\", \"quilo\" e \"centímetro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "284",
+    "input": "Son tódalas palabras \"edificio\", \"habitación\", \"dormitorio\", \"porta\" e \"cadeira\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "285",
+    "input": "Son tódalas palabras \"piano\", \"batería\", \"violín\", \"trompeta\" e \"saxofón\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "287",
+    "input": "Son tódalas palabras \"natación\", \"surf\", \"béisbol\", \"ciclismo\" e \"piragüismo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "289",
+    "input": "Son tódalas palabras \"carniceira\", \"cadeira\", \"edificio\", \"habitación\" e \"dormitorio\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "29",
+    "input": "Son tódalas palabras \"avalancha\", \"tornado\", \"terremoto\", \"tsunami\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "290",
+    "input": "Son tódalas palabras \"maioría\", \"velocidade\", \"crecemento\", \"fabas\" e \"tamaño\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "291",
+    "input": "Son tódalas palabras \"color\", \"rosa\", \"vermello\", \"branco\" e \"amarillo\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "292",
+    "input": "Son tódalas palabras \"cabaleiro\", \"nena\", \"xente\", \"individuo\" e \"humanidade\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "293",
+    "input": "Son tódalas palabras \"saxofón\", \"piano\", \"violín\", \"clarinete\" e \"guitarra\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "296",
+    "input": "Son tódalas palabras \"presenza\", \"frauta\", \"batería\", \"saxofón\" e \"trompeta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "297",
+    "input": "Son tódalas palabras \"xente\", \"encontro\", \"autoridade\", \"norma\" e \"comunidade\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "298",
+    "input": "Son tódalas palabras \"sal\", \"retroceso\", \"auga\", \"ferro\" e \"barro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "299",
+    "input": "Son tódalas palabras \"milímetro\", \"lugar\", \"redución\", \"velocidade\" e \"fondo\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "3",
+    "input": "Son tódalas palabras \"nacemento\", \"reprodución\", \"ser\", \"especie\" e \"vida\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "30",
+    "input": "Son tódalas palabras \"mercado\", \"comercio\", \"produción\", \"compañía\" e \"prezo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "301",
+    "input": "Son tódalas palabras \"crise\", \"fío\", \"experiencia\", \"principio\" e \"conxunto\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "309",
+    "input": "Son tódalas palabras \"piano\", \"batería\", \"frauta\", \"preposición\" e \"guitarra\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "31",
+    "input": "Son tódalas palabras \"substantivo\", \"pronombre\", \"verbo\", \"billete\" e \"adverbio\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "312",
+    "input": "Son tódalas palabras \"camiño\", \"autobús\", \"barco\", \"tráfico\" e \"avión\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "314",
+    "input": "Son tódalas palabras \"vida\", \"especie\", \"criatura\", \"morte\" e \"nacemento\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "319",
+    "input": "Son tódalas palabras \"razón\", \"posibilidade\", \"tacto\", \"contido\" e \"función\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "32",
+    "input": "Son tódalas palabras \"venres\", \"xoves\", \"luns\", \"sábado\" e \"martes\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "320",
+    "input": "Son tódalas palabras \"adxectivo\", \"bebé\", \"adverbio\", \"verbo\" e \"preposición\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "321",
+    "input": "Son tódalas palabras \"suspense\", \"terror\", \"drama\", \"musical\" e \"causa\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "323",
+    "input": "Son tódalas palabras \"león\", \"acelgas\", \"araña\", \"can\" e \"elefante\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "324",
+    "input": "Son tódalas palabras \"arma\", \"cordel\", \"bolsa\", \"fío\" e \"cordón\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "325",
+    "input": "Son tódalas palabras \"actor\", \"biólogo\", \"científico\", \"peiteador\" e \"terror\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "326",
+    "input": "Son tódalas palabras \"batería\", \"violín\", \"guitarra\", \"piano\" e \"saxofón\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "327",
+    "input": "Son tódalas palabras \"roupa\", \"patíns\", \"moto\", \"estrada\" e \"estación\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "328",
+    "input": "Son tódalas palabras \"abdome\", \"ollo\", \"pecho\", \"fígado\" e \"oso\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "329",
+    "input": "Son tódalas palabras \"panel\", \"cadeira\", \"edificio\", \"dormitorio\" e \"habitación\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "33",
+    "input": "Son tódalas palabras \"atletismo\", \"fogar\", \"construcción\", \"porta\" e \"casa\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "330",
+    "input": "Son tódalas palabras \"salón de peiteado\", \"restaurante\", \"concello\", \"floraría\" e \"xoiería\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "331",
+    "input": "Son tódalas palabras \"lei\", \"club\", \"vila\", \"constitución\" e \"administración\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "332",
+    "input": "Son tódalas palabras \"palma\", \"pé\", \"cabeza\", \"cabelo\" e \"perna\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "333",
+    "input": "Son tódalas palabras \"meta\", \"espinacas\", \"porro\", \"allo\" e \"millo\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "334",
+    "input": "Son tódalas palabras \"xente\", \"muller\", \"dama\", \"humanidade\" e \"ancián\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "336",
+    "input": "Son tódalas palabras \"lodo\", \"terra\", \"vapor\", \"lume\" e \"xeo\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "338",
+    "input": "Son tódalas palabras \"tornado\", \"uña\", \"tsunami\", \"terremoto\" e \"inundación\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "339",
+    "input": "Son tódalas palabras \"océano\", \"praia\", \"campo\", \"bosque\" e \"natureza\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "34",
+    "input": "Son tódalas palabras \"musical\", \"suspense\", \"drama\", \"terror\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "342",
+    "input": "Son tódalas palabras \"avalancha\", \"terremoto\", \"inundación\", \"tsunami\" e \"tornado\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "343",
+    "input": "Son tódalas palabras \"adverbio\", \"substantivo\", \"pronombre\", \"verbo\" e \"conxunción\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "344",
+    "input": "Son tódalas palabras \"actor\", \"alcalde\", \"varredora\", \"congresista\" e \"empresario\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "345",
+    "input": "Son tódalas palabras \"martes\", \"domingo\", \"mércores\", \"xoves\" e \"campaña\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "346",
+    "input": "Son tódalas palabras \"remolacha\", \"sensación\", \"chícharos\", \"repolo\" e \"espárrago\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "347",
+    "input": "Son tódalas palabras \"comedia\", \"terremoto\", \"musical\", \"drama\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "348",
+    "input": "Son tódalas palabras \"substantivo\", \"vista\", \"verbo\", \"conxunción\" e \"preposición\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "35",
+    "input": "Son tódalas palabras \"ruta\", \"coche\", \"tren\", \"estación\" e \"aeroporto\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "350",
+    "input": "Son tódalas palabras \"creación\", \"neno\", \"home\", \"ancián\" e \"muller\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "351",
+    "input": "Son tódalas palabras \"amiga\", \"bisneta\", \"irmá\", \"coñecido\" e \"avó\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "352",
+    "input": "Son tódalas palabras \"rato\", \"lagosta\", \"bolboreta\", \"cabalo\" e \"interrupción\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "354",
+    "input": "Son tódalas palabras \"substantivo\", \"pronombre\", \"preposición\", \"adxectivo\" e \"verbo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "355",
+    "input": "Son tódalas palabras \"tornado\", \"progreso\", \"terremoto\", \"avalancha\" e \"inundación\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "356",
+    "input": "Son tódalas palabras \"falcón\", \"insecto\", \"camarón\", \"corvo\" e \"cabalo\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "357",
+    "input": "Son tódalas palabras \"agulla\", \"corda\", \"cordel\", \"pai\" e \"fío\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "358",
+    "input": "Son tódalas palabras \"terror\", \"musical\", \"fantasía\", \"drama\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "36",
+    "input": "Son tódalas palabras \"vila\", \"empresa\", \"obriga\", \"autoridade\" e \"poboación\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "360",
+    "input": "Son tódalas palabras \"cabeza\", \"músculo\", \"xeonllo\", \"bigote\" e \"pel\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "361",
+    "input": "Son tódalas palabras \"camiño\", \"violín\", \"saxofón\", \"trompeta\" e \"guitarra\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "362",
+    "input": "Son tódalas palabras \"estado\", \"boca\", \"dente\", \"uña\" e \"coxa\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "364",
+    "input": "Son tódalas palabras \"humano\", \"tránsito\", \"tranvía\", \"patinete\" e \"estrada\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "365",
+    "input": "Son tódalas palabras \"skate\", \"automóbil\", \"centímetro\", \"parada\" e \"avión\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "366",
+    "input": "Son tódalas palabras \"negro\", \"rosa\", \"amarillo\", \"branco\" e \"color\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "367",
+    "input": "Son tódalas palabras \"inundación\", \"tsunami\", \"tornado\", \"terremoto\" e \"seca\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "369",
+    "input": "Son tódalas palabras \"persoa\", \"señora\", \"dama\", \"neno\" e \"adulto\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "37",
+    "input": "Son tódalas palabras \"lugar\", \"posición\", \"maioría\", \"movemento\" e \"fondo\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "370",
+    "input": "Son tódalas palabras \"bisabuelo\", \"irmán\", \"bar\", \"fillo\" e \"curmá\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "373",
+    "input": "Son tódalas palabras \"verbo\", \"preposición\", \"conxunción\", \"determinante\" e \"gobernadora\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "374",
+    "input": "Son tódalas palabras \"froitaría\", \"herboristaría\", \"rúa\", \"charcutaría\" e \"banco\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "375",
+    "input": "Son tódalas palabras \"ciclismo\", \"código\", \"experiencia\", \"característica\" e \"tema\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "377",
+    "input": "Son tódalas palabras \"campaña\", \"municipio\", \"personalidade\", \"ditadura\" e \"nación\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "378",
+    "input": "Son tódalas palabras \"repolo\", \"millo\", \"brócoli\", \"espinacas\" e \"remolacha\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "379",
+    "input": "Son tódalas palabras \"domingo\", \"martes\", \"xoves\", \"marrón\" e \"venres\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "38",
+    "input": "Son tódalas palabras \"peche\", \"campaña\", \"país\", \"poboación\" e \"dereito\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "380",
+    "input": "Son tódalas palabras \"minoría\", \"ancho\", \"movemento\", \"dirección\" e \"largo\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "381",
+    "input": "Son tódalas palabras \"drama\", \"suspense\", \"musical\", \"terror\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "382",
+    "input": "Son tódalas palabras \"incendio\", \"avalancha\", \"huracán\", \"inundación\" e \"tsunami\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "383",
+    "input": "Son tódalas palabras \"ser\", \"rato\", \"reprodución\", \"vida\" e \"especie\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "384",
+    "input": "Son tódalas palabras \"agulla\", \"bolsa\", \"avenida\", \"pomo\" e \"cordón\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "385",
+    "input": "Son tódalas palabras \"tornado\", \"tsunami\", \"fase\", \"seca\" e \"incendio\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "387",
+    "input": "Son tódalas palabras \"prezo\", \"morte\", \"vida\", \"especie\" e \"criatura\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "388",
+    "input": "Son tódalas palabras \"río\", \"bosque\", \"mar\", \"costa\" e \"campo\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "39",
+    "input": "Son tódalas palabras \"ravo\", \"espinacas\", \"patacas\", \"repolo\" e \"cenorias\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "393",
+    "input": "Son tódalas palabras \"paz\", \"susto\", \"significado\", \"principio\" e \"corte\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "395",
+    "input": "Son tódalas palabras \"cordón\", \"corda\", \"crecemento\", \"chave\" e \"fío\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "396",
+    "input": "Son tódalas palabras \"caixeira\", \"avó\", \"neto\", \"avoa\" e \"esposa\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "398",
+    "input": "Son tódalas palabras \"terror\", \"musical\", \"suspense\", \"comedia\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "399",
+    "input": "Son tódalas palabras \"natación\", \"boxeo\", \"birlo\", \"críquet\" e \"administrativo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "40",
+    "input": "Son tódalas palabras \"democracia\", \"ditadura\", \"poboación\", \"fontaneira\" e \"municipio\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "400",
+    "input": "Son tódalas palabras \"billar\", \"críquet\", \"hockey\", \"voleibol\" e \"fútbol\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "404",
+    "input": "Son tódalas palabras \"berenxena\", \"repolo\", \"cabaciñas\", \"chícharos\" e \"cenorias\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "405",
+    "input": "Son tódalas palabras \"mercado\", \"valor\", \"tarifa\", \"prezo\" e \"billete\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "406",
+    "input": "Son tódalas palabras \"martes\", \"concello\", \"luns\", \"venres\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "407",
+    "input": "Son tódalas palabras \"milímetro\", \"cantidade\", \"centímetro\", \"quilo\" e \"boca\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "409",
+    "input": "Son tódalas palabras \"gris\", \"mono\", \"elefante\", \"can\" e \"sardiña\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "411",
+    "input": "Son tódalas palabras \"biólogo\", \"cociñeira\", \"fotógrafo\", \"caixeira\" e \"gimnasia\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "412",
+    "input": "Son tódalas palabras \"costa\", \"orella\", \"mar\", \"océano\" e \"montaña\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "415",
+    "input": "Son tódalas palabras \"gramo\", \"bombeira\", \"centímetro\", \"medida\" e \"milímetro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "416",
+    "input": "Son tódalas palabras \"frauta\", \"saxofón\", \"violín\", \"trompeta\" e \"piano\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "418",
+    "input": "Son tódalas palabras \"neta\", \"curmán\", \"sobriña\", \"sector\" e \"pai\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "419",
+    "input": "Son tódalas palabras \"cremalleira\", \"calzón\", \"lapela\", \"mochila\" e \"suxeitador\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "42",
+    "input": "Son tódalas palabras \"suspense\", \"terror\", \"fantasía\", \"comedia\" e \"bisneta\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "421",
+    "input": "Son tódalas palabras \"conxunción\", \"programador\", \"pronombre\", \"adxectivo\" e \"determinante\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "422",
+    "input": "Son tódalas palabras \"apio\", \"pemento\", \"patacas\", \"espárrago\" e \"repolo\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "423",
+    "input": "Son tódalas palabras \"salón de peiteado\", \"estanco\", \"libraría\", \"hospital\" e \"panadería\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "424",
+    "input": "Son tódalas palabras \"acerto\", \"razón\", \"logro\", \"consecuencia\" e \"efecto\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "425",
+    "input": "Son tódalas palabras \"ovella\", \"gato\", \"ra\", \"galiña\" e \"serpe\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "426",
+    "input": "Son tódalas palabras \"produto\", \"produción\", \"decreto\", \"diñeiro\" e \"economía\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "427",
+    "input": "Son tódalas palabras \"pescozo\", \"pel\", \"barba\", \"partido\" e \"cara\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "428",
+    "input": "Son tódalas palabras \"voleibol\", \"vela\", \"edificio\", \"birlo\" e \"patinaxe\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "429",
+    "input": "Son tódalas palabras \"camisa\", \"botón\", \"gravata\", \"calzón\" e \"roupa\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "43",
+    "input": "Son tódalas palabras \"atletismo\", \"golf\", \"gimnasia\", \"esquí\" e \"waterpolo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "430",
+    "input": "Son tódalas palabras \"peixaría\", \"prenda\", \"hospital\", \"concello\" e \"bar\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "431",
+    "input": "Son tódalas palabras \"gris\", \"branco\", \"pomo\", \"laranxa\" e \"marrón\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "432",
+    "input": "Son tódalas palabras \"pensamiento\", \"parte\", \"futuro\", \"olfacto\" e \"realidade\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "433",
+    "input": "Son tódalas palabras \"verbo\", \"preposición\", \"adxectivo\", \"amiga\" e \"substantivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "434",
+    "input": "Son tódalas palabras \"senador\", \"substantivo\", \"conxunción\", \"verbo\" e \"pronombre\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "435",
+    "input": "Son tódalas palabras \"peiteador\", \"senador\", \"gobernadora\", \"gasolineira\" e \"panadeiro\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "436",
+    "input": "Son tódalas palabras \"vaca\", \"lentes\", \"lagosta\", \"galiña\" e \"polbo\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "437",
+    "input": "Son tódalas palabras \"fogar\", \"ascensor\", \"panel\", \"apartamento\" e \"adverbio\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "439",
+    "input": "Son tódalas palabras \"cordel\", \"cámara\", \"vapor\", \"corda\" e \"arma\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "44",
+    "input": "Son tódalas palabras \"dirección\", \"maioría\", \"velocidade\", \"altura\" e \"largo\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "440",
+    "input": "Son tódalas palabras \"tsunami\", \"abdome\", \"terremoto\", \"huracán\" e \"tornado\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "441",
+    "input": "Son tódalas palabras \"provincia\", \"país\", \"consello\", \"béisbol\" e \"norma\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "443",
+    "input": "Son tódalas palabras \"individuo\", \"panadeiro\", \"persoa\", \"ancián\" e \"muller\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "445",
+    "input": "Son tódalas palabras \"gramo\", \"medida\", \"quilo\", \"lume\" e \"litro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "446",
+    "input": "Son tódalas palabras \"escola\", \"supermercado\", \"comisaría\", \"estanco\" e \"autoescola\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "447",
+    "input": "Son tódalas palabras \"cinto\", \"vapor\", \"lume\", \"barro\" e \"sal\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "448",
+    "input": "Son tódalas palabras \"mércores\", \"martes\", \"luns\", \"memoria\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "449",
+    "input": "Son tódalas palabras \"cantidade\", \"quilómetro\", \"milímetro\", \"quilo\" e \"medida\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "45",
+    "input": "Son tódalas palabras \"suspense\", \"musical\", \"drama\", \"fantasía\" e \"xeonllo\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "453",
+    "input": "Son tódalas palabras \"criatura\", \"nacemento\", \"vida\", \"especie\" e \"reprodución\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "454",
+    "input": "Son tódalas palabras \"rúa\", \"taxi\", \"pecho\", \"barco\" e \"avenida\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "455",
+    "input": "Son tódalas palabras \"morte\", \"ser\", \"actividade\", \"vida\" e \"nacemento\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "458",
+    "input": "Son tódalas palabras \"incendio\", \"adxectivo\", \"seca\", \"tornado\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "459",
+    "input": "Son tódalas palabras \"escalera\", \"habitación\", \"panel\", \"cama\" e \"dormitorio\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "460",
+    "input": "Son tódalas palabras \"chumbo\", \"mecánica\", \"terra\", \"prata\" e \"auga\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "462",
+    "input": "Son tódalas palabras \"huracán\", \"avalancha\", \"terremoto\", \"incendio\" e \"inundación\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "463",
+    "input": "Son tódalas palabras \"corda\", \"agulla\", \"fío\", \"cordón\" e \"bolsa\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "464",
+    "input": "Son tódalas palabras \"acerto\", \"vía\", \"estación\", \"tranvía\" e \"autoestrada\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "465",
+    "input": "Son tódalas palabras \"espiña\", \"beizo\", \"fígado\", \"lombo\" e \"coñecida\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "467",
+    "input": "Son tódalas palabras \"compañía\", \"sector\", \"consumo\", \"prezo\" e \"valor\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "468",
+    "input": "Son tódalas palabras \"terror\", \"musical\", \"suspense\", \"ombreiro\" e \"comedia\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "469",
+    "input": "Son tódalas palabras \"aceleración\", \"rugby\", \"dirección\", \"crecemento\" e \"altura\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "470",
+    "input": "Son tódalas palabras \"constitución\", \"equipo\", \"saxofón\", \"estrutura\" e \"prohibición\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "471",
+    "input": "Son tódalas palabras \"tranvía\", \"avión\", \"aeroporto\", \"estación\" e \"automóbil\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "473",
+    "input": "Son tódalas palabras \"entrada\", \"apartamento\", \"edificio\", \"panel\" e \"porta\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "474",
+    "input": "Son tódalas palabras \"director\", \"fotógrafo\", \"programador\", \"carpinteira\" e \"carteiro\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "475",
+    "input": "Son tódalas palabras \"parte\", \"alegría\", \"oído\", \"solución\" e \"crise\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "476",
+    "input": "Son tódalas palabras \"coche\", \"avión\", \"patíns\", \"bicicleta\" e \"tránsito\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "477",
+    "input": "Son tódalas palabras \"cadeira\", \"apartamento\", \"construcción\", \"fiestra\" e \"vestido\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "478",
+    "input": "Son tódalas palabras \"xente\", \"muller\", \"home\", \"adulto\" e \"dama\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "479",
+    "input": "Son tódalas palabras \"saxofón\", \"frauta\", \"piano\", \"clarinete\" e \"besta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "48",
+    "input": "Son tódalas palabras \"seguridade\", \"espera\", \"actividade\", \"personalidade\" e \"mochila\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "480",
+    "input": "Son tódalas palabras \"fotógrafo\", \"cociñeira\", \"parlamentario\", \"carniceira\" e \"empresario\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "481",
+    "input": "Son tódalas palabras \"lonxitude\", \"fondo\", \"movemento\", \"espinacas\" e \"crecemento\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "482",
+    "input": "Son tódalas palabras \"lapela\", \"veo\", \"traxe de baño\", \"chaqueta\" e \"concello\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "484",
+    "input": "Son tódalas palabras \"meta\", \"proceso\", \"transcurso\", \"orixe\" e \"parte\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "485",
+    "input": "Son tódalas palabras \"atún\", \"besta\", \"peixe\", \"bolboreta\" e \"lagosta\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "486",
+    "input": "Son tódalas palabras \"mililitro\", \"gramo\", \"litro\", \"reprodución\" e \"centímetro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "488",
+    "input": "Son tódalas palabras \"edificio\", \"construcción\", \"panel\", \"habitación\" e \"casa\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "489",
+    "input": "Son tódalas palabras \"cintura\", \"cabelo\", \"codo\", \"corpo\" e \"dirección\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "49",
+    "input": "Son tódalas palabras \"tsunami\", \"terremoto\", \"tornado\", \"huracán\" e \"inundación\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "490",
+    "input": "Son tódalas palabras \"costa\", \"deserto\", \"laguna\", \"cidade\" e \"océano\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "491",
+    "input": "Son tódalas palabras \"suspense\", \"fantasía\", \"comedia\", \"terror\" e \"drama\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "492",
+    "input": "Son tódalas palabras \"realidade\", \"lodo\", \"metal\", \"auga\" e \"ouro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "493",
+    "input": "Son tódalas palabras \"baloncesto\", \"voleibol\", \"esgrima\", \"piragüismo\" e \"reprodución\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "496",
+    "input": "Son tódalas palabras \"gasolineira\", \"peiteador\", \"xuíz\", \"carteiro\" e \"caixeira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "497",
+    "input": "Son tódalas palabras \"tsunami\", \"seca\", \"huracán\", \"ferrocarril\" e \"incendio\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "499",
+    "input": "Son tódalas palabras \"branco\", \"amarillo\", \"demanda\", \"negro\" e \"azul\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "50",
+    "input": "Son tódalas palabras \"patinete\", \"ruta\", \"rúa\", \"bus\" e \"vehículo\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "500",
+    "input": "Son tódalas palabras \"pomo\", \"chave\", \"pantalla\", \"bolsa\" e \"fío\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "501",
+    "input": "Son tódalas palabras \"anciá\", \"adolescente\", \"persoa\", \"neno\" e \"home\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "503",
+    "input": "Son tódalas palabras \"parada\", \"tránsito\", \"autoestrada\", \"cama\" e \"rúa\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "504",
+    "input": "Son tódalas palabras \"persoa\", \"bebé\", \"home\", \"señora\" e \"ancián\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "505",
+    "input": "Son tódalas palabras \"comercio\", \"valor\", \"mercado\", \"supermercado\" e \"tarifa\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "506",
+    "input": "Son tódalas palabras \"ferro\", \"lume\", \"cuarto\", \"chumbo\" e \"auga\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "507",
+    "input": "Son tódalas palabras \"don\", \"muller\", \"largo\", \"home\" e \"humano\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "508",
+    "input": "Son tódalas palabras \"xungla\", \"auga\", \"ouro\", \"lodo\" e \"sal\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "51",
+    "input": "Son tódalas palabras \"nena\", \"lodo\", \"humano\", \"bebé\" e \"anciá\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "510",
+    "input": "Son tódalas palabras \"lume\", \"barro\", \"terra\", \"sal\" e \"gas\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "511",
+    "input": "Son tódalas palabras \"quilo\", \"mililitro\", \"centímetro\", \"total\" e \"fabas\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "512",
+    "input": "Son tódalas palabras \"lago\", \"xungla\", \"monte\", \"montaña\" e \"bosque\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "513",
+    "input": "Son tódalas palabras \"estómago\", \"corazón\", \"cabelo\", \"ollo\" e \"músculo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "514",
+    "input": "Son tódalas palabras \"bebé\", \"señor\", \"señora\", \"dama\" e \"política\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "515",
+    "input": "Son tódalas palabras \"ancho\", \"aceleración\", \"peso\", \"minoría\" e \"lugar\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "516",
+    "input": "Son tódalas palabras \"lentes\", \"manga\", \"zapatilla\", \"vestido\" e \"pel\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "517",
+    "input": "Son tódalas palabras \"mércores\", \"luns\", \"xoves\", \"domingo\" e \"martes\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "518",
+    "input": "Son tódalas palabras \"pronombre\", \"determinante\", \"adverbio\", \"conxunción\" e \"substantivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "519",
+    "input": "Son tódalas palabras \"suspense\", \"musical\", \"fantasía\", \"drama\" e \"comedia\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "521",
+    "input": "Son tódalas palabras \"rugby\", \"boxeo\", \"críquet\", \"billar\" e \"cara\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "522",
+    "input": "Son tódalas palabras \"boneca\", \"uña\", \"barba\", \"man\" e \"cintura\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "523",
+    "input": "Son tódalas palabras \"alto\", \"pel\", \"aceleración\", \"tamaño\" e \"posición\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "524",
+    "input": "Son tódalas palabras \"incendio\", \"seca\", \"tornado\", \"avalancha\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "525",
+    "input": "Son tódalas palabras \"suspense\", \"terror\", \"fantasía\", \"drama\" e \"comedia\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "526",
+    "input": "Son tódalas palabras \"río\", \"patinete\", \"deserto\", \"costa\" e \"monte\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "527",
+    "input": "Son tódalas palabras \"arma\", \"chave\", \"cordón\", \"fío\" e \"pantalla\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "529",
+    "input": "Son tódalas palabras \"cabaza\", \"colega\", \"allo\", \"leituga\" e \"coliflor\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "53",
+    "input": "Son tódalas palabras \"pescozo\", \"bigote\", \"vestido\", \"corazón\" e \"lombo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "530",
+    "input": "Son tódalas palabras \"transporte\", \"bicicleta\", \"tranvía\", \"tren\" e \"vía\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "532",
+    "input": "Son tódalas palabras \"zapato\", \"vaqueiros\", \"suxeitador\", \"traxe de baño\" e \"pantalón\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "534",
+    "input": "Son tódalas palabras \"terremoto\", \"avalancha\", \"seca\", \"tsunami\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "535",
+    "input": "Son tódalas palabras \"río\", \"selva\", \"xungla\", \"deserto\" e \"lago\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "538",
+    "input": "Son tódalas palabras \"trompeta\", \"saxofón\", \"clarinete\", \"congreso\" e \"frauta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "539",
+    "input": "Son tódalas palabras \"edificio\", \"cadeira\", \"ascensor\", \"casa\" e \"habitación\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "54",
+    "input": "Son tódalas palabras \"parada\", \"bus\", \"transporte\", \"caso\" e \"coche\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "541",
+    "input": "Son tódalas palabras \"moto\", \"aeroporto\", \"ferrocarril\", \"tren\" e \"barco\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "543",
+    "input": "Son tódalas palabras \"equipo\", \"encontro\", \"club\", \"posición\" e \"dereito\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "544",
+    "input": "Son tódalas palabras \"home\", \"muller\", \"anciá\", \"individuo\" e \"cabaleiro\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "547",
+    "input": "Son tódalas palabras \"obxectivo\", \"corte\", \"paz\", \"tristeza\" e \"avance\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "548",
+    "input": "Son tódalas palabras \"acerto\", \"frauta\", \"clarinete\", \"violín\" e \"batería\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "55",
+    "input": "Son tódalas palabras \"man\", \"pé\", \"perna\", \"pecho\" e \"codo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "551",
+    "input": "Son tódalas palabras \"substantivo\", \"preposición\", \"pronombre\", \"conxunción\" e \"verbo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "552",
+    "input": "Son tódalas palabras \"arma\", \"agulla\", \"cordel\", \"forza\" e \"pantalla\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "553",
+    "input": "Son tódalas palabras \"patinete\", \"automóbil\", \"tránsito\", \"tranvía\" e \"barco\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "554",
+    "input": "Son tódalas palabras \"carniceira\", \"peiteador\", \"médica\", \"director\" e \"programa\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "555",
+    "input": "Son tódalas palabras \"senador\", \"gasolineira\", \"cabaleiro\", \"panadeiro\" e \"dentista\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "556",
+    "input": "Son tódalas palabras \"arma\", \"aparato\", \"agulla\", \"corda\" e \"cordel\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "557",
+    "input": "Son tódalas palabras \"gramo\", \"produto\", \"servizo\", \"billete\" e \"transacción\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "558",
+    "input": "Son tódalas palabras \"camareiro\", \"dereito\", \"cargo\", \"lei\" e \"empresa\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "56",
+    "input": "Son tódalas palabras \"lentes\", \"sentido\", \"vaqueiros\", \"prenda\" e \"bolso\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "560",
+    "input": "Son tódalas palabras \"mercado\", \"consumo\", \"demanda\", \"pracer\" e \"produción\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "561",
+    "input": "Son tódalas palabras \"man\", \"total\", \"mililitro\", \"centímetro\" e \"quilómetro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "562",
+    "input": "Son tódalas palabras \"agulla\", \"obxectivo\", \"corda\", \"cordón\" e \"fío\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "566",
+    "input": "Son tódalas palabras \"saxofón\", \"trompeta\", \"piano\", \"clarinete\" e \"golf\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "567",
+    "input": "Son tódalas palabras \"milímetro\", \"cantidade\", \"litro\", \"peso\" e \"programa\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "568",
+    "input": "Son tódalas palabras \"vida\", \"criatura\", \"reprodución\", \"especie\" e \"morte\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "569",
+    "input": "Son tódalas palabras \"terremoto\", \"incendio\", \"huracán\", \"inundación\" e \"avalancha\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "57",
+    "input": "Son tódalas palabras \"luns\", \"venres\", \"martes\", \"peixaría\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "571",
+    "input": "Son tódalas palabras \"billete\", \"diñeiro\", \"servizo\", \"transacción\" e \"demanda\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "572",
+    "input": "Son tódalas palabras \"administración\", \"escritorio\", \"edificio\", \"casa\" e \"cama\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "576",
+    "input": "Son tódalas palabras \"chumbo\", \"sensación\", \"creación\", \"parte\" e \"seguridade\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "577",
+    "input": "Son tódalas palabras \"domingo\", \"mércores\", \"martes\", \"luns\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "578",
+    "input": "Son tódalas palabras \"río\", \"natureza\", \"mar\", \"océano\" e \"negro\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "579",
+    "input": "Son tódalas palabras \"coñecida\", \"desexo\", \"irmá\", \"filla\" e \"esposo\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "580",
+    "input": "Son tódalas palabras \"chave\", \"apartamento\", \"edificio\", \"porta\" e \"cuarto\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "581",
+    "input": "Son tódalas palabras \"automóbil\", \"aeroporto\", \"parada\", \"avión\" e \"moto\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "583",
+    "input": "Son tódalas palabras \"xoves\", \"mércores\", \"domingo\", \"venres\" e \"luns\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "584",
+    "input": "Son tódalas palabras \"peso\", \"litro\", \"quilómetro\", \"milímetro\" e \"total\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "585",
+    "input": "Son tódalas palabras \"oficina\", \"banco\", \"restaurante\", \"comisaría\" e \"ombreiro\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "587",
+    "input": "Son tódalas palabras \"herboristaría\", \"estanco\", \"libraría\", \"carnizaría\" e \"tenda\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "589",
+    "input": "Son tódalas palabras \"señor\", \"sobriña\", \"dona\", \"bebé\" e \"muller\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "59",
+    "input": "Son tódalas palabras \"escalera\", \"fiestra\", \"cadeira\", \"espiña\" e \"casa\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "590",
+    "input": "Son tódalas palabras \"necesidade\", \"obxecto\", \"diferenza\", \"susto\" e \"fin\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "591",
+    "input": "Son tódalas palabras \"marrón\", \"rosa\", \"branco\", \"gris\" e \"azul\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "592",
+    "input": "Son tódalas palabras \"lago\", \"natureza\", \"campo\", \"océano\" e \"xungla\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "593",
+    "input": "Son tódalas palabras \"tsunami\", \"tornado\", \"avalancha\", \"inundación\" e \"terremoto\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "594",
+    "input": "Son tódalas palabras \"batería\", \"clarinete\", \"piano\", \"guitarra\" e \"trompeta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "596",
+    "input": "Son tódalas palabras \"boxeo\", \"dereito\", \"críquet\", \"piragüismo\" e \"béisbol\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "597",
+    "input": "Son tódalas palabras \"traxe de baño\", \"peche\", \"calcetíns\", \"camisa\" e \"xersei\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "598",
+    "input": "Son tódalas palabras \"secuencia\", \"verbo\", \"conxunción\", \"adxectivo\" e \"substantivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "599",
+    "input": "Son tódalas palabras \"vapor\", \"lume\", \"ciclismo\", \"terra\" e \"sal\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "6",
+    "input": "Son tódalas palabras \"lombriz\", \"cociñeira\", \"arquitecta\", \"avogada\" e \"dependente\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "60",
+    "input": "Son tódalas palabras \"vida\", \"policía\", \"especie\", \"criatura\" e \"reprodución\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "601",
+    "input": "Son tódalas palabras \"conxunción\", \"substantivo\", \"adverbio\", \"pronombre\" e \"determinante\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "602",
+    "input": "Son tódalas palabras \"remolacha\", \"curmá\", \"porro\", \"cabaciñas\" e \"berenxena\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "603",
+    "input": "Son tódalas palabras \"monte\", \"costa\", \"cabaza\", \"lago\" e \"campo\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "605",
+    "input": "Son tódalas palabras \"preposición\", \"adverbio\", \"conxunción\", \"verbo\" e \"adxectivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "606",
+    "input": "Son tódalas palabras \"humanidade\", \"neno\", \"adulta\", \"dona\" e \"humano\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "609",
+    "input": "Son tódalas palabras \"mosquito\", \"atún\", \"vaca\", \"besta\" e \"camarón\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "61",
+    "input": "Son tódalas palabras \"escola\", \"banco\", \"estanco\", \"hotel\" e \"copistería\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "610",
+    "input": "Son tódalas palabras \"bebé\", \"xente\", \"humanidade\", \"adulto\" e \"home\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "611",
+    "input": "Son tódalas palabras \"costa\", \"león\", \"lago\", \"mar\" e \"río\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "612",
+    "input": "Son tódalas palabras \"billar\", \"bádminton\", \"béisbol\", \"escalada\" e \"ciclismo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "614",
+    "input": "Son tódalas palabras \"razón\", \"perna\", \"man\", \"bigote\" e \"xeonllo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "615",
+    "input": "Son tódalas palabras \"bolsa\", \"cordel\", \"corda\", \"cordón\" e \"cravo\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "617",
+    "input": "Son tódalas palabras \"falcón\", \"lura\", \"corvo\", \"gato\" e \"insecto\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "619",
+    "input": "Son tódalas palabras \"crecemento\", \"dirección\", \"ombreiro\", \"aumento\" e \"lonxitude\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "62",
+    "input": "Son tódalas palabras \"brócoli\", \"bragas\", \"bufanda\", \"gorro\" e \"zapatilla\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "620",
+    "input": "Son tódalas palabras \"preposición\", \"conxunción\", \"determinante\", \"substantivo\" e \"lugar\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "622",
+    "input": "Son tódalas palabras \"oído\", \"defensa\", \"éxito\", \"condición\" e \"recordo\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "623",
+    "input": "Son tódalas palabras \"varredora\", \"peiteador\", \"lombo\", \"panadeiro\" e \"cociñeira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "624",
+    "input": "Son tódalas palabras \"frauta\", \"trompeta\", \"clarinete\", \"piano\" e \"saxofón\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "625",
+    "input": "Son tódalas palabras \"incendio\", \"terremoto\", \"cama\", \"tornado\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "626",
+    "input": "Son tódalas palabras \"aire\", \"terra\", \"prata\", \"vapor\" e \"contido\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "627",
+    "input": "Son tódalas palabras \"comisaría\", \"hospital\", \"carnizaría\", \"oficina\" e \"herboristaría\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "628",
+    "input": "Son tódalas palabras \"compañía\", \"servizo\", \"oído\", \"billete\" e \"prezo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "629",
+    "input": "Son tódalas palabras \"espinacas\", \"orixe\", \"remolacha\", \"patacas\" e \"cebola\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "63",
+    "input": "Son tódalas palabras \"transporte\", \"patíns\", \"bus\", \"irmán\" e \"parada\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "631",
+    "input": "Son tódalas palabras \"mercado\", \"valor\", \"demanda\", \"comercio\" e \"tarifa\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "632",
+    "input": "Son tódalas palabras \"irmán\", \"matrimonio\", \"pai\", \"familia\" e \"lume\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "633",
+    "input": "Son tódalas palabras \"valor\", \"demanda\", \"diñeiro\", \"prezo\" e \"dependente\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "634",
+    "input": "Son tódalas palabras \"transacción\", \"mercado\", \"produción\", \"tarifa\" e \"diñeiro\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "636",
+    "input": "Son tódalas palabras \"costa\", \"lago\", \"océano\", \"mar\" e \"campo\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "638",
+    "input": "Son tódalas palabras \"pescozo\", \"batería\", \"piano\", \"guitarra\" e \"violín\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "639",
+    "input": "Son tódalas palabras \"ser\", \"autoridade\", \"morte\", \"vida\" e \"criatura\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "640",
+    "input": "Son tódalas palabras \"automóbil\", \"patinete\", \"transporte\", \"rúa\" e \"skate\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "641",
+    "input": "Son tódalas palabras \"señora\", \"adulta\", \"adulto\", \"laranxa\" e \"muller\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "643",
+    "input": "Son tódalas palabras \"estado\", \"berenxena\", \"goberno\", \"ditadura\" e \"cidade\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "644",
+    "input": "Son tódalas palabras \"vida\", \"criatura\", \"especie\", \"morte\" e \"nacemento\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "645",
+    "input": "Son tódalas palabras \"monte\", \"laguna\", \"destrución\", \"selva\" e \"xungla\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "646",
+    "input": "Son tódalas palabras \"bisabuelo\", \"nai\", \"esposo\", \"coñecida\" e \"esposa\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "647",
+    "input": "Son tódalas palabras \"pantalla\", \"pomo\", \"fío\", \"chave\" e \"corda\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "649",
+    "input": "Son tódalas palabras \"musical\", \"comedia\", \"terror\", \"tránsito\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "651",
+    "input": "Son tódalas palabras \"hospital\", \"camisa\", \"peixaría\", \"comisaría\" e \"autoescola\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "652",
+    "input": "Son tódalas palabras \"porro\", \"quilo\", \"apio\", \"leituga\" e \"cogombro\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "654",
+    "input": "Son tódalas palabras \"terremoto\", \"seca\", \"huracán\", \"avalancha\" e \"incendio\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "655",
+    "input": "Son tódalas palabras \"chumbo\", \"terra\", \"ferro\", \"gas\" e \"barro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "656",
+    "input": "Son tódalas palabras \"produto\", \"ser\", \"criatura\", \"especie\" e \"reprodución\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "657",
+    "input": "Son tódalas palabras \"avión\", \"barco\", \"transporte\", \"skate\" e \"estación\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "658",
+    "input": "Son tódalas palabras \"código\", \"crocodilo\", \"porco\", \"cervo\" e \"lombriz\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "659",
+    "input": "Son tódalas palabras \"verde\", \"tren\", \"color\", \"branco\" e \"morado\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "66",
+    "input": "Son tódalas palabras \"auga\", \"lume\", \"ouro\", \"ferro\" e \"barro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "660",
+    "input": "Son tódalas palabras \"saxofón\", \"bufanda\", \"pantalón\", \"gorra\" e \"mochila\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "661",
+    "input": "Son tódalas palabras \"xente\", \"obxectivo\", \"adulta\", \"ancián\" e \"nena\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "662",
+    "input": "Son tódalas palabras \"trompeta\", \"violín\", \"guitarra\", \"piano\" e \"autoestrada\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "663",
+    "input": "Son tódalas palabras \"billete\", \"retroceso\", \"compañía\", \"produción\" e \"servizo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "664",
+    "input": "Son tódalas palabras \"produto\", \"cámara\", \"pantalla\", \"bolsa\" e \"pomo\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "665",
+    "input": "Son tódalas palabras \"corda\", \"fío\", \"cravo\", \"lonxitude\" e \"pomo\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "666",
+    "input": "Son tódalas palabras \"barco\", \"avenida\", \"skate\", \"estación\" e \"ruta\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "668",
+    "input": "Son tódalas palabras \"dona\", \"cabaleiro\", \"anciá\", \"muller\" e \"adulta\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "67",
+    "input": "Son tódalas palabras \"conxunción\", \"patinete\", \"pronombre\", \"substantivo\" e \"verbo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "672",
+    "input": "Son tódalas palabras \"luns\", \"xoves\", \"sábado\", \"martes\" e \"domingo\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "673",
+    "input": "Son tódalas palabras \"adverbio\", \"pecho\", \"verbo\", \"substantivo\" e \"conxunción\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "674",
+    "input": "Son tódalas palabras \"corda\", \"gravata\", \"bolsa\", \"cordel\" e \"cámara\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "677",
+    "input": "Son tódalas palabras \"medida\", \"mililitro\", \"centímetro\", \"gramo\" e \"cousa\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "679",
+    "input": "Son tódalas palabras \"vermello\", \"azul\", \"marrón\", \"celeste\" e \"verde\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "680",
+    "input": "Son tódalas palabras \"programa\", \"sorpresa\", \"desenvolvemento\", \"dama\" e \"carácter\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "681",
+    "input": "Son tódalas palabras \"vermello\", \"negro\", \"color\", \"morado\" e \"azul\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "682",
+    "input": "Son tódalas palabras \"pronombre\", \"substantivo\", \"preposición\", \"adverbio\" e \"determinante\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "683",
+    "input": "Son tódalas palabras \"neno\", \"ancián\", \"don\", \"luns\" e \"home\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "684",
+    "input": "Son tódalas palabras \"drama\", \"suspense\", \"comedia\", \"sector\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "686",
+    "input": "Son tódalas palabras \"fin\", \"hockey\", \"atletismo\", \"esgrima\" e \"waterpolo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "687",
+    "input": "Son tódalas palabras \"gas\", \"lodo\", \"ouro\", \"aire\" e \"probabilidade\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "689",
+    "input": "Son tódalas palabras \"barco\", \"tren\", \"estación\", \"tranvía\" e \"autobús\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "69",
+    "input": "Son tódalas palabras \"cadeira\", \"diñeiro\", \"produción\", \"consumo\" e \"mercado\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "690",
+    "input": "Son tódalas palabras \"drama\", \"comedia\", \"terror\", \"fantasía\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "692",
+    "input": "Son tódalas palabras \"crecemento\", \"dirección\", \"mono\", \"maioría\" e \"lugar\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "693",
+    "input": "Son tódalas palabras \"avenida\", \"ruta\", \"transporte\", \"mércores\" e \"parada\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "694",
+    "input": "Son tódalas palabras \"palabra\", \"serie\", \"realidade\", \"similitude\" e \"deterioración\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "695",
+    "input": "Son tódalas palabras \"sal\", \"metal\", \"vapor\", \"prata\" e \"terra\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "696",
+    "input": "Son tódalas palabras \"parella\", \"pai\", \"insecto\", \"bisabuelo\" e \"nai\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "697",
+    "input": "Son tódalas palabras \"músculo\", \"espiña\", \"perna\", \"estómago\" e \"cara\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "699",
+    "input": "Son tódalas palabras \"tornado\", \"incendio\", \"tsunami\", \"huracán\" e \"seca\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "7",
+    "input": "Son tódalas palabras \"pel\", \"orella\", \"perna\", \"estómago\" e \"fígado\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "70",
+    "input": "Son tódalas palabras \"sábado\", \"venres\", \"domingo\", \"luns\" e \"martes\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "700",
+    "input": "Son tódalas palabras \"golf\", \"piragüismo\", \"billar\", \"esquí\" e \"rugby\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "701",
+    "input": "Son tódalas palabras \"milímetro\", \"centímetro\", \"cantidade\", \"quilómetro\" e \"litro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "702",
+    "input": "Son tódalas palabras \"porta\", \"escritorio\", \"escalera\", \"fogar\" e \"cama\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "703",
+    "input": "Son tódalas palabras \"cabaza\", \"problema\", \"cogombro\", \"fabas\" e \"cabaciñas\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "704",
+    "input": "Son tódalas palabras \"ra\", \"cordón\", \"chave\", \"arma\" e \"cámara\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "705",
+    "input": "Son tódalas palabras \"corazón\", \"dente\", \"espiña\", \"músculo\" e \"cabeza\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "708",
+    "input": "Son tódalas palabras \"fútbol\", \"colega\", \"esgrima\", \"gimnasia\" e \"waterpolo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "709",
+    "input": "Son tódalas palabras \"pé\", \"xeonllo\", \"músculo\", \"cabeza\" e \"corazón\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "712",
+    "input": "Son tódalas palabras \"congreso\", \"estado\", \"nación\", \"administración\" e \"empresa\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "714",
+    "input": "Son tódalas palabras \"poboación\", \"permiso\", \"política\", \"sociedade\" e \"lei\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "716",
+    "input": "Son tódalas palabras \"ditadura\", \"comunidade\", \"sobriña\", \"equipo\" e \"liberdade\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "717",
+    "input": "Son tódalas palabras \"porta\", \"dormitorio\", \"habitación\", \"fiestra\" e \"entrada\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "72",
+    "input": "Son tódalas palabras \"mochila\", \"parada\", \"ruta\", \"coche\" e \"moto\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "721",
+    "input": "Son tódalas palabras \"xirafa\", \"can\", \"lagarto\", \"polbo\" e \"mosca\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "722",
+    "input": "Son tódalas palabras \"gramo\", \"quilómetro\", \"litro\", \"lonxitude\" e \"peso\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "725",
+    "input": "Son tódalas palabras \"pronombre\", \"forza\", \"adverbio\", \"verbo\" e \"substantivo\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "731",
+    "input": "Son tódalas palabras \"libraría\", \"froitaría\", \"floraría\", \"estanco\" e \"supermercado\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "732",
+    "input": "Son tódalas palabras \"senador\", \"científico\", \"enxeñeira\", \"médica\" e \"político\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "733",
+    "input": "Son tódalas palabras \"selva\", \"montaña\", \"valor\", \"natureza\" e \"xungla\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "734",
+    "input": "Son tódalas palabras \"sentido\", \"chícharos\", \"espinacas\", \"coliflor\" e \"patacas\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "735",
+    "input": "Son tódalas palabras \"vapor\", \"barro\", \"gas\", \"xeo\" e \"ferro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "736",
+    "input": "Son tódalas palabras \"estrada\", \"vehículo\", \"taxi\", \"tránsito\" e \"ruta\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "738",
+    "input": "Son tódalas palabras \"fantasía\", \"comedia\", \"ciclismo\", \"musical\" e \"terror\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "740",
+    "input": "Son tódalas palabras \"dente\", \"perna\", \"barba\", \"cabeza\" e \"oso\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "741",
+    "input": "Son tódalas palabras \"atún\", \"avelaiña\", \"araña\", \"ovella\" e \"cervo\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "743",
+    "input": "Son tódalas palabras \"prezo\", \"nacemento\", \"comercio\", \"tarifa\" e \"valor\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "744",
+    "input": "Son tódalas palabras \"valor\", \"consumo\", \"billete\", \"comisaría\" e \"economía\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "746",
+    "input": "Son tódalas palabras \"tenis\", \"béisbol\", \"boxeo\", \"ciclismo\" e \"voleibol\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "747",
+    "input": "Son tódalas palabras \"metal\", \"lume\", \"prata\", \"ferro\" e \"vapor\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "748",
+    "input": "Son tódalas palabras \"peso\", \"consecuencia\", \"gramo\", \"quilómetro\" e \"centímetro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "75",
+    "input": "Son tódalas palabras \"guitarra\", \"piano\", \"clarinete\", \"saxofón\" e \"violín\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "750",
+    "input": "Son tódalas palabras \"característica\", \"pai\", \"curmá\", \"filla\" e \"fillo\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "751",
+    "input": "Son tódalas palabras \"fiestra\", \"dormitorio\", \"cadeira\", \"escritorio\" e \"porta\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "752",
+    "input": "Son tódalas palabras \"alto\", \"política\", \"altura\", \"fondo\" e \"posición\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "753",
+    "input": "Son tódalas palabras \"adxectivo\", \"verbo\", \"conxunción\", \"preposición\" e \"pronombre\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "754",
+    "input": "Son tódalas palabras \"suspense\", \"musical\", \"fantasía\", \"terror\" e \"drama\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "755",
+    "input": "Son tódalas palabras \"pomo\", \"patinete\", \"parada\", \"avión\" e \"taxi\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "756",
+    "input": "Son tódalas palabras \"cravo\", \"aeroporto\", \"ruta\", \"autoestrada\" e \"tren\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "757",
+    "input": "Son tódalas palabras \"estación\", \"coello\", \"camarón\", \"polbo\" e \"araña\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "758",
+    "input": "Son tódalas palabras \"lume\", \"prata\", \"barro\", \"sal\" e \"ferro\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "760",
+    "input": "Son tódalas palabras \"xoves\", \"acordo\", \"mércores\", \"martes\" e \"sábado\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "762",
+    "input": "Son tódalas palabras \"comisión\", \"largo\", \"movemento\", \"posición\" e \"velocidade\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "765",
+    "input": "Son tódalas palabras \"camarón\", \"cuarto\", \"apartamento\", \"fogar\" e \"construcción\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "767",
+    "input": "Son tódalas palabras \"león\", \"babosa\", \"tigre\", \"mosquito\" e \"atún\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "768",
+    "input": "Son tódalas palabras \"coche\", \"vía\", \"piano\", \"patinete\" e \"barco\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "771",
+    "input": "Son tódalas palabras \"pemento\", \"cabaciñas\", \"leituga\", \"cenorias\" e \"cabaza\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "772",
+    "input": "Son tódalas palabras \"trompeta\", \"clarinete\", \"saxofón\", \"piano\" e \"batería\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "773",
+    "input": "Son tódalas palabras \"cadeira\", \"escritorio\", \"vela\", \"escalera\" e \"cama\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "774",
+    "input": "Son tódalas palabras \"tamaño\", \"solución\", \"progreso\", \"imaxe\" e \"paso\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "775",
+    "input": "Son tódalas palabras \"característica\", \"prexuízo\", \"parte\", \"seguridade\" e \"meta\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "778",
+    "input": "Son tódalas palabras \"cinto\", \"irmá\", \"zapato\", \"xersei\" e \"vaqueiros\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "78",
+    "input": "Son tódalas palabras \"formalidade\", \"escritorio\", \"edificio\", \"construcción\" e \"habitación\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "780",
+    "input": "Son tódalas palabras \"mililitro\", \"centímetro\", \"milímetro\", \"medida\" e \"litro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "782",
+    "input": "Son tódalas palabras \"bebé\", \"don\", \"adulta\", \"anciá\" e \"humano\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "783",
+    "input": "Son tódalas palabras \"mércores\", \"venres\", \"martes\", \"xoves\" e \"domingo\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "784",
+    "input": "Son tódalas palabras \"meta\", \"vista\", \"obxecto\", \"logro\" e \"fracaso\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "785",
+    "input": "Son tódalas palabras \"peso\", \"mililitro\", \"litro\", \"vela\" e \"total\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "786",
+    "input": "Son tódalas palabras \"clarinete\", \"frauta\", \"trompeta\", \"batería\" e \"saxofón\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "788",
+    "input": "Son tódalas palabras \"colega\", \"amiga\", \"tío\", \"tía\" e \"xeonllo\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "789",
+    "input": "Son tódalas palabras \"cravo\", \"corda\", \"arma\", \"pomo\" e \"pantalla\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "790",
+    "input": "Son tódalas palabras \"biblioteca\", \"paz\", \"charcutaría\", \"tenda\" e \"froitaría\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "791",
+    "input": "Son tódalas palabras \"saxofón\", \"trompeta\", \"frauta\", \"guitarra\" e \"violín\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "792",
+    "input": "Son tódalas palabras \"besta\", \"araña\", \"león\", \"bolboreta\" e \"paxaro\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "794",
+    "input": "Son tódalas palabras \"avenida\", \"ferrocarril\", \"estrada\", \"barco\" e \"patíns\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "795",
+    "input": "Son tódalas palabras \"amarillo\", \"verde\", \"rosa\", \"negro\" e \"morado\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "796",
+    "input": "Son tódalas palabras \"altura\", \"ancho\", \"crecemento\", \"minoría\" e \"tamaño\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "797",
+    "input": "Son tódalas palabras \"suspense\", \"problema\", \"terror\", \"drama\" e \"musical\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "799",
+    "input": "Son tódalas palabras \"cascuda\", \"crocodilo\", \"gorrión\", \"elefante\" e \"rato\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "8",
+    "input": "Son tódalas palabras \"martes\", \"xoves\", \"sábado\", \"domingo\" e \"natureza\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "80",
+    "input": "Son tódalas palabras \"profesor\", \"varredora\", \"xuíz\", \"médica\" e \"director\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "800",
+    "input": "Son tódalas palabras \"gato\", \"camiño\", \"avenida\", \"patíns\" e \"estación\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "801",
+    "input": "Son tódalas palabras \"estado\", \"consello\", \"obriga\", \"dereito\" e \"comunidade\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "803",
+    "input": "Son tódalas palabras \"transcurso\", \"béisbol\", \"birlo\", \"surf\" e \"hockey\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "804",
+    "input": "Son tódalas palabras \"celeste\", \"laranxa\", \"color\", \"morado\" e \"negro\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "805",
+    "input": "Son tódalas palabras \"voleibol\", \"bádminton\", \"camiño\", \"piragüismo\" e \"hockey\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "806",
+    "input": "Son tódalas palabras \"servizo\", \"valor\", \"tarifa\", \"diñeiro\" e \"produto\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "807",
+    "input": "Son tódalas palabras \"incendio\", \"inundación\", \"tornado\", \"seca\" e \"tsunami\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "808",
+    "input": "Son tódalas palabras \"nacemento\", \"cousa\", \"criatura\", \"especie\" e \"reprodución\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "809",
+    "input": "Son tódalas palabras \"incendio\", \"tornado\", \"cousa\", \"tsunami\" e \"seca\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "81",
+    "input": "Son tódalas palabras \"suspense\", \"musical\", \"terror\", \"comedia\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "810",
+    "input": "Son tódalas palabras \"produción\", \"diñeiro\", \"obxectivo\", \"consumo\" e \"prezo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "814",
+    "input": "Son tódalas palabras \"corda\", \"bolsa\", \"pomo\", \"cravo\" e \"arma\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "815",
+    "input": "Son tódalas palabras \"aceleración\", \"crecemento\", \"acelgas\", \"fondo\" e \"tamaño\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "816",
+    "input": "Son tódalas palabras \"cravo\", \"cámara\", \"pantalla\", \"cordón\" e \"fío\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "817",
+    "input": "Son tódalas palabras \"sábado\", \"venres\", \"xoves\", \"luns\" e \"domingo\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "818",
+    "input": "Son tódalas palabras \"maioría\", \"humanidade\", \"dona\", \"xente\" e \"anciá\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "819",
+    "input": "Son tódalas palabras \"avenida\", \"aeroporto\", \"coche\", \"vía\" e \"estrada\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "821",
+    "input": "Son tódalas palabras \"avance\", \"inundación\", \"tsunami\", \"terremoto\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "822",
+    "input": "Son tódalas palabras \"morte\", \"escalada\", \"nacemento\", \"especie\" e \"ser\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "823",
+    "input": "Son tódalas palabras \"cociñeira\", \"fotógrafo\", \"varredora\", \"carniceira\" e \"biólogo\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "825",
+    "input": "Son tódalas palabras \"nai\", \"coñecido\", \"irmá\", \"matrimonio\" e \"bisabuelo\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "826",
+    "input": "Son tódalas palabras \"produto\", \"vaqueiros\", \"billete\", \"comercio\" e \"economía\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "827",
+    "input": "Son tódalas palabras \"irmá\", \"coñecida\", \"coñecido\", \"neto\" e \"tío\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "828",
+    "input": "Son tódalas palabras \"drama\", \"fantasía\", \"médica\", \"musical\" e \"comedia\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "830",
+    "input": "Son tódalas palabras \"pecho\", \"uña\", \"barba\", \"talón\" e \"cabeza\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "831",
+    "input": "Son tódalas palabras \"construcción\", \"fiestra\", \"apartamento\", \"ascensor\" e \"edificio\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "832",
+    "input": "Son tódalas palabras \"baloncesto\", \"atletismo\", \"seguridade\", \"gimnasia\" e \"tenis\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "833",
+    "input": "Son tódalas palabras \"adverbio\", \"conxunción\", \"verbo\", \"determinante\" e \"humano\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "835",
+    "input": "Son tódalas palabras \"huracán\", \"tornado\", \"transporte\", \"terremoto\" e \"seca\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "836",
+    "input": "Son tódalas palabras \"luns\", \"domingo\", \"sábado\", \"mércores\" e \"xoves\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "837",
+    "input": "Son tódalas palabras \"perna\", \"palma\", \"natación\", \"pel\" e \"cabelo\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "839",
+    "input": "Son tódalas palabras \"frauta\", \"trompeta\", \"saxofón\", \"batería\" e \"piano\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "84",
+    "input": "Son tódalas palabras \"constitución\", \"empresa\", \"comisión\", \"ditadura\" e \"norma\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "840",
+    "input": "Son tódalas palabras \"domingo\", \"sábado\", \"autoridade\", \"martes\" e \"mércores\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "841",
+    "input": "Son tódalas palabras \"bus\", \"estación\", \"tráfico\", \"coche\" e \"automóbil\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "842",
+    "input": "Son tódalas palabras \"obxectivo\", \"aspecto\", \"programa\", \"actitude\" e \"concepto\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "843",
+    "input": "Son tódalas palabras \"cabaza\", \"porro\", \"allo\", \"apio\" e \"río\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "845",
+    "input": "Son tódalas palabras \"sobriña\", \"parella\", \"neto\", \"bisneta\" e \"nai\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "846",
+    "input": "Son tódalas palabras \"estación\", \"patíns\", \"ruta\", \"medo\" e \"parada\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "847",
+    "input": "Son tódalas palabras \"venres\", \"mércores\", \"martes\", \"luns\" e \"sábado\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "848",
+    "input": "Son tódalas palabras \"xornalista\", \"director\", \"ministra\", \"carteiro\" e \"varredora\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "849",
+    "input": "Son tódalas palabras \"seca\", \"incendio\", \"tsunami\", \"avalancha\" e \"terremoto\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "85",
+    "input": "Son tódalas palabras \"hospital\", \"autoescola\", \"herboristaría\", \"biblioteca\" e \"peixaría\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "850",
+    "input": "Son tódalas palabras \"fígado\", \"administrativo\", \"xornalista\", \"fotógrafo\" e \"enxeñeira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "851",
+    "input": "Son tódalas palabras \"vermello\", \"morado\", \"branco\", \"celeste\" e \"verde\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "852",
+    "input": "Son tódalas palabras \"adverbio\", \"pronombre\", \"preposición\", \"determinante\" e \"conxunción\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "853",
+    "input": "Son tódalas palabras \"fogar\", \"construcción\", \"cuarto\", \"ascensor\" e \"dormitorio\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "854",
+    "input": "Son tódalas palabras \"aeroporto\", \"avión\", \"autobús\", \"parada\" e \"ferrocarril\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "856",
+    "input": "Son tódalas palabras \"natureza\", \"montaña\", \"deserto\", \"monte\" e \"laguna\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "857",
+    "input": "Son tódalas palabras \"saxofón\", \"guitarra\", \"falta\", \"clarinete\" e \"violín\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "858",
+    "input": "Son tódalas palabras \"comedia\", \"terror\", \"drama\", \"lume\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "860",
+    "input": "Son tódalas palabras \"ser\", \"vida\", \"morte\", \"especie\" e \"rosa\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "862",
+    "input": "Son tódalas palabras \"segredo\", \"imaxe\", \"interrupción\", \"defensa\" e \"solución\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "863",
+    "input": "Son tódalas palabras \"escalada\", \"birlo\", \"golf\", \"lagarto\" e \"waterpolo\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "864",
+    "input": "Son tódalas palabras \"nai\", \"coñecida\", \"avoa\", \"bisavoa\" e \"irmá\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "865",
+    "input": "Son tódalas palabras \"muller\", \"cabaleiro\", \"froitaría\", \"humano\" e \"individuo\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "866",
+    "input": "Son tódalas palabras \"marrón\", \"color\", \"rosa\", \"azul\" e \"celeste\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "867",
+    "input": "Son tódalas palabras \"dirección\", \"maioría\", \"redución\", \"vela\" e \"alto\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "868",
+    "input": "Son tódalas palabras \"lura\", \"cama\", \"entrada\", \"cuarto\" e \"mesa\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "869",
+    "input": "Son tódalas palabras \"litro\", \"peso\", \"cantidade\", \"medida\" e \"millo\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "87",
+    "input": "Son tódalas palabras \"aparato\", \"cordel\", \"corda\", \"cámara\" e \"chave\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "870",
+    "input": "Son tódalas palabras \"medida\", \"centímetro\", \"mililitro\", \"quilo\" e \"gramo\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "872",
+    "input": "Son tódalas palabras \"tren\", \"patíns\", \"patinete\", \"moto\" e \"provincia\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "873",
+    "input": "Son tódalas palabras \"pé\", \"oso\", \"talón\", \"codo\" e \"palma\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "875",
+    "input": "Son tódalas palabras \"centímetro\", \"peso\", \"total\", \"quilómetro\" e \"mililitro\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "876",
+    "input": "Son tódalas palabras \"produción\", \"transacción\", \"economía\", \"prezo\" e \"produto\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "878",
+    "input": "Son tódalas palabras \"fantasía\", \"drama\", \"suspense\", \"musical\" e \"terror\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "882",
+    "input": "Son tódalas palabras \"ser\", \"criatura\", \"morte\", \"vida\" e \"reprodución\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "883",
+    "input": "Son tódalas palabras \"criatura\", \"vida\", \"reprodución\", \"especie\" e \"ser\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "884",
+    "input": "Son tódalas palabras \"sector\", \"guerra\", \"resultado\", \"conxunto\" e \"fin\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "885",
+    "input": "Son tódalas palabras \"coñecida\", \"saxofón\", \"batería\", \"clarinete\" e \"frauta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "887",
+    "input": "Son tódalas palabras \"tráfico\", \"estrada\", \"ruta\", \"tren\" e \"coliflor\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "888",
+    "input": "Son tódalas palabras \"electricista\", \"administrativo\", \"dentista\", \"luvas\" e \"bombeira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "889",
+    "input": "Son tódalas palabras \"musical\", \"drama\", \"suspense\", \"fantasía\" e \"comedia\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "890",
+    "input": "Son tódalas palabras \"compañía\", \"mercado\", \"billete\", \"economía\" e \"produto\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "893",
+    "input": "Son tódalas palabras \"tsunami\", \"seguridade\", \"incendio\", \"seca\" e \"huracán\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "894",
+    "input": "Son tódalas palabras \"vida\", \"criatura\", \"especie\", \"reprodución\" e \"morte\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "895",
+    "input": "Son tódalas palabras \"xeo\", \"lodo\", \"ferro\", \"rúa\" e \"vapor\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "898",
+    "input": "Son tódalas palabras \"habitación\", \"mesa\", \"entrada\", \"apartamento\" e \"fogar\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "899",
+    "input": "Son tódalas palabras \"brócoli\", \"alcachofa\", \"uña\", \"leituga\" e \"fabas\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "90",
+    "input": "Son tódalas palabras \"muller\", \"pai\", \"nai\", \"familia\" e \"coñecido\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "900",
+    "input": "Son tódalas palabras \"bigote\", \"habitación\", \"abdome\", \"barba\" e \"corazón\" do tipo corpo humán? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "901",
+    "input": "Son tódalas palabras \"salón de peiteado\", \"estanco\", \"comisaría\", \"carnizaría\" e \"restaurante\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "903",
+    "input": "Son tódalas palabras \"bosque\", \"sábado\", \"lago\", \"costa\" e \"mar\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "906",
+    "input": "Son tódalas palabras \"praia\", \"laguna\", \"farmacia\", \"río\" e \"selva\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "907",
+    "input": "Son tódalas palabras \"vida\", \"morte\", \"ser\", \"especie\" e \"nacemento\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "909",
+    "input": "Son tódalas palabras \"trompeta\", \"guitarra\", \"piano\", \"violín\" e \"batería\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "91",
+    "input": "Son tódalas palabras \"clarinete\", \"guitarra\", \"piano\", \"batería\" e \"saxofón\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "911",
+    "input": "Son tódalas palabras \"manga\", \"cinto\", \"roupa\", \"peche\" e \"bota\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "913",
+    "input": "Son tódalas palabras \"capacidade\", \"función\", \"secuencia\", \"conflito\" e \"galiña\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "914",
+    "input": "Son tódalas palabras \"dormitorio\", \"fiestra\", \"casa\", \"construcción\" e \"espárrago\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "915",
+    "input": "Son tódalas palabras \"voleibol\", \"hockey\", \"ciclismo\", \"atletismo\" e \"vela\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "917",
+    "input": "Son tódalas palabras \"administrativo\", \"camareiro\", \"parlamentario\", \"arquitecta\" e \"avogada\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "919",
+    "input": "Son tódalas palabras \"trompeta\", \"guitarra\", \"frauta\", \"violín\" e \"clarinete\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "92",
+    "input": "Son tódalas palabras \"ancián\", \"xente\", \"humanidade\", \"cabaleiro\" e \"neno\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "920",
+    "input": "Son tódalas palabras \"especie\", \"vida\", \"morte\", \"reprodución\" e \"criatura\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "922",
+    "input": "Son tódalas palabras \"mono\", \"panel\", \"escalera\", \"ascensor\" e \"porta\" do tipo fogar? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "923",
+    "input": "Son tódalas palabras \"orixe\", \"saxofón\", \"batería\", \"piano\" e \"clarinete\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "924",
+    "input": "Son tódalas palabras \"campo\", \"bosque\", \"océano\", \"laguna\" e \"deserto\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "926",
+    "input": "Son tódalas palabras \"crecemento\", \"maioría\", \"aceleración\", \"movemento\" e \"altura\" do tipo espazo e cantidade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "927",
+    "input": "Son tódalas palabras \"terra\", \"barro\", \"ouro\", \"auga\" e \"metal\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "928",
+    "input": "Son tódalas palabras \"gas\", \"xeo\", \"panel\", \"lodo\" e \"auga\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "930",
+    "input": "Son tódalas palabras \"comedia\", \"lagosta\", \"drama\", \"musical\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "931",
+    "input": "Son tódalas palabras \"patinaxe\", \"vela\", \"atletismo\", \"esgrima\" e \"balonmán\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "932",
+    "input": "Son tódalas palabras \"calcetíns\", \"chaqueta\", \"veo\", \"gravata\" e \"bolso\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "935",
+    "input": "Son tódalas palabras \"pomo\", \"cordón\", \"cámara\", \"corda\" e \"bolsa\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "936",
+    "input": "Son tódalas palabras \"individuo\", \"bebé\", \"don\", \"muller\" e \"adulto\" do tipo xente? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "939",
+    "input": "Son tódalas palabras \"peso\", \"selva\", \"litro\", \"centímetro\" e \"gramo\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "941",
+    "input": "Son tódalas palabras \"lura\", \"babosa\", \"carniceira\", \"gato\" e \"can\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "942",
+    "input": "Son tódalas palabras \"drama\", \"fantasía\", \"terror\", \"comedia\" e \"suspense\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "943",
+    "input": "Son tódalas palabras \"amor\", \"tía\", \"avó\", \"fillo\" e \"neta\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "945",
+    "input": "Son tódalas palabras \"estación\", \"tráfico\", \"ruta\", \"automóbil\" e \"barco\" do tipo transporte? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "946",
+    "input": "Son tódalas palabras \"nivel\", \"neto\", \"filla\", \"matrimonio\" e \"neta\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "947",
+    "input": "Son tódalas palabras \"verde\", \"branco\", \"color\", \"gris\" e \"marrón\" do tipo cores? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "949",
+    "input": "Son tódalas palabras \"calcetíns\", \"ravo\", \"acelgas\", \"alcachofa\" e \"berenxena\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "95",
+    "input": "Son tódalas palabras \"avalancha\", \"inundación\", \"terremoto\", \"incendio\" e \"seca\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "950",
+    "input": "Son tódalas palabras \"vapor\", \"chumbo\", \"metal\", \"avogada\" e \"auga\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "951",
+    "input": "Son tódalas palabras \"charcutaría\", \"comisaría\", \"supermercado\", \"salón de peiteado\" e \"senderismo\" do tipo lugares de traballo? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "952",
+    "input": "Son tódalas palabras \"chave\", \"aparato\", \"cravo\", \"vista\" e \"fío\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "953",
+    "input": "Son tódalas palabras \"diñeiro\", \"valor\", \"prezo\", \"compañía\" e \"demanda\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "954",
+    "input": "Son tódalas palabras \"amor\", \"curmán\", \"filla\", \"coñecido\" e \"inundación\" do tipo familia? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "955",
+    "input": "Son tódalas palabras \"electricista\", \"gasolineira\", \"carteiro\", \"ministra\" e \"fontaneira\" do tipo profesións? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "956",
+    "input": "Son tódalas palabras \"resultado\", \"forza\", \"posibilidade\", \"carácter\" e \"vez\" do tipo substantivos abstractos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "957",
+    "input": "Son tódalas palabras \"besta\", \"saltón\", \"insecto\", \"araña\" e \"lura\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "959",
+    "input": "Son tódalas palabras \"mono\", \"rato\", \"insecto\", \"besta\" e \"avelaiña\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "962",
+    "input": "Son tódalas palabras \"fío\", \"chave\", \"pantalla\", \"pomo\" e \"bolsa\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "963",
+    "input": "Son tódalas palabras \"determinante\", \"comedia\", \"adverbio\", \"conxunción\" e \"pronombre\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "965",
+    "input": "Son tódalas palabras \"ditadura\", \"reunión\", \"cordón\", \"partido\" e \"comunidade\" do tipo sociedade? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "966",
+    "input": "Son tódalas palabras \"fío\", \"cordón\", \"bolsa\", \"chave\" e \"cámara\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "969",
+    "input": "Son tódalas palabras \"alcachofa\", \"allo\", \"cabaza\", \"coliflor\" e \"cintura\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "970",
+    "input": "Son tódalas palabras \"vida\", \"ser\", \"nacemento\", \"reprodución\" e \"especie\" do tipo vida? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "971",
+    "input": "Son tódalas palabras \"lago\", \"monte\", \"costa\", \"selva\" e \"laguna\" do tipo xeografía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "973",
+    "input": "Son tódalas palabras \"brócoli\", \"porro\", \"ravo\", \"alcachofa\" e \"cabaciñas\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "974",
+    "input": "Son tódalas palabras \"luns\", \"sábado\", \"xoves\", \"domingo\" e \"martes\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "976",
+    "input": "Son tódalas palabras \"luns\", \"xoves\", \"vela\", \"venres\" e \"sábado\" do tipo días da semana? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "977",
+    "input": "Son tódalas palabras \"barco\", \"cebola\", \"acelgas\", \"millo\" e \"cogombro\" do tipo verduras? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "978",
+    "input": "Son tódalas palabras \"comedia\", \"musical\", \"drama\", \"terror\" e \"fantasía\" do tipo xéneros de películas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "979",
+    "input": "Son tódalas palabras \"mililitro\", \"cantidade\", \"peso\", \"medida\" e \"caracol\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "981",
+    "input": "Son tódalas palabras \"adulto\", \"voleibol\", \"béisbol\", \"billar\" e \"balonmán\" do tipo deportes? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "985",
+    "input": "Son tódalas palabras \"taxi\", \"polbo\", \"tigre\", \"cervo\" e \"gorrión\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "986",
+    "input": "Son tódalas palabras \"vaca\", \"peixe\", \"gato\", \"elefante\" e \"lagarto\" do tipo animais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "987",
+    "input": "Son tódalas palabras \"incendio\", \"huracán\", \"terremoto\", \"tsunami\" e \"inundación\" do tipo catástrofe natural? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "988",
+    "input": "Son tódalas palabras \"agulla\", \"bolsa\", \"aparato\", \"cravo\" e \"arma\" do tipo ferramentas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "989",
+    "input": "Son tódalas palabras \"terra\", \"ouro\", \"mono\", \"chumbo\" e \"aire\" do tipo materiais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "99",
+    "input": "Son tódalas palabras \"valor\", \"natación\", \"billete\", \"produto\" e \"consumo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "990",
+    "input": "Son tódalas palabras \"cinto\", \"vaqueiros\", \"bragas\", \"pantalón\" e \"zapatilla\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "991",
+    "input": "Son tódalas palabras \"determinante\", \"adverbio\", \"adxectivo\", \"substantivo\" e \"preposición\" do tipo categorías gramaticais? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "992",
+    "input": "Son tódalas palabras \"mililitro\", \"total\", \"gramo\", \"quilo\" e \"nariz\" do tipo medidas? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "994",
+    "input": "Son tódalas palabras \"luvas\", \"bolso\", \"lentes\", \"calcetíns\" e \"calzón\" do tipo roupa? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "995",
+    "input": "Son tódalas palabras \"tema\", \"saxofón\", \"clarinete\", \"piano\" e \"frauta\" do tipo instrumentos? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "996",
+    "input": "Son tódalas palabras \"produción\", \"compañía\", \"consumo\", \"comercio\" e \"prezo\" do tipo economía? Responde \"si\" ou \"non\"."
+  },
+  {
+    "id": "999",
+    "input": "Son tódalas palabras \"total\", \"medida\", \"peso\", \"centímetro\" e \"gramo\" do tipo medidas? Responde \"si\" ou \"non\"."
+  }
+]

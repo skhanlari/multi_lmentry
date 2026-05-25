@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1005",
+    "input": "Le parole \"guardiano\", \"gonna\", \"giacca\", \"reggiseno\" e \"cappello\" rappresentano tutte vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1007",
+    "input": "Le parole \"comunità\", \"sequenza\", \"stato\", \"obbligo\" e \"congresso\" rappresentano tutte termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1016",
+    "input": "Le parole \"grammo\", \"litro\", \"totale\", \"millimetro\" e \"quantità\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1021",
+    "input": "Le parole \"rosso\", \"arancione\", \"violetto\", \"triathlon\" e \"colore\" rappresentano tutte colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1034",
+    "input": "Le parole \"uragano\", \"tornado\", \"decelerazione\", \"valanga\" e \"terremoto\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1065",
+    "input": "Le parole \"terracotta\", \"ferro\", \"argento\", \"fango\" e \"aria\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1066",
+    "input": "Le parole \"tragedia\", \"orrore\", \"tigre\", \"thriller\" e \"noir\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1079",
+    "input": "Le parole \"strada\", \"binario\", \"deserto\", \"monopattino\" e \"tram\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1084",
+    "input": "Le parole \"coscienza\", \"tipo\", \"occasione\", \"danno\" e \"effetto\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1090",
+    "input": "Le parole \"inizio\", \"potenza\", \"netturbino\", \"sorpresa\" e \"successo\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1096",
+    "input": "Le parole \"morte\", \"nascita\", \"riproduzione\", \"essere\" e \"specie\" rappresentano tutte aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1113",
+    "input": "Le parole \"domenica\", \"martedì\", \"giovedì\", \"venerdì\" e \"lunedì\" rappresentano tutte giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1130",
+    "input": "Le parole \"acqua\", \"ghiaccio\", \"aria\", \"fuoco\" e \"terra\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1142",
+    "input": "Le parole \"significato\", \"senso\", \"fine\", \"peggioramento\" e \"ricordo\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1146",
+    "input": "Le parole \"documentario\", \"commedia\", \"tragedia\", \"thriller\" e \"fantascienza\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1149",
+    "input": "Le parole \"infante\", \"individuo\", \"bambina\", \"bimba\" e \"gente\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1151",
+    "input": "Le parole \"matrimonio\", \"amico\", \"amica\", \"padre\" e \"formalità\" rappresentano tutte parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1160",
+    "input": "Le parole \"ragno\", \"babbuino\", \"corvo\", \"golf\" e \"gatto\" rappresentano tutte animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1166",
+    "input": "Le parole \"stivali\", \"guanti\", \"occhiali\", \"pelo\" e \"manica\" rappresentano tutte vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1172",
+    "input": "Le parole \"fattura\", \"dolore\", \"produzione\", \"economia\" e \"commercio\" rappresentano tutte termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1175",
+    "input": "Le parole \"altezza\", \"incremento\", \"maggioranza\", \"aumento\" e \"lunghezza\" rappresentano tutte spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1187",
+    "input": "Le parole \"magenta\", \"grigio\", \"verde\", \"colore\" e \"pensiero\" rappresentano tutte colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1188",
+    "input": "Le parole \"terracotta\", \"origine\", \"aria\", \"ferro\" e \"acqua\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1189",
+    "input": "Le parole \"occhiali\", \"ragno\", \"cintura\", \"gonna\" e \"manica\" rappresentano tutte vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1194",
+    "input": "Le parole \"lacci\", \"reggiseno\", \"stivali\", \"calzini\" e \"slip\" rappresentano tutte vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1197",
+    "input": "Le parole \"ascensore\", \"scrivania\", \"finestra\", \"porta\" e \"stanza\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1212",
+    "input": "Le parole \"scale\", \"scrivania\", \"letto\", \"stanza\" e \"polipo\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1214",
+    "input": "Le parole \"scarpata\", \"monte\", \"giungla\", \"canale\" e \"valle\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1229",
+    "input": "Le parole \"risultato\", \"capacità\", \"desiderio\", \"origine\" e \"retrocessione\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1231",
+    "input": "Le parole \"hockey\", \"equitazione\", \"judo\", \"tennis\" e \"pallamano\" rappresentano tutte sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1243",
+    "input": "Le parole \"aggettivo\", \"verbo\", \"pronome\", \"preposizione\" e \"congiunzione\" rappresentano tutte classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1250",
+    "input": "Le parole \"centimetro\", \"sedere\", \"totale\", \"media\" e \"grammo\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1262",
+    "input": "Le parole \"valanga\", \"uragano\", \"maremoto\", \"slavina\" e \"inondazione\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1278",
+    "input": "Le parole \"siccità\", \"maremoto\", \"tornado\", \"terremoto\" e \"inondazione\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1285",
+    "input": "Le parole \"umanità\", \"popolo\", \"dittatura\", \"politica\" e \"legge\" rappresentano tutte termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1286",
+    "input": "Le parole \"valore\", \"prezzo\", \"fattura\", \"costo\" e \"domanda\" rappresentano tutte termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1298",
+    "input": "Le parole \"chitarra\", \"flauto\", \"pianoforte\", \"infermiere\" e \"sassofono\" rappresentano tutte strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1304",
+    "input": "Le parole \"autobus\", \"maremoto\", \"uragano\", \"siccità\" e \"valanga\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1311",
+    "input": "Le parole \"servizio\", \"industria\", \"consumo\", \"costo\" e \"compagnia\" rappresentano tutte termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1317",
+    "input": "Le parole \"foresta\", \"montagna\", \"natura\", \"costa\" e \"bosco\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1331",
+    "input": "Le parole \"drammatico\", \"thriller\", \"commedia\", \"noir\" e \"amministratore\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1341",
+    "input": "Le parole \"interesse\", \"supermercato\", \"libreria\", \"ufficio\" e \"erboristeria\" rappresentano tutte posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1347",
+    "input": "Le parole \"tuta\", \"giacca\", \"lembo\", \"cappello\" e \"berretto\" rappresentano tutte vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1348",
+    "input": "Le parole \"imprenditore\", \"muratore\", \"meccanico\", \"cuoco\" e \"netturbino\" rappresentano tutte professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1354",
+    "input": "Le parole \"mucca\", \"calamaro\", \"leopardo\", \"tigre\" e \"farfalla\" rappresentano tutte animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1356",
+    "input": "Le parole \"oceano\", \"collina\", \"mare\", \"laguna\" e \"bosco\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1359",
+    "input": "Le parole \"panetteria\", \"hotel\", \"fegato\", \"oreficeria\" e \"banca\" rappresentano tutte posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1361",
+    "input": "Le parole \"mais\", \"sassofono\", \"arpa\", \"violino\" e \"tromba\" rappresentano tutte strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1367",
+    "input": "Le parole \"letto\", \"bagno\", \"scale\", \"edificio\" e \"scrivania\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1385",
+    "input": "Le parole \"matrimonio\", \"nuora\", \"nipote\", \"zio\" e \"porta\" rappresentano tutte parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1411",
+    "input": "Le parole \"bambino\", \"adulto\", \"donna\", \"umano\" e \"individuo\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1414",
+    "input": "Le parole \"montagna\", \"foresta\", \"valle\", \"scarpata\" e \"campo\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1416",
+    "input": "Le parole \"occhio\", \"pancia\", \"ginocchio\", \"stinco\" e \"capelli\" rappresentano tutte parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1421",
+    "input": "Le parole \"sedia\", \"casa\", \"porta\", \"divano\" e \"sorella\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1430",
+    "input": "Le parole \"scacchi\", \"arrampicata\", \"pallavolo\", \"pattinaggio\" e \"ciclismo\" rappresentano tutte sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1433",
+    "input": "Le parole \"fermata\", \"bus\", \"traffico\", \"parte\" e \"aereo\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1446",
+    "input": "Le parole \"architetto\", \"dottoressa\", \"ricercatore\", \"barbiere\" e \"panettiere\" rappresentano tutte professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1454",
+    "input": "Le parole \"pollice\", \"gomito\", \"dito\", \"stomaco\" e \"pancia\" rappresentano tutte parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1458",
+    "input": "Le parole \"lunedì\", \"mercoledì\", \"volano\", \"sabato\" e \"venerdì\" rappresentano tutte giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1473",
+    "input": "Le parole \"terremoto\", \"siccità\", \"uragano\", \"valanga\" e \"stivali\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1481",
+    "input": "Le parole \"domenica\", \"mercoledì\", \"giovedì\", \"sabato\" e \"lunedì\" rappresentano tutte giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1486",
+    "input": "Le parole \"significato\", \"crisi\", \"guerra\", \"biliardo\" e \"codice\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1510",
+    "input": "Le parole \"cucchiaio\", \"corda\", \"filo\", \"fune\" e \"coltello\" rappresentano tutte utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1517",
+    "input": "Le parole \"vite\", \"fune\", \"cucchiaio\", \"filo\" e \"corda\" rappresentano tutte utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1531",
+    "input": "Le parole \"fantascienza\", \"tragedia\", \"drammatico\", \"documentario\" e \"thriller\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1536",
+    "input": "Le parole \"fango\", \"aria\", \"dottoressa\", \"piombo\" e \"argento\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1539",
+    "input": "Le parole \"scacchi\", \"ciclismo\", \"atletica\", \"baseball\" e \"cricket\" rappresentano tutte sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1550",
+    "input": "Le parole \"chitarra\", \"batteria\", \"violoncello\", \"clavicembalo\" e \"industria\" rappresentano tutte strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1582",
+    "input": "Le parole \"luogo\", \"posizione\", \"dimensione\", \"maggioranza\" e \"relazione\" rappresentano tutte spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1585",
+    "input": "Le parole \"riproduzione\", \"specie\", \"nascita\", \"morte\" e \"essere\" rappresentano tutte aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1598",
+    "input": "Le parole \"figlia\", \"amica\", \"cugino\", \"fratello\" e \"matrimonio\" rappresentano tutte parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1613",
+    "input": "Le parole \"automobile\", \"motocicletta\", \"trasporto\", \"monopattino\" e \"carrozza\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1622",
+    "input": "Le parole \"clavicembalo\", \"clarinetto\", \"tromba\", \"batteria\" e \"arpa\" rappresentano tutte strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1628",
+    "input": "Le parole \"giovedì\", \"sabato\", \"domenica\", \"venerdì\" e \"martedì\" rappresentano tutte giorni della settimana? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1631",
+    "input": "Le parole \"noir\", \"tragedia\", \"drammatico\", \"musical\" e \"fantascienza\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1637",
+    "input": "Le parole \"bar\", \"corda\", \"chiodo\", \"vite\" e \"forchetta\" rappresentano tutte utensili? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1641",
+    "input": "Le parole \"ferro\", \"vapore\", \"fuoco\", \"fango\" e \"coniglio\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1643",
+    "input": "Le parole \"viale\", \"traffico\", \"tram\", \"binario\" e \"bicicletta\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1645",
+    "input": "Le parole \"piombo\", \"gas\", \"ghiaccio\", \"terra\" e \"fuoco\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1648",
+    "input": "Le parole \"calzini\", \"zip\", \"sciarpa\", \"transazione\" e \"manica\" rappresentano tutte vestiti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1649",
+    "input": "Le parole \"sci\", \"scacchi\", \"piombo\", \"vela\" e \"surf\" rappresentano tutte sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1650",
+    "input": "Le parole \"signora\", \"infante\", \"uomo\", \"donna\" e \"sposo\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1655",
+    "input": "Le parole \"muscolo\", \"dente\", \"caviglia\", \"testa\" e \"conoscenza\" rappresentano tutte parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1660",
+    "input": "Le parole \"albergo\", \"copisteria\", \"ufficio\", \"panetteria\" e \"ristorante\" rappresentano tutte posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1673",
+    "input": "Le parole \"bar\", \"macelleria\", \"erboristeria\", \"banca\" e \"negozio\" rappresentano tutte posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1681",
+    "input": "Le parole \"valanga\", \"siccità\", \"guardiano\", \"inondazione\" e \"uragano\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1682",
+    "input": "Le parole \"terremoto\", \"maremoto\", \"tornado\", \"siccità\" e \"tsunami\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1686",
+    "input": "Le parole \"nascita\", \"essere\", \"riproduzione\", \"specie\" e \"morte\" rappresentano tutte aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1691",
+    "input": "Le parole \"attenzione\", \"biblioteca\", \"ospedale\", \"scuola\" e \"commissariato\" rappresentano tutte posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1706",
+    "input": "Le parole \"valore\", \"fattura\", \"servizio\", \"produzione\" e \"scoiattolo\" rappresentano tutte termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1708",
+    "input": "Le parole \"terremoto\", \"inondazione\", \"valanga\", \"frana\" e \"incendio\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1709",
+    "input": "Le parole \"oggetto\", \"contenuto\", \"sorpresa\", \"insegnamento\" e \"caratteristica\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1710",
+    "input": "Le parole \"erboristeria\", \"banca\", \"oreficeria\", \"ufficio\" e \"medico\" rappresentano tutte posti di lavoro? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1713",
+    "input": "Le parole \"grigio\", \"violetto\", \"rosso\", \"viola\" e \"marrone\" rappresentano tutte colori? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1714",
+    "input": "Le parole \"morte\", \"riproduzione\", \"specie\", \"essere\" e \"nascita\" rappresentano tutte aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1715",
+    "input": "Le parole \"tromba\", \"violino\", \"clavicembalo\", \"chitarra\" e \"batteria\" rappresentano tutte strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1717",
+    "input": "Le parole \"pronome\", \"verbo\", \"aggettivo\", \"preposizione\" e \"articolo\" rappresentano tutte classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1721",
+    "input": "Le parole \"salumeria\", \"senatrice\", \"astronauta\", \"infermiere\" e \"autista\" rappresentano tutte professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1723",
+    "input": "Le parole \"consumo\", \"compagnia\", \"industria\", \"denaro\" e \"produzione\" rappresentano tutte termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1732",
+    "input": "Le parole \"struttura\", \"politica\", \"provincia\", \"terremoto\" e \"libertà\" rappresentano tutte termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1733",
+    "input": "Le parole \"finestra\", \"letto\", \"carattere\", \"cucina\" e \"salotto\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1736",
+    "input": "Le parole \"viale\", \"zio\", \"stazione\", \"nave\" e \"taxi\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1738",
+    "input": "Le parole \"noir\", \"fantascienza\", \"thriller\", \"documentario\" e \"commedia\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1742",
+    "input": "Le parole \"fantascienza\", \"sposo\", \"documentario\", \"drammatico\" e \"tragedia\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1743",
+    "input": "Le parole \"bosco\", \"monte\", \"ruscello\", \"spiaggia\" e \"scarpata\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1751",
+    "input": "Le parole \"rabbia\", \"aeroporto\", \"condizione\", \"bisogno\" e \"tipo\" rappresentano tutte sostantivi astratti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1763",
+    "input": "Le parole \"petto\", \"muscolo\", \"barba\", \"pollice\" e \"labbro\" rappresentano tutte parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1773",
+    "input": "Le parole \"ingresso\", \"attacco\", \"letto\", \"divano\" e \"camera\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1778",
+    "input": "Le parole \"millimetro\", \"democrazia\", \"media\", \"grammo\" e \"millilitro\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1786",
+    "input": "Le parole \"oro\", \"acqua\", \"ghiaccio\", \"fango\" e \"leopardo\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1801",
+    "input": "Le parole \"ascensore\", \"casa\", \"stanza\", \"bagno\" e \"appartamento\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1806",
+    "input": "Le parole \"grammo\", \"ciclismo\", \"totale\", \"peso\" e \"chilo\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1837",
+    "input": "Le parole \"tromba\", \"clavicembalo\", \"batteria\", \"violoncello\" e \"pianoforte\" rappresentano tutte strumenti musicali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1838",
+    "input": "Le parole \"terra\", \"bronzo\", \"fango\", \"terracotta\" e \"argento\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1840",
+    "input": "Le parole \"gomito\", \"pelo\", \"spalla\", \"barba\" e \"tallone\" rappresentano tutte parti del corpo umano? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1842",
+    "input": "Le parole \"bietola\", \"peperone\", \"spinaci\", \"ravanello\" e \"aglio\" rappresentano tutte verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1847",
+    "input": "Le parole \"congresso\", \"vestito\", \"popolazione\", \"nazione\" e \"consiglio\" rappresentano tutte termini socio-politici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1849",
+    "input": "Le parole \"cavallo\", \"giraffa\", \"maiale\", \"puma\" e \"serpente\" rappresentano tutte animali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1853",
+    "input": "Le parole \"gas\", \"aria\", \"piombo\", \"metallo\" e \"dipendente\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1868",
+    "input": "Le parole \"sostantivo\", \"articolo\", \"suocero\", \"pronome\" e \"aggettivo\" rappresentano tutte classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1872",
+    "input": "Le parole \"patate\", \"mano\", \"bieta\", \"peperone\" e \"cavolfiore\" rappresentano tutte verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1885",
+    "input": "Le parole \"commedia\", \"ghiaccio\", \"acqua\", \"terra\" e \"fango\" rappresentano tutte materiali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1886",
+    "input": "Le parole \"terremoto\", \"inondazione\", \"frana\", \"tariffa\" e \"uragano\" rappresentano tutte catastrofe naturale? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1892",
+    "input": "Le parole \"viale\", \"traffico\", \"aeroporto\", \"aereo\" e \"fermata\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1895",
+    "input": "Le parole \"nipote\", \"madre\", \"sorella\", \"genitore\" e \"nonno\" rappresentano tutte parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1896",
+    "input": "Le parole \"domanda\", \"produzione\", \"prezzo\", \"fatturazione\" e \"consumo\" rappresentano tutte termini economici? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1897",
+    "input": "Le parole \"pittore\", \"bietola\", \"calzolaio\", \"dottoressa\" e \"cassiere\" rappresentano tutte professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1900",
+    "input": "Le parole \"sposo\", \"zio\", \"suocera\", \"nonno\" e \"madre\" rappresentano tutte parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1904",
+    "input": "Le parole \"morte\", \"nascita\", \"nonna\", \"riproduzione\" e \"specie\" rappresentano tutte aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1913",
+    "input": "Le parole \"bisnonno\", \"chiave\", \"nuora\", \"genero\" e \"suocero\" rappresentano tutte parenti? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1917",
+    "input": "Le parole \"operaio\", \"autista\", \"fotografo\", \"elettricista\" e \"siccità\" rappresentano tutte professioni? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1919",
+    "input": "Le parole \"scarpata\", \"montagna\", \"mercoledì\", \"mare\" e \"fiume\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1920",
+    "input": "Le parole \"palude\", \"mare\", \"deserto\", \"montagna\" e \"campo\" rappresentano tutte ambienti naturali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1923",
+    "input": "Le parole \"riproduzione\", \"nascita\", \"essere\", \"morte\" e \"specie\" rappresentano tutte aspetti della vita? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1939",
+    "input": "Le parole \"presente\", \"taxi\", \"traffico\", \"automobile\" e \"aeroporto\" rappresentano tutte trasporto? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1941",
+    "input": "Le parole \"adulto\", \"infante\", \"bambino\", \"bimbo\" e \"marrone\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1946",
+    "input": "Le parole \"gente\", \"umanità\", \"donna\", \"persona\" e \"scarabeo\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1948",
+    "input": "Le parole \"carciofo\", \"verde\", \"zucca\", \"cipolla\" e \"broccoli\" rappresentano tutte verdure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1951",
+    "input": "Le parole \"decremento\", \"posizione\", \"movimento\", \"minoranza\" e \"altitudine\" rappresentano tutte spazio o quantità? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1955",
+    "input": "Le parole \"karate\", \"ciclismo\", \"naso\", \"pallacanestro\" e \"pugilato\" rappresentano tutte sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1956",
+    "input": "Le parole \"litro\", \"millilitro\", \"quantità\", \"totale\" e \"peso\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1957",
+    "input": "Le parole \"infante\", \"adulto\", \"signore\", \"donna\" e \"neonato\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1965",
+    "input": "Le parole \"finestra\", \"stanza\", \"sedia\", \"salotto\" e \"cucina\" rappresentano tutte arredamento o parti di casa? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1966",
+    "input": "Le parole \"rugby\", \"decathlon\", \"volano\", \"farfalla\" e \"pattinaggio\" rappresentano tutte sport? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1971",
+    "input": "Le parole \"sostantivo\", \"articolo\", \"pronome\", \"uragano\" e \"congiunzione\" rappresentano tutte classi grammaticali? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1979",
+    "input": "Le parole \"noir\", \"fantascienza\", \"orrore\", \"thriller\" e \"musical\" rappresentano tutte genere di film? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1982",
+    "input": "Le parole \"chilo\", \"media\", \"totale\", \"millilitro\" e \"quantità\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1983",
+    "input": "Le parole \"martello\", \"chilometro\", \"totale\", \"litro\" e \"millimetro\" rappresentano tutte misure? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1985",
+    "input": "Le parole \"adolescente\", \"signora\", \"adulta\", \"uomo\" e \"bambina\" rappresentano tutte persone? Rispondi o \"sì\" o \"no\"."
+  },
+  {
+    "id": "1996",
+    "input": "Le parole \"senatrice\", \"attrice\", \"infermiere\", \"imprenditore\" e \"carpentiere\" rappresentano tutte professioni? Rispondi o \"sì\" o \"no\"."
+  }
+]
