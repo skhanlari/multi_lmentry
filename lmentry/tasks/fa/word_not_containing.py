@@ -27,9 +27,19 @@ class WordNotContaining(LMentryTask):
         examples = {}
 
         for template_id, template in enumerate(self.all_templates):
-            letters = string.ascii_lowercase
-            it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù", "'"}
-            for letter in it_letters:
+            persian_letters = [
+                    "ا","ب","پ","ت","ث","ج","چ","ح","خ",
+                    "د","ذ","ر","ز","ژ","س","ش","ص","ض",
+                    "ط","ظ","ع","غ","ف","ق","ک","گ","ل",
+                    "م","ن","و","ه","ی","آ"
+                ]
+
+            # letters = string.ascii_lowercase
+            # it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù", "'"}
+            allowed_letters = persian_letters
+            allowed_letters = sorted(allowed_letters)
+
+            for letter in allowed_letters:
                 # create the input
                 input_ = self._create_input(template, letter)
 
@@ -48,7 +58,7 @@ class WordNotContaining(LMentryTask):
         settings = dict()
         settings["canary"] = self.canary_string
         settings["name"] = self.name
-        settings["num_examples_per_template"] = len(it_letters)
+        settings["num_examples_per_template"] = len(allowed_letters)
         settings["input_templates"] = self.all_templates
 
         # build the task_data

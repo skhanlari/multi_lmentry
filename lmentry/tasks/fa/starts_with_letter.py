@@ -25,9 +25,18 @@ class StartsWithLetter(LMentryTask):
 
         # create examples
         examples = {}
-        letters = string.ascii_lowercase
-        it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù", "'"}
-        allowed_letters = set(it_letters) - {"k", "w", "x", "y"}
+
+        persian_letters = [
+                "ا","ب","پ","ت","ث","ج","چ","ح","خ",
+                "د","ذ","ر","ز","ژ","س","ش","ص","ض",
+                "ط","ظ","ع","غ","ف","ق","ک","گ","ل",
+                "م","ن","و","ه","ی","آ"
+            ]
+
+        # letters = string.ascii_lowercase
+        # it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù", "'"}
+        # allowed_letters = set(it_letters) - {"k", "w", "x", "y"}
+        allowed_letters = persian_letters
         allowed_letters = sorted(allowed_letters)
 
         for template_id, template in enumerate(self.all_templates):

@@ -28,7 +28,7 @@ class AllWordsFromCategory2Distractors(LMentryTask):
         template_id = self.all_templates.index(template)
 
         if template_id != 2:  # add "and" before the last word
-            words = ", ".join(words[:-1]) + f" e {words[-1]}"
+            words = ", ".join(words[:-1]) + f" و {words[-1]}"
         else:
             words = ", ".join(words)
 

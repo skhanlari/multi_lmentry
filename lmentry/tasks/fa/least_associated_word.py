@@ -38,7 +38,7 @@ class LeastAssociatedWord(LMentryTask):
         # create the string representation of the options
         options = [f"\"{option}\"" for option in options]
         if template_id != self.non_and_template_id:
-            options = ", ".join(options[:-1]) + f" e {options[-1]}"
+            options = ", ".join(options[:-1]) + f" و {options[-1]}"
         else:
             options = ", ".join(options)
         input_ = template.format(category=category, options=options)
