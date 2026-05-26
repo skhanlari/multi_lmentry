@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S
 
 
 word_regex_template = r'["\'\.,]*\b{}\b["\'\.,]*(کلمه )?'
-sentence_regex_template = r'((جمله|["\'\.,]*{}["\'\.,]*)(جمله )?'
+sentence_regex_template = r'((جمله|["\'\.,]*{}["\'\.,]*)( جمله)?)'
 letter_regex_template = r'["\'\.,]*\b{}\b["\'\.,]*(حرف )?'
 number_regex_template = r'["\'\.,]*\b{}\b["\'\.,]*(عدد )?'
 
@@ -108,14 +108,13 @@ class LMentryScorer:
 
     @staticmethod
     def get_shared_patterns(target):
-
-        patterns = [
+        return [
             rf"{target} پاسخ است",
             rf"پاسخ {target} است",
             rf"پاسخ درست {target} است",
             rf"پاسخ: {target}",
             rf"{target} جواب است",
-            rf"جواب {target} است"
+            rf"جواب {target} است",
         ]
         return [p.format(target=target) for p in patterns]
 
@@ -160,8 +159,8 @@ class LMentryScorer:
             prediction_entry["certainty"] = certainty
 
         # save the scored predictions
-        with open(output_path, "w") as f_scored_predictions:
-            json.dump(predictions, f_scored_predictions, indent=2)
+        with open(output_path, "w", encoding="utf-8") as f_scored_predictions:
+            json.dump(predictions, f_scored_predictions, indent=2, ensure_ascii=False)
         if log_file_locations:
             logging.info(f"saved scored predictions at {output_path}")
 
@@ -173,14 +172,15 @@ class LMentryScorer:
         if not re.search(r"[آ-ی0-9]", prediction):  # we don't consider `_` to be alphanumeric
             return 0, 1
 
-        if re.match(rf"{answer}\.?$", prediction, flags=re.IGNORECASE):
+        escaped_answer = re.escape(answer)
+        if re.match(rf"{escaped_answer}\.?$", prediction, flags=re.IGNORECASE):
             score = 1
             certainty = 1
 
         if allow_answer_pattern_repetitions:
             alphanumeric_pattern = r"[آ-ی0-9]+"
             all_alphanumeric_words = re.findall(alphanumeric_pattern, prediction)
-            if all([re.match(answer + "$", word) for word in all_alphanumeric_words]):
+            if all([re.match(escaped_answer + "$", word) for word in all_alphanumeric_words]):
                 score = 1
                 certainty = 1
 

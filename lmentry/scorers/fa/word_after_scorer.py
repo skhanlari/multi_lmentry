@@ -14,8 +14,8 @@ class WordAfterScorer(LMentryScorer):
 
         self.prefixes.extend(
             [
-                "?،{sentence} در جمله ",
-                "?،{sentence} در ",
+                "،{sentence} در جمله ?",
+                "،{sentence} در ?",
             ]
         )
 
