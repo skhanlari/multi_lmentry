@@ -1,0 +1,531 @@
+﻿language,model,input,prediction,regex_scorer,human_label
+en,Qwen2_5-3B-Instruct,"Are all the words ""armchair"", ""chair"", ""bed"", ""sofa"", and ""desk"" types of furniture? Answer either ""yes"" or ""no"".",yes,1,1
+en,Qwen2_5-1_5B-Instruct,"In the sentence ""She fell in love"", which word immediately precedes the word ""in""?",^,0,0
+en,salamandra-2b-instruct,"From the numbers 864 and 400, write the smaller number:",The smaller number is 400.,1,1
+en,gemma-3-1b,"Which word is shorter, ""fried"" or ""around""?",“Fried” is shorter.,0,1
+en,Llama-3_2-3B-Instruct,"What is the word most related to the word ""vehicles"" from the words ""peach"", ""bus"", ""watermelon"", ""lemon"", and ""pineapple""?","The word most related to ""vehicles"" from the given options is ""bus"".",1,1
+en,Qwen2_5-1_5B-Instruct,"Which is a homophone of the word ""sensor"", ""censor"" or ""detector""?","The homophone of the word ""sensor"" is ""siren"".",0,0
+en,gemma-3-4b,"Of the words ""screen"" and ""rat"", which word comes first alphabetically?",Screen,0,0
+en,gemma-3-1b,"Of the words ""crop"" and ""plane"", which one rhymes with ""champagne""?",Plane,1,1
+en,Llama-3_2-3B-Instruct,"Do any of the words ""desk"", ""bookcase"", ""jeans"", ""pig"", and ""jacket"" represent furniture? Answer either ""yes"" or ""no"".",(desk and bookcase),0,1
+en,SmolLM2-360M-Instruct,"Do any of the words ""socks"", ""lemon"", ""pig"", ""watermelon"", and ""chicken"" represent animals? Answer either ""yes"" or ""no"".",.,0,0
+en,EuroLLM-1_7B-Instruct,"Do the words ""jeans"", ""shirt"", ""shorts"", ""socks"", and ""strawberry"" all represent items of clothing? Answer either ""yes"" or ""no"".","Yes, the words ""jeans"", ""shirt"", ""shorts"", ""socks"", and ""strawberry"" all represent items of clothing.",0,0
+en,gemma-3-4b,"Of the two words ""blew"" and ""red"", which one sounds more like ""blue""?","Red. 
+
+They share a similar vowel sound.",0,0
+en,Qwen2_5-3B-Instruct,"Of the words ""deep"" and ""upset"", which word comes first alphabetically?",Deep,1,1
+en,Llama-3_1-8B-Instruct,"Which word is longer, ""to"" or ""jeans""?","""Jeans"" is longer than ""to"".",1,1
+en,ZharfaOpen-0309,"Which word rhymes with the word ""rain"", ""complain"" or ""chef""?","The word that rhymes with ""rain"" is ""dain"". The word that rhymes with ""complain"" is ""pain"".",0,0
+en,Llama-3_1-8B-Instruct,"Write a word using the letter ""m"":",Moon.,1,1
+en,Llama-3_2-3B-Instruct,"Of the words ""remove"" and ""rich"", which one rhymes with ""switch""?","(remove) rhymes with ""switch"".",0,0
+en,ALLaM-7B-Instruct-preview,"Are all the words ""pants"", ""skirt"", ""dress"", ""couch"", and ""shorts"" types of clothing? Answer either ""yes"" or ""no"".",Yes,0,0
+en,gemma-3-4b,"Does the list [""skirt"", ""sweater"", ""dress"", ""jeans"", ""shorts""] contain only items of clothing? Answer either ""yes"" or ""no"".",yes,1,1
+en,ZharfaOpen-0309,"Write a word whose last letter is ""g"":",گربه,0,0
+en,Qwen2_5-3B-Instruct,"Does the list [""pants"", ""armchair"", ""sofa"", ""couch"", ""cat""] contain any vehicles? Answer either ""yes"" or ""no"".","sno
+No",0,1
+en,gemma-3-1b,"Does the list [""apple"", ""shirt"", ""jeans"", ""fish"", ""car""] contain any items of clothing? Answer either ""yes"" or ""no"".",yes,1,1
+en,SmolLM2-360M-Instruct,"Which is a rhyme of the word ""allow"", ""how"" or ""railroad""?",.,0,0
+en,Llama-3_1-8B-Instruct,"Does the list [""melon"", ""tractor"", ""socks"", ""bookcase"", ""motorcycle""] contain any vehicles? Answer either ""yes"" or ""no"".","in the list [""melon"", ""tractor"", ""socks"", ""bookcase"", ""motorcycle""] contains vehicles.",0,0
+en,ALLaM-7B-Instruct-preview,"Write a sentence whose first word is ""interviews"":",Interviews reveal key insights during the hiring process.,1,1
+en,salamandra-2b-instruct,"In an alphabetical order, which word comes first, ""lend"" or ""short""?",ustamata,0,0
+en,EuroLLM-1_7B-Instruct,"What is the word most related to the word ""clothes"" from the words ""coat"", ""bed"", ""desk"", ""chair"", and ""bookcase""?","The word most related to the word ""clothes"" from the words ""coat"", ""bed"", ""desk"", ""chair"", and ""bookcase",0,0
+en,SmolLM2-1_7B-Instruct,"Of the words ""strong"" and ""often"" which one has more letters?",at,0,0
+en,Llama-3_2-3B-Instruct,"Do any of the words ""socks"", ""chicken"", ""rabbit"", ""cow"", and ""bed"" represent furniture? Answer either ""yes"" or ""no"".",(no),0,0
+en,salamandra-2b-instruct,"Of the words ""skirt"", ""coat"", ""shorts"", ""bookcase"", and ""socks"", what is the word least associated with ""clothes""?","The word that comes to mind when thinking about clothes, 1) not wearing them or 2) being dirty is socks. So, in this case",0,0
+en,ZharfaOpen-0309,"Which word comes right after ""the"" in the sentence ""Jason expected Medea to be treated by the doctor""?","The word that comes right after ""the"" in the sentence ""Jason expected Medea to be treated by the doctor"" is ""doctor"".",1,1
+en,Qwen2_5-3B-Instruct,"Which word is longer, ""garlic"" or ""computer""?","""Computer"" is longer than ""garlic.""",1,1
+en,ZharfaOpen-0309,"Which is a rhyme of the word ""wrong"", ""sail"" or ""along""?","""wrong"" is a rhyme of the word ""wrong"".",0,0
+en,Qwen2_5-3B-Instruct,"In the sentence ""We investigated the area for bombs"", what is the first word?","suggested answer: The first word in the sentence ""We investigated the area for bombs"" is ""We"".",1,1
+en,SmolLM2-1_7B-Instruct,"Write a sentence that contains the word ""insect"":","Insects are small creatures that live in the air, on land, or in water.",0,0
+en,gemma-3-4b,"Of the numbers 525 and 898, which is bigger?",898 is bigger.,1,1
+en,Llama-3_2-3B-Instruct,"Which word rhymes with the word ""land"", ""band"" or ""dull""?","(1) ""hand""
+ (2) ""stand""
+ (3) ""ball""",0,0
+en,SmolLM2-1_7B-Instruct,"Write a sentence that doesn't contain the word ""supper"":","After dinner, we went to the park.",1,1
+en,Llama-3_1-8B-Instruct,"What is the last word of the sentence ""He ought to leave his luggage here""?",in here,0,0
+en,SmolLM2-360M-Instruct,"Write a word that starts with the letter ""f"":",Fiction,1,1
+en,Llama-3_2-3B-Instruct,"Write a sentence without using the word ""comfortable"":","She sat in the plush armchair, feeling relaxed and at ease after a long, warm bath.",1,1
+en,Llama-3_2-3B-Instruct,"Do the words ""banana"", ""lemon"", ""pineapple"", ""watermelon"", and ""peach"" all represent fruit? Answer either ""yes"" or ""no"".",(yes),1,1
+en,Llama-3_1-8B-Instruct,"Are all the words ""armchair"", ""bookcase"", ""table"", ""bed"", and ""sofa"" types of furniture? Answer either ""yes"" or ""no"".",Yes.,1,1
+en,EuroLLM-1_7B-Instruct,"In an alphabetical order, which of the words ""complete"" and ""believe"" comes first?","The word ""complete"" comes first in an alphabetical order.",0,0
+en,SmolLM2-1_7B-Instruct,"Of the words ""railroad"" and ""opposite"", which word comes first alphabetically?","""opposite"" comes first alphabetically.",1,1
+en,Llama-3_1-8B-Instruct,"In an alphabetical order, which word comes first, ""money"" or ""month""?","in alphabetical order, ""money"" comes before ""month"".",1,1
+en,Qwen2_5-3B-Instruct,"Does the list [""jeans"", ""sweater"", ""desk"", ""dog"", ""pig""] contain any items of clothing? Answer either ""yes"" or ""no"".",yes,1,1
+en,ZharfaOpen-0309,"Write a sentence not containing the word ""badminton"":",I enjoy playing tennis on weekends.,1,1
+en,Qwen2_5-3B-Instruct,"In an alphabetical order, which of the words ""zoo"" and ""build"" comes first?","suggested in alphabetical order: ""build"", ""zoo"".",0,1
+en,SmolLM2-1_7B-Instruct,"Which number is smaller, 487 or 110?",110 is smaller than 487.,1,1
+en,gemma-3-4b,"In an alphabetical order, which of the words ""kilometer"" and ""jump"" comes first?",kilometer,0,0
+en,Llama-3_2-3B-Instruct,"Write the first letter of the word ""office"":",O,1,1
+en,Qwen2_5-1_5B-Instruct,"Which letter does the word ""single"" end with?",^,0,0
+en,gemma-3-4b,"Does the list [""dog"", ""fish"", ""chicken"", ""bed"", ""pig""] contain only animals? Answer either ""yes"" or ""no"".",no,1,1
+en,salamandra-2b-instruct,"What is the last word of the sentence ""Don swatted the mosquito with the newspaper""?",ustamata,0,0
+en,salamandra-2b-instruct,"Do the words ""fish"", ""duck"", ""cow"", ""mouse"", and ""rabbit"" all represent animals? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,SmolLM2-1_7B-Instruct,"Write a word that ends with the letter ""c"":","The word that ends with the letter ""c"" is ""dance.""",0,0
+en,gemma-3-1b,"In an alphabetical order, which word comes first, ""volleyball"" or ""below""?",volleyball,0,0
+en,Qwen2_5-1_5B-Instruct,"Does the list [""armchair"", ""shorts"", ""sweater"", ""desk"", ""tractor""] contain any furniture? Answer either ""yes"" or ""no"".",^ no,0,0
+en,Qwen2_5-3B-Instruct,"Which word rhymes with the word ""complete"", ""common"" or ""delete""?",succeed,0,0
+en,gemma-3-4b,"Do any of the words ""duck"", ""cat"", ""watermelon"", ""bed"", and ""chair"" represent animals? Answer either ""yes"" or ""no"".",yes,1,1
+en,SmolLM2-1_7B-Instruct,"Are all the words ""bus"", ""van"", ""tractor"", ""car"", and ""train"" types of vehicles? Answer either ""yes"" or ""no"".",at,0,0
+en,gemma-3-4b,"Write a sentence starting with ""saucers"":","Saucers shimmered beneath the moonlight, hinting at a silent arrival.",1,1
+en,ALLaM-7B-Instruct-preview,"Which letter does the word ""married"" end with?","The word ""married"" ends with the letter ""ed"".",0,0
+en,EuroLLM-1_7B-Instruct,"Which word is longer, ""reading"" or ""lunchtime""?","""Lunchtime"" is longer than ""reading.""",1,1
+en,EuroLLM-1_7B-Instruct,"What is the last letter of the word ""alcohol""?","The last letter of the word ""alcohol"" is ""l"".",1,1
+en,ZharfaOpen-0309,"Do any of the words ""couch"", ""pear"", ""motorcycle"", ""sofa"", and ""cow"" represent items of clothing? Answer either ""yes"" or ""no"".",No.,1,1
+en,Qwen2_5-1_5B-Instruct,"What is the first letter of the word ""sauce""?","The first letter of the word ""sauce"" is S.",1,1
+en,Qwen2_5-3B-Instruct,"Which word is longer, ""mix"" or ""roast""?","""Roast"" is longer than ""mix.""",1,1
+en,gemma-3-1b,"Are all the words ""pants"", ""socks"", ""shorts"", ""jacket"", and ""coat"" types of clothing? Answer either ""yes"" or ""no"".",yes,1,1
+en,salamandra-2b-instruct,"Write the first word of the sentence ""This building got taller and taller"":",ustamata,0,0
+en,salamandra-2b-instruct,"Which word rhymes with the word ""fruit"", ""hidden"" or ""flute""?",ustamata,0,0
+en,ZharfaOpen-0309,"In an alphabetical order, which of the words ""yogurt"" and ""zoo"" comes first?","In an alphabetical order, the word ""yogurt"" comes before the word ""zoo"".",1,1
+en,ZharfaOpen-0309,"Are any of the words ""sofa"", ""tractor"", ""jacket"", ""shirt"", and ""rabbit"" types of fruit? Answer either ""yes"" or ""no"".",No.,1,1
+en,SmolLM2-1_7B-Instruct,"Do any of the words ""cow"", ""jacket"", ""bed"", ""dog"", and ""chicken"" represent fruit? Answer either ""yes"" or ""no"".",at,0,0
+en,SmolLM2-360M-Instruct,"Which word is shorter, ""snack"" or ""discount""?","""Snack"" is shorter than ""discount.""",1,1
+en,Llama-3_1-8B-Instruct,"Are all the words ""pineapple"", ""strawberry"", ""watermelon"", ""banana"", and ""apple"" types of fruit? Answer either ""yes"" or ""no"".","in the list, all the words are types of fruit: yes",0,1
+en,gemma-3-1b,"Write the last letter of the word ""possibly"":",s,0,0
+en,Llama-3_2-3B-Instruct,"Do any of the words ""motorcycle"", ""train"", ""pants"", ""pig"", and ""bookcase"" represent fruit? Answer either ""yes"" or ""no"".",(no),1,1
+en,Llama-3_2-3B-Instruct,"Which word is longer, ""speak"" or ""square""?","The word ""square"" is longer. It has 6 letters, while ""speak"" has 5 letters.",1,1
+en,SmolLM2-1_7B-Instruct,"Do the words ""car"", ""van"", ""bus"", ""chair"", and ""train"" all represent vehicles? Answer either ""yes"" or ""no"".",at,0,0
+en,SmolLM2-1_7B-Instruct,"Which letter does the word ""receptionist"" end with?","The letter ""t"".",1,1
+en,ZharfaOpen-0309,"What is the word least related to the word ""fruit"" from the words ""watermelon"", ""pineapple"", ""melon"", ""strawberry"", and ""skirt""?","The word least related to the word ""fruit"" from the words ""watermelon"", ""pineapple"", ""melon"", ""strawberry",0,0
+en,salamandra-2b-instruct,"Of the words ""earring"" and ""seat"", which word comes first alphabetically?","ustamata,0123456789t",0,0
+en,gemma-3-1b,"Which word comes right before ""included"" in the sentence ""John included his name in the list""?",Name,0,0
+en,EuroLLM-1_7B-Instruct,"In the sentence ""I wonder to whom they dedicated the building"", what is the first word?","The first word in the sentence ""I wonder to whom they dedicated the building"" is ""I"".",1,1
+en,EuroLLM-1_7B-Instruct,"Write a word that doesn't contain the letter ""a"":",Amazing,0,0
+en,Llama-3_2-3B-Instruct,"Write a sentence ending with ""counting"":",(Emergency responders were busy counting the number of people trapped in the rubble.),0,0
+en,ZharfaOpen-0309,"In the sentence ""John took Bill to be a fool"", which word immediately precedes the word ""to""?","The word immediately preceding the word ""to"" in the sentence ""John took Bill to be a fool"" is ""to"".",0,0
+en,Llama-3_1-8B-Instruct,"In an alphabetical order, which of the words ""wild"" and ""finally"" comes first?","in alphabetical order, ""finally"" comes before ""wild"".",1,1
+en,ZharfaOpen-0309,"Write the first letter of the word ""top"":",T,1,1
+en,EuroLLM-1_7B-Instruct,"Write a sentence that starts with the word ""oranges"":","Oranges are a popular fruit that can be enjoyed in various ways, such as fresh, juiced, or as a snack.",1,1
+en,gemma-3-4b,"Which word rhymes with the word ""better"", ""sweater"" or ""little""?",Better,0,0
+en,Qwen2_5-3B-Instruct,"What is the last letter of the word ""small""?","The last letter of the word ""small"" is ""n"".",0,0
+en,Qwen2_5-3B-Instruct,"Write a sentence whose first word is ""arts"":","sights and sounds, arts bring communities together.",0,0
+en,SmolLM2-1_7B-Instruct,"From the numbers 511 and 444, write the bigger number:",The bigger number is 511.,1,1
+en,Llama-3_1-8B-Instruct,"Are all the words ""rabbit"", ""tractor"", ""fish"", ""dog"", and ""mouse"" types of animals? Answer either ""yes"" or ""no"".","in the list, all the words are types of animals: ""rabbit"", ""dog"", and ""mouse"" are mammals, and ""fish"" is an aquatic",0,0
+en,ZharfaOpen-0309,"What is the first word of the sentence ""The boy in the doorway waved to his father""?","The first word of the sentence ""The boy in the doorway waved to his father"" is ""The"".",1,1
+en,Qwen2_5-3B-Instruct,"Write a word without using the letter ""a"":",silk,1,1
+en,SmolLM2-360M-Instruct,"Are any of the words ""skirt"", ""bus"", ""shirt"", ""coat"", and ""socks"" types of fruit? Answer either ""yes"" or ""no"".",.,0,0
+en,ZharfaOpen-0309,"Write a sentence using the word ""appointment"":",I have an appointment tomorrow at 10 am.,1,1
+en,SmolLM2-360M-Instruct,"Does the list [""cow"", ""fish"", ""goat"", ""duck"", ""mouse""] contain only animals? Answer either ""yes"" or ""no"".",.,0,0
+en,Llama-3_1-8B-Instruct,"Does the list [""shorts"", ""van"", ""shirt"", ""melon"", ""armchair""] contain any animals? Answer either ""yes"" or ""no"".","in the list [""shorts"", ""van"", ""shirt"", ""melon"", ""armchair""] there are no animals.",0,1
+en,Qwen2_5-1_5B-Instruct,"Write a sentence that doesn't contain the word ""butter"":",The cat pounced on the mouse with surprising speed.,1,1
+en,ZharfaOpen-0309,"Of the words ""race"" and ""pork"", which one rhymes with ""face""?","The word ""race"" rhymes with the word ""face"".",1,1
+en,ZharfaOpen-0309,"What is the word least related to the word ""fruit"" from the words ""watermelon"", ""mouse"", ""melon"", ""pear"", and ""apple""?","The word least related to the word ""fruit"" from the words ""watermelon"", ""mouse"", ""melon"", ""pear"", and """,0,0
+en,SmolLM2-1_7B-Instruct,"Write a sentence that starts with the word ""legs"":",The cat stretched its legs and yawned.,0,0
+en,SmolLM2-1_7B-Instruct,"Of the following words, choose the word most commonly associated with the word ""animals"" - ""armchair"", ""chair"", ""table"", ""bookcase"", ""mouse"":",at,0,0
+en,SmolLM2-360M-Instruct,"In the sentence ""We abandoned the area"", which word comes right before the word ""the""?",.,0,0
+en,EuroLLM-1_7B-Instruct,"Do any of the words ""goat"", ""tram"", ""peach"", ""tractor"", and ""truck"" represent items of clothing? Answer either ""yes"" or ""no"".","Yes, ""tram"" and ""truck"" represent items of clothing.",0,0
+en,EuroLLM-1_7B-Instruct,"Which is a homophone of the word ""duel"", ""dual"" or ""battle""?","The word ""duel"" is a homophone of the word ""dual"".",1,1
+en,SmolLM2-360M-Instruct,"Which word rhymes with the word ""west"", ""last"" or ""depressed""?",.,0,0
+en,ALLaM-7B-Instruct-preview,"Of the words ""movie"" and ""ad"" which one has more letters?","""Movie"" has fewer letters.",0,0
+en,gemma-3-1b,"Which is a rhyme of the word ""throat"", ""rat"" or ""note""?",“Rat” is a rhyme of “throat”.,0,0
+en,EuroLLM-1_7B-Instruct,"Which word rhymes with the word ""bay"", ""sea"" or ""pray""?","The word that rhymes with ""bay"", ""sea"" or ""pray"" is ""ray"".",0,0
+en,salamandra-2b-instruct,"Which word comes right before ""about"" in the sentence ""I talked to Winston about himself""?",ustamata,0,0
+en,ZharfaOpen-0309,"Do the words ""chair"", ""couch"", ""lemon"", ""sofa"", and ""table"" all represent furniture? Answer either ""yes"" or ""no"".",Yes.,0,0
+en,EuroLLM-1_7B-Instruct,"In an alphabetical order, which of the words ""movie"" and ""painter"" comes first?","The word ""painter"" comes first in alphabetical order.",0,0
+en,gemma-3-4b,"Of the words ""curtain"" and ""homework"", which word comes first alphabetically?",Curtain,1,1
+en,gemma-3-1b,"Write a sentence ending with ""caring"":",The veterinarian was a caring presence for the sick animal.,0,0
+en,salamandra-2b-instruct,"Which word is longer, ""love"" or ""instead""?",ustamata,0,0
+en,gemma-3-1b,"In an alphabetical order, which of the words ""quickly"" and ""ride"" comes first?",“Quickly” comes first.,0,1
+en,Qwen2_5-3B-Instruct,"Of the words ""rabbit"", ""car"", ""tram"", ""tractor"", and ""van"", what is the word most commonly associated with ""animals""?","suggested answer: ""rabbit"" is the word most commonly associated with animals from the given list.
+
+This is the most concise and correct answer based on the options",1,1
+en,Qwen2_5-1_5B-Instruct,"Of the words ""name"" and ""racket"" which one has more letters?","^ name has 4 letters, racket has 5 letters.",0,0
+en,salamandra-2b-instruct,"Do any of the words ""banana"", ""jeans"", ""watermelon"", ""desk"", and ""rabbit"" represent fruit? Answer either ""yes"" or ""no"".","Yes,                                        No",1,0
+en,Qwen2_5-1_5B-Instruct,"Does the list [""strawberry"", ""peach"", ""bed"", ""lemon"", ""melon""] contain only fruit? Answer either ""yes"" or ""no"".",Yes.,0,0
+en,Llama-3_2-3B-Instruct,"What is the first word of the sentence ""The gardener grew that acorn into an oak tree""?","The first word of the sentence is ""The"".",1,1
+en,Qwen2_5-1_5B-Instruct,"From the numbers 284 and 760, write the bigger number:",The bigger number is 760.,1,1
+en,ZharfaOpen-0309,"Which word is shorter, ""an"" or ""bad""?","The word ""an"" is shorter.",1,1
+en,Llama-3_2-3B-Instruct,"Which word has fewer letters, ""most"" or ""by""?",(by) has fewer letters.,0,1
+en,EuroLLM-1_7B-Instruct,"Which number is bigger, 114 or 775?",775 is bigger than 114.,1,1
+en,salamandra-2b-instruct,"Write a word not containing the letter ""t"":",Tree,0,0
+en,SmolLM2-360M-Instruct,"What is the first word of the sentence ""I read him two statements about himself""?",.,0,0
+en,Llama-3_1-8B-Instruct,"Of the numbers 66 and 547, which is bigger?",547 is bigger than 66.,1,1
+en,salamandra-2b-instruct,"Write a word starting with ""q"":",Quilt,1,1
+en,salamandra-2b-instruct,"Of the words ""bag"" and ""dinosaur"" which one has more letters?",ustamata,0,0
+en,SmolLM2-360M-Instruct,"In an alphabetical order, which of the words ""opposite"" and ""ice"" comes first?","""opposite"" comes first in an alphabetical order.",0,0
+en,gemma-3-4b,"Which word has fewer letters, ""exit"" or ""computer""?",“Exit” has fewer letters.,0,1
+en,salamandra-2b-instruct,"Of the words ""mango"", ""cat"", ""fish"", ""pig"", and ""duck"", what is the word most commonly associated with ""fruit""?",ustamata,0,0
+en,EuroLLM-1_7B-Instruct,"Write a word that contains the letter ""x"":","The word that contains the letter ""x"" is ""xylophone"".",0,1
+en,Qwen2_5-3B-Instruct,"Which letter does the word ""writing"" start with?",s,0,0
+en,SmolLM2-1_7B-Instruct,"In an alphabetical order, which word comes first, ""other"" or ""bird""?","at the beginning of the alphabet, ""other"" comes before ""bird"".",0,0
+en,Qwen2_5-1_5B-Instruct,"In an alphabetical order, which word comes first, ""know"" or ""king""?","^ The word ""know"" comes before ""king"" in alphabetical order.",0,0
+en,SmolLM2-1_7B-Instruct,"In the sentence ""He was a bully"", what is the last word?",at,0,0
+en,EuroLLM-1_7B-Instruct,"Do the words ""bus"", ""truck"", ""shorts"", ""tractor"", and ""car"" all represent vehicles? Answer either ""yes"" or ""no"".","Yes, the words ""bus"", ""truck"", ""shorts"", ""tractor"", and ""car"" all represent vehicles.",0,0
+en,SmolLM2-360M-Instruct,"Write a word whose first letter is ""g"":",Goth,1,1
+en,SmolLM2-360M-Instruct,"Of the words ""no"" and ""lost"" which one has fewer letters?",.,0,0
+en,Llama-3_1-8B-Instruct,"Of the words ""subject"" and ""train"" which one has more letters?","in the word ""subject"" has 7 letters: s-u-b-j-e-c-t 
+ in the word ""train"" has 5 letters: t-r",0,0
+en,gemma-3-1b,"Write a word starting with ""b"":",Bee,1,1
+en,Qwen2_5-3B-Instruct,"Does the list [""duck"", ""pig"", ""melon"", ""fish"", ""cow""] contain only animals? Answer either ""yes"" or ""no"".","sow to be precise, ""pig"" is an animal, but ""melon"" is not. So, the answer is:
+
+no",0,1
+en,Llama-3_2-3B-Instruct,"In an alphabetical order, which of the words ""reading"" and ""club"" comes first?",(reading) comes before (club) in alphabetical order.,0,0
+en,gemma-3-4b,"Of the words ""mine"" and ""bridge"" which one has fewer letters?",Mine,1,1
+en,Llama-3_1-8B-Instruct,"Which word is shorter, ""out"" or ""history""?","in this case, ""out"" is shorter than ""history"".",1,1
+en,ZharfaOpen-0309,"Write a sentence containing the word ""blood"":",Blood is the liquid that circulates through the body and contains essential nutrients and oxygen that are necessary for survival.,1,1
+en,gemma-3-1b,"Write a word that doesn't contain the letter ""b"":",Stone,1,1
+en,Qwen2_5-3B-Instruct,"Of the words ""head"" and ""plate"" which one has more letters?","s
+""Head"" has 4 letters, while ""plate"" has 5 letters. Therefore, ""plate"" has more letters.",1,1
+en,salamandra-2b-instruct,"Do the words ""lemon"", ""dog"", ""peach"", ""melon"", and ""pear"" all represent fruit? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,salamandra-2b-instruct,"Which word has more letters, ""hospital"" or ""mosque""?",Hospital has more letters than mosque.,1,1
+en,SmolLM2-360M-Instruct,"Write a word not containing the letter ""k"":","The word not containing the letter ""k"" is ""sophisticated.""",0,1
+en,gemma-3-4b,"Which word comes right after ""the"" in the sentence ""People are looking through the window""?",The,0,0
+en,gemma-3-4b,"What is the word least related to the word ""vehicles"" from the words ""van"", ""train"", ""tractor"", ""shorts"", and ""bus""?",Shorts.,1,1
+en,ZharfaOpen-0309,"From the numbers 433 and 56, write the smaller number:",The smaller number is 433.,0,0
+en,gemma-3-1b,"Write a sentence using the word ""mountain"":",The hiker climbed a steep mountain.,1,1
+en,Llama-3_1-8B-Instruct,"Write a word that doesn't contain the letter ""d"":",Eagle.,1,1
+en,SmolLM2-1_7B-Instruct,"Write a sentence whose last word is ""wives"":",The husband and his wives lived in a cozy house.,0,0
+en,SmolLM2-360M-Instruct,"Of the words ""toe"" and ""shower"" which one has more letters?",.,0,0
+en,Llama-3_2-3B-Instruct,"Write a word whose last letter is ""f"":",Wolf,1,1
+en,gemma-3-4b,"Which word has more letters, ""lunchtime"" or ""diploma""?",“Lunchtime” has more letters (9) than “diploma” (7).,0,1
+en,gemma-3-4b,"Write a sentence not containing the word ""river"":",The stream flowed swiftly through the valley.,1,1
+en,Llama-3_2-3B-Instruct,"Which is a rhyme of the word ""plate"", ""note"" or ""wait""?","(plate) - date
+ (note) - quote
+ (wait) - slate",0,0
+en,EuroLLM-1_7B-Instruct,"Do the words ""chicken"", ""couch"", ""jacket"", ""skirt"", and ""dress"" all represent items of clothing? Answer either ""yes"" or ""no"".","Yes, the words ""chicken"", ""couch"", ""jacket"", ""skirt"", and ""dress"" all represent items of clothing.",0,0
+en,ZharfaOpen-0309,"Of the words ""photography"" and ""surf"", which word comes first alphabetically?","""photography"" comes first alphabetically.",1,1
+en,salamandra-2b-instruct,"Do the words ""goat"", ""mouse"", ""tractor"", ""duck"", and ""apple"" all represent animals? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,salamandra-2b-instruct,"From the numbers 666 and 919, write the bigger number:",The larger of these two numbers is 738.,0,0
+en,gemma-3-1b,"Write a word that ends with the letter ""g"":",Friend.,0,0
+en,ZharfaOpen-0309,"Of the words ""other"" and ""once"", which word comes first alphabetically?","The word ""other"" comes first alphabetically.",0,0
+en,gemma-3-1b,"Write a sentence without using the word ""friend"":",I appreciate your support.,1,1
+en,gemma-3-4b,"Write a word containing the letter ""w"":",Window,1,1
+en,salamandra-2b-instruct,"Of the words ""plastic"" and ""match"" which one has more letters?",ustamata,0,0
+en,Llama-3_2-3B-Instruct,"Write a word using the letter ""w"":",Water,1,1
+en,gemma-3-1b,"Which word has more letters, ""us"" or ""white""?","“White” has more letters. It has 5 letters. 
+
+“Us” has 4 letters.",0,1
+en,SmolLM2-360M-Instruct,"In an alphabetical order, which of the words ""queen"" and ""chocolate"" comes first?","""Chocolate"" comes first in an alphabetical order.",1,1
+en,SmolLM2-1_7B-Instruct,"Are all the words ""chair"", ""chicken"", ""cow"", ""goat"", and ""mouse"" types of animals? Answer either ""yes"" or ""no"".",at,0,0
+en,salamandra-2b-instruct,"Are any of the words ""pineapple"", ""cat"", ""dog"", ""van"", and ""melon"" types of furniture? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,EuroLLM-1_7B-Instruct,"In an alphabetical order, which word comes first, ""cartoon"" or ""worker""?","In an alphabetical order, ""cartoon"" comes first.",1,1
+en,Llama-3_2-3B-Instruct,"In the sentence ""The computer will calculate the value of the variable"", which word comes right before the word ""of""?",(The),0,1
+en,salamandra-2b-instruct,"Write the last letter of the word ""above"":","Above is correct,",0,0
+en,EuroLLM-1_7B-Instruct,"What is the word least related to the word ""clothes"" from the words ""bed"", ""socks"", ""shorts"", ""shirt"", and ""jacket""?","The word least related to the word ""clothes"" from the words ""bed"", ""socks"", ""shorts"", ""shirt"", and ""jack",0,0
+en,gemma-3-4b,"Write a word ending with ""r"":",Flower,1,1
+en,salamandra-2b-instruct,"Which word is shorter, ""hear"" or ""to""?","The word that is shorter is ""hear"".",0,0
+en,Llama-3_2-3B-Instruct,"Of the following words, choose the word least associated with the word ""animals"" - ""cow"", ""cat"", ""goat"", ""socks"", ""fish"":",(socks),1,1
+en,SmolLM2-1_7B-Instruct,"Of the words ""at"" and ""bank"" which one has fewer letters?","""at"" has fewer letters than ""bank"".",1,1
+en,EuroLLM-1_7B-Instruct,"Write a sentence using the word ""someone"":",Someone is a person who is not a robot.,1,1
+en,gemma-3-1b,"From the numbers 414 and 782, write the bigger number:",782,1,1
+en,SmolLM2-1_7B-Instruct,"Write a word not containing the letter ""b"":","""A""",1,0
+en,salamandra-2b-instruct,"Write a sentence whose first word is ""stopping"":","ustamata,                                                                                   
+stopped traffic at the intersection.",0,0
+en,gemma-3-4b,"What is the last word of the sentence ""I might eat deep fried muffins""?",Muffins,1,1
+en,gemma-3-4b,"Do any of the words ""bus"", ""sofa"", ""watermelon"", ""truck"", and ""rabbit"" represent furniture? Answer either ""yes"" or ""no"".",No,0,0
+en,Qwen2_5-3B-Instruct,"In the sentence ""Jessica loaded boxes under the wagon"", which word immediately precedes the word ""boxes""?","suggested
+wagon",0,0
+en,Qwen2_5-1_5B-Instruct,"Of the words ""page"" and ""exercise"", which word comes first alphabetically?",^Page$ is the correct answer as it comes before ^Exercise$.,0,0
+en,gemma-3-1b,"Are all the words ""motorcycle"", ""strawberry"", ""lemon"", ""mango"", and ""pineapple"" types of fruit? Answer either ""yes"" or ""no"".",no,1,1
+en,EuroLLM-1_7B-Instruct,"Does the list [""chicken"", ""cat"", ""pear"", ""fish"", ""pig""] contain only animals? Answer either ""yes"" or ""no"".","Yes, the list [""chicken"", ""cat"", ""pear"", ""fish"", ""pig""] contains only animals.",0,0
+en,Qwen2_5-3B-Instruct,"In an alphabetical order, which of the words ""board"" and ""horse"" comes first?","sord comes before horse in alphabetical order, so ""board"" comes after ""horse"".",0,0
+en,Llama-3_2-3B-Instruct,"Of the words ""singer"" and ""wife"" which one has fewer letters?","(The word ""singer"" has 5 letters, and the word ""wife"" has 4 letters.)",0,0
+en,Qwen2_5-1_5B-Instruct,"Of the following words, choose the word least associated with the word ""vehicles"" - ""tractor"", ""bus"", ""car"", ""motorcycle"", ""sweater"":","""Sweater"" is the word least associated with the word ""vehicles"".",1,1
+en,Qwen2_5-1_5B-Instruct,"Of the words ""zoo"" and ""might"", which word comes first alphabetically?","^ The word ""might"" comes first alphabetically.",1,1
+en,SmolLM2-360M-Instruct,"Which word is shorter, ""subject"" or ""move""?",.,0,0
+en,EuroLLM-1_7B-Instruct,"Of the words ""cheap"" and ""holiday"" which one has more letters?","The word ""cheap"" has more letters than ""holiday"".",0,0
+en,EuroLLM-1_7B-Instruct,"Which word has fewer letters, ""soul"" or ""sauce""?","The word ""sauce"" has fewer letters than ""soul.""",0,0
+en,ZharfaOpen-0309,"In an alphabetical order, which word comes first, ""however"" or ""zoo""?","""however"" comes first in alphabetical order.",1,1
+en,salamandra-2b-instruct,"From the numbers 411 and 604, write the smaller number:",The smaller number is 582.,0,0
+en,SmolLM2-360M-Instruct,"Which word is shorter, ""player"" or ""mango""?","""Player"" is shorter than ""mango.""",0,0
+en,Qwen2_5-1_5B-Instruct,"What is the first word of the sentence ""Lucy sent Jane a letter""?","^ The first word of the sentence ""Lucy sent Jane a letter"" is Lucy.",1,1
+en,Qwen2_5-1_5B-Instruct,"Write a word starting with ""q"":",Quick.,1,1
+en,EuroLLM-1_7B-Instruct,"Do the words ""banana"", ""mango"", ""melon"", ""peach"", and ""watermelon"" all represent fruit? Answer either ""yes"" or ""no"".","Yes, the words ""banana"", ""mango"", ""melon"", ""peach"", and ""watermelon"" all represent fruit.",1,1
+en,gemma-3-4b,"Which letter does the word ""matter"" end with?",R,1,1
+en,EuroLLM-1_7B-Instruct,"Which is a rhyme of the word ""include"", ""side"" or ""food""?","The rhyme of the word ""include"" is ""side"".",0,0
+en,ZharfaOpen-0309,"Write a sentence whose last word is ""celebrating"":",I am celebrating my graduation from college.,0,0
+en,Qwen2_5-1_5B-Instruct,"Write a word not containing the letter ""k"":",Pineapple,1,1
+en,Qwen2_5-1_5B-Instruct,"Write a sentence whose first word is ""organizations"":",^ The organizations that provide free legal aid to the poor have seen a significant increase in membership recently.,0,0
+en,gemma-3-1b,"Are all the words ""sofa"", ""desk"", ""mouse"", ""couch"", and ""armchair"" types of furniture? Answer either ""yes"" or ""no"".",yes,0,0
+en,SmolLM2-360M-Instruct,"Write a sentence ending with ""scarves"":","The man wore a scarf over his head, which helped him to keep warm in the cold weather.",0,0
+en,gemma-3-4b,"Do any of the words ""banana"", ""pineapple"", ""pear"", ""bookcase"", and ""truck"" represent items of clothing? Answer either ""yes"" or ""no"".",no,1,1
+en,EuroLLM-1_7B-Instruct,"Write a word starting with ""z"":",Zebra,1,1
+en,EuroLLM-1_7B-Instruct,"Which word is shorter, ""flight"" or ""certainly""?","""Flight"" is shorter than ""certainly.""",1,1
+en,ZharfaOpen-0309,"What is the last word of the sentence ""Almost every lawyer could answer that question""?","""lawyer""",0,0
+en,SmolLM2-1_7B-Instruct,"Which word rhymes with the word ""clean"", ""pedestrian"" or ""scene""?",at,0,0
+en,SmolLM2-1_7B-Instruct,"In an alphabetical order, which word comes first, ""downtown"" or ""village""?","""Downtown"" comes first in an alphabetical order.",1,1
+en,Qwen2_5-1_5B-Instruct,"Of the following words, choose the word most commonly associated with the word ""furniture"" - ""chair"", ""motorcycle"", ""van"", ""train"", ""tractor"":","The word most commonly associated with the word ""furniture"" is ""chair"".",1,1
+en,EuroLLM-1_7B-Instruct,"In the sentence ""Her sister hurried"", which word comes right before the word ""hurried""?","The word that comes right before ""hurried"" in the sentence ""Her sister hurried"" is ""her"".",0,0
+en,gemma-3-4b,"In an alphabetical order, which of the words ""kite"" and ""keyboard"" comes first?",kite,0,0
+en,Qwen2_5-1_5B-Instruct,"Does the list [""coat"", ""mango"", ""cat"", ""dog"", ""dress""] contain any fruit? Answer either ""yes"" or ""no"".",^ no,0,0
+en,Llama-3_2-3B-Instruct,"Which word is longer, ""we"" or ""could""?",(we),0,0
+en,ZharfaOpen-0309,"Do any of the words ""table"", ""strawberry"", ""van"", ""banana"", and ""desk"" represent fruit? Answer either ""yes"" or ""no"".",no,0,0
+en,SmolLM2-360M-Instruct,"Of the numbers 774 and 386, which is smaller?",386 is smaller.,1,1
+en,salamandra-2b-instruct,"Of the words ""dinosaur"" and ""tired"" which one has fewer letters?","The word that has fewer letters is ""dino"".",0,0
+en,ZharfaOpen-0309,"Of the numbers 845 and 981, which is bigger?",981 is bigger than 845.,1,1
+en,gemma-3-1b,"Of the numbers 763 and 250, which is smaller?",250 is smaller.,1,1
+en,gemma-3-4b,"Of the words ""do"" and ""match"" which one has fewer letters?",Do,1,1
+en,Qwen2_5-1_5B-Instruct,"Do any of the words ""couch"", ""coat"", ""truck"", ""pants"", and ""car"" represent fruit? Answer either ""yes"" or ""no"".",^ No.,1,1
+en,salamandra-2b-instruct,"In an alphabetical order, which of the words ""ice"" and ""kitchen"" comes first?",ustamata,0,0
+en,salamandra-2b-instruct,"Do the words ""shorts"", ""skirt"", ""shirt"", ""socks"", and ""jeans"" all represent items of clothing? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,salamandra-2b-instruct,"Write a sentence that doesn't contain the word ""towel"":",The cleaner quickly removed all of the dirty dishes from the table before starting to cook dinner for his family.,1,1
+en,gemma-3-1b,"In the sentence ""I would like for John to win"", what is the first word?",I.,1,1
+en,Llama-3_1-8B-Instruct,"Write the first letter of the word ""thanks"":",T.,1,1
+en,SmolLM2-360M-Instruct,"Does the list [""train"", ""motorcycle"", ""mango"", ""tram"", ""jeans""] contain only vehicles? Answer either ""yes"" or ""no"".",.,0,0
+en,Llama-3_1-8B-Instruct,"Does the list [""cow"", ""shorts"", ""goat"", ""fish"", ""desk""] contain any fruit? Answer either ""yes"" or ""no"".","in the list [""cow"", ""shorts"", ""goat"", ""fish"", ""desk""] does not contain any fruit.",0,1
+en,SmolLM2-360M-Instruct,"Write a sentence starting with ""concentrating"":",The teacher asked the students to concentrate on their work.,0,0
+en,ZharfaOpen-0309,"Write a word that contains the letter ""d"":",درخت,1,0
+en,EuroLLM-1_7B-Instruct,"Write a word that ends with the letter ""s"":","The word that ends with the letter ""s"" is ""squirrel.""",0,0
+en,SmolLM2-1_7B-Instruct,"Of the words ""cancer"" and ""bookstore"", which one rhymes with ""dancer""?","""Cancer"" rhymes with ""dancer"".",1,1
+en,Qwen2_5-3B-Instruct,"Of the words ""quickly"" and ""late"" which one has more letters?","suddenly, ""quickly"" has 7 letters while ""late"" has 4 letters. Therefore, ""quickly"" has more letters.",1,1
+en,Llama-3_2-3B-Instruct,"Of the words ""our"" and ""note"", which word comes first alphabetically?",(note) comes first alphabetically.,0,1
+en,SmolLM2-1_7B-Instruct,"Does the list [""cow"", ""car"", ""pineapple"", ""train"", ""mouse""] contain any items of clothing? Answer either ""yes"" or ""no"".",at,0,0
+en,SmolLM2-1_7B-Instruct,"Do the words ""pineapple"", ""melon"", ""peach"", ""apple"", and ""shirt"" all represent fruit? Answer either ""yes"" or ""no"".",at,0,0
+en,EuroLLM-1_7B-Instruct,"Which word comes right after ""Ellen"" in the sentence ""Ellen talked with Helen about the problem""?","The word that comes right after ""Ellen"" in the sentence ""Ellen talked with Helen about the problem"" is ""about"".",0,0
+en,SmolLM2-1_7B-Instruct,"In an alphabetical order, which word comes first, ""animal"" or ""art""?",at,0,0
+en,gemma-3-1b,"Of the words ""reading"" and ""yourself"" which one has fewer letters?",“reading” has fewer letters.,0,1
+en,Qwen2_5-3B-Instruct,"Write a word containing the letter ""s"":",Buses,1,1
+en,SmolLM2-360M-Instruct,"From the numbers 64 and 905, write the bigger number:",.,0,0
+en,Qwen2_5-1_5B-Instruct,"Of the words ""quickly"" and ""keyboard"" which one has fewer letters?","^ ""Quickly"" has 7 letters, while ""keyboard"" has 8 letters. Therefore, ""quickly"" has fewer letters than ""keyboard"".",1,1
+en,gemma-3-4b,"In an alphabetical order, which word comes first, ""engine"" or ""site""?",Engine,1,1
+en,salamandra-2b-instruct,"In an alphabetical order, which of the words ""room"" and ""shorts"" comes first?",ustamata,0,0
+en,SmolLM2-360M-Instruct,"What is the word least related to the word ""clothes"" from the words ""sweater"", ""jacket"", ""skirt"", ""socks"", and ""duck""?","The word least related to the word ""clothes"" is ""ducks"".",0,1
+en,EuroLLM-1_7B-Instruct,"In an alphabetical order, which word comes first, ""group"" or ""good""?","In an alphabetical order, ""group"" comes first.",0,1
+en,Qwen2_5-1_5B-Instruct,"Write a word whose last letter is ""i"":",Picture,0,0
+en,Qwen2_5-3B-Instruct,"Do the words ""fish"", ""mouse"", ""goat"", ""cow"", and ""cat"" all represent animals? Answer either ""yes"" or ""no"".","sufficient information to definitively answer, but based on common knowledge:
+Yes",0,1
+en,Llama-3_2-3B-Instruct,"Write a word without using the letter ""t"":",Ocean,1,1
+en,gemma-3-4b,"Write a sentence containing the word ""single"":",He ordered a single scoop of vanilla ice cream.,1,1
+en,gemma-3-1b,"Of the words ""cafeteria"" and ""church"", which word comes first alphabetically?",Cafeteria.,1,1
+en,salamandra-2b-instruct,"Of the words ""joke"" and ""steak"", which one rhymes with ""mistake""?","The word that rhymes with ""mistake"" is ""joke"".",0,0
+en,salamandra-2b-instruct,"Write the last letter of the word ""baby"":",ustamata,0,0
+en,ZharfaOpen-0309,"Which is a homophone of the word ""dough"", ""bake"" or ""doe""?","""bake"" is a homophone of the word ""dough"".",0,0
+en,Qwen2_5-1_5B-Instruct,"Write a sentence whose last word is ""attacks"":","^That's not a complete thought, but I can try: ""The angry mob attacks the helpless victims.""",0,0
+en,Llama-3_1-8B-Instruct,"In the sentence ""Sonatas are easy to play on this violin"", which word immediately precedes the word ""on""?","The word ""this"" immediately precedes the word ""on"" in the given sentence.",0,1
+en,gemma-3-4b,"Of the numbers 196 and 694, which is smaller?",196 is smaller.,1,1
+en,SmolLM2-1_7B-Instruct,"Which word is longer, ""notice"" or ""skating""?","""Skating"" is longer.",1,1
+en,Llama-3_1-8B-Instruct,"Of the words ""neat"" and ""classmate"", which one rhymes with ""delete""?","in the given words, ""neat"" rhymes with ""delete"".",0,1
+en,Llama-3_1-8B-Instruct,"Which word has fewer letters, ""key"" or ""bear""?","in the words ""key"" and ""bear"", ""key"" has fewer letters.",1,1
+en,EuroLLM-1_7B-Instruct,"Which word comes right before ""Manuel"" in the sentence ""I bought Manuel some flowers""?","The word that comes right before ""Manuel"" in the sentence ""I bought Manuel some flowers"" is ""some"".",0,0
+en,Qwen2_5-3B-Instruct,"Does the list [""mango"", ""strawberry"", ""cat"", ""melon"", ""table""] contain any animals? Answer either ""yes"" or ""no"".",No,0,0
+en,Qwen2_5-1_5B-Instruct,"Write a sentence using the word ""scooter"":",I love riding my electric scooter to work every day.,1,1
+en,salamandra-2b-instruct,"In the sentence ""Ellen warned against skating on thin ice"", which word comes right after the word ""on""?","The word that comes right after ""skating"" in the sentence is ""thin"". So, 
+""Ellen warned against skating on thin",0,0
+en,Llama-3_1-8B-Instruct,"Which word is shorter, ""bike"" or ""top""?","in the word ""bike"" has 4 letters, while the word ""top"" has 3 letters. Therefore, ""top"" is shorter.",1,1
+en,ZharfaOpen-0309,"Do the words ""apple"", ""mango"", ""banana"", ""melon"", and ""watermelon"" all represent fruit? Answer either ""yes"" or ""no"".",Yes.,1,1
+en,gemma-3-4b,"Which word is shorter, ""diploma"" or ""player""?",“Diploma” is shorter.,0,1
+en,gemma-3-4b,"Write a sentence whose last word is ""seas"":",The salty air carried the scent of distant seas.,1,1
+en,Llama-3_2-3B-Instruct,"In an alphabetical order, which word comes first, ""good"" or ""work""?",(work) comes before (good) in alphabetical order.,0,0
+en,Qwen2_5-1_5B-Instruct,"Do the words ""desk"", ""socks"", ""table"", ""peach"", and ""chair"" all represent furniture? Answer either ""yes"" or ""no"".",^ Yes.,0,0
+en,EuroLLM-1_7B-Instruct,"From the numbers 245 and 47, write the smaller number:",The smaller number from the numbers 245 and 47 is 245.,0,0
+en,Qwen2_5-3B-Instruct,"Which is a rhyme of the word ""afraid"", ""avoid"" or ""trade""?","sawed
+
+The word ""afraid"" rhymes with ""sawed,"" as both end in ""-eed.""",0,0
+en,gemma-3-1b,"Of the words ""high"" and ""tall"", which one rhymes with ""wall""?",“Tall” rhymes with “wall”.,0,1
+en,Qwen2_5-1_5B-Instruct,"Of the numbers 737 and 196, which is smaller?",196 is smaller than 737.,1,1
+en,gemma-3-4b,"What is the word most related to the word ""animals"" from the words ""bookcase"", ""table"", ""chair"", ""armchair"", and ""goat""?",Goat,1,1
+en,Llama-3_1-8B-Instruct,"Write a sentence whose first word is ""raising"":","in the context of education, raising awareness about environmental issues is crucial for a sustainable future.",0,0
+en,gemma-3-1b,"Of the words ""sweater"", ""bus"", ""shorts"", ""socks"", and ""skirt"", what is the word most commonly associated with ""vehicles""?",Bus,1,1
+en,ZharfaOpen-0309,"Of the words ""motorcycle"", ""truck"", ""tram"", ""train"", and ""armchair"", what is the word most commonly associated with ""furniture""?","The word most commonly associated with ""furniture"" is ""armchair"".",1,1
+en,SmolLM2-360M-Instruct,"Write a sentence not containing the word ""highway"":",The new highway is expected to be completed by the end of the year.,0,0
+en,SmolLM2-1_7B-Instruct,"Are any of the words ""banana"", ""mouse"", ""sweater"", ""melon"", and ""dress"" types of animals? Answer either ""yes"" or ""no"".",at,0,0
+en,ZharfaOpen-0309,"Of the words ""knife"" and ""unfortunately"", which word comes first alphabetically?","The word ""unfortunately"" comes first alphabetically.",0,0
+en,gemma-3-4b,"Are all the words ""sweater"", ""dress"", ""jacket"", ""socks"", and ""jeans"" types of clothing? Answer either ""yes"" or ""no"".",Yes,1,1
+en,SmolLM2-1_7B-Instruct,"Of the words ""mug"" and ""sheet"", which one rhymes with ""meet""?","""Mug"" rhymes with ""meet"".",0,0
+en,EuroLLM-1_7B-Instruct,"Which word has fewer letters, ""piano"" or ""soft""?","The word ""soft"" has fewer letters than ""piano.""",1,1
+en,SmolLM2-360M-Instruct,"Which is a homophone of the word ""knot"", ""piano"" or ""not""?","The word ""knot"" is a homophone of the word ""piano"".",0,0
+en,Llama-3_2-3B-Instruct,"Does the list [""cow"", ""van"", ""jacket"", ""bed"", ""dog""] contain any furniture? Answer either ""yes"" or ""no"".",(no),0,0
+en,Qwen2_5-1_5B-Instruct,"Which word has more letters, ""reading"" or ""buy""?",^ reading has 7 letters while buy has only 3.,0,0
+en,Qwen2_5-1_5B-Instruct,"Which word is longer, ""insect"" or ""singular""?","The word ""insect"" is longer than ""singular"".",0,0
+en,Qwen2_5-3B-Instruct,"Write a sentence that starts with the word ""practices"":",Practices yoga every morning to start their day.,1,1
+en,salamandra-2b-instruct,"Write a sentence that ends with the word ""tasting"":",I am sure you will love it when you taste this delicious dish!,0,0
+en,gemma-3-1b,"What is the word least related to the word ""fruit"" from the words ""apple"", ""lemon"", ""strawberry"", ""banana"", and ""dog""?",Dog.,1,1
+en,EuroLLM-1_7B-Instruct,"Do any of the words ""van"", ""bed"", ""pants"", ""fish"", and ""train"" represent animals? Answer either ""yes"" or ""no"".","Yes, the word ""van"" represents an animal.",1,1
+en,SmolLM2-360M-Instruct,"Which is a rhyme of the word ""liter"", ""meter"" or ""seriously""?",.,0,0
+en,Qwen2_5-1_5B-Instruct,"Write the first word of the sentence ""All the foxes were hunted by Larry"":","^ The first word is ""All"".",1,1
+en,SmolLM2-360M-Instruct,"Which word has more letters, ""fog"" or ""musical""?","""Fog"" has more letters than ""musical"".",0,0
+en,gemma-3-1b,"In the sentence ""John talked to Bill about himself"", what is the last word?",Self.,0,0
+en,Llama-3_1-8B-Instruct,"In the sentence ""I wonder if you will come back tomorrow"", which word comes right after the word ""come""?","in the sentence ""I wonder if you will come back tomorrow"", the word that comes right after ""come"" is ""back"".",1,1
+en,Qwen2_5-3B-Instruct,"From the numbers 973 and 619, write the bigger number:",The bigger number is 973.,1,1
+en,Llama-3_2-3B-Instruct,"Write a sentence that contains the word ""jacket"":",She put on her favorite denim jacket to brave the chilly autumn evening.,1,1
+en,SmolLM2-1_7B-Instruct,"Which word comes right after ""eggs"" in the sentence ""The eggs mixed with the cream""?",at,0,0
+en,Qwen2_5-1_5B-Instruct,"In an alphabetical order, which word comes first, ""room"" or ""quite""?",^ quite ^,1,1
+en,Llama-3_1-8B-Instruct,"Write a sentence whose last word is ""skiing"":","in the Swiss Alps, she loved to go snowboarding and then switch to skiing.",1,1
+en,SmolLM2-360M-Instruct,"Write a word using the letter ""r"":","""Rhythm""",1,1
+en,Qwen2_5-3B-Instruct,"Which word is shorter, ""of"" or ""bring""?","sbring is shorter than of.
+
+However, if we consider the number of characters including spaces (if any), ""of"" has 2 characters while ""bring",0,0
+en,gemma-3-4b,"Of the words ""wide"" and ""chair"", which word comes first alphabetically?",Chair,1,1
+en,gemma-3-1b,"Which number is bigger, 99 or 505?",505 is bigger.,1,1
+en,Llama-3_2-3B-Instruct,"In the sentence ""The child and her mother clung together"", which word immediately succeeds the word ""The""?",(her),0,0
+en,salamandra-2b-instruct,"What is the first letter of the word ""boy""?",ustamata,0,0
+en,salamandra-2b-instruct,"In an alphabetical order, which of the words ""principal"" and ""party"" comes first?",ustamata,0,0
+en,gemma-3-1b,"Does the list [""couch"", ""van"", ""sofa"", ""melon"", ""strawberry""] contain any animals? Answer either ""yes"" or ""no"".",no,1,1
+en,Qwen2_5-3B-Instruct,"Write a sentence that contains the word ""school"":","The school bell rang, signaling the end of the day for students.",1,1
+en,ZharfaOpen-0309,"Does the list [""pants"", ""pig"", ""car"", ""chicken"", ""cat""] contain only animals? Answer either ""yes"" or ""no"".",no,1,1
+en,Llama-3_1-8B-Instruct,"In an alphabetical order, which word comes first, ""give"" or ""gold""?","In alphabetical order, ""give"" comes before ""gold"".",1,1
+en,SmolLM2-360M-Instruct,"Write a word that ends with the letter ""k"":",Kill,0,0
+en,SmolLM2-1_7B-Instruct,"Which word sounds like the word ""sensor"", ""detector"" or ""censor""?","""Sensor"" sounds like the word ""sensor"".",0,0
+en,SmolLM2-1_7B-Instruct,"In an alphabetical order, which word comes first, ""into"" or ""join""?","at the beginning of the alphabet, ""into"" comes before ""join"".",1,1
+en,Llama-3_1-8B-Instruct,"Are all the words ""bookcase"", ""motorcycle"", ""bus"", ""tram"", and ""strawberry"" types of vehicles? Answer either ""yes"" or ""no"".",No.,1,1
+en,Qwen2_5-3B-Instruct,"Which word is shorter, ""nature"" or ""plate""?",s plate is shorter with 4 letters compared to nature with 5 letters.,1,1
+en,EuroLLM-1_7B-Instruct,"In an alphabetical order, which of the words ""life"" and ""zoo"" comes first?","The word ""life"" comes first in an alphabetical order.",1,1
+en,Qwen2_5-3B-Instruct,"What is the last letter of the word ""change""?","The last letter of the word ""change"" is ""e"".",1,1
+en,Llama-3_2-3B-Instruct,"Write the last letter of the word ""never"":","The last letter of the word ""never"" is R.",1,1
+en,Llama-3_2-3B-Instruct,"Does the list [""cow"", ""coat"", ""pig"", ""mouse"", ""jeans""] contain only animals? Answer either ""yes"" or ""no"".",(no),1,1
+en,Llama-3_2-3B-Instruct,"Write a sentence whose first word is ""painting"":",(The) painting on the wall was a beautiful work of art created by a renowned local artist.,0,0
+en,SmolLM2-1_7B-Instruct,"In the sentence ""Steve tossed the ball at Anna"", which word immediately precedes the word ""the""?",at,0,0
+en,EuroLLM-1_7B-Instruct,"Do any of the words ""dress"", ""coat"", ""tram"", ""pear"", and ""sofa"" represent animals? Answer either ""yes"" or ""no"".","Yes, the word ""sofa"" represents an animal.",0,0
+en,gemma-3-4b,"Of the words ""wonderful"" and ""plant"" which one has more letters?",Wonderful has more letters. (9 letters) versus plant (5 letters).,1,1
+en,Llama-3_1-8B-Instruct,"In an alphabetical order, which of the words ""jam"" and ""granddaughter"" comes first?","In alphabetical order, ""granddaughter"" comes before ""jam"".",1,1
+en,gemma-3-1b,"Does the list [""couch"", ""table"", ""tractor"", ""pineapple"", ""sofa""] contain only furniture? Answer either ""yes"" or ""no"".",no,1,1
+en,EuroLLM-1_7B-Instruct,"Which letter does the word ""when"" start with?","The word ""when"" starts with the letter ""W"".",1,1
+en,gemma-3-1b,"In an alphabetical order, which of the words ""businesswoman"" and ""once"" comes first?",businesswoman,1,1
+en,gemma-3-4b,"Do any of the words ""jacket"", ""pants"", ""car"", ""peach"", and ""chicken"" represent animals? Answer either ""yes"" or ""no"".",no,0,0
+en,Llama-3_1-8B-Instruct,"In an alphabetical order, which of the words ""beach"" and ""against"" comes first?","in alphabetical order, ""against"" comes first, followed by ""beach"".",1,1
+en,SmolLM2-360M-Instruct,"Of the words ""melon"", ""lemon"", ""pear"", ""couch"", and ""banana"", what is the word most commonly associated with ""furniture""?","The word most commonly associated with ""furniture"" is ""couch"".",1,1
+en,Qwen2_5-1_5B-Instruct,"Of the words ""elevator"" and ""score"", which one rhymes with ""floor""?","^ The word that rhymes with ""floor"" is ""score"".",0,1
+en,ZharfaOpen-0309,"Which word is longer, ""friend"" or ""bean""?","""friend"" is a longer word.",0,1
+en,EuroLLM-1_7B-Instruct,"Do any of the words ""dress"", ""rabbit"", ""van"", ""pear"", and ""duck"" represent items of clothing? Answer either ""yes"" or ""no"".","Yes, the word ""dress"" represents an item of clothing.",1,1
+en,EuroLLM-1_7B-Instruct,"What is the first letter of the word ""basketball""?","The first letter of the word ""basketball"" is ""b"".",1,1
+en,Llama-3_2-3B-Instruct,"Of the numbers 469 and 451, which is smaller?",451 is smaller than 469.,1,1
+en,gemma-3-4b,"In an alphabetical order, which word comes first, ""juice"" or ""zoo""?",Juice,1,1
+en,EuroLLM-1_7B-Instruct,"Of the words ""playground"" and ""out"" which one has more letters?","The word ""playground"" has more letters than ""out"".",1,1
+en,Llama-3_1-8B-Instruct,"Which word rhymes with the word ""generation"", ""presentation"" or ""personal""?","in relation to the words you've mentioned, the word ""education"" rhymes with ""generation"", ""presentation"" and ""education"" also rhymes with """,0,0
+en,Llama-3_2-3B-Instruct,"Do the words ""train"", ""peach"", ""pineapple"", ""lemon"", and ""apple"" all represent fruit? Answer either ""yes"" or ""no"".",No.,1,1
+en,Qwen2_5-1_5B-Instruct,"Do any of the words ""train"", ""mango"", ""motorcycle"", ""melon"", and ""socks"" represent furniture? Answer either ""yes"" or ""no"".",No.,1,1
+en,Qwen2_5-3B-Instruct,"Write a word whose last letter is ""k"":",Okra,0,0
+en,Qwen2_5-3B-Instruct,"Do any of the words ""table"", ""pants"", ""desk"", ""car"", and ""chair"" represent animals? Answer either ""yes"" or ""no"".","sarcasm
+No",0,1
+en,gemma-3-4b,"Which letter does the word ""away"" start with?",A,1,1
+en,gemma-3-4b,"Write a word that starts with the letter ""z"":",zebra,1,1
+en,ZharfaOpen-0309,"Which letter does the word ""oil"" end with?","The word ""oil"" ends with the letter ""i"".",0,0
+en,Qwen2_5-1_5B-Instruct,"In an alphabetical order, which word comes first, ""name"" or ""queen""?",^ name,1,1
+en,Llama-3_1-8B-Instruct,"Write a word starting with ""k"":",Kite.,1,1
+en,ZharfaOpen-0309,"Write a word whose last letter is ""s"":",سیب,0,0
+en,SmolLM2-360M-Instruct,"Does the list [""couch"", ""strawberry"", ""bus"", ""cat"", ""shorts""] contain any animals? Answer either ""yes"" or ""no"".",.,0,0
+en,gemma-3-1b,"Which word sounds like the word ""right"", ""brother"" or ""write""?",“Right” sounds like “brother”.,0,0
+en,Llama-3_1-8B-Instruct,"Do any of the words ""bookcase"", ""jacket"", ""tractor"", ""coat"", and ""dress"" represent furniture? Answer either ""yes"" or ""no"".","in the list, ""bookcase"" represents furniture.",0,1
+en,SmolLM2-360M-Instruct,"Of the words ""study"" and ""since"", which word comes first alphabetically?",.,0,0
+en,EuroLLM-1_7B-Instruct,"Write a sentence ending with ""chairs"":","""The group of friends gathered around the large wooden table, enjoying their meal on the cozy chairs.""",1,1
+en,SmolLM2-1_7B-Instruct,"Of the words ""singer"" and ""who"" which one has more letters?",at least 2,0,0
+en,gemma-3-4b,"In the sentence ""John is as intelligent as Mary"", which word immediately precedes the word ""is""?",John,1,1
+en,SmolLM2-360M-Instruct,"Write the first letter of the word ""month"":",.,0,0
+en,gemma-3-4b,"Which letter does the word ""skirt"" end with?",T,1,1
+en,ZharfaOpen-0309,"In an alphabetical order, which word comes first, ""skateboarding"" or ""running""?","""skateboarding"" comes first in alphabetical order.",0,0
+en,gemma-3-1b,"In the sentence ""I know I bought the book you recommended"", which word comes right after the word ""the""?",book,1,1
+en,Llama-3_1-8B-Instruct,"Write a sentence that contains the word ""cow"":",The farmer carefully led the cow back to its enclosure after milking it.,1,1
+en,Qwen2_5-1_5B-Instruct,"Which word is shorter, ""prize"" or ""chef""?","The word ""chef"" is shorter than ""prize"".",1,1
+en,gemma-3-1b,"Which word has more letters, ""mistake"" or ""broken""?",“Mistake” has more letters. It has 5 letters. “Broken” has 4 letters.,0,1
+en,SmolLM2-360M-Instruct,"Are all the words ""mouse"", ""cow"", ""pig"", ""chicken"", and ""cat"" types of animals? Answer either ""yes"" or ""no"".",.,0,0
+en,ZharfaOpen-0309,"Write a word not containing the letter ""k"":",کارتون,0,0
+en,Llama-3_2-3B-Instruct,"In an alphabetical order, which word comes first, ""number"" or ""guide""?","In alphabetical order, ""guide"" comes before ""number"".",1,1
+en,gemma-3-4b,"In the sentence ""Mary is more than six feet tall"", what is the first word?",Mary,1,1
+en,gemma-3-1b,"Which word is longer, ""stay"" or ""opera""?",“Opera” is longer.,0,1
+en,SmolLM2-1_7B-Instruct,"Which word is shorter, ""makeup"" or ""dangerous""?",at,0,0
+en,Llama-3_2-3B-Instruct,"Write a word whose first letter is ""g"":",Ghost,1,1
+en,SmolLM2-360M-Instruct,"Of the words ""shorts"" and ""draw"", which word comes first alphabetically?",.,0,0
+en,EuroLLM-1_7B-Instruct,"Write the last word of the sentence ""The guests dined"":",The guests dined.,0,0
+en,gemma-3-4b,"Write a word without using the letter ""m"":",Here.,1,1
+en,Qwen2_5-3B-Instruct,"Which word is shorter, ""who"" or ""at""?","s at is 3 letters, while who is 3 letters. Therefore, ""who"" is shorter than ""at"".",0,0
+en,Llama-3_2-3B-Instruct,"In the sentence ""The tigers hunt prey at night"", what is the last word?","The last word in the sentence is ""night"".",1,1
+en,salamandra-2b-instruct,"Write a sentence that contains the word ""restaurant"":","ustamata,                                                                                   
+The restaurant serves delicious food to its customers every day.",1,1
+en,Llama-3_1-8B-Instruct,"In the sentence ""Vera is knitting in the lounge"", what is the first word?","The first word is ""Vera"".",1,1
+en,Qwen2_5-1_5B-Instruct,"In an alphabetical order, which word comes first, ""noun"" or ""television""?","^ The word that comes first in alphabetical order is ""noun"".",0,1
+en,Qwen2_5-1_5B-Instruct,"Which is a rhyme of the word ""create"", ""hate"" or ""stairs""?","^ The word ""create"" has a rhyme with ""hate"".",0,1
+en,Qwen2_5-3B-Instruct,"Which is a rhyme of the word ""plastic"", ""rule"" or ""fantastic""?","silly
+
+The rhyme for ""plastic"" is typically found in words ending with ""-astic,"" such as ""plastic"" itself, ""elastic,"" and",0,0
+en,Qwen2_5-3B-Instruct,"In an alphabetical order, which of the words ""opposite"" and ""omelet"" comes first?","""opposite"" comes first in alphabetical order.",0,0
+en,Llama-3_1-8B-Instruct,"Which word is longer, ""fork"" or ""her""?",in length.,0,0
+en,SmolLM2-360M-Instruct,"Write a sentence using the word ""keep"":",The new policy will keep the company's employees informed about the latest developments.,1,1
+en,salamandra-2b-instruct,"Write a word whose last letter is ""b"":",Ball,0,0
+en,EuroLLM-1_7B-Instruct,"Which word rhymes with the word ""routine"", ""clean"" or ""champagne""?","The word that rhymes with ""routine"", ""clean"", and ""champagne"" is ""champagne"".",0,0
+en,salamandra-2b-instruct,"Which is a rhyme of the word ""flower"", ""tower"" or ""cousin""?","The correct answer to this question would be: tower. The rhyming words in that sentence are flower,                                        and cousin.",0,0
+en,ZharfaOpen-0309,"Write a sentence starting with ""flying"":",I love flying high above the world.,0,0
+en,Qwen2_5-3B-Instruct,"Write a word whose first letter is ""u"":",Unique,1,1
+en,gemma-3-1b,"What is the first letter of the word ""university""?",U,1,1
+en,gemma-3-1b,"Do any of the words ""sweater"", ""cat"", ""fish"", ""car"", and ""coat"" represent fruit? Answer either ""yes"" or ""no"".",no,1,1
+en,Llama-3_2-3B-Instruct,"In an alphabetical order, which word comes first, ""up"" or ""gram""?",(up) comes before (gram) in alphabetical order.,0,0
+en,SmolLM2-1_7B-Instruct,"Write a word using the letter ""c"":","The word ""cat"" uses the letter ""c"".",1,1
+en,SmolLM2-360M-Instruct,"Does the list [""mouse"", ""armchair"", ""dress"", ""motorcycle"", ""bus""] contain any animals? Answer either ""yes"" or ""no"".",.,0,0
+en,SmolLM2-1_7B-Instruct,"Do any of the words ""couch"", ""peach"", ""cat"", ""bus"", and ""watermelon"" represent fruit? Answer either ""yes"" or ""no"".",yes,1,1
+en,ZharfaOpen-0309,"Write a word starting with ""l"":",لاستیک,0,0
+en,Llama-3_2-3B-Instruct,"Which is a homophone of the word ""two"", ""too"" or ""eight""?","The word ""to"" is a homophone of the word ""two"".",0,0
+en,gemma-3-1b,"In an alphabetical order, which of the words ""chocolate"" and ""daily"" comes first?",chocolate.,1,1
+en,salamandra-2b-instruct,"Are any of the words ""cow"", ""peach"", ""sweater"", ""shirt"", and ""tractor"" types of animals? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,Qwen2_5-1_5B-Instruct,"Does the list [""chicken"", ""duck"", ""mouse"", ""pig"", ""socks""] contain only animals? Answer either ""yes"" or ""no"".",^ no,1,1
+en,SmolLM2-360M-Instruct,"Which word has more letters, ""pocket"" or ""anymore""?","""Anymore"" has more letters than ""pocket"".",1,1
+en,salamandra-2b-instruct,"Does the list [""armchair"", ""peach"", ""pear"", ""chair"", ""car""] contain any animals? Answer either ""yes"" or ""no"".",ustamata,0,0
+en,salamandra-2b-instruct,"Write a word that contains the letter ""c"":",Caterpillar,1,1
+en,Qwen2_5-1_5B-Instruct,"Which word has fewer letters, ""rat"" or ""various""?","""Various"" has fewer letters than ""rat"".",0,0
+en,Qwen2_5-1_5B-Instruct,"Write the last word of the sentence ""I told the story to Daniel"":",^,0,0
+en,gemma-3-1b,"Of the words ""machine"" and ""when"" which one has fewer letters?",“machine” has fewer letters.,0,0
+en,gemma-3-1b,"Do any of the words ""chair"", ""coat"", ""desk"", ""watermelon"", and ""dog"" represent animals? Answer either ""yes"" or ""no"".",yes,1,1
+en,Qwen2_5-3B-Instruct,"Which word sounds like the word ""throne"", ""thrown"" or ""spider""?","The word that sounds like ""throne,"" ""thrown,"" or ""spider"" is ""throne.""",0,0
+en,Llama-3_1-8B-Instruct,"Write a sentence without using the word ""nurse"":",The dedicated healthcare professional provided compassionate care to the patient throughout their hospital stay.,1,1
+en,salamandra-2b-instruct,"Which word is shorter, ""improve"" or ""our""?",Improve is the shorter word.,0,0
+en,Llama-3_2-3B-Instruct,"Write the last letter of the word ""you"":",U.,1,1
+en,SmolLM2-1_7B-Instruct,"Which word has fewer letters, ""single"" or ""stadium""?",atadium,0,0
+en,SmolLM2-360M-Instruct,"In the sentence ""We gave ourselves presents"", what is the last word?",.,0,0
+en,gemma-3-1b,"Do the words ""chicken"", ""banana"", ""peach"", ""mango"", and ""watermelon"" all represent fruit? Answer either ""yes"" or ""no"".",yes,0,0
+en,gemma-3-1b,"Write a word containing the letter ""g"":",Green,1,1
+en,ZharfaOpen-0309,"Which is a rhyme of the word ""ache"", ""sunbathe"" or ""steak""?","The word ""sunbathe"" is a rhyme of the word ""ache"".",0,0
+en,gemma-3-4b,"Which word rhymes with the word ""antique"", ""cheek"" or ""blue""?",Antique,0,0
+en,Llama-3_1-8B-Instruct,"Which is a homophone of the word ""moose"", ""sea"" or ""mousse""?","The word ""moose"" has a homophone, which is ""moose"" itself, but another word that is often considered a homophone is ""mouse",0,0
+en,SmolLM2-360M-Instruct,"In the sentence ""She was the nicest teacher in the Senior School"", which word comes right after the word ""nicest""?",.,0,0
+en,Llama-3_2-3B-Instruct,"Does the list [""goat"", ""jacket"", ""mouse"", ""bus"", ""truck""] contain any items of clothing? Answer either ""yes"" or ""no"".",(no),0,0
+en,SmolLM2-1_7B-Instruct,"In an alphabetical order, which word comes first, ""toy"" or ""snowboarding""?","""Snowboarding"" comes first in an alphabetical order.",1,1
+en,Qwen2_5-1_5B-Instruct,"In the sentence ""Nora sent the book to Peter"", which word comes right after the word ""the""?",^,0,0
+en,SmolLM2-360M-Instruct,"Of the following words, choose the word least associated with the word ""fruit"" - ""mango"", ""strawberry"", ""car"", ""watermelon"", ""apple"":",.,0,0
+en,Qwen2_5-3B-Instruct,"In the sentence ""John tried to leave"", which word immediately succeeds the word ""John""?","succeeded
+The word that immediately succeeds ""John"" in the sentence ""John tried to leave"" is ""tried"".",0,1
+en,SmolLM2-1_7B-Instruct,"What is the first word of the sentence ""Henri will paint the floor for an hour""?","The first word of the sentence ""Henri will paint the floor for an hour"" is ""Henri"".",1,1
+en,Llama-3_1-8B-Instruct,"Which word comes right before ""Bill"" in the sentence ""Terry touched Bill on the shoulder""?","The word that comes right before ""Bill"" in the sentence ""Terry touched Bill on the shoulder"" is ""touched"".",1,1
+en,SmolLM2-360M-Instruct,"In an alphabetical order, which word comes first, ""drawer"" or ""change""?",.,0,0
+en,Qwen2_5-3B-Instruct,"Write a sentence that ends with the word ""disks"":",She installed the new software on three disks.,1,1
+en,SmolLM2-360M-Instruct,"In an alphabetical order, which of the words ""swimming"" and ""basketball"" comes first?","""Swimming"" comes first in an alphabetical order.",0,0
+en,Qwen2_5-3B-Instruct,"Does the list [""bookcase"", ""apple"", ""chicken"", ""cat"", ""pineapple""] contain any items of clothing? Answer either ""yes"" or ""no"".",No,1,1
+en,Llama-3_1-8B-Instruct,"Write a word ending with ""h"":",Sheath.,1,1
+en,ZharfaOpen-0309,"Which word is shorter, ""tire"" or ""do""?","""Do"" is a shorter word.",0,1
+en,gemma-3-4b,"Of the words ""might"" and ""onion"", which one rhymes with ""height""?",Onion.,0,0
+en,salamandra-2b-instruct,"Of the two words ""night"" and ""sword"", which one sounds more like ""knight""?","The word that sounds more like ""knight"" is ""night"".",0,1
+en,Qwen2_5-3B-Instruct,"Of the words ""chair"", ""bed"", ""bookcase"", ""pear"", and ""table"", what is the word least associated with ""furniture""?",spear (least associated with furniture),0,0
+en,Llama-3_2-3B-Instruct,"Which word has more letters, ""ocean"" or ""jacket""?","The word ""ocean"" has 5 letters, and the word ""jacket"" has 6 letters. So, ""jacket"" has more letters",1,1
+en,Llama-3_1-8B-Instruct,"What is the word most related to the word ""vehicles"" from the words ""tractor"", ""sweater"", ""shorts"", ""pants"", and ""jacket""?","The word most related to ""vehicles"" from the given options is ""tractor"". A tractor is a type of vehicle, specifically a farm vehicle.",1,1
+en,ZharfaOpen-0309,"Are any of the words ""pineapple"", ""watermelon"", ""shorts"", ""bus"", and ""cat"" types of animals? Answer either ""yes"" or ""no"".","No, none of these words represent types of animals.",0,0
+en,SmolLM2-1_7B-Instruct,"Does the list [""cat"", ""sweater"", ""skirt"", ""strawberry"", ""shorts""] contain only items of clothing? Answer either ""yes"" or ""no"".",yes,0,0
+en,Qwen2_5-3B-Instruct,"Of the words ""beach"" and ""against"", which word comes first alphabetically?","s against
+a beach",0,0
+en,SmolLM2-1_7B-Instruct,"Of the words ""coat"", ""mouse"", ""skirt"", ""dress"", and ""jeans"", what is the word least associated with ""clothes""?","at least associated with ""clothes"" is ""jeans"".",0,0
+en,EuroLLM-1_7B-Instruct,"Which word has fewer letters, ""sing"" or ""tea""?","The word ""tea"" has fewer letters than ""sing.""",1,1
+en,Llama-3_2-3B-Instruct,"Which number is bigger, 49 or 871?",871 is bigger.,1,1
+en,ZharfaOpen-0309,"Of the words ""dinosaur"" and ""diary"" which one has fewer letters?","The word ""diary"" has fewer letters than the word ""dinosaur"".",1,1
+en,gemma-3-1b,"Do any of the words ""pig"", ""desk"", ""skirt"", ""shorts"", and ""goat"" represent fruit? Answer either ""yes"" or ""no"".",no,1,1
+en,gemma-3-4b,"Which word is longer, ""answer"" or ""grape""?",“Grape” is longer.,0,0
+en,gemma-3-4b,"Does the list [""pineapple"", ""armchair"", ""pants"", ""jeans"", ""sweater""] contain only items of clothing? Answer either ""yes"" or ""no"".",no,1,1
+en,Qwen2_5-3B-Instruct,"Are all the words ""fish"", ""armchair"", ""couch"", ""rabbit"", and ""cat"" types of animals? Answer either ""yes"" or ""no"".","snooze
+No",0,1
+en,Qwen2_5-3B-Instruct,"Of the numbers 830 and 419, which is smaller?",The number 419 is smaller than 830.,1,1
+en,ZharfaOpen-0309,"Of the numbers 268 and 441, which is bigger?",441 is bigger than 268.,1,1
+en,gemma-3-1b,"Of the words ""next"" and ""worst"", which word comes first alphabetically?",“Next” comes first alphabetically.,0,1
+en,SmolLM2-1_7B-Instruct,"Write a word whose first letter is ""r"":","The word ""run"" starts with the letter ""r"".",1,1
+en,ZharfaOpen-0309,"Of the words ""pair"" and ""stadium"" which one has more letters?","The word ""pair"" has more letters than the word ""stadium"".",0,1
+en,SmolLM2-1_7B-Instruct,"Write the first letter of the word ""file"":",at,0,0
+en,Qwen2_5-1_5B-Instruct,"Does the list [""melon"", ""banana"", ""strawberry"", ""mango"", ""pineapple""] contain only fruit? Answer either ""yes"" or ""no"".",Yes.,1,1
+en,SmolLM2-360M-Instruct,"Do the words ""table"", ""armchair"", ""dog"", ""desk"", and ""couch"" all represent furniture? Answer either ""yes"" or ""no"".",.,0,0
+en,Llama-3_2-3B-Instruct,"Are all the words ""jacket"", ""coat"", ""pants"", ""goat"", and ""sweater"" types of clothing? Answer either ""yes"" or ""no"".",Yes.,0,0
+en,Llama-3_2-3B-Instruct,"Are all the words ""pig"", ""mouse"", ""fish"", ""shorts"", and ""chicken"" types of animals? Answer either ""yes"" or ""no"".",(no),1,0
+en,EuroLLM-1_7B-Instruct,"In an alphabetical order, which word comes first, ""those"" or ""shampoo""?","In an alphabetical order, ""those"" comes first.",0,0
+en,EuroLLM-1_7B-Instruct,"Which word rhymes with the word ""generation"", ""presentation"" or ""helicopter""?","The word that rhymes with ""generation"", ""presentation"" and ""helicopter"" is ""generation"".",0,0
+en,Llama-3_1-8B-Instruct,"What is the first word of the sentence ""I want him to eat asparagus""?","in the sentence ""I want him to eat asparagus"", the first word is ""I"".",1,1
+en,Qwen2_5-3B-Instruct,"Write the last word of the sentence ""The oil and vinegar separated"":",suddenly,0,0
+en,SmolLM2-1_7B-Instruct,"Of the words ""complete"" and ""believe"", which word comes first alphabetically?",at the beginning of the alphabet.,0,0
+en,gemma-3-4b,"Write a word using the letter ""h"":",House,1,1
+en,Qwen2_5-3B-Instruct,"Write a sentence not containing the word ""luck"":","succeeding requires effort, not just chance.",1,1
+en,Qwen2_5-1_5B-Instruct,"Of the words ""prison"" and ""agree"", which one rhymes with ""fee""?","^ The word that rhymes with ""fee"" is ""prison"".",0,0
+en,EuroLLM-1_7B-Instruct,"Write a sentence without using the word ""comfortable"":",The room was not very comfortable.,0,0
+en,SmolLM2-360M-Instruct,"Write the last letter of the word ""hit"":",.,0,0
+en,Llama-3_2-3B-Instruct,"Of the words ""write"" and ""chemistry"" which one has fewer letters?","(write) has 5 letters, while (chemistry) has 9 letters.",0,0
+en,Qwen2_5-1_5B-Instruct,"Write a word containing the letter ""o"":",Ocean.,1,1
+en,Qwen2_5-1_5B-Instruct,"Which word has more letters, ""during"" or ""boyfriend""?","""During"" has 6 letters, while ""boyfriend"" has 9 letters.",0,0
+en,gemma-3-4b,"Write a sentence containing the word ""speaker"":",The speaker delivered a passionate speech about environmental conservation.,1,1
+en,Llama-3_1-8B-Instruct,"Of the words ""fish"", ""dog"", ""coat"", ""pig"", and ""chicken"", what is the word least associated with ""animals""?","in the given list, the word ""coat"" is the least associated with ""animals"".",1,1
+en,Llama-3_1-8B-Instruct,"From the numbers 64 and 905, write the smaller number:",The smaller number is 64.,1,1
+en,ZharfaOpen-0309,"Does the list [""bus"", ""fish"", ""truck"", ""van"", ""tractor""] contain only vehicles? Answer either ""yes"" or ""no"".",no,1,1
+en,SmolLM2-1_7B-Instruct,"Of the words ""sunglasses"" and ""include"", which word comes first alphabetically?","""sunglasses"" comes first alphabetically.",0,0
+en,ALLaM-7B-Instruct-preview,"In an alphabetical order, which word comes first, ""over"" or ""jewelry""?","""Over"" comes first in alphabetical order.",0,0
+en,Llama-3_1-8B-Instruct,"Which word rhymes with the word ""sandy"", ""farmer"" or ""candy""?","The word ""handy"" rhymes with ""sandy"", ""farmer"" and ""candy"".",0,0
+en,EuroLLM-1_7B-Instruct,"Does the list [""tram"", ""car"", ""melon"", ""socks"", ""cow""] contain any vehicles? Answer either ""yes"" or ""no"".","Yes, the list [""tram"", ""car"", ""melon"", ""socks"", ""cow""] contains vehicles.",1,1
+en,Llama-3_2-3B-Instruct,"Of the words ""trip"" and ""teach"", which word comes first alphabetically?","""Teach"" comes before ""trip"" alphabetically.",1,1

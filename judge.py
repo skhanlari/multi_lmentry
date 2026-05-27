@@ -7,14 +7,14 @@ from vllm import LLM, SamplingParams
 
 
 JUDGE_MODELS = [
-    #"Qwen/Qwen2.5-7B-Instruct",
+    "Qwen/Qwen2.5-7B-Instruct",
     "google/gemma-2-2b-it",
     "microsoft/Phi-3-mini-4k-instruct",
     "meta-llama/Llama-3.1-8B-Instruct",
 ]
 
-INPUT_CSV = Path("en_random_500_for_annotation.csv")
-OUTPUT_CSV = Path("en_random_500_with_judge_scores.csv")
+INPUT_CSV = Path("fa_random_500_annotation.csv")
+OUTPUT_CSV = Path("fa_random_500_judge_scores.csv")
 
 MAX_NEW_TOKENS = 32
 BATCH_SIZE = 128
@@ -157,7 +157,7 @@ def run_batched_judging(llm, requests, max_new_tokens, batch_size):
 def main():
     df = pd.read_csv(INPUT_CSV)
 
-    required_cols = ["language", "task", "model", "example_id", "input", "prediction"]
+    required_cols = ["language", "model", "input", "prediction"]
     missing = [col for col in required_cols if col not in df.columns]
 
     if missing:

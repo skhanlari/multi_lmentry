@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-CSV_PATH = Path("en_random_500_judge_scores.csv")
-OUT_DIR = Path("judge_plots/en")
+CSV_PATH = Path("fa_random_500_judge_scores.csv")
+OUT_DIR = Path("judge_plots/fa")
 OUT_DIR.mkdir(exist_ok=True)
 
 df = pd.read_csv(CSV_PATH)
@@ -38,7 +38,7 @@ plt.figure(figsize=(8, 5))
 plt.bar(accuracies.keys(), accuracies.values())
 plt.ylabel("Accuracy vs human_label")
 plt.ylim(0, 1)
-plt.title("Evaluator Accuracy Compared with Human Labels")
+plt.title("Evaluator Accuracy Compared with Human Labels (Farsi)")
 plt.xticks(rotation=30, ha="right")
 plt.tight_layout()
 plt.savefig(OUT_DIR / "accuracy_vs_human.png", dpi=300)
@@ -64,32 +64,14 @@ plt.bar(x, counts_df["label_0"], label="0 = incorrect")
 plt.bar(x, counts_df["label_1"], bottom=counts_df["label_0"], label="1 = correct")
 plt.xticks(x, counts_df["evaluator"], rotation=30, ha="right")
 plt.ylabel("Number of samples")
-plt.title("Distribution of Evaluator Labels")
+plt.title("Distribution of Evaluator Labels (Farsi)")
 plt.legend()
 plt.tight_layout()
 plt.savefig(OUT_DIR / "label_distribution.png", dpi=300)
 plt.show()
 
 
-# 3. Accuracy by task
-task_acc = df.groupby("task").apply(
-    lambda g: pd.Series({
-        short_name(col): (g[col] == g["human_label"]).mean()
-        for col in eval_cols
-    })
-)
-
-task_acc.plot(kind="bar", figsize=(14, 6))
-plt.ylabel("Accuracy vs human_label")
-plt.ylim(0, 1)
-plt.title("Evaluator Accuracy by Task")
-plt.xticks(rotation=45, ha="right")
-plt.tight_layout()
-plt.savefig(OUT_DIR / "accuracy_by_task.png", dpi=300)
-plt.show()
-
-
-# 4. Agreement matrix between evaluators
+# 3. Agreement matrix between evaluators
 agreement = pd.DataFrame(index=[short_name(c) for c in eval_cols],
                          columns=[short_name(c) for c in eval_cols])
 
@@ -104,7 +86,7 @@ plt.imshow(agreement, aspect="auto")
 plt.colorbar(label="Agreement")
 plt.xticks(range(len(agreement.columns)), agreement.columns, rotation=45, ha="right")
 plt.yticks(range(len(agreement.index)), agreement.index)
-plt.title("Agreement Matrix Between Evaluators")
+plt.title("Agreement Matrix Between Evaluators (Farsi)")
 
 for i in range(len(agreement.index)):
     for j in range(len(agreement.columns)):
