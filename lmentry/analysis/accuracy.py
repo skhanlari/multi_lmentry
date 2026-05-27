@@ -184,10 +184,19 @@ def score_all_predictions(task_names: list[str] = None, model_names: list[str] =
     task_names = task_names or all_tasks.keys()
     model_names = model_names or list(paper_models)
 
-    starargs = itertools.product(task_names, model_names)
+    starargs = list(itertools.product(task_names, model_names))
 
-    with Pool(processes=num_processes) as pool:
-        pool.starmap(score_task_predictions, starargs)
+    if num_processes == 1:
+        for args in starargs:
+            print("RUNNING:", args)
+            score_task_predictions(*args)
+    else:
+        with Pool(processes=num_processes) as pool:
+            pool.starmap(score_task_predictions, starargs)
+
+   # with Pool(processes=num_processes) as pool:
+       # pool.starmap(score_task_predictions, starargs)
+
 
 
 def get_model_accuracy(model_name):
